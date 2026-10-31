@@ -9,6 +9,8 @@ tags: ["donuts"]
 label: none
 lastVerified: 2025-11-13
 draft: true
+occasions: []
+status: open
 ---
 
 Started our morning at Daylight Donuts 🍩☀️ in

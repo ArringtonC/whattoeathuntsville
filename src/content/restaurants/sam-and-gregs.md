@@ -10,6 +10,8 @@ label: none
 bestDish: {"name": "Sweet & spicy BBQ pizza"}
 lastVerified: 2023-02-14
 draft: true
+occasions: []
+status: open
 ---
 
 Sam & Greg’s located in & 🤤 Try the & 🌶️you won’t regret it

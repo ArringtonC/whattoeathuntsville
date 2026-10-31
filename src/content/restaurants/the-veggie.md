@@ -8,6 +8,8 @@ tags: ["vegan"]
 label: none
 lastVerified: 2023-08-03
 draft: true
+occasions: []
+status: open
 ---
 
 located in

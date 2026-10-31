@@ -6,12 +6,13 @@ cuisines: ["Pizza", "Sandwiches", "Sweet treats"]
 occasions: ["Late night", "Family"]
 cover: /covers/videos/7631362238493904158.jpg
 coverFocus: center
-tags: ["pizza", "cheesesteak", "ice cream", "pasta"]
+tags: ["pizza", "ice cream", "pasta", "fettuccine alfredo", "Philly cheesesteak", "fries"]
 label: none
 bestDish: {"name": "Philly Cheesesteak Pizza", "note": "Alfredo base; add jalape\u00f1os"}
 alsoOrder: [{"name": "Italian club, loaded"}]
 lastVerified: 2026-04-21
 draft: true
+status: open
 ---
 
 Philly Cheesesteak Pizza from Scoop & Slice 🍕😮‍🔥 We’ve been regulars, but somehow just tried this…and yeah I’ve been missing out. Alfredo base + add jalapeños next time = elite. Our go-to still the Italian club LOADED (banana peppers, jalapeños, mustard, pickles) — we get it at least 3x a month 😭 Fries always fresh. Ice cream always hits. They even let you sample. Let us know if you’ve been

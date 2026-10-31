@@ -9,6 +9,8 @@ tags: []
 label: none
 lastVerified: 2025-02-23
 draft: true
+occasions: []
+status: open
 ---
 
 Tamarind island located in at The Camp 🔥🔥🔥

@@ -4,11 +4,13 @@ city: Madison
 cuisines: ["Asian"]
 cover: /covers/videos/7491470561994935583.jpg
 coverFocus: center
-tags: ["pho"]
+tags: ["pho", "dumplings", "spring rolls", "lemongrass chicken", "Thai", "Vietnamese"]
 label: none
 alsoOrder: [{"name": "Chicken gyoza"}, {"name": "Spring rolls"}, {"name": "Chicken pho"}, {"name": "Lemongrass chicken (spicy)"}]
 lastVerified: 2025-04-10
 draft: true
+occasions: []
+status: open
 ---
 
 Lyli Viet-Thai Cuisine - PHOMOUS in Madison is bringing the heat! 🔥🍽️ We ordered 📝: • Chicken Gyoza • Spring Rolls • Chicken Pho • Lemongrass Chicken (Spicy) Heads up: There’s a cigar lounge next door, so the smell can be a bit strong. 📍 7407 Hwy 72 W, Unit D, Madison, AL 35758

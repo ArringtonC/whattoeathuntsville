@@ -10,6 +10,8 @@ label: none
 alsoOrder: [{"name": "Winter Burger (daily special)"}, {"name": "Mild buffalo wings"}]
 lastVerified: 2026-02-03
 draft: true
+occasions: []
+status: open
 ---
 
 Is tiktok still being weird?? Hope not because we wanna share our experience BlueOakBBQ located in MidCity Tried one of their daily specials the Winter Burger 🌶️🍔 and mild buffalo wings

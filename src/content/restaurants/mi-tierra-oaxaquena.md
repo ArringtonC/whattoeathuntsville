@@ -10,6 +10,8 @@ label: none
 alsoOrder: [{"name": "Tacos"}]
 lastVerified: 2025-07-25
 draft: true
+occasions: []
+status: open
 ---
 
 Mi Tierra Oaxaqueña on Pulaski Pike if your looking for some solid tacos 🌮 Drop your favorite taco spot in the comment and we’ll give them a visit! 🫶🏽 📍 5990 Pulaski Pike NW, Huntsville, AL 35810 (tagged)
