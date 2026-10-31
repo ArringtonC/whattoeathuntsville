@@ -9,9 +9,9 @@ const rs = await listedRestaurants();
 const guides = await getCollection('guides', visible);
 const places = TRAVEL_CITIES.map((c) => ({ name: c, count: rs.filter((r) => r.data.city === c).length, cover: rs.find((r) => r.data.city === c)?.data.cover, guides: guides.filter((g) => g.data.city === c).length }));
 ---
-<Base title="Travel" description="Food we found outside Huntsville.">
+<Base title="Outside Huntsville" description="Food worth the drive: where we ate outside Huntsville.">
   <section class="band-cream"><div class="wrap" style="padding-top: 40px; padding-bottom: 32px; display: flex; flex-direction: column; gap: 12px;">
-    <p class="kicker">Travel</p><h1 class="h1">Food beyond Huntsville</h1><p class="dek">Where we ate when we left town, and what we'd drive back for.</p>
+    <p class="kicker">Outside Huntsville</p><h1 class="h1">Worth the drive</h1><p class="dek">Where we ate when we left town, from day trips to vacations, and what we'd go back for.</p>
   </div></section>
   <section class="wrap section">
     <div class="grid" style="grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));">

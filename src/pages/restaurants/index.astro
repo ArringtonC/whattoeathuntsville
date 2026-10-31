@@ -4,7 +4,7 @@ import RestaurantCard from '../../components/RestaurantCard.astro';
 import LabelKey from '../../components/LabelKey.astro';
 import SignupBand from '../../components/SignupBand.astro';
 import { listedRestaurants } from '../../lib/data';
-import { CITIES, CUISINES, OCCASIONS } from '../../lib/site';
+import { CUISINES, LOCAL_CITIES, OCCASIONS, TRAVEL_CITIES } from '../../lib/site';
 
 const restaurants = await listedRestaurants();
 const cuisines = CUISINES.filter((c) => restaurants.some((r) => r.data.cuisines.includes(c)));
@@ -18,7 +18,7 @@ const cuisines = CUISINES.filter((c) => restaurants.some((r) => r.data.cuisines.
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#6B6259" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
           <input type="search" name="q" placeholder="Tacos, brunch, a restaurant name…" />
         </label>
-        <label><span class="sr-only">Location</span><select name="city"><option value="">Anywhere</option>{CITIES.map((c) => <option>{c}</option>)}</select></label>
+        <label><span class="sr-only">Location</span><select name="city"><option value="">Anywhere</option>{LOCAL_CITIES.map((c) => <option>{c}</option>)}<option value="outside">Outside Huntsville</option></select></label>
       </form>
       <div style="display: flex; flex-wrap: wrap; gap: 8px;">
         <label><span class="sr-only">Cuisine</span><select class="chip" name="cuisine" form="filters"><option value="">Cuisine</option>{cuisines.map((c) => <option>{c}</option>)}</select></label>
@@ -40,7 +40,7 @@ const cuisines = CUISINES.filter((c) => restaurants.some((r) => r.data.cuisines.
         <select class="chip" name="sort" form="filters"><option value="label">Great first</option><option value="new">Newest</option><option value="az">A–Z</option></select>
       </label>
     </div>
-    <div id="results" class="grid">{restaurants.map((r) => <RestaurantCard r={r} />)}</div>
+    <div id="results" class="grid" data-outside={JSON.stringify(TRAVEL_CITIES)}>{restaurants.map((r) => <RestaurantCard r={r} />)}</div>
     <p id="empty" hidden style="padding: 48px 0; font-size: 18px;">No places match yet. Try fewer filters, or <a href="/suggest">suggest a spot</a>.</p>
   </section>
 
@@ -53,6 +53,7 @@ const cuisines = CUISINES.filter((c) => restaurants.some((r) => r.data.cuisines.
     const original = [...cards];
     const count = document.getElementById('count')!;
     const empty = document.getElementById('empty')!;
+    const OUTSIDE: string[] = JSON.parse(grid.dataset.outside ?? '[]');
     const field = (n: string) => form.elements.namedItem(n) as HTMLInputElement | HTMLSelectElement;
 
     // Prefill from the homepage search (?q=tacos&city=Huntsville).
@@ -68,7 +69,7 @@ const cuisines = CUISINES.filter((c) => restaurants.some((r) => r.data.cuisines.
       for (const c of cards) {
         const d = c.dataset;
         const ok = (!q || q.split(/\s+/).every((w) => d.search!.includes(w)))
-          && (!city || d.city === city)
+          && (!city || d.city === city || (city === 'outside' && OUTSIDE.includes(d.city!)))
           && (!cuisine || d.cuisines!.split('|').includes(cuisine))
           && (!price || d.price === price)
           && (!occasion || d.occasions!.split('|').includes(occasion))
@@ -80,7 +81,7 @@ const cuisines = CUISINES.filter((c) => restaurants.some((r) => r.data.cuisines.
         : sort === 'new' ? [...cards].sort((a, b) => b.dataset.verified!.localeCompare(a.dataset.verified!))
         : original;
       grid.append(...sorted);
-      count.textContent = `${shown} ${shown === 1 ? 'place' : 'places'}${q ? ` for “${field('q').value.trim()}”` : ''}${city ? ` in ${city}` : ''}`;
+      count.textContent = `${shown} ${shown === 1 ? 'place' : 'places'}${q ? ` for “${field('q').value.trim()}”` : ''}${city === 'outside' ? ' outside Huntsville' : city ? ` in ${city}` : ''}`;
       empty.hidden = shown > 0;
     }
     form.addEventListener('input', apply);

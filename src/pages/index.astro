@@ -6,7 +6,7 @@ import Cover from '../components/Cover.astro';
 import LabelKey from '../components/LabelKey.astro';
 import SignupBand from '../components/SignupBand.astro';
 import { guideCover, listedRestaurants, visible } from '../lib/data';
-import { CUISINES, LOCAL_CITIES, SITE, slugify, toneFor } from '../lib/site';
+import { CUISINES, LOCAL_CITIES, SITE, TRAVEL_CITIES, slugify, toneFor } from '../lib/site';
 
 const restaurants = await listedRestaurants();
 const local = restaurants.filter((r) => LOCAL_CITIES.includes(r.data.city));
@@ -19,6 +19,7 @@ const cuisines = CUISINES.map((c) => {
 }).filter((c) => c.count > 0).sort((a, b) => b.count - a.count).slice(0, 12);
 const guides = await Promise.all((await getCollection('guides', visible)).slice(0, 3).map(async (g) => ({ ...g, cover: await guideCover(g) })));
 const videos = (await getCollection('videos')).sort((a, b) => +b.data.postedDate - +a.data.postedDate).slice(0, 6);
+const outside = restaurants.filter((r) => TRAVEL_CITIES.includes(r.data.city)).slice(0, 4);
 const cravings = ['Tacos', 'Brunch', 'Burgers', 'Pizza', 'BBQ', 'Sweet treats', 'Date night', 'Cheap eats'];
 ---
 <Base>
@@ -73,6 +74,18 @@ const cravings = ['Tacos', 'Brunch', 'Burgers', 'Pizza', 'BBQ', 'Sweet treats', 
             <small>{c.count} {c.count === 1 ? 'spot' : 'spots'}</small>
           </a>
         ))}
+      </div>
+    </section>
+  )}
+
+  {outside.length > 0 && (
+    <section class="band-cream">
+      <div class="wrap section">
+        <div class="row-head">
+          <div><p class="kicker" style="margin-bottom: 8px;">Outside Huntsville</p><h2 class="h2">Worth the drive</h2></div>
+          <a class="link-strong" href="/travel">See all outside Huntsville</a>
+        </div>
+        <div class="grid">{outside.map((r) => <RestaurantCard r={r} />)}</div>
       </div>
     </section>
   )}
