@@ -4,6 +4,7 @@ city: Huntsville
 cuisines: ["Latin"]
 cover: /covers/videos/7499689934505168159.jpg
 coverFocus: center
+tags: ["food truck", "cheesesteak"]
 label: none
 alsoOrder: [{"name": "Loaded fries"}]
 lastVerified: 2025-05-02

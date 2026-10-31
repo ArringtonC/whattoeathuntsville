@@ -4,6 +4,7 @@ city: Huntsville
 cuisines: ["Seafood", "Soul food"]
 cover: /covers/videos/7476946083231452447.jpg
 coverFocus: center
+tags: ["catfish"]
 label: none
 bestDish: {"name": "Fried catfish", "note": "The best fried catfish in Huntsville, in our opinion"}
 alsoOrder: [{"name": "Loaded buffalo fries"}, {"name": "Rooftop fries"}]

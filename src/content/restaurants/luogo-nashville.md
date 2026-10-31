@@ -6,6 +6,7 @@ cuisines: ["Italian"]
 occasions: ["Date night"]
 cover: /covers/videos/7480319755191209246.jpg
 coverFocus: center
+tags: ["pizza"]
 label: none
 lastVerified: 2025-03-10
 draft: true

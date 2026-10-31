@@ -10,7 +10,7 @@ const d = r.data;
 <a class="card" href={`/restaurants/${r.id}`}
   data-name={d.name.toLowerCase()} data-city={d.city} data-cuisines={d.cuisines.join('|')} data-price={d.price}
   data-label={d.label} data-occasions={d.occasions.join('|')}
-  data-search={[d.name, d.area, d.city, ...d.cuisines, ...d.occasions, d.bestDish?.name].filter(Boolean).join(' ').toLowerCase()}
+  data-search={[d.name, d.area, d.city, ...d.cuisines, ...d.occasions, ...d.tags, d.bestDish?.name, ...d.alsoOrder.map((x) => x.name)].filter(Boolean).join(' ').toLowerCase()}
   data-verified={d.lastVerified.toISOString()}>
   <Cover id={r.id} src={d.cover} alt={d.name} focus={d.coverFocus}><Label label={d.label} /></Cover>
   <span class="meta">{metaLine(d.cuisines[0], d.area ?? d.city, priceText(d.price))}</span>

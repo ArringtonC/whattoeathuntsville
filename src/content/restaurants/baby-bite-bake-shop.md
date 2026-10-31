@@ -4,6 +4,7 @@ city: Huntsville
 cuisines: ["Sweet treats"]
 cover: /covers/videos/7504292077417680159.jpg
 coverFocus: center
+tags: ["cookies"]
 label: none
 bestDish: {"name": "Chocolate cake bites", "note": "My favorite"}
 alsoOrder: [{"name": "Cookies & Cream"}, {"name": "Vanilla"}]

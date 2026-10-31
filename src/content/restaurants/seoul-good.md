@@ -5,6 +5,7 @@ cuisines: ["Asian", "Chicken"]
 occasions: ["Date night"]
 cover: /covers/videos/7484308655098105119.jpg
 coverFocus: center
+tags: ["fried chicken"]
 label: none
 alsoOrder: [{"name": "16-piece combo: honey mustard and sweet & spicy fried chicken"}]
 lastVerified: 2025-03-21

@@ -5,6 +5,7 @@ address: "5990 Pulaski Pike NW, Huntsville, AL 35810"
 cuisines: ["Mexican"]
 cover: /covers/videos/7531062646553070879.jpg
 coverFocus: center
+tags: ["tacos"]
 label: none
 alsoOrder: [{"name": "Tacos"}]
 lastVerified: 2025-07-25

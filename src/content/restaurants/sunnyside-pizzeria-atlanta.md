@@ -4,6 +4,7 @@ city: Atlanta
 cuisines: ["Pizza"]
 cover: /covers/videos/7594506344728710430.jpg
 coverFocus: center
+tags: ["pizza"]
 label: none
 bestDish: {"name": "Honey Hot Pizza"}
 lastVerified: 2026-01-12

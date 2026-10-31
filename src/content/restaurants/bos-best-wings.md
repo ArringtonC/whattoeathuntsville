@@ -4,6 +4,7 @@ city: Huntsville
 cuisines: ["Wings"]
 cover: /covers/videos/7489492736618302750.jpg
 coverFocus: center
+tags: ["catfish", "wings"]
 label: none
 alsoOrder: [{"name": "Fried wings"}]
 lastVerified: 2025-04-04

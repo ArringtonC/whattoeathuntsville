@@ -4,6 +4,7 @@ city: Huntsville
 cuisines: ["Mexican"]
 cover: /covers/videos/7483288092754070830.jpg
 coverFocus: center
+tags: ["tacos", "quesadillas"]
 label: none
 bestDish: {"name": "Quesadilla with a corn tortilla", "note": "We went almost every week just for this"}
 lastVerified: 2025-03-18

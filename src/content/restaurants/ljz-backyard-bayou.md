@@ -4,6 +4,7 @@ city: Huntsville
 cuisines: ["Cajun"]
 cover: /covers/videos/7498831881719254302.jpg
 coverFocus: center
+tags: ["catfish"]
 label: none
 lastVerified: 2025-04-29
 draft: true

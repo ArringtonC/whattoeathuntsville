@@ -5,6 +5,7 @@ cuisines: ["Breakfast", "American"]
 occasions: ["Brunch", "Family"]
 cover: /covers/videos/7614243181210651934.jpg
 coverFocus: center
+tags: ["brunch"]
 label: none
 lastVerified: 2026-03-06
 draft: true

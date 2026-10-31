@@ -6,6 +6,7 @@ cuisines: ["American"]
 occasions: ["Brunch", "Group"]
 cover: /covers/videos/7497667406966361374.jpg
 coverFocus: center
+tags: ["brunch", "burgers", "fried chicken", "mimosas"]
 label: none
 alsoOrder: [{"name": "Tater tots"}, {"name": "Mac & cheese egg rolls"}, {"name": "Mimosa pitchers"}]
 lastVerified: 2025-04-26

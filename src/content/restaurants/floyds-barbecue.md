@@ -4,6 +4,7 @@ city: Huntsville
 cuisines: ["BBQ"]
 cover: /covers/videos/7510357879942040863.jpg
 coverFocus: center
+tags: []
 label: none
 bestDish: {"name": "Pork sandwich plate", "note": "Best pork sandwich in Huntsville"}
 lastVerified: 2025-05-30

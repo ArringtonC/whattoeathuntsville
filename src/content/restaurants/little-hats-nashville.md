@@ -5,6 +5,7 @@ area: "Germantown"
 cuisines: ["Italian", "Sandwiches"]
 cover: /covers/videos/7475399423393058079.jpg
 coverFocus: center
+tags: ["gluten-free options"]
 label: none
 alsoOrder: [{"name": "Fried ravioli"}, {"name": "Chicken parmigiana"}]
 lastVerified: 2025-02-25

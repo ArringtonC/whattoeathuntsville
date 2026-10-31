@@ -5,6 +5,7 @@ cuisines: ["Soul food", "Wings"]
 occasions: ["Late night", "Group"]
 cover: /covers/videos/7647688633373199646.jpg
 coverFocus: center
+tags: ["catfish", "wings"]
 label: none
 alsoOrder: [{"name": "Catfish"}, {"name": "Wings"}]
 lastVerified: 2026-06-04

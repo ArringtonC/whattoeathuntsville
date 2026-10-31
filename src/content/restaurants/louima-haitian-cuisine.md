@@ -5,6 +5,7 @@ cuisines: ["Caribbean"]
 occasions: ["Quick lunch"]
 cover: /covers/videos/7668042158724631838.jpg
 coverFocus: center
+tags: ["food truck", "fried chicken"]
 label: none
 alsoOrder: [{"name": "Vegetable Stew"}, {"name": "Spicy fried pork"}]
 lastVerified: 2026-07-29

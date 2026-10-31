@@ -4,6 +4,7 @@ city: Madison
 cuisines: ["Mexican"]
 cover: /covers/videos/7486526433003588907.jpg
 coverFocus: center
+tags: ["birria", "tacos", "quesadillas"]
 label: none
 bestDish: {"name": "Birria tacos", "note": "The star of the show"}
 alsoOrder: [{"name": "Birria quesadilla"}, {"name": "Steak taco"}, {"name": "Chicken taco"}]

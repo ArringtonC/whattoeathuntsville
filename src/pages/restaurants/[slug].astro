@@ -42,6 +42,7 @@ const disclosure = { independent: 'We paid for our meal. This is not a sponsored
           <span>{metaLine(d.cuisines.join(', '), d.area ?? d.city, priceText(d.price))}</span>
           <span style={`color: ${status[1]};`}>● {status[0]}</span>
         </p>
+        {d.tags.length > 0 && <p style="display: flex; flex-wrap: wrap; gap: 8px;">{d.tags.map((t) => <a class="chip" style="min-height: 36px; font-size: 14px;" href={`/restaurants?q=${encodeURIComponent(t)}`}>{t}</a>)}</p>}
       </div>
       <div style="display: flex; flex-wrap: wrap; gap: 10px;">
         <a class="btn btn-red" href={directions} rel="noopener">Directions</a>

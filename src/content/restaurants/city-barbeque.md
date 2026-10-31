@@ -4,6 +4,7 @@ city: Huntsville
 cuisines: ["BBQ"]
 cover: /covers/videos/7608684447235394846.jpg
 coverFocus: center
+tags: ["wings"]
 label: none
 disclosure: "hosted"
 lastVerified: 2026-02-19

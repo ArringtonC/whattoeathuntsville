@@ -4,6 +4,7 @@ city: Huntsville
 cuisines: ["Chicken"]
 cover: /covers/videos/7617190018733395230.jpg
 coverFocus: center
+tags: ["wings", "chicken tenders"]
 label: none
 alsoOrder: [{"name": "Medium hot wings"}, {"name": "Medium hot chicken tenders"}, {"name": "Dirty Bird Fries"}, {"name": "Poppy Seed Grilled Chicken"}]
 lastVerified: 2026-03-14

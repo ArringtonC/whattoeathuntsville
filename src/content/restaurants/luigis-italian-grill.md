@@ -5,6 +5,7 @@ cuisines: ["Italian"]
 occasions: ["Family"]
 cover: /covers/videos/7476255304024378670.jpg
 coverFocus: center
+tags: ["pasta"]
 label: none
 lastVerified: 2025-02-28
 draft: true

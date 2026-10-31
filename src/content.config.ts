@@ -17,6 +17,7 @@ const restaurants = defineCollection({
     cuisines: z.array(z.enum(CUISINES)).min(1).max(3),
     price: z.number().int().min(1).max(4).optional(),
     occasions: z.array(z.enum(OCCASIONS)).default([]),
+    tags: z.array(z.string()).default([]), // free search words: birria, food truck, cash only…
     // great/good are earned ratings; first-look is for new openings; none = not rated yet.
     label: z.enum(['great', 'good', 'first-look', 'none']).default('none'),
     verdict: z.string().optional(),

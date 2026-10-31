@@ -4,6 +4,7 @@ city: Madison
 cuisines: ["Asian", "Chicken"]
 cover: /covers/videos/7592352574062316830.jpg
 coverFocus: center
+tags: []
 label: none
 alsoOrder: [{"name": "Bulgogi fries"}, {"name": "Yangnyeom boneless chicken & fries"}]
 lastVerified: 2026-01-06

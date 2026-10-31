@@ -4,6 +4,7 @@ city: Huntsville
 cuisines: ["Vegan"]
 cover: /covers/videos/7610914412639030541.jpg
 coverFocus: center
+tags: ["cheesesteak", "burgers", "vegan"]
 label: none
 bestDish: {"name": "Chili", "note": "5 stars"}
 alsoOrder: [{"name": "Cheeze burger"}, {"name": "Philly egg rolls"}, {"name": "Chick'n nuggets"}, {"name": "Buffalo chick'n sandwich"}]

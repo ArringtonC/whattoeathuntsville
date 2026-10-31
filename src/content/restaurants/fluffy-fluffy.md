@@ -5,6 +5,7 @@ cuisines: ["Sweet treats", "Breakfast"]
 occasions: ["Brunch"]
 cover: /covers/videos/7565948000862883102.jpg
 coverFocus: center
+tags: ["brunch", "matcha", "pancakes"]
 label: none
 alsoOrder: [{"name": "Matcha pancake + latte combo"}]
 lastVerified: 2025-10-27

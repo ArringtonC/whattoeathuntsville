@@ -4,6 +4,7 @@ city: Huntsville
 cuisines: ["Wings"]
 cover: /covers/videos/7486263785787755807.jpg
 coverFocus: center
+tags: ["wings"]
 label: none
 alsoOrder: [{"name": "Honey gold wings"}, {"name": "Hot honey wings"}, {"name": "Hot lemon pepper wings"}]
 lastVerified: 2025-03-26

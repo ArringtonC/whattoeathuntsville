@@ -5,6 +5,7 @@ area: "Harvest"
 cuisines: ["Mexican"]
 cover: /covers/videos/7519952740978658591.jpg
 coverFocus: center
+tags: ["tacos"]
 label: none
 bestDish: {"name": "Shredded chicken tacos"}
 lastVerified: 2025-06-25

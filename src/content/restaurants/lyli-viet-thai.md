@@ -4,6 +4,7 @@ city: Madison
 cuisines: ["Asian"]
 cover: /covers/videos/7491470561994935583.jpg
 coverFocus: center
+tags: ["pho"]
 label: none
 alsoOrder: [{"name": "Chicken gyoza"}, {"name": "Spring rolls"}, {"name": "Chicken pho"}, {"name": "Lemongrass chicken (spicy)"}]
 lastVerified: 2025-04-10

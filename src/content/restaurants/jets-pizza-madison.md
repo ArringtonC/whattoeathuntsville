@@ -5,6 +5,7 @@ cuisines: ["Pizza"]
 occasions: ["Family"]
 cover: /covers/videos/7661779803778911519.jpg
 coverFocus: center
+tags: ["wings", "pizza", "cookies"]
 label: none
 alsoOrder: [{"name": "4 Corner Deep Dish"}]
 lastVerified: 2026-07-12

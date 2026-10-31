@@ -6,6 +6,7 @@ cuisines: ["Asian"]
 occasions: ["Group"]
 cover: /covers/videos/7564945141723663646.jpg
 coverFocus: center
+tags: []
 label: none
 alsoOrder: [{"name": "Spicy chicken"}, {"name": "Garlic noodles"}]
 lastVerified: 2025-10-25

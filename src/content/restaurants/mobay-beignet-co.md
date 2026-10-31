@@ -5,6 +5,7 @@ area: "Monrovia (Jeff Rd)"
 cuisines: ["Sweet treats"]
 cover: /covers/videos/7522640151432957214.jpg
 coverFocus: center
+tags: ["beignets"]
 label: none
 lastVerified: 2025-07-03
 draft: true

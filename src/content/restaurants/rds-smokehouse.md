@@ -5,6 +5,7 @@ area: "Harvest (Nick Davis Rd)"
 cuisines: ["BBQ"]
 cover: /covers/videos/7476506581115456810.jpg
 coverFocus: center
+tags: ["wings", "brisket"]
 label: none
 bestDish: {"name": "Loaded baked potato with brisket"}
 alsoOrder: [{"name": "Wings"}]

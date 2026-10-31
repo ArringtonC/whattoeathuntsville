@@ -6,6 +6,7 @@ cuisines: ["Breakfast"]
 occasions: ["Quick lunch"]
 cover: /covers/videos/7551521851856407838.jpg
 coverFocus: center
+tags: ["smoothies"]
 label: none
 alsoOrder: [{"name": "Acai Nutella Bowl"}, {"name": "Aloha Smoothie"}, {"name": "Mermaid Fuel juice"}]
 lastVerified: 2025-09-18

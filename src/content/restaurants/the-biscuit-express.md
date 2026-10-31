@@ -6,6 +6,7 @@ cuisines: ["Breakfast"]
 occasions: ["Brunch"]
 cover: /covers/videos/7524812061499608351.jpg
 coverFocus: center
+tags: ["food truck", "brunch"]
 label: none
 lastVerified: 2025-07-08
 draft: true

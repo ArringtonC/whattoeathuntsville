@@ -5,6 +5,7 @@ address: "7950 Hwy 72 W, Madison, AL"
 cuisines: ["Mexican"]
 cover: /covers/videos/7513339613671394590.jpg
 coverFocus: center
+tags: ["birria", "tacos"]
 label: none
 bestDish: {"name": "Birria tacos"}
 alsoOrder: [{"name": "Torta mamalona"}, {"name": "Steak & chicken tacos"}]

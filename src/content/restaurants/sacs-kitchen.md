@@ -4,6 +4,7 @@ city: Huntsville
 cuisines: ["Soul food"]
 cover: /covers/videos/7481061774108675370.jpg
 coverFocus: center
+tags: ["catfish", "wings", "buffet"]
 label: none
 alsoOrder: [{"name": "Hot wings & fries"}]
 lastVerified: 2025-03-12

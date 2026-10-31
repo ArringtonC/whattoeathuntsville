@@ -5,6 +5,7 @@ cuisines: ["American"]
 occasions: ["Group"]
 cover: /covers/videos/7638803462515363102.jpg
 coverFocus: center
+tags: ["wings", "loaded potatoes"]
 label: none
 alsoOrder: [{"name": "Galaxy Lemonade"}, {"name": "Loaded potato skins"}]
 lastVerified: 2026-05-12

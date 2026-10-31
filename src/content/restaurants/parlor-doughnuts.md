@@ -4,6 +4,7 @@ city: Huntsville
 cuisines: ["Sweet treats"]
 cover: /covers/videos/7626101431463873822.jpg
 coverFocus: center
+tags: ["pizza", "donuts"]
 label: none
 alsoOrder: [{"name": "Buffalo Chicken pizza doughnut"}, {"name": "Chicken Bacon Ranch pizza doughnut"}, {"name": "OG Pepperoni pizza doughnut"}]
 lastVerified: 2026-04-07

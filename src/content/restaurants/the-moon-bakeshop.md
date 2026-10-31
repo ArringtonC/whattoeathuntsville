@@ -5,6 +5,7 @@ area: "Downtown"
 cuisines: ["Sweet treats"]
 cover: /covers/videos/7213222724364455214.jpg
 coverFocus: center
+tags: ["cookies"]
 label: none
 alsoOrder: [{"name": "Cinnamon roll"}, {"name": "Chocolate chip cookies"}]
 lastVerified: 2023-03-22

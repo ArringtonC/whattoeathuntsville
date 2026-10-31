@@ -4,6 +4,7 @@ city: Madison
 cuisines: ["Sweet treats"]
 cover: /covers/videos/7493369361315417375.jpg
 coverFocus: center
+tags: ["beignets"]
 label: none
 alsoOrder: [{"name": "Caramel latte"}, {"name": "Beignets with chocolate sauce"}]
 lastVerified: 2025-04-15

@@ -6,6 +6,7 @@ cuisines: ["American"]
 occasions: ["Group", "Family"]
 cover: /covers/videos/7694313066262957343.jpg
 coverFocus: center
+tags: ["pasta"]
 label: none
 alsoOrder: [{"name": "Louisiana Chicken Pasta (extra sauce)"}, {"name": "Cajun Salmon"}]
 lastVerified: 2026-10-08

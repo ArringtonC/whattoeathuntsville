@@ -6,6 +6,7 @@ cuisines: ["Chicken"]
 occasions: ["Family"]
 cover: /covers/videos/7510256079150894367.jpg
 coverFocus: center
+tags: ["chicken tenders"]
 label: none
 lastVerified: 2025-05-30
 draft: true
