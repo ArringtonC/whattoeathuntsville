@@ -5,7 +5,7 @@ area: "Stovehouse"
 cuisines: ["Sweet treats"]
 cover: /covers/videos/7483688847801437483.jpg
 coverFocus: center
-tags: ["cupcakes", "cookies", "cheesecake", "cake"]
+tags: ["cookies", "cheesecake", "cake", "cupcakes"]
 label: none
 alsoOrder: [{"name": "Chocolate Overload Cupcake"}, {"name": "Biscoff Cheesecake"}]
 lastVerified: 2025-03-20

@@ -5,7 +5,7 @@ address: "502 Jordan Ln NW, Huntsville, AL"
 cuisines: ["Wings"]
 cover: /covers/videos/7485771138958691614.jpg
 coverFocus: center
-tags: ["wings", "lemon pepper wings", "hot honey", "Cajun", "fries"]
+tags: ["wings", "fries", "lemon pepper wings", "hot honey", "Cajun"]
 label: none
 bestDish: {"name": "Hot honey + hot lemon pepper wings", "note": "With cajun fries"}
 lastVerified: 2025-03-25

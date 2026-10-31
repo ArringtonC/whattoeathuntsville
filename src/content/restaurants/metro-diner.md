@@ -5,7 +5,7 @@ cuisines: ["Breakfast", "American"]
 occasions: ["Brunch", "Family"]
 cover: /covers/videos/7614243181210651934.jpg
 coverFocus: center
-tags: ["green beans", "fries", "loaded fries", "steak", "breakfast", "wine", "budget-friendly"]
+tags: ["breakfast", "budget-friendly", "fries", "steak", "green beans", "loaded fries", "wine"]
 label: none
 lastVerified: 2026-03-06
 draft: true

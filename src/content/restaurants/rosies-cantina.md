@@ -4,7 +4,7 @@ city: Huntsville
 cuisines: ["Mexican"]
 cover: /covers/videos/7496636046499712287.jpg
 coverFocus: center
-tags: ["nachos", "margaritas"]
+tags: ["margaritas", "nachos"]
 label: none
 alsoOrder: [{"name": "Nachos"}, {"name": "Margarita"}]
 lastVerified: 2025-04-23

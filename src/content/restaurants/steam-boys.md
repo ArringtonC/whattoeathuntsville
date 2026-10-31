@@ -5,7 +5,7 @@ area: "Clift Farm"
 cuisines: ["Asian"]
 cover: /covers/videos/7612473309678112031.jpg
 coverFocus: center
-tags: ["dumplings", "burgers", "bao", "bao buns", "popcorn chicken", "boba", "boba tea"]
+tags: ["burgers", "dumplings", "bao", "bao buns", "popcorn chicken", "boba", "boba tea"]
 label: none
 alsoOrder: [{"name": "Popcorn chicken"}, {"name": "Gua bao"}, {"name": "Pan-seared beef bao"}, {"name": "Pan-seared cheeseburger dumplings"}, {"name": "Passion fruit boba tea"}]
 lastVerified: 2026-03-02

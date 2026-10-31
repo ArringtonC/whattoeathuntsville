@@ -6,7 +6,7 @@ cuisines: ["Mexican"]
 occasions: ["Cheap eats"]
 cover: /covers/videos/7486886232153132318.jpg
 coverFocus: center
-tags: ["tacos", "tortas", "sopes", "steak", "food truck", "cash only"]
+tags: ["tacos", "food truck", "cash only", "steak", "tortas", "sopes"]
 label: none
 alsoOrder: [{"name": "Steak tacos"}, {"name": "Chicken tacos"}, {"name": "Sopes"}]
 skip: "Cash only"

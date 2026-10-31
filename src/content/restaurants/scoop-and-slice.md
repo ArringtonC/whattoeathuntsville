@@ -6,7 +6,7 @@ cuisines: ["Pizza", "Sandwiches", "Sweet treats"]
 occasions: ["Late night", "Family"]
 cover: /covers/videos/7631362238493904158.jpg
 coverFocus: center
-tags: ["pizza", "ice cream", "pasta", "fettuccine alfredo", "Philly cheesesteak", "fries"]
+tags: ["pizza", "fries", "pasta", "Philly cheesesteak", "fettuccine alfredo", "ice cream"]
 label: none
 bestDish: {"name": "Philly Cheesesteak Pizza", "note": "Alfredo base; add jalape\u00f1os"}
 alsoOrder: [{"name": "Italian club, loaded"}]

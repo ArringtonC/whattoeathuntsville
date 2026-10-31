@@ -4,7 +4,7 @@ city: Huntsville
 cuisines: ["Sweet treats"]
 cover: /covers/videos/7604594490212470047.jpg
 coverFocus: center
-tags: ["cookies", "gluten-free options", "Black-owned"]
+tags: ["Black-owned", "cookies", "gluten-free options"]
 label: none
 alsoOrder: [{"name": "Cinnamon sparkle cookie"}, {"name": "Chocolate lava cookie"}, {"name": "Chocolate strawberry cookie"}, {"name": "Velvet dreams cookie"}]
 lastVerified: 2026-02-08

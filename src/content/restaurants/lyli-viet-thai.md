@@ -4,7 +4,7 @@ city: Madison
 cuisines: ["Asian"]
 cover: /covers/videos/7491470561994935583.jpg
 coverFocus: center
-tags: ["pho", "dumplings", "spring rolls", "lemongrass chicken", "Thai", "Vietnamese"]
+tags: ["pho", "dumplings", "Vietnamese", "spring rolls", "lemongrass chicken", "Thai"]
 label: none
 alsoOrder: [{"name": "Chicken gyoza"}, {"name": "Spring rolls"}, {"name": "Chicken pho"}, {"name": "Lemongrass chicken (spicy)"}]
 lastVerified: 2025-04-10

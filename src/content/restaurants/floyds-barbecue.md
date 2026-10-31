@@ -4,7 +4,7 @@ city: Huntsville
 cuisines: ["BBQ"]
 cover: /covers/videos/7510357879942040863.jpg
 coverFocus: center
-tags: ["mac and cheese", "baked beans", "ribs", "pulled pork", "sandwiches", "fries", "Black-owned"]
+tags: ["Black-owned", "fries", "sandwiches", "mac and cheese", "baked beans", "ribs", "pulled pork"]
 label: none
 bestDish: {"name": "Pork sandwich plate", "note": "Best pork sandwich in Huntsville"}
 lastVerified: 2025-05-30

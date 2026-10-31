@@ -4,7 +4,7 @@ city: Huntsville
 cuisines: ["BBQ"]
 cover: /covers/videos/7608684447235394846.jpg
 coverFocus: center
-tags: ["wings", "mac and cheese", "green beans", "baked beans"]
+tags: ["wings", "mac and cheese", "baked beans", "green beans"]
 label: none
 disclosure: "hosted"
 lastVerified: 2026-02-19

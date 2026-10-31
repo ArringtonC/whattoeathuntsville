@@ -4,7 +4,7 @@ city: Huntsville
 cuisines: ["Soul food"]
 cover: /covers/videos/7626902218251210015.jpg
 coverFocus: center
-tags: ["catfish", "wings", "ribs", "Black-owned"]
+tags: ["wings", "catfish", "Black-owned", "ribs"]
 label: none
 bestDish: {"name": "Fried catfish", "note": "1000/10. Open Wednesday to Saturday after 4pm."}
 alsoOrder: [{"name": "Ribs"}, {"name": "Bell Dog", "note": "Loaded with peppers, onions, and ground beef"}]

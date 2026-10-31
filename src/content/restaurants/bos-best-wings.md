@@ -4,7 +4,7 @@ city: Huntsville
 cuisines: ["Wings"]
 cover: /covers/videos/7489492736618302750.jpg
 coverFocus: center
-tags: ["catfish", "wings", "lemon pepper wings", "hot honey", "fries"]
+tags: ["wings", "catfish", "fries", "lemon pepper wings", "hot honey"]
 label: none
 alsoOrder: [{"name": "Fried wings"}]
 lastVerified: 2025-04-04

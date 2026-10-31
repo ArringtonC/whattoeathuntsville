@@ -6,7 +6,7 @@ cuisines: ["American"]
 occasions: ["Date night"]
 cover: /covers/videos/7478454253040799007.jpg
 coverFocus: center
-tags: ["salmon", "fries", "steak", "sandwiches", "salads", "cocktails"]
+tags: ["cocktails", "fries", "sandwiches", "steak", "salads", "salmon"]
 label: none
 lastVerified: 2025-03-05
 draft: true

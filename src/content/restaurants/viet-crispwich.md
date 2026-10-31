@@ -5,7 +5,7 @@ cuisines: ["Asian", "Sandwiches"]
 occasions: ["Quick lunch"]
 cover: /covers/videos/7681100716370447647.jpg
 coverFocus: center
-tags: ["dumplings", "shredded chicken", "banh mi", "noodles", "Vietnamese"]
+tags: ["dumplings", "noodles", "Vietnamese", "shredded chicken", "banh mi"]
 label: none
 alsoOrder: [{"name": "Shredded Chicken B\u00e1nh M\u00ec"}, {"name": "Fried pork dumplings"}, {"name": "Premium Spicy Chili Broth Noodles"}]
 lastVerified: 2026-09-03

@@ -5,7 +5,7 @@ cuisines: ["BBQ"]
 occasions: ["Cheap eats"]
 cover: /covers/videos/7662534171373489439.jpg
 coverFocus: center
-tags: ["loaded potatoes", "pulled pork", "pulled chicken", "loaded baked potato"]
+tags: ["loaded baked potato", "loaded potatoes", "pulled pork", "pulled chicken"]
 label: none
 bestDish: {"name": "Loaded potato with pulled chicken or pork", "note": "Two Potato Tuesdays: 2 loaded potatoes for $16"}
 lastVerified: 2026-07-14

@@ -6,7 +6,7 @@ cuisines: ["Italian", "Pizza"]
 occasions: ["Date night", "Group"]
 cover: /covers/videos/7700656929890241823.jpg
 coverFocus: center
-tags: ["pizza", "pasta", "fettuccine alfredo", "tiramisu", "cocktails"]
+tags: ["pizza", "cocktails", "pasta", "fettuccine alfredo", "tiramisu"]
 label: none
 alsoOrder: [{"name": "Truffle Garlic Bread"}, {"name": "Margherita Pizza"}, {"name": "Tripoline Alfredo"}, {"name": "Tiramisu"}]
 lastVerified: 2026-10-25

@@ -4,7 +4,7 @@ city: Huntsville
 cuisines: ["Mexican"]
 cover: /covers/videos/7624229266003086605.jpg
 coverFocus: center
-tags: ["tacos", "fish tacos", "breakfast tacos", "nachos", "margaritas"]
+tags: ["tacos", "margaritas", "fish tacos", "nachos", "breakfast tacos"]
 label: none
 bestDish: {"name": "Pork taco", "note": "Juicy, with pickled onions"}
 alsoOrder: [{"name": "Chicken taco"}, {"name": "Fish taco"}, {"name": "Lime margarita"}]

@@ -5,7 +5,7 @@ cuisines: ["Mexican"]
 occasions: ["Group"]
 cover: /covers/videos/7491817024142707998.jpg
 coverFocus: center
-tags: ["birria", "tacos", "quesadillas", "margaritas"]
+tags: ["tacos", "birria", "margaritas", "quesadillas"]
 label: none
 alsoOrder: [{"name": "Birria quesadilla"}, {"name": "Birria tacos"}, {"name": "Margaritas"}]
 lastVerified: 2025-04-10

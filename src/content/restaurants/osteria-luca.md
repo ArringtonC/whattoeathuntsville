@@ -5,7 +5,7 @@ cuisines: ["Italian", "Pizza"]
 occasions: ["Date night", "Group"]
 cover: /covers/videos/7624723569984982303.jpg
 coverFocus: center
-tags: ["pizza", "pasta", "hot honey", "fettuccine alfredo", "meatballs", "salads"]
+tags: ["pizza", "hot honey", "salads", "pasta", "fettuccine alfredo", "meatballs"]
 label: none
 bestDish: {"name": "Hot Honey Meatball Pizza", "note": "This was the one"}
 alsoOrder: [{"name": "Caesar Salad"}, {"name": "Fettuccine Alfredo"}]

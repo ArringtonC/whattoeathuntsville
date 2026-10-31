@@ -5,7 +5,7 @@ cuisines: ["Caribbean"]
 occasions: ["Quick lunch"]
 cover: /covers/videos/7668042158724631838.jpg
 coverFocus: center
-tags: ["fried chicken", "mac and cheese", "jerk chicken", "Haitian", "food truck"]
+tags: ["fried chicken", "food truck", "mac and cheese", "jerk chicken", "Haitian"]
 label: none
 alsoOrder: [{"name": "Vegetable Stew"}, {"name": "Spicy fried pork"}]
 lastVerified: 2026-07-29

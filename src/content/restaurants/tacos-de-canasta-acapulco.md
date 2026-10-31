@@ -6,7 +6,7 @@ cuisines: ["Mexican"]
 occasions: ["Cheap eats", "Quick lunch"]
 cover: /covers/videos/7686884883414781214.jpg
 coverFocus: center
-tags: ["tacos", "gorditas", "nachos", "steak"]
+tags: ["tacos", "steak", "nachos", "gorditas"]
 label: none
 alsoOrder: [{"name": "Chicken gorditas"}, {"name": "Steak tacos"}]
 lastVerified: 2026-09-18

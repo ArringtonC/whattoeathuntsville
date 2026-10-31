@@ -6,7 +6,7 @@ cuisines: ["Mexican"]
 occasions: ["Quick lunch"]
 cover: /covers/videos/7475059435103128863.jpg
 coverFocus: center
-tags: ["tacos", "street tacos", "drive-thru"]
+tags: ["tacos", "drive-thru", "street tacos"]
 label: none
 lastVerified: 2025-02-24
 draft: true

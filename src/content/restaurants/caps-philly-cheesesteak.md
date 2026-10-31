@@ -6,7 +6,7 @@ cuisines: ["Sandwiches"]
 occasions: ["Quick lunch"]
 cover: /covers/videos/7475780205500534062.jpg
 coverFocus: center
-tags: ["Philly cheesesteak", "Black-owned"]
+tags: ["Black-owned", "Philly cheesesteak"]
 label: none
 bestDish: {"name": "Philly cheesesteak", "note": "House-made cheese whiz"}
 lastVerified: 2025-02-26

@@ -5,7 +5,7 @@ cuisines: ["Mediterranean"]
 occasions: ["Quick lunch"]
 cover: /covers/videos/7488877178872958238.jpg
 coverFocus: center
-tags: ["gyros", "fries", "steak", "pita", "lemonade"]
+tags: ["fries", "steak", "lemonade", "gyros", "pita"]
 label: none
 alsoOrder: [{"name": "Grilled chicken gyro combo with fries"}, {"name": "Steak fries"}, {"name": "Raspberry lemonade"}]
 lastVerified: 2025-04-03

@@ -4,7 +4,7 @@ city: Huntsville
 cuisines: ["Mediterranean"]
 cover: /covers/videos/7477590393283038506.jpg
 coverFocus: center
-tags: ["gyros", "fries", "salads"]
+tags: ["fries", "salads", "gyros"]
 label: none
 alsoOrder: [{"name": "Salad"}, {"name": "Fries"}]
 lastVerified: 2025-03-03

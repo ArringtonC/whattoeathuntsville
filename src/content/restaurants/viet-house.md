@@ -5,7 +5,7 @@ cuisines: ["Asian"]
 occasions: ["Cheap eats"]
 cover: /covers/videos/7618679044434824479.jpg
 coverFocus: center
-tags: ["pho", "dumplings", "spring rolls", "Vietnamese", "banh mi", "clay pot rice", "budget-friendly"]
+tags: ["pho", "budget-friendly", "dumplings", "Vietnamese", "spring rolls", "banh mi", "clay pot rice"]
 label: none
 bestDish: {"name": "Chicken pho, made angry (spicy)", "note": "Our forever favorite"}
 alsoOrder: [{"name": "Fried spring rolls"}, {"name": "Pork dumplings"}]

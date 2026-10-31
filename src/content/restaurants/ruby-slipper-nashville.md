@@ -5,7 +5,7 @@ cuisines: ["Breakfast"]
 occasions: ["Brunch"]
 cover: /covers/videos/7209806821291199786.jpg
 coverFocus: center
-tags: ["fried chicken", "chicken sandwich", "sandwiches", "fries", "French toast"]
+tags: ["fried chicken", "fries", "sandwiches", "chicken sandwich", "French toast"]
 label: none
 alsoOrder: [{"name": "Sweet heat fried chicken & French toast"}, {"name": "Fried chicken sandwich with sweet heat sauce"}]
 lastVerified: 2023-03-12

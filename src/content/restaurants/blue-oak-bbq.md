@@ -5,7 +5,7 @@ area: "MidCity"
 cuisines: ["BBQ"]
 cover: /covers/videos/7602767470625115422.jpg
 coverFocus: center
-tags: ["wings", "burgers", "barbecue", "sandwiches"]
+tags: ["wings", "burgers", "sandwiches", "barbecue"]
 label: none
 alsoOrder: [{"name": "Winter Burger (daily special)"}, {"name": "Mild buffalo wings"}]
 lastVerified: 2026-02-03

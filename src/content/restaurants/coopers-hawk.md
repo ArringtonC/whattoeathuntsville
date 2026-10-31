@@ -6,7 +6,7 @@ cuisines: ["American"]
 occasions: ["Date night", "Group", "Birthday"]
 cover: /covers/videos/7606495742949149982.jpg
 coverFocus: center
-tags: ["seafood", "chicken parmesan"]
+tags: ["chicken parmesan", "seafood"]
 label: none
 lastVerified: 2026-02-13
 draft: true

@@ -5,7 +5,7 @@ cuisines: ["Asian"]
 occasions: ["Date night"]
 cover: /covers/videos/7642532120253992222.jpg
 coverFocus: center
-tags: ["ramen", "yakitori", "popcorn chicken", "tiramisu", "matcha", "lemonade"]
+tags: ["ramen", "lemonade", "yakitori", "popcorn chicken", "tiramisu", "matcha"]
 label: none
 alsoOrder: [{"name": "Kyushu Spicy Tonkotsu Ramen (extra hot)"}, {"name": "Yakitori Platter"}, {"name": "Popcorn Chicken"}, {"name": "Matcha Tiramisu"}, {"name": "S'mores Tiramisu"}]
 lastVerified: 2026-05-22
