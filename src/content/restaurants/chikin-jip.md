@@ -11,6 +11,7 @@ lastVerified: 2026-01-06
 draft: true
 occasions: []
 status: open
+searchTerms: ["madison", "asian", "chicken", "asian food"]
 ---
 
 A little bit of spice 🌶️ We tried Chikin Jip in Madison and it delivered. Bulgogi fries + yangnyeom boneless chicken & fries 🤌🏽 Friendly customer service, good vibes, and fresh food all around.

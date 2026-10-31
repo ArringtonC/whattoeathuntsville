@@ -12,6 +12,7 @@ lastVerified: 2025-03-27
 draft: true
 occasions: []
 status: open
+searchTerms: ["madison", "mexican", "birria tacos", "mexican food", "quesabirria", "taco"]
 ---
 
 Taqueria Luna in 🔥 Their birria tacos were the star of the show! 🌮✨ That crispy, cheesy goodness was everything. We also tried the birria quesadilla, steak taco, and chicken taco—but birria took the crown! 👑 Who’s craving tacos now? 😋

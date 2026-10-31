@@ -5,12 +5,13 @@ cuisines: ["Seafood"]
 occasions: ["Date night"]
 cover: /covers/videos/7584133032731315487.jpg
 coverFocus: center
-tags: ["pizza", "sushi", "hot honey", "seafood", "chicken parmesan", "date night"]
+tags: ["pizza", "sushi", "hot honey", "seafood", "chicken parmesan"]
 label: none
 alsoOrder: [{"name": "Hot honey pizza"}, {"name": "Parmesan-crusted grouper"}, {"name": "Sushi"}]
 lastVerified: 2025-12-15
 draft: true
 status: open
+searchTerms: ["huntsville", "date night", "romantic dinner"]
 ---
 
 Chuck’s Fish was a perfect date night ✨🩷 We order parmesan crusted grouper and sushi! def worth another visit!! 🍽️ 😋

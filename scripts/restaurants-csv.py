@@ -9,7 +9,7 @@ DIR = os.path.join(ROOT, "src", "content", "restaurants")
 CSV = os.path.join(ROOT, "restaurants.csv")
 COLS = ["slug", "name", "city", "area", "cuisines", "label", "tags", "occasions", "best_dish", "verdict", "status", "reviewed"]
 LABELS = {"great", "good", "first-look", "none"}
-OCCASIONS = {"Date night", "Brunch", "Family", "Quick lunch", "Late night", "Group", "Cheap eats"}
+OCCASIONS = {"Date night", "Brunch", "Family", "Quick lunch", "Late night", "Group", "Cheap eats", "Birthday"}
 STATUSES = {"open", "temporarily-closed", "closed"}
 
 def read(path):
@@ -43,6 +43,23 @@ def export():
         w = csv.DictWriter(f, COLS); w.writeheader(); w.writerows(rows)
     print(f"Wrote {len(rows)} restaurants to restaurants.csv")
 
+def imp_rich(row, v):
+    """The extended sheet (food_tags, drink_tags, feature_tags, search_keywords…). Returns fields to set."""
+    tags = []
+    for col in ("food_tags", "verified_food_tags", "drink_tags", "feature_tags"):
+        for t in split(row.get(col, "")):
+            if t.lower() not in [x.lower() for x in tags]: tags.append(t)
+    words = []
+    for part in (row.get("search_keywords") or "").replace("|", ",").split(","):
+        w = part.strip().lower()
+        if w and w not in words and w not in [t.lower() for t in tags] and w != json.loads(v["name"]).lower(): words.append(w)
+    out = {"tags": json.dumps(tags), "searchTerms": json.dumps(words[:40])}
+    for col, key in (("address", "address"), ("area", "area")):
+        if (row.get(col) or "").strip() and key not in v: out[key] = json.dumps(row[col].strip())
+    if (row.get("source_type") or "").strip() == "Official website" and (row.get("website_or_source") or "").startswith("http") and "website" not in v:
+        out["website"] = json.dumps(row["website_or_source"].strip())
+    return out
+
 def imp():
     changed, problems = 0, []
     with open(CSV, newline="", encoding="utf-8-sig") as f:
@@ -55,13 +72,16 @@ def imp():
             new = dict(v)
             label = (row.get("label") or "none").strip().lower().replace(" ", "-")
             if label not in LABELS: problems.append(f"row {n} ({slug}): label must be great, good, first-look or none"); continue
-            occ = split(row.get("occasions", ""))
+            rich = "food_tags" in row
+            occ = split(row.get("occasion_tags" if rich else "occasions", ""))
             bad = [o for o in occ if o not in OCCASIONS]
             if bad: problems.append(f"row {n} ({slug}): unknown occasion {bad}; use {sorted(OCCASIONS)}"); continue
             status = (row.get("status") or "open").strip().lower()
+            if rich and status not in STATUSES: status = v.get("status", "open")  # extended sheet says "unverified"; keep ours
             if status not in STATUSES: problems.append(f"row {n} ({slug}): status must be open, temporarily-closed or closed"); continue
             new["label"] = label
-            new["tags"] = json.dumps(split(row.get("tags", "")))
+            if rich: new.update(imp_rich(row, v))
+            else: new["tags"] = json.dumps(split(row.get("tags", "")))
             new["occasions"] = json.dumps(occ)
             new["status"] = status
             verdict = (row.get("verdict") or "").strip()
@@ -79,4 +99,5 @@ def imp():
     for p in problems: print("  fix:", p)
     if problems: sys.exit(1)
 
+if len(sys.argv) > 2: CSV = sys.argv[2]  # import a sheet saved somewhere else
 {"export": export, "import": imp}[sys.argv[1] if len(sys.argv) > 1 else "export"]()

@@ -11,6 +11,9 @@ lastVerified: 2025-03-26
 draft: true
 occasions: []
 status: open
+searchTerms: ["huntsville", "chicken wings", "wing spot", "lemon pepper", "lemon pepper chicken", "honey lemon pepper wings", "garlic parmesan wings", "philly cheesesteak", "fried fish", "seasoned fries", "casual", "takeout"]
+address: "2608 N Memorial Pkwy, Huntsville, AL 35810"
+area: "North Huntsville"
 ---
 
 A-Town Wings in Huntsville, AL 👀🍗 The wings are tiny but mighty 😂 just a heads up that you might have to order extra. We always get honey gold, hot honey and hot lemon pepper. Pretty solid place to get wings in my opinion. 📍2608 N Memorial Pkwy

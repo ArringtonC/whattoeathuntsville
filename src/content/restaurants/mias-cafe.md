@@ -10,6 +10,7 @@ lastVerified: 2023-07-29
 draft: true
 occasions: []
 status: open
+searchTerms: ["huntsville", "american"]
 ---
 
 Mia’s Cafe in

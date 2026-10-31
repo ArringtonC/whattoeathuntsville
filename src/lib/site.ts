@@ -22,7 +22,7 @@ export const CUISINES = [
   'Breakfast', 'American', 'Seafood', 'Sandwiches', 'Mediterranean', 'Cajun', 'Caribbean', 'Latin', 'Vegan',
 ] as const;
 
-export const OCCASIONS = ['Date night', 'Brunch', 'Family', 'Quick lunch', 'Late night', 'Group', 'Cheap eats'] as const;
+export const OCCASIONS = ['Date night', 'Brunch', 'Family', 'Quick lunch', 'Late night', 'Group', 'Cheap eats', 'Birthday'] as const;
 
 export const slugify = (s: string) => s.toLowerCase().replace(/&/g, 'and').replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
 

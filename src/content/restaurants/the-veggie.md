@@ -10,6 +10,7 @@ lastVerified: 2023-08-03
 draft: true
 occasions: []
 status: open
+searchTerms: ["huntsville", "plant based", "plant-based"]
 ---
 
 located in

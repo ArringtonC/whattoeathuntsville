@@ -11,6 +11,7 @@ lastVerified: 2025-11-21
 draft: true
 occasions: []
 status: open
+searchTerms: ["huntsville", "mexican", "fish taco", "mexican food", "taco"]
 ---
 
 Taqueria Las Adelitas 🌮 in that fish taco was 🔥

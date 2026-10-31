@@ -12,6 +12,7 @@ alsoOrder: [{"name": "Spicy chicken"}, {"name": "Garlic noodles"}]
 lastVerified: 2025-10-25
 draft: true
 status: open
+searchTerms: ["huntsville", "bridge street town centre", "asian", "group", "asian food"]
 ---
 
 Part 2 to our time at PF Chang’s. Here’s 3 minutes of us tearing up 7 of their menu items 😋🍽️

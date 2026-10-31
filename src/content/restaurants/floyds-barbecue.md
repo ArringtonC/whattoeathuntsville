@@ -11,6 +11,7 @@ lastVerified: 2025-05-30
 draft: true
 occasions: []
 status: open
+searchTerms: ["huntsville", "bbq", "pork sandwich plate", "barbecue", "smoked meat", "mac n cheese", "macaroni and cheese"]
 ---
 
 Floyd’s Barbecue in 🔥 Definitely giving it 5 stars. Honestly… best pork sandwich in Huntsville ⭐️ We both got pork sandwich plates — one large, one small. Sides were fries, mac & cheese, and baked beans. Also had to try a rib 😍 Everything was so good. We get why yall referred us 🙏🏽 📍 Pulaski Pike

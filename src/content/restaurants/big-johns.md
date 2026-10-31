@@ -12,6 +12,7 @@ lastVerified: 2025-03-01
 draft: true
 occasions: []
 status: open
+searchTerms: ["huntsville", "seafood", "soul food", "fried catfish", "southern food", "comfort food", "fried fish", "fish plate", "barbecue", "bbq", "casual"]
 ---
 
 Big John’s in Huntsville AL 🔥 the best fried catfish in in my opinion 🤤🐟 have somewhere else? Lmk The order 📝: Small 🍟: Loaded Buffalo & the Rooftop Fries 📍The Open Bottle (Big John’s is open Thursday to Saturday 4-9pm)

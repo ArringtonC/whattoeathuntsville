@@ -5,12 +5,13 @@ cuisines: ["Chicken"]
 occasions: ["Quick lunch"]
 cover: /covers/videos/7625105435950894366.jpg
 coverFocus: center
-tags: ["chicken tenders", "drive-thru", "fries"]
+tags: ["chicken tenders", "fries", "drive-thru"]
 label: none
 alsoOrder: [{"name": "Tenders"}, {"name": "Fries"}, {"name": "Sweet tea"}]
 lastVerified: 2026-04-05
 draft: true
 status: open
+searchTerms: ["athens", "chicken", "quick lunch", "fast lunch"]
 ---
 
 Quick bite from Rooster’s in Athens 😍🐓 The sauce >> The tenders >> Fries >> Sweet tea was hitting too 👀 Drive thru was quick…A little pricey…but honestly worth it

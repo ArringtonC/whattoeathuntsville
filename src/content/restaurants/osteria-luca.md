@@ -5,13 +5,16 @@ cuisines: ["Italian", "Pizza"]
 occasions: ["Date night", "Group"]
 cover: /covers/videos/7624723569984982303.jpg
 coverFocus: center
-tags: ["pizza", "pasta", "hot honey", "fettuccine alfredo", "meatballs", "salads", "date night", "groups"]
+tags: ["pizza", "pasta", "hot honey", "fettuccine alfredo", "meatballs", "salads"]
 label: none
 bestDish: {"name": "Hot Honey Meatball Pizza", "note": "This was the one"}
 alsoOrder: [{"name": "Caesar Salad"}, {"name": "Fettuccine Alfredo"}]
 lastVerified: 2026-04-04
 draft: true
 status: open
+searchTerms: ["huntsville", "italian", "date night", "group", "hot honey meatball pizza", "romantic dinner"]
+address: "3414 Governors Dr SW Ste 705, Huntsville, AL 35805"
+area: "Stovehouse"
 ---
 
 Osteria Luca might be one of my new favorites 👀 The order 📝 • Caesar Salad • Hot Honey Meatball Pizza (THIS was the one 🔥) • Fettuccine Alfredo Everything was super fresh + flavorful. Great place for large groups, date nights, and bdays!

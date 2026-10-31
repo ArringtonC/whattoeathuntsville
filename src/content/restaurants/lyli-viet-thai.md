@@ -11,6 +11,7 @@ lastVerified: 2025-04-10
 draft: true
 occasions: []
 status: open
+searchTerms: ["madison", "asian", "asian food", "vietnamese noodle soup"]
 ---
 
 Lyli Viet-Thai Cuisine - PHOMOUS in Madison is bringing the heat! 🔥🍽️ We ordered 📝: • Chicken Gyoza • Spring Rolls • Chicken Pho • Lemongrass Chicken (Spicy) Heads up: There’s a cigar lounge next door, so the smell can be a bit strong. 📍 7407 Hwy 72 W, Unit D, Madison, AL 35758

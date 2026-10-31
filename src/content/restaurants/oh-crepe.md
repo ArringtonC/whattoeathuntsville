@@ -12,6 +12,7 @@ lastVerified: 2023-02-04
 draft: true
 occasions: []
 status: open
+searchTerms: ["huntsville", "stovehouse", "breakfast", "blt crepe", "morning food"]
 ---
 
 blt crepe from oh crepe! 🥓🤤 Located in Stovehouse in

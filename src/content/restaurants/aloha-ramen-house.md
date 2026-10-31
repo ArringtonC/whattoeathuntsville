@@ -11,6 +11,7 @@ lastVerified: 2025-04-16
 draft: true
 occasions: []
 status: open
+searchTerms: ["madison", "asian", "asian food", "noodle soup"]
 ---
 
 Aloha Ramen House 🍜 in Great comfort food vibe—def recommend if you’re craving flavorful broth and crispy apps! Our order 📝: Fried Gyoza Chicken Katsu Spicy Tonkotsu Ramen with Chicken Spicy Tonkotsu Ramen with Pork 📍1591 Hughes Rd suite c

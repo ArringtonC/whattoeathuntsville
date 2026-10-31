@@ -12,6 +12,7 @@ lastVerified: 2025-03-25
 draft: true
 occasions: []
 status: open
+searchTerms: ["huntsville", "hot honey + hot lemon pepper wings", "chicken wings", "wing spot", "lemon pepper", "lemon pepper chicken"]
 ---
 
 Warning: This reel may cause cravings! 🚨 MK Wings’ Hot Honey & Hot Lemon Pepper wings + Cajun Fries = the ultimate combo. Who’s ready for a wing run? 🍗 📍502 Jordan Ln NW

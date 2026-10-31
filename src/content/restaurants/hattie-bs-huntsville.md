@@ -11,6 +11,7 @@ lastVerified: 2026-03-14
 draft: true
 occasions: []
 status: open
+searchTerms: ["huntsville", "chicken", "chicken wings", "wing spot"]
 ---
 
 We already love the Nashville locations, so we were excited to finally try Hattie B’s Hot Chicken here. 🔥🐔 Hattie B's What we ordered: • Medium Hot Wings • Medium Hot Chicken Tenders • Dirty Bird Fries • Poppy Seed Grilled Chicken Salad Sides were fries and baked beans! Everything had that classic Nashville hot flavor we love, but honestly… the Poppy Seed Grilled Chicken Salad stole the show. The grilled chicken with that poppy seed dressing was so good. Have you tried Hattie B’s yet? And what heat level are you ordering? 🌶️

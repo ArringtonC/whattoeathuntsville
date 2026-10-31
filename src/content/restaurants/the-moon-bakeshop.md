@@ -12,6 +12,7 @@ lastVerified: 2023-03-22
 draft: true
 occasions: []
 status: open
+searchTerms: ["huntsville", "downtown", "sweet treats", "dessert", "bakery", "sweets"]
 ---
 
 the moon bakeshop located in head there for some tasty and from a featuring: a & 😋

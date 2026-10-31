@@ -11,6 +11,7 @@ alsoOrder: [{"name": "Grilled chicken gyro combo with fries"}, {"name": "Steak f
 lastVerified: 2025-04-03
 draft: true
 status: open
+searchTerms: ["madison", "mediterranean", "quick lunch", "gyro", "greek food", "fast lunch"]
 ---
 
 Pita 🤤🥙 from PitaStreetFood! One of my favorite grab-and-go spots after the gym. Located in Madison! 📝 The order: 🥙 Grilled Chicken Gyro Combo w/ fries 🍟 Steak Fries 🧃 Raspberry Lemonade (pretty good too!)

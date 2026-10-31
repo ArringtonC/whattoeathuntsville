@@ -12,6 +12,7 @@ bestDish: {"name": "Wings", "note": "50-cent wings on Wednesdays (order at least
 lastVerified: 2026-09-28
 draft: true
 status: open
+searchTerms: ["madison", "university dr", "american", "group", "late night", "chicken wings", "wing spot", "late night food"]
 ---
 
 Best wings in Madison??? 👀🍗🪩 I think we found the at Entice Bar & Grille of University Dr. On Wednesdays, they have 50 cent wings (must order at least 10) and happy hour drink deals til 8pm. Great drinks, good food and good energy. All for under $40.

@@ -11,6 +11,7 @@ lastVerified: 2026-04-07
 draft: true
 occasions: []
 status: open
+searchTerms: ["huntsville", "sweet treats", "dessert", "bakery", "sweets"]
 ---
 
 Would you try a pizza doughnut? 👀 Taste tested Parlor Doughnuts in they were so good I ordered the Buffalo Chicken, Chicken Bacon Ranch, and OG Pepperoni Doughnut 😋🍩 I ranked my favorites at the end, whats yours? 🍕🍗🥓

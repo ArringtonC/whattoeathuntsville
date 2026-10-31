@@ -11,6 +11,7 @@ lastVerified: 2026-02-08
 draft: true
 occasions: []
 status: open
+searchTerms: ["huntsville", "sweet treats", "dessert", "bakery", "sweets", "gluten free"]
 ---
 
 UNREAL 🤤🍪 10/10 across the board We tried a wide variety from hunnydewbakery — cinnamon sparkle, chocolate lava, chocolate strawberry, velvet dreams… and every single cookie was made fresh and SO mouthwatering 😮‍💨 They’re gluten-friendly, support her medical treatments AND she has special Valentine’s Day cookies available 💘 👉🏽 Order by Feb 9! Check out her IG and support a local baker!

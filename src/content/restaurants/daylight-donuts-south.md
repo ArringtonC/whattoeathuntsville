@@ -11,6 +11,7 @@ lastVerified: 2025-11-13
 draft: true
 occasions: []
 status: open
+searchTerms: ["huntsville", "south huntsville", "sweet treats", "breakfast", "dessert", "bakery", "sweets", "morning food"]
 ---
 
 Started our morning at Daylight Donuts 🍩☀️ in

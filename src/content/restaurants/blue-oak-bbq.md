@@ -5,13 +5,14 @@ area: "MidCity"
 cuisines: ["BBQ"]
 cover: /covers/videos/7602767470625115422.jpg
 coverFocus: center
-tags: ["wings", "burgers"]
+tags: ["wings", "burgers", "barbecue", "sandwiches"]
 label: none
 alsoOrder: [{"name": "Winter Burger (daily special)"}, {"name": "Mild buffalo wings"}]
 lastVerified: 2026-02-03
 draft: true
 occasions: []
 status: open
+searchTerms: ["huntsville", "midcity", "bbq", "smoked meat", "chicken wings", "wing spot", "casual"]
 ---
 
 Is tiktok still being weird?? Hope not because we wanna share our experience BlueOakBBQ located in MidCity Tried one of their daily specials the Winter Burger 🌶️🍔 and mild buffalo wings
