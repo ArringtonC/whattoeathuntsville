@@ -1,0 +1,40 @@
+---
+import Base from '../layouts/Base.astro';
+import { CITIES } from '../lib/site';
+---
+<Base title="Suggest a restaurant" description="Tell us where we should eat next.">
+  <section class="wrap section" style="display: flex; flex-wrap: wrap; gap: 56px; align-items: flex-start;">
+    <div style="flex: 1 1 360px; display: flex; flex-direction: column; gap: 18px;">
+      <p class="kicker">Suggest a restaurant</p>
+      <h1 class="h1">Where should we eat next?</h1>
+      <p class="dek">Tell us about a Huntsville or Madison spot you love. We read every suggestion, and some become videos and picks.</p>
+      <div class="note" style="display: flex; flex-direction: column; gap: 8px; font-size: 15px; color: var(--body);">
+        <span><strong>We can't visit every spot.</strong> We pick based on what fits our list and schedule.</span>
+        <span><strong>We never take money for a Good or Great label.</strong> Owners can suggest their own place, but it gets no special treatment.</span>
+        <span>Want to pay for a feature instead? <a href="/work-with-us">Work with us</a></span>
+      </div>
+    </div>
+    <p id="thanks" hidden class="box" style="flex: 1 1 480px; font-size: 20px; font-weight: 700;">Thanks! We got your suggestion.</p>
+    <form id="suggest-form" name="suggest" method="POST" data-netlify="true" netlify-honeypot="website_url" action="/suggest?thanks=1" class="box" style="flex: 1 1 480px; display: flex; flex-direction: column; gap: 18px;">
+      <input type="hidden" name="form-name" value="suggest" />
+      <p hidden><label>Leave this empty <input name="website_url" /></label></p>
+      <label class="field">Restaurant name <span style="color: var(--red); font-weight: 600;">Required</span><input class="input" name="restaurant" required /></label>
+      <label class="field">Where is it?<select class="input" name="city">{CITIES.map((c) => <option>{c}</option>)}<option>Somewhere else</option></select></label>
+      <label class="field">What should we order?<input class="input" name="dish" placeholder="The dish you'd tell a friend about" /></label>
+      <label class="field">Why do you love it?<textarea class="input" name="why" rows="4" placeholder="A sentence or two is plenty"></textarea></label>
+      <div style="display: flex; flex-wrap: wrap; gap: 16px;">
+        <label class="field" style="flex: 1 1 200px;">Your name (optional)<input class="input" name="name" autocomplete="name" /></label>
+        <label class="field" style="flex: 1 1 200px;">Email (optional)<input class="input" type="email" name="email" autocomplete="email" /></label>
+      </div>
+      <label class="check"><input type="checkbox" name="owner" value="yes" /> I own or work at this restaurant.</label>
+      <label class="check"><input type="checkbox" name="subscribe" value="yes" /> Also send me The Weekly Bite.</label>
+      <button class="btn btn-red" type="submit" style="align-self: flex-start; min-height: 56px;">Send suggestion</button>
+    </form>
+  </section>
+  <script>
+    if (new URLSearchParams(location.search).has('thanks')) {
+      document.getElementById('suggest-form')?.setAttribute('hidden', '');
+      document.getElementById('thanks')?.removeAttribute('hidden');
+    }
+  </script>
+</Base>

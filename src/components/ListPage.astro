@@ -1,0 +1,26 @@
+---
+// Shared body for cuisine, city, and travel landing pages.
+import type { CollectionEntry } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import RestaurantCard from './RestaurantCard.astro';
+import LabelKey from './LabelKey.astro';
+import SignupBand from './SignupBand.astro';
+interface Props { title: string; kicker: string; dek: string; items: CollectionEntry<'restaurants'>[]; guides?: CollectionEntry<'guides'>[] }
+const { title, kicker, dek, items, guides = [] } = Astro.props;
+---
+<Base title={title} description={dek}>
+  <section class="band-cream"><div class="wrap" style="padding-top: 40px; padding-bottom: 32px; display: flex; flex-direction: column; gap: 12px;">
+    <p class="kicker">{kicker}</p><h1 class="h1">{title}</h1><p class="dek">{dek}</p>
+  </div></section>
+  <section class="wrap section">
+    <div class="row-head"><p style="font-size: 19px; font-weight: 700;">{items.length} {items.length === 1 ? 'place' : 'places'}</p><LabelKey /></div>
+    {items.length ? <div class="grid">{items.map((r) => <RestaurantCard r={r} />)}</div> : <p>Nothing here yet. <a href="/suggest">Suggest a spot</a>.</p>}
+    {guides.length > 0 && (
+      <div style="margin-top: 48px;">
+        <h2 style="font-size: 26px; font-weight: 800; margin-bottom: 12px;">Guides</h2>
+        {guides.map((g) => <a href={`/guides/${g.id}`} style="display: block; padding: 14px 0; border-top: 1px solid var(--line); font-size: 20px; font-weight: 800; text-decoration: none;">{g.data.title}</a>)}
+      </div>
+    )}
+  </section>
+  <SignupBand />
+</Base>

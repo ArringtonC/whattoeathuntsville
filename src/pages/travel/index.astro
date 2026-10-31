@@ -1,0 +1,27 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Cover from '../../components/Cover.astro';
+import { listedRestaurants, visible } from '../../lib/data';
+import { TRAVEL_CITIES, slugify } from '../../lib/site';
+
+const rs = await listedRestaurants();
+const guides = await getCollection('guides', visible);
+const places = TRAVEL_CITIES.map((c) => ({ name: c, count: rs.filter((r) => r.data.city === c).length, cover: rs.find((r) => r.data.city === c)?.data.cover, guides: guides.filter((g) => g.data.city === c).length }));
+---
+<Base title="Travel" description="Food we found outside Huntsville.">
+  <section class="band-cream"><div class="wrap" style="padding-top: 40px; padding-bottom: 32px; display: flex; flex-direction: column; gap: 12px;">
+    <p class="kicker">Travel</p><h1 class="h1">Food beyond Huntsville</h1><p class="dek">Where we ate when we left town, and what we'd drive back for.</p>
+  </div></section>
+  <section class="wrap section">
+    <div class="grid" style="grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));">
+      {places.map((p) => (
+        <a class="card" href={`/travel/${slugify(p.name)}`}>
+          <Cover id={p.name} src={p.cover} alt="" ratio="3 / 2" play={false} />
+          <span class="name" style="font-size: 28px;">{p.name}</span>
+          <span class="meta">{p.count} places · {p.guides} {p.guides === 1 ? 'guide' : 'guides'}</span>
+        </a>
+      ))}
+    </div>
+  </section>
+</Base>

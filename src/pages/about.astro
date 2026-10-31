@@ -1,0 +1,72 @@
+---
+import Base from '../layouts/Base.astro';
+import Label from '../components/Label.astro';
+import SignupBand from '../components/SignupBand.astro';
+import { SITE } from '../lib/site';
+---
+<Base title="About" description="Who we are, how we pick restaurants, and how we rate them.">
+  <section class="band-cream">
+    <div class="wrap section" style="display: flex; flex-wrap: wrap; gap: 48px; align-items: center;">
+      <div style="flex: 1 1 480px; display: flex; flex-direction: column; gap: 18px;">
+        <p class="kicker">About us</p>
+        <h1 class="h1">Hi, we're Michaela &amp; <span class="serif" style="font-style: italic; font-weight: 500; color: var(--red);">Arrington.</span></h1>
+        <p class="dek">{SITE.tagline} What to Eat Huntsville highlights local restaurants, events, and must-try food spots, rooted in Huntsville and inspired by travel near and far.</p>
+        <div style="display: flex; flex-wrap: wrap; gap: 32px;">
+          <div><b style="font-size: 34px;">17.5K</b><br /><span style="color: var(--muted); font-size: 14px;">TikTok followers</span></div>
+          <div><b style="font-size: 34px;">185K</b><br /><span style="color: var(--muted); font-size: 14px;">TikTok likes</span></div>
+          <div><b style="font-size: 34px;">140+</b><br /><span style="color: var(--muted); font-size: 14px;">Restaurant videos</span></div>
+        </div>
+        <p style="font-size: 12px; color: var(--soft-text);">TikTok numbers as of Oct 2026.</p>
+      </div>
+      <img src="/logo.jpg" alt="Our logo: the two of us holding a fork and knife" width="420" height="420" style="flex: 0 1 420px; border-radius: 24px; background: #fff;" />
+    </div>
+  </section>
+
+  <section class="narrow section prose">
+    <h2 style="margin-top: 0;">How this started</h2>
+    <p>We're both born and raised in Huntsville. Michaela went to Sparkman, Arrington went to Oakwood, and we got married in October 2025.</p>
+    <p>What to Eat Huntsville is managed by Michaela, a Huntsville native with a career in communications and a passion for social media and storytelling. Arrington is a Tuskegee alum. Michaela is a UA and Mississippi State alum (Hail State and Roll Tide).</p>
+    <p>Our favorite foods are pho, ramen, tacos, and fried chicken, but we'll try almost anything. You may see friends or family in our videos now and then. At the heart of it, we're here to try all the great spots Huntsville has to offer.</p>
+    <p>We love to travel, and we always find the best food wherever we go: Dubai, Greece, Saint Martin, and Mexico, to LA, Vegas, Chicago, and beyond.</p>
+  </section>
+
+  <section id="rate" class="wrap" style="padding-bottom: 64px;">
+    <h2 class="h2" style="margin-bottom: 8px;">How we pick and rate</h2>
+    <p class="dek" style="margin-bottom: 24px;">Our labels mean the same thing everywhere: on the site, in the email, and on TikTok.</p>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 18px;">
+      <div class="box" style="display: flex; flex-direction: column; gap: 10px; align-items: flex-start;"><Label label="great" /><strong style="font-size: 20px;">A standout. Go.</strong><span style="color: var(--muted);">We'd send a friend here. One of the best of its kind we've had.</span></div>
+      <div class="box" style="display: flex; flex-direction: column; gap: 10px; align-items: flex-start;"><Label label="good" /><strong style="font-size: 20px;">We liked it. Worth a visit.</strong><span style="color: var(--muted);">Something here is worth ordering. Good does not mean average.</span></div>
+      <div class="box" style="display: flex; flex-direction: column; gap: 10px; align-items: flex-start;"><Label label="first-look" /><strong style="font-size: 20px;">New. Not rated yet.</strong><span style="color: var(--muted);">First impressions of a new opening. We rate after it settles in.</span></div>
+    </div>
+  </section>
+
+  <section id="standards" class="band-ink">
+    <div class="wrap section" style="display: flex; flex-wrap: wrap; gap: 40px;">
+      <div style="flex: 1 1 320px;"><p class="kicker" style="color: #F2A7A9; margin-bottom: 8px;">Editorial standards</p><h2 class="h2">Our opinions are not for sale.</h2></div>
+      <ul style="flex: 2 1 480px; margin: 0; padding: 0; list-style: none; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 22px; color: #D8D0C6; line-height: 1.55;">
+        <li><strong style="display: block; color: #fff; font-size: 18px;">We pay for our meals.</strong>If a visit was hosted or free, the page says so.</li>
+        <li><strong style="display: block; color: #fff; font-size: 18px;">Paid content is labeled.</strong>Sponsored posts, emails, and cards say "Sponsored".</li>
+        <li><strong style="display: block; color: #fff; font-size: 18px;">Labels can't be bought.</strong>No business can pay for Good, Great, or a spot in a guide.</li>
+        <li><strong style="display: block; color: #fff; font-size: 18px;">We fix mistakes.</strong>Closed or changed? <a href="/suggest">Tell us</a> and we update the page with the date.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="wrap section" style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <div class="box" style="flex: 1 1 280px; display: flex; flex-direction: column; gap: 10px;">
+      <h2 style="font-size: 24px; font-weight: 800;">Follow along</h2>
+      <a href={SITE.tiktok} style="font-weight: 700;">TikTok · @whattoeathuntsville</a>
+      <a href={SITE.instagram} style="font-weight: 700;">Instagram · @whattoeathuntsville</a>
+      <a href={SITE.facebook} style="font-weight: 700;">Facebook</a>
+      <a href={SITE.threads} style="font-weight: 700;">Threads</a>
+      <a href="/suggest" style="font-weight: 700;">Suggest a restaurant</a>
+    </div>
+    <div class="box" style="flex: 1 1 280px; display: flex; flex-direction: column; gap: 10px; align-items: flex-start;">
+      <h2 style="font-size: 24px; font-weight: 800;">Business?</h2>
+      <p style="color: var(--muted);">Sponsorships, newsletter features, and photo and video work.</p>
+      <a class="btn btn-ink" href="/work-with-us">Work with us</a>
+    </div>
+  </section>
+
+  <SignupBand />
+</Base>

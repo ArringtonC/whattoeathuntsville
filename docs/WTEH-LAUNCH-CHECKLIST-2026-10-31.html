@@ -1,0 +1,148 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>What to Eat Huntsville checklist</title>
+<style>
+:root{--ink:#1f1d18;--dim:#6b665b;--faint:#9a948a;--paper:#f7f5f0;--card:#fff;--line:#e3dfd6;--gold:#b0161c;--done:#e9e5da}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--ink:#efe9dc;--dim:#a8a193;--faint:#7c766b;--paper:#16150f;--card:#1f1e17;--line:#34322a;--gold:#f0767a;--done:#2a2820}}
+:root[data-theme="dark"]{--ink:#efe9dc;--dim:#a8a193;--faint:#7c766b;--paper:#16150f;--card:#1f1e17;--line:#34322a;--gold:#f0767a;--done:#2a2820}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.55 Georgia,"Iowan Old Style",serif}
+.wrap{max-width:880px;margin:0 auto;padding:40px 16px 80px}
+h1{font:500 32px/1.15 Georgia,serif;margin:0 0 6px}h2{font:500 22px Georgia,serif;margin:40px 0 4px}
+.k{font:600 11px -apple-system,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--faint)}
+.lead{color:var(--dim);font-style:italic}
+.day{font:13.5px -apple-system,sans-serif;color:var(--dim);margin:0 0 10px}
+ol.c{list-style:none;padding:0;margin:0;counter-reset:n}
+ol.c>li{counter-increment:n;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin:9px 0;display:grid;grid-template-columns:22px 1fr;gap:10px}
+ol.c>li.done{background:var(--done)}
+ol.c input{margin-top:4px;width:16px;height:16px;accent-color:var(--gold)}
+.t{font-weight:600}
+.t:before{content:counter(n) ". ";color:var(--faint);font-weight:400}
+.f{font:13.5px/1.5 -apple-system,sans-serif;color:var(--dim);margin-top:4px}
+.f b{color:var(--ink);font-weight:600}
+.where{font:13px/1.5 -apple-system,sans-serif;margin-top:6px;color:var(--ink)}
+.where span{color:var(--faint);font-weight:600;letter-spacing:.04em;text-transform:uppercase;font-size:10.5px;margin-right:6px}
+pre{white-space:pre-wrap;font:12.5px/1.5 ui-monospace,Menlo,monospace;background:rgba(127,120,100,.12);padding:8px 10px;border-radius:8px;margin:6px 0 0}
+code{font:12.5px ui-monospace,Menlo,monospace;background:rgba(127,120,100,.12);padding:1px 5px;border-radius:4px}
+.who{font:600 10.5px -apple-system,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:var(--gold);margin-left:6px}
+a{color:var(--gold)}
+</style></head><body><div class="wrap">
+<div class="k">What to Eat Huntsville · launch checklist · started 31 Oct 2026 · updated 31 Oct afternoon</div>
+<h1>Get the website and The Weekly Bite live</h1>
+<p class="lead">Start at the first open step and go down. Each step says where to go, what to do, and who does it. Grey steps are done. Your ticks are saved in this browser.</p>
+
+<h2>Already done · plans and designs</h2>
+<p class="day">Everything here is approved or ready to review.</p>
+<ol class="c">
+<li class="done"><input type="checkbox" checked><div><div class="t">Website plan</div><div class="f">Sitemap, restaurant record, TikTok-to-website flow, ad rules, newsletter rules. <a href="https://claude.ai/artifact/N6L91Qa37PXiiWUU5iqd4K">Architecture doc</a></div></div></li>
+<li class="done"><input type="checkbox" checked><div><div class="t">Page designs, v1 to v5</div><div class="f"><a href="https://claude.ai/artifact/6Xa99PGPpYkoNSmbQSBbaH">v1 look</a> · <a href="https://claude.ai/artifact/WymxnRujFtKraEs3SAAiPX">v2 TikTok covers + Find Food</a> · <a href="https://claude.ai/artifact/G8TDZbdSXi1L4haCL89S9N">v3 ads, guide, story</a> · <a href="https://claude.ai/artifact/Kg6tfFkPsDjUS7kEmUWQgL">v4 emails + signup</a> · <a href="https://claude.ai/artifact/6kpJok36fzbTS4frhodXZo">v5 About + Work With Us</a></div></div></li>
+<li class="done"><input type="checkbox" checked><div><div class="t">Four email templates</div><div class="f">The Weekly Bite, Just Opened, Eat for Less, A Local Spotlight (paid). Real email code in <code>emails/</code>.</div></div></li>
+<li class="done"><input type="checkbox" checked><div><div class="t">The website, built with sample content</div><div class="f">32 pages, your logo, search and filters, all forms. Runs on this Mac at <a href="http://localhost:4321">localhost:4321</a> while the preview server is on.</div></div></li>
+</ol>
+
+<h2>Now · unblock the build (about 20 minutes)</h2>
+<p class="day">Small things only you can do. Each one unlocks a step below.</p>
+<ol class="c" style="counter-reset:n 4">
+<li class="done"><input type="checkbox" checked><div><div class="t">Update Node.js <span class="who">you · 5 min</span></div>
+<div class="where"><span>Where</span>Download the LTS installer from <a href="https://nodejs.org">nodejs.org</a>, or in Terminal, if you use Homebrew:</div>
+<pre>brew upgrade node</pre>
+<div class="f">Needs version <b>22.23.4 or newer</b> (you have 22.23.1). Check with <code>node -v</code>.</div>
+<div class="f"><b>Done 31 Oct.</b> Instead of changing your Mac, the project now carries its own Node 24 (in <code>package.json</code>). Your other tools are untouched.</div></div></li>
+<li class="done"><input type="checkbox" checked><div><div class="t">Switch the site to the safe Astro version <span class="who">me · after step 5</span></div>
+<div class="f">The current version has known security holes. I change <code>package.json</code> to Astro 7 and rebuild.</div>
+<div class="f"><b>Done 31 Oct.</b> Astro 7.4.4. <code>npm audit</code> shows 0 vulnerabilities.</div></div></li>
+<li class="done"><input type="checkbox" checked><div><div class="t">Share the Canva design <span class="who">you · 2 min</span></div>
+<div class="where"><span>Where</span>Canva › open the design › <b>Share</b> › add <code>arrington.copeland@gmail.com</code>, or set the link to "Anyone with the link can view".</div>
+<div class="f">Then tell me what it is (logo files, old site, social graphics) so I can use it.</div>
+<div class="f"><b>Done 31 Oct.</b> Not needed: your Linktree has a public view link. It's your 4-page media kit; I used its tagline, About text, and services.</div></div></li>
+<li class="done"><input type="checkbox" checked><div><div class="t">Send the Instagram link <span class="who">you</span></div>
+<div class="f">I add it to the header menu, footer, About page, and email footers.</div>
+<div class="f"><b>Done 31 Oct.</b> Found on your Linktree: instagram.com/whattoeathuntsville, plus Facebook and Threads. Added to the footer and About page.</div></div></li>
+<li class="done"><input type="checkbox" checked><div><div class="t">Write the About story <span class="who">you · 15 min</span></div>
+<div class="f">Your partner's name, how you started posting, and why Huntsville. Two short paragraphs is enough. I place it on <code>/about</code>.</div>
+<div class="f"><b>Done 31 Oct.</b> Written from your pinned TikTok (Sparkman, Oakwood, married Oct 2025, Tuskegee, UA + Mississippi State). <b>Please read it</b> on <code>/about</code> and fix anything.</div></div></li>
+</ol>
+
+<h2>Content · turn the TikToks into restaurant pages</h2>
+<p class="day">Goal for launch: 30 restaurants and 3 guides. Every record gets your approval before it goes live.</p>
+<ol class="c" style="counter-reset:n 9">
+<li class="done"><input type="checkbox" checked><div><div class="t">Request your TikTok data export <span class="who">you · 5 min, then wait</span></div>
+<div class="where"><span>Where</span>TikTok app › Profile › ☰ › Settings and privacy › Account › <b>Download your data</b> › choose <b>JSON</b> › Request.</div>
+<div class="f">TikTok takes a few days to prepare it. It has every video link, caption, and date.</div>
+<div class="f"><b>Done 31 Oct.</b> Optional now: I read 127 public captions from your profile instead. The export is still useful later for exact post dates and older videos.</div></div></li>
+<li class="done"><input type="checkbox" checked><div><div class="t">Pick the first 30 restaurants <span class="who">you · 20 min</span></div>
+<div class="f">Start with your Great places and your playlists: Comfort Food (28), Mexican (19), Asian (11), Sweet Treats (5), Nashville (5). A plain list of names is fine.</div>
+<div class="f"><b>Done 31 Oct.</b> I made drafts for all 94 restaurants in your captions instead. You choose which ones to publish in step 13.</div></div></li>
+<li><input type="checkbox"><div><div class="t">Save a cover image for each one <span class="who">you</span></div>
+<div class="f">A screenshot of the TikTok cover or a frame from the original video. Name each file after the restaurant, for example <code>north-italia.jpg</code>, and put them all in one folder.</div></div></li>
+<li class="done"><input type="checkbox" checked><div><div class="t">Turn the export into draft restaurant records <span class="who">me · after step 10</span></div>
+<div class="f">I read the captions and make one draft file per restaurant: name, city, cuisine, video link, cover. Opinions stay empty until you fill them in.</div>
+<div class="f"><b>Done 31 Oct.</b> 94 drafts in <code>src/content/restaurants/</code>, 106 video links. Your caption is the write-up. Labels and verdicts are left for you.</div></div></li>
+<li><input type="checkbox"><div><div class="t">Review the 94 drafts <span class="who">you · about 3 min each</span></div>
+<div class="where"><span>Where</span>Run <code>npm run dev</code> in the project folder, open <a href="http://localhost:4321/restaurants">localhost:4321/restaurants</a>. Each draft page has a yellow note saying what to check. Start with the 11 in "Our favorites of 2025".</div>
+<div class="f">For each: confirm the address and that it's still open, set <b>Great / Good / First Look</b>, write the one-line verdict and the best dish. Nothing goes live without this.</div></div></li>
+<li class="done"><input type="checkbox" checked><div><div class="t">Choose the first 3 guides <span class="who">you pick · me builds</span></div>
+<div class="f">Ideas: Best tacos in Huntsville, Comfort food worth the drive, Nashville in one weekend. Each needs 4 to 9 places and a sentence on why each is there.</div>
+<div class="f"><b>Done 31 Oct.</b> Drafted: Our favorites of 2025 (your real list), Best wings in Huntsville and Madison, Nashville eats. Edit the "why" lines.</div></div></li>
+<li class="done"><input type="checkbox" checked><div><div class="t">Remove all sample content <span class="who">me</span></div>
+<div class="f">Everything in [brackets] and every file named <code>sample-*</code>.</div>
+<div class="f"><b>Done 31 Oct.</b> All sample restaurants, guides, and the sample story are gone.</div></div></li>
+</ol>
+
+<h2>Launch setup · accounts and decisions</h2>
+<p class="day">Accounts must be yours. I set things up once you have them.</p>
+<ol class="c" style="counter-reset:n 16">
+<li><input type="checkbox"><div><div class="t">Buy the domain <span class="who">you · 10 min</span></div>
+<div class="f"><b>Checked 31 Oct: <code>whattoeathuntsville.com</code> is not registered.</b> Buy it soon (about $12 a year). Any registrar works: Cloudflare, Namecheap, Squarespace Domains.</div></div></li>
+<li><input type="checkbox"><div><div class="t">Create a Netlify account <span class="who">you · 5 min</span></div>
+<div class="where"><span>Where</span><a href="https://netlify.com">netlify.com</a> › Sign up. Free plan is enough to start.</div>
+<div class="f">It hosts the site and collects the Suggest, Work With Us, and signup forms. Then I connect the site and the domain.</div></div></li>
+<li><input type="checkbox"><div><div class="t">Pick the email service <span class="who">you decide · me sets up</span></div>
+<div class="f"><b>Beehiiv</b> (built-in sponsor tools, free to start) or <b>Kit</b> (simple, free up to a limit). I suggest Beehiiv because The Weekly Bite will sell sponsor spots later. Then I load the 4 templates and connect the signup forms.</div></div></li>
+<li><input type="checkbox"><div><div class="t">Get a mailing address for emails <span class="who">you</span></div>
+<div class="f">US law requires a physical address in every marketing email. A P.O. box or a virtual mailbox works. Don't use your home address.</div></div></li>
+<li><input type="checkbox"><div><div class="t">Pick a contact email <span class="who">you</span></div>
+<div class="f">For example <code>hello@</code> and <code>partners@</code> your new domain. It goes on Privacy, Work With Us, and the emails.</div></div></li>
+<li><input type="checkbox"><div><div class="t">Review the Privacy page <span class="who">you</span></div>
+<div class="f">The draft is at <code>/privacy</code>. Fill in the email service and analytics tool once chosen.</div></div></li>
+<li><input type="checkbox"><div><div class="t">Add visitor counting <span class="who">you decide · me adds</span></div>
+<div class="f"><b>Plausible</b> (simple, private, paid) or <b>Google Analytics</b> (free). You need real numbers before you pitch sponsors.</div></div></li>
+</ol>
+
+<h2>Launch week</h2>
+<ol class="c" style="counter-reset:n 23">
+<li><input type="checkbox"><div><div class="t">Final check on phone and desktop <span class="who">you + me</span></div>
+<div class="f">Click every page, send each form once, and open the site on your own phone.</div></div></li>
+<li><input type="checkbox"><div><div class="t">Point the TikTok link in bio to the website <span class="who">you</span></div>
+<div class="where"><span>Where</span>Linktree (<code>linktr.ee/whattoeathsv</code>) › put the website and "Get The Weekly Bite" at the top.</div></div></li>
+<li><input type="checkbox"><div><div class="t">Post the launch TikTok <span class="who">you</span></div>
+<div class="f">"We built a website: every place we've reviewed, what to order, and a free weekly pick." Point people to the link in bio.</div>
+<div class="f"><b>Script and caption ready 31 Oct:</b> <code>docs/launch-tiktok.md</code>: 30-second shot list, caption, hashtags, and 3 follow-up posts. Post only after the site is live.</div></div></li>
+<li class="done"><input type="checkbox" checked><div><div class="t">Send The Weekly Bite, issue 001 <span class="who">you send · me drafts</span></div>
+<div class="f">Thursday. One restaurant from the archive. I draft it from the restaurant record; you approve.</div>
+<div class="f"><b>Done 31 Oct.</b> Drafted only, not sent: <code>emails/issues/001-viet-house.md</code>. You still send it once the email service is set up.</div></div></li>
+<li class="done"><input type="checkbox" checked><div><div class="t">Write the next 4 issues ahead <span class="who">me drafts · you approve</span></div>
+<div class="f">So Thursdays keep going on busy weeks.</div>
+<div class="f"><b>Done 31 Oct.</b> Drafted: Pan-Z-Effie's, Los Morelenses, Floyd's, Taqueria Luna. Issue 004 lands on Thanksgiving; move it if you like.</div></div></li>
+</ol>
+
+<h2>Not yet</h2>
+<ul>
+<li>No display ads until traffic qualifies. The ad spots are built and switched off.</li>
+<li>No sponsor pitches or prices until you have real visitor and subscriber numbers.</li>
+<li>No partner emails until people opt in to them.</li>
+<li>No AI search, user accounts, or full map. Maybe later.</li>
+<li>No editor screen for Michaela yet. Restaurant files are edited by me for now; we add an editor (Decap CMS) after launch if she wants to post herself.</li>
+</ul>
+</div>
+<script>
+// Remember ticks in this browser only.
+document.querySelectorAll('ol.c > li').forEach((li, i) => {
+  const box = li.querySelector('input'); const key = 'wteh-check-' + i;
+  if (li.classList.contains('done')) return;
+  try { if (localStorage.getItem(key) === '1') { box.checked = true; li.classList.add('done'); } } catch (e) {}
+  box.addEventListener('change', () => {
+    li.classList.toggle('done', box.checked);
+    try { localStorage.setItem(key, box.checked ? '1' : '0'); } catch (e) {}
+  });
+});
+</script>
+</body></html>

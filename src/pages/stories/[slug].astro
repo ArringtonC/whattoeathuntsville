@@ -1,0 +1,78 @@
+---
+import { visible } from '../../lib/data';
+import { getCollection, getEntries, getEntry, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Cover from '../../components/Cover.astro';
+import Label from '../../components/Label.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import SignupBand from '../../components/SignupBand.astro';
+import { fmtDate, mapsUrl, priceText } from '../../lib/site';
+
+export async function getStaticPaths() {
+  return (await getCollection('stories', visible)).map((s) => ({ params: { slug: s.id }, props: { s } }));
+}
+const { s } = Astro.props;
+const d = s.data;
+const { Content } = await render(s);
+const places = await getEntries(d.restaurants);
+const main = places[0];
+const video = d.video ? await getEntry(d.video) : undefined;
+const related = (await getCollection('stories', visible)).filter((x) => x.id !== s.id).slice(0, 3);
+const kinds = { 'new-opening': 'New opening', 'our-experience': 'Our experience', 'food-news': 'Food news', travel: 'Travel' };
+---
+<Base title={d.title} description={d.dek} image={video?.data.cover ?? main?.data.cover}>
+  <article class="narrow" style="padding-top: 36px; padding-bottom: 56px;">
+    {d.sponsor && <p class="note" style="margin-bottom: 20px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap;"><span class="label label-sponsored">SPONSORED</span> Paid partnership with {d.sponsor}. Our opinions are our own.</p>}
+    <p class="kicker" style="margin-bottom: 12px;">Story · {kinds[d.kind]}</p>
+    <h1 class="h1" style="margin-bottom: 16px; font-size: clamp(34px, 5vw, 56px);">{d.title}</h1>
+    <p class="dek" style="margin-bottom: 18px;">{d.dek}</p>
+    <p style="font-size: 14px; color: var(--muted); padding-bottom: 22px; border-bottom: 1px solid var(--line);">
+      <strong style="color: var(--ink);">Michaela &amp; Arrington</strong> · Published {fmtDate(d.published)}{d.updated && ` · Updated ${fmtDate(d.updated)}`} · {d.readMinutes} min read
+    </p>
+
+    <a href={video?.data.tiktokUrl ?? '#'} rel="noopener" aria-label="Watch the TikTok for this story" style="display: block; margin-top: 28px;">
+      <Cover id={s.id} src={video?.data.cover ?? main?.data.cover} alt="" ratio="16 / 10" radius="22px" />
+    </a>
+
+    {main && (
+      <section class="band-cream" style="margin-top: 28px; border-radius: 18px; padding: 22px 24px;">
+        <p class="kicker" style="font-size: 12px; margin-bottom: 12px;">The short version</p>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 14px 24px;">
+          <div><span style="display: block; font-size: 13px; color: var(--soft-text); font-weight: 600;">Where</span><strong>{main.data.name}, {main.data.area ?? main.data.city}</strong></div>
+          {main.data.bestDish && <div><span style="display: block; font-size: 13px; color: var(--soft-text); font-weight: 600;">Order</span><strong>{main.data.bestDish.name}</strong></div>}
+          {main.data.price && <div><span style="display: block; font-size: 13px; color: var(--soft-text); font-weight: 600;">Price</span><strong>{priceText(main.data.price)}</strong></div>}
+          {main.data.label !== 'none' && <div><span style="display: block; font-size: 13px; color: var(--soft-text); font-weight: 600; margin-bottom: 4px;">Our label</span><Label label={main.data.label} /></div>}
+        </div>
+      </section>
+    )}
+
+    <div class="prose" style="margin-top: 36px;"><Content /></div>
+
+    <AdSlot />
+
+    {places.length > 0 && (
+      <section style="margin-top: 40px;">
+        <h2 style="font-size: 22px; font-weight: 800; margin-bottom: 8px;">Places in this story</h2>
+        {places.map((p) => (
+          <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 12px; padding: 14px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);">
+            <a href={`/restaurants/${p.id}`} style="text-decoration: none;"><strong style="display: block; font-size: 18px;">{p.data.name}</strong><span style="font-size: 14px; color: var(--soft-text); font-weight: 600;">{p.data.address ?? p.data.city}</span></a>
+            <span style="display: flex; gap: 8px;"><a class="btn" href={mapsUrl(p.data)} rel="noopener">Directions</a><a class="btn" href={`/restaurants/${p.id}`}>Details</a></span>
+          </div>
+        ))}
+      </section>
+    )}
+
+    <p class="note" style="margin-top: 28px;"><strong>Disclosure:</strong> {d.disclosure} <a href="/about#standards">How we review</a></p>
+  </article>
+
+  <SignupBand heading="Liked this? Get The Weekly Bite." />
+
+  {related.length > 0 && (
+    <section class="wrap section">
+      <h2 class="h2" style="margin-bottom: 24px;">More stories</h2>
+      <div class="grid" style="grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));">
+        {related.map((x) => <a class="card" href={`/stories/${x.id}`}><Cover id={x.id} alt="" ratio="3 / 2" /><span class="kicker">{kinds[x.data.kind]}</span><span class="name">{x.data.title}</span></a>)}
+      </div>
+    </section>
+  )}
+</Base>

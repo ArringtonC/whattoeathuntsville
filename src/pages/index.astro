@@ -1,0 +1,123 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import RestaurantCard from '../components/RestaurantCard.astro';
+import Cover from '../components/Cover.astro';
+import LabelKey from '../components/LabelKey.astro';
+import SignupBand from '../components/SignupBand.astro';
+import { guideCover, listedRestaurants, visible } from '../lib/data';
+import { CUISINES, LOCAL_CITIES, SITE, slugify, toneFor } from '../lib/site';
+
+const restaurants = await listedRestaurants();
+const local = restaurants.filter((r) => LOCAL_CITIES.includes(r.data.city));
+const newFinds = [...local].sort((a, b) => +b.data.lastVerified - +a.data.lastVerified || Number(b.data.featured) - Number(a.data.featured)).slice(0, 4);
+const greatUrls = local.filter((r) => r.data.label === 'great').map((r) => `/restaurants/${r.id}`);
+// Biggest cuisines first; each circle uses a cover from that cuisine once covers exist.
+const cuisines = CUISINES.map((c) => {
+  const rs = local.filter((r) => r.data.cuisines.includes(c));
+  return { name: c, count: rs.length, cover: rs.find((r) => r.data.cover)?.data.cover };
+}).filter((c) => c.count > 0).sort((a, b) => b.count - a.count).slice(0, 12);
+const guides = await Promise.all((await getCollection('guides', visible)).slice(0, 3).map(async (g) => ({ ...g, cover: await guideCover(g) })));
+const videos = (await getCollection('videos')).sort((a, b) => +b.data.postedDate - +a.data.postedDate).slice(0, 6);
+const cravings = ['Tacos', 'Brunch', 'Burgers', 'Pizza', 'BBQ', 'Sweet treats', 'Date night', 'Cheap eats'];
+---
+<Base>
+  <section class="band-cream">
+    <div class="wrap section" style="display: flex; flex-wrap: wrap; gap: 48px; align-items: center;">
+      <div style="flex: 1 1 520px; min-width: 0; display: flex; flex-direction: column; gap: 22px;">
+        <p class="kicker">{SITE.tagline}</p>
+        <h1 class="h1">What are you <span class="serif" style="font-style: italic; font-weight: 500; color: var(--red);">craving?</span></h1>
+        <p class="dek" style="max-width: 520px;">Honest picks from two local food lovers. We tell you what's good, what's great, and exactly what to order.</p>
+        <form class="search" role="search" action="/restaurants">
+          <label class="q"><span class="sr-only">Search food or restaurants</span>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#6B6259" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+            <input type="search" name="q" placeholder="Tacos, brunch, a restaurant name…" />
+          </label>
+          <label><span class="sr-only">Location</span><select name="city"><option value="">Anywhere</option>{LOCAL_CITIES.map((c) => <option selected={c === 'Huntsville'}>{c}</option>)}</select></label>
+          <button class="btn btn-red" type="submit" style="min-height: 52px;">Find food</button>
+        </form>
+        <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+          {cravings.map((c) => <a class="chip" href={`/restaurants?q=${encodeURIComponent(c)}`}>{c}</a>)}
+        </div>
+        {greatUrls.length > 0 && (
+          <button id="surprise" class="btn" type="button" style="align-self: flex-start; border-color: var(--green); color: var(--green);" data-urls={JSON.stringify(greatUrls)}>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 7h3l9 10h6"/><path d="M18 14l3 3-3 3"/><path d="M3 17h3l2.5-2.8"/><path d="M13.5 9.8L15 7h6"/><path d="M18 4l3 3-3 3"/></svg>
+            Not sure? Show me something good
+          </button>
+        )}
+      </div>
+      <div style="flex: 1 1 420px; min-width: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px;">
+        {newFinds.slice(0, 3).map((r, i) => (
+          <a href={`/restaurants/${r.id}`} style={i === 0 ? 'grid-row: span 2;' : ''}><Cover id={r.id} src={r.data.cover} alt={r.data.name} ratio={i === 0 ? '4 / 5' : '8 / 5'} play={false} /></a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="wrap section">
+    <div class="row-head">
+      <div><p class="kicker" style="margin-bottom: 8px;">Fresh from our TikTok</p><h2 class="h2">New finds</h2><div style="margin-top: 12px;"><LabelKey /></div></div>
+      <a class="link-strong" href="/restaurants">See all restaurants</a>
+    </div>
+    <div class="grid">{newFinds.map((r) => <RestaurantCard r={r} />)}</div>
+  </section>
+
+  {cuisines.length > 0 && (
+    <section class="wrap" style="padding-bottom: 64px;">
+      <h2 style="font-size: 30px; font-weight: 800; margin-bottom: 20px;">Browse by cuisine</h2>
+      <div class="circles">
+        {cuisines.map((c) => (
+          <a href={`/restaurants/cuisine/${slugify(c.name)}`}>
+            <span class="circle" style={`background: ${toneFor(c.name)};`}>{c.cover && <img src={c.cover} alt="" loading="lazy" />}</span>
+            <b>{c.name}</b>
+            <small>{c.count} {c.count === 1 ? 'spot' : 'spots'}</small>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <section class="band-ink">
+    <div class="wrap section">
+      <div class="row-head">
+        <div><p class="kicker" style="color: #F2A7A9; margin-bottom: 8px;">Guides &amp; Stories</p><h2 class="h2">Lists we'd send <span class="serif" style="font-style: italic; font-weight: 500;">a friend</span></h2></div>
+        <a class="link-strong" href="/guides">All guides</a>
+      </div>
+      <div class="grid" style="grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));">
+        {guides.map((g) => (
+          <a class="card" href={`/guides/${g.id}`} style="color: #fff;">
+            <Cover id={g.id} src={g.cover} alt="" ratio="3 / 2" play={false} />
+            <span class="kicker" style="color: #F2A7A9;">Guide · {g.data.entries.length} places</span>
+            <span class="name" style="font-size: 26px;">{g.data.title}</span>
+            <span class="serif" style="color: #D8D0C6; font-size: 17px;">{g.data.dek}</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="wrap section">
+    <div class="row-head">
+      <h2 style="font-size: 30px; font-weight: 800;">Watch before you go</h2>
+      <a href={SITE.tiktok} style="font-weight: 700;">@whattoeathuntsville on TikTok</a>
+    </div>
+    <div class="grid" style="grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));">
+      {videos.map((v) => (
+        <a class="card" href={v.data.tiktokUrl} rel="noopener">
+          <Cover id={v.id} src={v.data.cover} alt={v.data.title} ratio="9 / 16" />
+          <span style="font-weight: 800; font-size: 16px;">{v.data.title}</span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <SignupBand />
+
+  <script>
+    const btn = document.getElementById('surprise');
+    btn?.addEventListener('click', () => {
+      const urls: string[] = JSON.parse(btn.dataset.urls ?? '[]');
+      if (urls.length) location.href = urls[Math.floor(Math.random() * urls.length)];
+    });
+  </script>
+</Base>

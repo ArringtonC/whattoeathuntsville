@@ -1,0 +1,13 @@
+---
+import ListPage from '../../../components/ListPage.astro';
+import { listedRestaurants } from '../../../lib/data';
+import { LOCAL_CITIES, slugify } from '../../../lib/site';
+
+export async function getStaticPaths() {
+  const rs = await listedRestaurants();
+  return LOCAL_CITIES.map((c) => ({ params: { city: slugify(c) }, props: { name: c, items: rs.filter((r) => r.data.city === c) } }))
+    .filter((p) => p.props.items.length > 0);
+}
+const { name, items } = Astro.props;
+---
+<ListPage title={`Where to eat in ${name}`} kicker="City" dek={`Our picks in ${name}, AL. Good and Great only, plus new openings.`} items={items} />

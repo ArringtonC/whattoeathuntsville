@@ -1,0 +1,44 @@
+---
+import { guideCover, storyCover, visible } from '../../lib/data';
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Cover from '../../components/Cover.astro';
+import SignupBand from '../../components/SignupBand.astro';
+import { fmtDate } from '../../lib/site';
+
+const guides = await Promise.all((await getCollection('guides', visible)).sort((a, b) => +b.data.updated - +a.data.updated).map(async (g) => ({ ...g, cover: await guideCover(g) })));
+const stories = await Promise.all((await getCollection('stories', visible)).sort((a, b) => +b.data.published - +a.data.published).map(async (s) => ({ ...s, cover: await storyCover(s) })));
+const kinds = { 'new-opening': 'New opening', 'our-experience': 'Our experience', 'food-news': 'Food news', travel: 'Travel' };
+---
+<Base title="Guides & Stories" description="Restaurant lists and short stories from What to Eat Huntsville.">
+  <section class="band-cream"><div class="wrap" style="padding-top: 40px; padding-bottom: 32px; display: flex; flex-direction: column; gap: 12px;">
+    <p class="kicker">Guides &amp; Stories</p><h1 class="h1">Lists we'd send a friend</h1><p class="dek">Guides list several places. Stories tell you about one.</p>
+  </div></section>
+  <section class="wrap section">
+    <h2 class="h2" style="margin-bottom: 24px;">Guides</h2>
+    <div class="grid" style="grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));">
+      {guides.map((g) => (
+        <a class="card" href={`/guides/${g.id}`}>
+          <Cover id={g.id} src={g.cover} alt="" ratio="3 / 2" play={false} />
+          <span class="kicker">Guide · {g.data.entries.length} places · {g.data.city}</span>
+          <span class="name" style="font-size: 26px;">{g.data.title}</span>
+          <span class="order">{g.data.dek}</span>
+        </a>
+      ))}
+    </div>
+  </section>
+  <section class="wrap" style="padding-bottom: 64px;">
+    <h2 class="h2" style="margin-bottom: 24px;">Stories</h2>
+    <div class="grid" style="grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));">
+      {stories.map((s) => (
+        <a class="card" href={`/stories/${s.id}`}>
+          <Cover id={s.id} src={s.cover} alt="" ratio="3 / 2" />
+          <span class="kicker">{kinds[s.data.kind]}{s.data.sponsor && ' · Sponsored'}</span>
+          <span class="name" style="font-size: 24px;">{s.data.title}</span>
+          <span class="meta">{fmtDate(s.data.published)}</span>
+        </a>
+      ))}
+    </div>
+  </section>
+  <SignupBand />
+</Base>

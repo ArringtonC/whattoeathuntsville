@@ -1,0 +1,133 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Cover from '../../components/Cover.astro';
+import Label from '../../components/Label.astro';
+import RestaurantCard from '../../components/RestaurantCard.astro';
+import SignupBand from '../../components/SignupBand.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import { allRestaurants, listedRestaurants, videosFor, guidesFor, storiesFor } from '../../lib/data';
+import { fmtDate, mapsUrl, metaLine, priceText, slugify } from '../../lib/site';
+
+export async function getStaticPaths() {
+  return (await allRestaurants()).map((r) => ({ params: { slug: r.id }, props: { r } }));
+}
+const { r } = Astro.props;
+const d = r.data;
+const { Content } = await render(r);
+const videos = await videosFor(r.id);
+const mainVideo = videos[0];
+const guides = await guidesFor(r.id);
+const stories = await storiesFor(r.id);
+const similar = (await listedRestaurants()).filter((x) => x.id !== r.id && x.data.cuisines.some((c) => d.cuisines.includes(c))).slice(0, 4);
+const labelLine = { great: "A standout we'd send a friend to.", good: 'We liked it. Worth a visit.', 'first-look': 'New. First impressions, not rated yet.', none: '' }[d.label];
+const directions = mapsUrl(d);
+const status = { open: ['Open', 'var(--green)'], 'temporarily-closed': ['Temporarily closed', 'var(--red)'], closed: ['Closed', 'var(--red)'] }[d.status];
+const disclosure = { independent: 'We paid for our meal. This is not a sponsored post.', hosted: 'This visit was hosted. Our opinion is our own.', sponsored: 'Sponsored. This feature was paid for.' }[d.disclosure];
+---
+<Base title={d.name} description={d.verdict ?? `${d.name}: what to order, where it is, and our take.`} image={d.cover}>
+  <article class="wrap" style="padding-top: 20px;">
+    <nav aria-label="Breadcrumb" style="font-size: 14px; color: var(--soft-text); display: flex; gap: 8px; flex-wrap: wrap;">
+      <a href="/restaurants" style="color: inherit;">Find Food</a><span>/</span><a href={`/restaurants/city/${slugify(d.city)}`} style="color: inherit;">{d.city}</a><span>/</span><a href={`/restaurants/cuisine/${slugify(d.cuisines[0])}`} style="color: inherit;">{d.cuisines[0]}</a>
+    </nav>
+
+    {d.draft && import.meta.env.DEV && <p class="note" style="margin-top: 16px; background: #FFF3CD;"><strong>Draft, only visible in the local preview.</strong> Check the address and that it's open, set Great/Good/First Look, write the verdict, then set <code>draft: false</code>.</p>}
+    {d.status === 'closed' && <p class="note" style="margin-top: 16px;"><strong>This restaurant has closed.</strong> We keep the page so old links still work. Last checked {fmtDate(d.lastVerified)}.</p>}
+
+    <header style="display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 20px; margin: 20px 0 28px;">
+      <div style="flex: 1 1 520px; display: flex; flex-direction: column; gap: 12px;">
+        {d.label !== 'none' && <p style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"><Label label={d.label} /><span style="font-size: 14px; color: var(--muted);">{labelLine} <a href="/about#rate">How we rate</a></span></p>}
+        <h1 class="h1">{d.name}</h1>
+        <p style="font-size: 16px; font-weight: 600; color: var(--muted); display: flex; flex-wrap: wrap; gap: 6px 14px;">
+          <span>{metaLine(d.cuisines.join(', '), d.area ?? d.city, priceText(d.price))}</span>
+          <span style={`color: ${status[1]};`}>● {status[0]}</span>
+        </p>
+      </div>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+        <a class="btn btn-red" href={directions} rel="noopener">Directions</a>
+        {d.menuUrl && <a class="btn" href={d.menuUrl} rel="noopener">Menu</a>}
+        {d.reservationUrl && <a class="btn" href={d.reservationUrl} rel="noopener">Reserve</a>}
+      </div>
+    </header>
+
+    <div style="display: flex; flex-wrap: wrap; gap: 44px; align-items: center;">
+      <a href={mainVideo?.data.tiktokUrl ?? '#'} rel="noopener" aria-label={`Watch our TikTok about ${d.name}`} style="flex: 0 1 380px; min-width: 240px;">
+        <Cover id={r.id} src={d.cover} alt={d.name} focus={d.coverFocus} radius="22px" />
+      </a>
+      <div style="flex: 1 1 420px; min-width: 0; display: flex; flex-direction: column; gap: 18px;">
+        <p class="kicker">Our take</p>
+        {d.verdict && <blockquote class="serif" style="margin: 0; font-size: clamp(25px, 3vw, 36px); line-height: 1.2; font-weight: 500;">“{d.verdict}”</blockquote>}
+        <p style="font-size: 14px; color: var(--muted);">Verified {fmtDate(d.lastVerified)}</p>
+        <div class="prose" style="font-size: 19px;"><Content /></div>
+        {d.bestDish && (
+          <div class="band-cream" style="border-radius: 16px; padding: 16px 18px;">
+            <p class="kicker" style="font-size: 12px;">Best dish</p>
+            <p style="font-size: 21px; font-weight: 800; margin-top: 4px;">{d.bestDish.name}</p>
+            {d.bestDish.note && <p class="serif" style="font-size: 16px; color: var(--muted); margin-top: 2px;">{d.bestDish.note}</p>}
+          </div>
+        )}
+      </div>
+    </div>
+
+    <div style="display: flex; flex-wrap: wrap; gap: 48px; margin-top: 56px; align-items: flex-start;">
+      <div style="flex: 999 1 520px; min-width: 0; display: flex; flex-direction: column; gap: 44px;">
+        {d.alsoOrder.length > 0 && (
+          <section>
+            <h2 style="font-size: 28px; font-weight: 800;">{d.bestDish ? 'Also order' : 'What we ordered'}</h2>
+            <ul style="list-style: none; margin: 8px 0 0; padding: 0;">
+              {d.alsoOrder.map((x) => <li style="padding: 14px 0; border-bottom: 1px solid var(--line);"><strong style="font-size: 18px;">{x.name}</strong>{x.note && <span class="serif" style="display: block; color: var(--muted); font-size: 16px;">{x.note}</span>}</li>)}
+            </ul>
+            {d.skip && <p style="margin-top: 12px; color: var(--muted);"><strong style="color: var(--ink);">Skip:</strong> {d.skip}</p>}
+          </section>
+        )}
+        {videos.length > 0 && (
+          <section>
+            <h2 style="font-size: 28px; font-weight: 800; margin-bottom: 16px;">Videos from here</h2>
+            <div class="grid" style="grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));">
+              {videos.map((v) => <a class="card" href={v.data.tiktokUrl} rel="noopener"><Cover id={v.id} src={v.data.cover} alt={v.data.title} ratio="9 / 16" /><span style="font-weight: 700;">{v.data.title}</span></a>)}
+            </div>
+          </section>
+        )}
+        {(guides.length > 0 || stories.length > 0) && (
+          <section>
+            <h2 style="font-size: 24px; font-weight: 800;">Read more</h2>
+            {stories.map((s) => <a href={`/stories/${s.id}`} style="display: block; padding: 14px 0; border-bottom: 1px solid var(--line); text-decoration: none;"><span class="kicker" style="font-size: 11px;">Story</span><span style="display: block; font-size: 20px; font-weight: 800;">{s.data.title}</span></a>)}
+            {guides.map((g) => <a href={`/guides/${g.id}`} style="display: block; padding: 14px 0; border-bottom: 1px solid var(--line); text-decoration: none;"><span class="kicker" style="font-size: 11px;">In this guide</span><span style="display: block; font-size: 20px; font-weight: 800;">{g.data.title}</span></a>)}
+          </section>
+        )}
+        <p class="note"><strong>Disclosure:</strong> {disclosure} <a href="/about#standards">How we review</a></p>
+      </div>
+
+      <aside style="flex: 1 1 320px; min-width: 0; display: flex; flex-direction: column; gap: 18px;">
+        <div class="box" style="display: flex; flex-direction: column; gap: 14px;">
+          {d.address && <div><strong style="display: block;">Address</strong><span style="color: var(--muted);">{d.address}</span></div>}
+          <div><strong style="display: block;">Hours</strong><a href={directions} rel="noopener">See current hours on Google</a></div>
+          {d.phone && <div><strong style="display: block;">Phone</strong><a href={`tel:${d.phone}`}>{d.phone}</a></div>}
+          <a class="btn btn-red" href={directions} rel="noopener">Get directions</a>
+          {d.website && <a class="btn" href={d.website} rel="noopener">Restaurant website</a>}
+        </div>
+        <div class="box">
+          <strong style="display: block; margin-bottom: 6px;">What others say</strong>
+          <a href={directions} rel="noopener" style="display: flex; justify-content: space-between; min-height: 44px; align-items: center; border-top: 1px solid var(--line);">Google reviews <span aria-hidden="true">↗</span></a>
+          <a href={`https://www.reddit.com/r/HuntsvilleAlabama/search/?q=${encodeURIComponent(d.name)}`} rel="noopener" style="display: flex; justify-content: space-between; min-height: 44px; align-items: center; border-top: 1px solid var(--line);">Reddit threads <span aria-hidden="true">↗</span></a>
+        </div>
+      </aside>
+    </div>
+
+    <AdSlot />
+
+    {similar.length > 0 && (
+      <section style="margin-top: 56px; padding: 40px 0 64px; border-top: 1px solid var(--line);">
+        <h2 style="font-size: 30px; font-weight: 800; margin-bottom: 22px;">If you like this, try</h2>
+        <div class="grid">{similar.map((x) => <RestaurantCard r={x} />)}</div>
+      </section>
+    )}
+  </article>
+
+  <SignupBand heading="Liked this? Get a pick like it every week." />
+
+  <div slot="after" class="action-bar">
+    <a class="btn btn-red" style="flex: 1;" href={directions} rel="noopener">Directions</a>
+    {d.menuUrl && <a class="btn" href={d.menuUrl} rel="noopener">Menu</a>}
+  </div>
+</Base>

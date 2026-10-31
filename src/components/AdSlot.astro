@@ -1,0 +1,5 @@
+---
+// Display ad slot. Renders nothing until ADS_ENABLED is turned on; the box reserves space so pages don't jump.
+import { ADS_ENABLED } from '../lib/site';
+---
+{ADS_ENABLED && <aside class="ad" aria-label="Advertisement"><span>ADVERTISEMENT</span><div><slot /></div></aside>}

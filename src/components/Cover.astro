@@ -1,0 +1,13 @@
+---
+// A TikTok cover image, or a tinted placeholder until real covers are added.
+import { toneFor } from '../lib/site';
+interface Props { id: string; src?: string; alt: string; focus?: string; ratio?: string; play?: boolean; radius?: string }
+const { id, src, alt, focus = 'center', ratio = '4 / 5', play = true, radius } = Astro.props;
+---
+<span class="cover" style={`aspect-ratio: ${ratio}; background: ${toneFor(id)};${radius ? ` border-radius: ${radius};` : ''}`}>
+  {src
+    ? <img src={src} alt={alt} loading="lazy" style={`object-position: ${focus};`} />
+    : <span class="placeholder">TIKTOK COVER</span>}
+  <span class="tag"><slot /></span>
+  {play && <span class="play" aria-hidden="true"><svg width="13" height="13" viewBox="0 0 24 24" fill="#fff"><path d="M7 4l13 8-13 8z"/></svg></span>}
+</span>

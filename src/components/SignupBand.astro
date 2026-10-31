@@ -1,0 +1,33 @@
+---
+// Newsletter signup. Uses Netlify Forms for now; swap the action for the email service's form URL once chosen.
+interface Props { variant?: 'band' | 'inline'; heading?: string }
+const { variant = 'band', heading = 'Never wonder what to eat this week.' } = Astro.props;
+---
+{variant === 'band' ? (
+<section class="band-red">
+  <div class="wrap section" style="display: flex; flex-wrap: wrap; gap: 28px; align-items: center; justify-content: space-between; padding-top: 56px; padding-bottom: 56px;">
+    <div style="flex: 1 1 420px; display: flex; flex-direction: column; gap: 10px;">
+      <span class="kicker" style="color: #fff;">The Weekly Bite</span>
+      <h2 class="h2">{heading}</h2>
+      <p class="serif" style="font-size: 19px;">One Huntsville food pick in your inbox every Thursday. Free.</p>
+    </div>
+    <form name="newsletter" method="POST" data-netlify="true" action="/newsletter?thanks=1" style="flex: 1 1 400px; display: flex; flex-direction: column; gap: 8px;">
+      <input type="hidden" name="form-name" value="newsletter" />
+      <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+        <label style="flex: 1 1 220px;"><span class="sr-only">Email address</span><input class="input" style="border: 0; min-height: 56px;" type="email" name="email" required placeholder="you@email.com" autocomplete="email" /></label>
+        <button class="btn btn-ink" style="min-height: 56px;" type="submit">Sign me up</button>
+      </div>
+      <span style="font-size: 13px;">One email a week. Unsubscribe anytime.</span>
+    </form>
+  </div>
+</section>
+) : (
+<section class="band-cream" style="border-radius: 20px; padding: 24px; display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
+  <div style="flex: 1 1 260px;"><h2 style="font-size: 24px; font-weight: 800;">{heading}</h2><p style="font-size: 14px; color: var(--muted); margin-top: 6px;">The Weekly Bite. Free, one email a week.</p></div>
+  <form name="newsletter" method="POST" data-netlify="true" action="/newsletter?thanks=1" style="flex: 1 1 300px; display: flex; gap: 8px;">
+    <input type="hidden" name="form-name" value="newsletter" />
+    <label style="flex: 1; min-width: 0;"><span class="sr-only">Email address</span><input class="input" type="email" name="email" required placeholder="you@email.com" autocomplete="email" /></label>
+    <button class="btn btn-red" type="submit">Sign me up</button>
+  </form>
+</section>
+)}

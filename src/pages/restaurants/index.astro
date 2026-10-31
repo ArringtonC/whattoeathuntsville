@@ -1,0 +1,90 @@
+---
+import Base from '../../layouts/Base.astro';
+import RestaurantCard from '../../components/RestaurantCard.astro';
+import LabelKey from '../../components/LabelKey.astro';
+import SignupBand from '../../components/SignupBand.astro';
+import { listedRestaurants } from '../../lib/data';
+import { CITIES, CUISINES, OCCASIONS } from '../../lib/site';
+
+const restaurants = await listedRestaurants();
+const cuisines = CUISINES.filter((c) => restaurants.some((r) => r.data.cuisines.includes(c)));
+---
+<Base title="Find food" description="Search Huntsville and Madison restaurants by craving, cuisine, price, and occasion.">
+  <section class="band-cream" style="border-bottom: 1px solid var(--line);">
+    <div class="wrap" style="padding-top: 32px; padding-bottom: 20px; display: flex; flex-direction: column; gap: 16px;">
+      <h1 class="h2">Find food</h1>
+      <form id="filters" class="search" role="search" onsubmit="return false">
+        <label class="q"><span class="sr-only">Search food or restaurants</span>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#6B6259" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+          <input type="search" name="q" placeholder="Tacos, brunch, a restaurant name…" />
+        </label>
+        <label><span class="sr-only">Location</span><select name="city"><option value="">Anywhere</option>{CITIES.map((c) => <option>{c}</option>)}</select></label>
+      </form>
+      <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+        <label><span class="sr-only">Cuisine</span><select class="chip" name="cuisine" form="filters"><option value="">Cuisine</option>{cuisines.map((c) => <option>{c}</option>)}</select></label>
+        <label><span class="sr-only">Price</span><select class="chip" name="price" form="filters"><option value="">Price</option><option value="1">$</option><option value="2">$$</option><option value="3">$$$</option><option value="4">$$$$</option></select></label>
+        <label><span class="sr-only">Occasion</span><select class="chip" name="occasion" form="filters"><option value="">Occasion</option>{OCCASIONS.map((o) => <option>{o}</option>)}</select></label>
+        <label class="chip" style="gap: 8px;"><input type="checkbox" name="great" form="filters" style="width: 18px; height: 18px; accent-color: var(--red);" /> Great only</label>
+        <button class="chip" type="reset" form="filters" style="cursor: pointer; text-decoration: underline; border-color: transparent; background: transparent;">Clear all</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="wrap" style="padding-top: 28px; padding-bottom: 64px;">
+    <div class="row-head" style="align-items: center;">
+      <div style="display: flex; flex-direction: column; gap: 8px;">
+        <p id="count" aria-live="polite" style="font-size: 19px; font-weight: 700;">{restaurants.length} places</p>
+        <LabelKey />
+      </div>
+      <label style="display: flex; align-items: center; gap: 8px; color: var(--muted);">Sort
+        <select class="chip" name="sort" form="filters"><option value="label">Great first</option><option value="new">Newest</option><option value="az">A–Z</option></select>
+      </label>
+    </div>
+    <div id="results" class="grid">{restaurants.map((r) => <RestaurantCard r={r} />)}</div>
+    <p id="empty" hidden style="padding: 48px 0; font-size: 18px;">No places match yet. Try fewer filters, or <a href="/suggest">suggest a spot</a>.</p>
+  </section>
+
+  <SignupBand heading="Still deciding? Get one pick a week instead of scrolling." />
+
+  <script>
+    const form = document.getElementById('filters') as HTMLFormElement;
+    const grid = document.getElementById('results')!;
+    const cards = [...grid.querySelectorAll<HTMLAnchorElement>('.card')];
+    const original = [...cards];
+    const count = document.getElementById('count')!;
+    const empty = document.getElementById('empty')!;
+    const field = (n: string) => form.elements.namedItem(n) as HTMLInputElement | HTMLSelectElement;
+
+    // Prefill from the homepage search (?q=tacos&city=Huntsville).
+    const params = new URLSearchParams(location.search);
+    for (const k of ['q', 'city', 'cuisine', 'occasion']) if (params.get(k)) field(k).value = params.get(k)!;
+
+    function apply() {
+      const q = field('q').value.trim().toLowerCase();
+      const city = field('city').value, cuisine = field('cuisine').value, price = field('price').value, occasion = field('occasion').value;
+      const great = (field('great') as HTMLInputElement).checked;
+      const sort = field('sort').value;
+      let shown = 0;
+      for (const c of cards) {
+        const d = c.dataset;
+        const ok = (!q || q.split(/\s+/).every((w) => d.search!.includes(w)))
+          && (!city || d.city === city)
+          && (!cuisine || d.cuisines!.split('|').includes(cuisine))
+          && (!price || d.price === price)
+          && (!occasion || d.occasions!.split('|').includes(occasion))
+          && (!great || d.label === 'great');
+        c.hidden = !ok;
+        if (ok) shown++;
+      }
+      const sorted = sort === 'az' ? [...cards].sort((a, b) => a.dataset.name!.localeCompare(b.dataset.name!))
+        : sort === 'new' ? [...cards].sort((a, b) => b.dataset.verified!.localeCompare(a.dataset.verified!))
+        : original;
+      grid.append(...sorted);
+      count.textContent = `${shown} ${shown === 1 ? 'place' : 'places'}${q ? ` for “${field('q').value.trim()}”` : ''}${city ? ` in ${city}` : ''}`;
+      empty.hidden = shown > 0;
+    }
+    form.addEventListener('input', apply);
+    form.addEventListener('reset', () => setTimeout(apply));
+    apply();
+  </script>
+</Base>

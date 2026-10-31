@@ -1,0 +1,14 @@
+---
+import { getCollection } from 'astro:content';
+import ListPage from '../../components/ListPage.astro';
+import { listedRestaurants, visible } from '../../lib/data';
+import { TRAVEL_CITIES, slugify } from '../../lib/site';
+
+export async function getStaticPaths() {
+  const rs = await listedRestaurants();
+  const guides = await getCollection('guides', visible);
+  return TRAVEL_CITIES.map((c) => ({ params: { city: slugify(c) }, props: { name: c, items: rs.filter((r) => r.data.city === c), guides: guides.filter((g) => g.data.city === c) } }));
+}
+const { name, items, guides } = Astro.props;
+---
+<ListPage title={`${name} eats`} kicker="Travel" dek={`Where we ate in ${name}, and what to order.`} items={items} guides={guides} />

@@ -1,0 +1,5 @@
+---
+interface Props { label: 'great' | 'good' | 'first-look' | 'none' | 'sponsored' }
+const text = { great: 'GREAT', good: 'GOOD', 'first-look': 'FIRST LOOK', sponsored: 'SPONSORED', none: '' }[Astro.props.label];
+---
+{text && <span class={`label label-${Astro.props.label}`}>{text}</span>}
