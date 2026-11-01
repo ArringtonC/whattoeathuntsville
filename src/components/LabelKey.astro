@@ -1,8 +1,10 @@
 ---
 import Label from './Label.astro';
+import { PRICE_KEY } from '../lib/site';
 ---
 <p class="key">
   <span><Label label="great" /> A standout. Go.</span>
   <span><Label label="good" /> We liked it. Worth a visit.</span>
   <a href="/about#rate">How we rate</a>
 </p>
+<p class="key" style="margin-top: 6px; font-size: 14px; color: var(--muted);">Price for two: {PRICE_KEY.map((r, i) => <span><b>{'$'.repeat(i + 1)}</b> {r}</span>)}</p>

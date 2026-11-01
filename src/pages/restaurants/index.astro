@@ -4,7 +4,7 @@ import RestaurantCard from '../../components/RestaurantCard.astro';
 import LabelKey from '../../components/LabelKey.astro';
 import SignupBand from '../../components/SignupBand.astro';
 import { listedRestaurants } from '../../lib/data';
-import { CUISINES, LOCAL_CITIES, OCCASIONS, TRAVEL_CITIES } from '../../lib/site';
+import { CUISINES, LOCAL_CITIES, OCCASIONS, PRICE_KEY, TRAVEL_CITIES } from '../../lib/site';
 
 const restaurants = await listedRestaurants();
 const cuisines = CUISINES.filter((c) => restaurants.some((r) => r.data.cuisines.includes(c)));
@@ -22,7 +22,7 @@ const cuisines = CUISINES.filter((c) => restaurants.some((r) => r.data.cuisines.
       </form>
       <div style="display: flex; flex-wrap: wrap; gap: 8px;">
         <label><span class="sr-only">Cuisine</span><select class="chip" name="cuisine" form="filters"><option value="">Cuisine</option>{cuisines.map((c) => <option>{c}</option>)}</select></label>
-        <label><span class="sr-only">Price</span><select class="chip" name="price" form="filters"><option value="">Price</option><option value="1">$</option><option value="2">$$</option><option value="3">$$$</option><option value="4">$$$$</option></select></label>
+        <label><span class="sr-only">Price</span><select class="chip" name="price" form="filters"><option value="">Price</option>{PRICE_KEY.map((r, i) => <option value={i + 1}>{'$'.repeat(i + 1)} ({r})</option>)}</select></label>
         <label><span class="sr-only">Occasion</span><select class="chip" name="occasion" form="filters"><option value="">Occasion</option>{OCCASIONS.map((o) => <option>{o}</option>)}</select></label>
         <label class="chip" style="gap: 8px;"><input type="checkbox" name="great" form="filters" style="width: 18px; height: 18px; accent-color: var(--red);" /> Great only</label>
         <button class="chip" type="reset" form="filters" style="cursor: pointer; text-decoration: underline; border-color: transparent; background: transparent;">Clear all</button>

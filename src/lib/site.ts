@@ -32,6 +32,8 @@ export const OCCASIONS = ['Date night', 'Brunch', 'Family', 'Quick lunch', 'Late
 export const slugify = (s: string) => s.toLowerCase().replace(/&/g, 'and').replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
 
 export const priceText = (p?: number) => (p ? '$'.repeat(p) : '');
+// What each price level means, about what a meal for two costs (set by Michaela and Arrington).
+export const PRICE_KEY = ['$10–20', '$25–50', '$50–100', '$100–200'];
 // Joins the parts of a meta line, skipping blanks: "Mexican · Madison · $".
 export const metaLine = (...parts: (string | undefined)[]) => parts.filter(Boolean).join(' · ');
 
