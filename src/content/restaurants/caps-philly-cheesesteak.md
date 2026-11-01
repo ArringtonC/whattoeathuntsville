@@ -13,6 +13,7 @@ lastVerified: 2025-02-26
 draft: true
 status: open
 searchTerms: ["huntsville", "nails gas station", "sandwiches", "quick lunch", "cheesesteak", "philly", "fast lunch"]
+website: "https://capsphillycheesest.wixsite.com/welcome"
 ---
 
 A taste of Philly from Cap’s Philly Cheesesteak located in Huntsville, AL in Nails Gas Station Yes, they have house made cheese whiz AND they’re from philly. Don’t believe me? Go check what people are saying on reddit/fb or try it yourself 😊 I get mine with provolone so don’t judge lol

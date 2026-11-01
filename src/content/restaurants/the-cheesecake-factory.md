@@ -13,6 +13,7 @@ lastVerified: 2026-10-08
 draft: true
 status: open
 searchTerms: ["huntsville", "bridge street town centre", "american", "group", "family"]
+website: "https://locations.thecheesecakefactory.com/al/huntsville-217.html"
 ---
 
 Trying The Cheesecake Factory’s viral dishes 👀🍝 Keith Lee put us on to the Cajun Salmon, so we had to try it! Louisiana Chicken Pasta + extra sauce Cajun Salmon + extra sauce and cheese on the mashed potatoes social

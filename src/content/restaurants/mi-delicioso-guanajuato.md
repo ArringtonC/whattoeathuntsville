@@ -13,6 +13,7 @@ occasions: []
 status: open
 searchTerms: ["huntsville", "mexican", "mexican food", "birria tacos", "taco", "street tacos", "mole enchiladas", "tamales", "agua fresca", "casual", "quick lunch"]
 address: "2818 Governors Dr SW Ste C, Huntsville, AL 35805"
+website: "https://mideliciosoguanajuatoal.com/"
 ---
 
 Mi Delicioso Guanajuato in Huntsville, AL 🌮😋 🔥🔥 4.7 rating ⭐ Yummy food, great service, food came out hot & fresh. muuuuyyy delicioso! The order 📝 Quesabirras y consome Chicken taco Flautas con pollo 📍located near Stovehouse (tagged)

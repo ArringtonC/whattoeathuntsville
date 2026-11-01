@@ -12,6 +12,7 @@ lastVerified: 2026-02-13
 draft: true
 status: open
 searchTerms: ["madison", "clift farm", "american", "date night", "group", "birthday", "romantic dinner"]
+website: "https://chwinery.com/"
 ---
 
 Is Cooper’s Hawk worth the hype? 👀🍷 We tried the newest spot in cliftfarmal … and we think it is!! Here’s our foodie review! Whether it’s date night, girls’ night, birthdays, or a just-because dinner — this is a great spot for any occasion. We tried: 🥟 Chicken Potstickers 🥪 The Prime 🥩 Surf & Turf (Parmesan-crusted medallions + grouper) 🍫 S’mores Budino (10/10 – rich, chocolatey, perfectly toasted) And I’m not exaggerating when I say… it tasted just as good the next day 👀 leftovers matter.

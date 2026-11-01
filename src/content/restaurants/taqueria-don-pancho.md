@@ -14,6 +14,7 @@ draft: true
 occasions: []
 status: open
 searchTerms: ["madison", "mexican", "birria tacos", "mexican food", "quesabirria", "taco"]
+website: "https://taqueriadonpanchoal.com"
 ---
 
 Taqueria Don Pancho in 🔥🌮 The reviewers online didn’t lie. This place is 🔥! The order 📝 😋🫶🏽 mamalona steak & chicken 📍7950 Hwy 72 W (plaza next to lowes with Michael’s and taco bell)

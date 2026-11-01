@@ -1,9 +1,12 @@
 # Tag grid spreadsheet: one row per restaurant, one yes/no column per popular tag.
 #   python3 scripts/tag-grid.py export   writes restaurant-tags.xlsx
 #   python3 scripts/tag-grid.py import   copies label, reviewed, and tags back into the restaurant files
+# If menu-check.json exists (from the website check), tags the menu did not show are red, unclear ones yellow,
+# and a "Menu check" sheet lists websites, closures and suggested tags.
 import glob, json, os, sys
 from collections import Counter
 from openpyxl import Workbook, load_workbook
+from openpyxl.comments import Comment
 from openpyxl.formatting.rule import CellIsRule
 from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
@@ -12,6 +15,7 @@ from openpyxl.worksheet.datavalidation import DataValidation
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 DIR = os.path.join(ROOT, "src", "content", "restaurants")
 XLSX = os.path.join(ROOT, "restaurant-tags.xlsx")
+CHECK = os.path.join(ROOT, "menu-check.json")
 FIXED = ["Restaurant", "City", "Label", "Reviewed"]
 TAIL = ["Other tags", "slug"]
 # Always offered, even before any restaurant uses them.
@@ -56,6 +60,17 @@ def export():
     label.add(f"C2:C{n}")
 
     green = PatternFill("solid", start_color="C8E6C9"); bold = Font(bold=True)
+    check = {c["slug"]: c for c in json.load(open(CHECK))} if os.path.exists(CHECK) else {}
+    fills = {"no": PatternFill("solid", start_color="F4B6B6"), "unclear": PatternFill("solid", start_color="FFE9A8")}
+    for r in range(2, n + 1):
+        found = {t["tag"].lower(): t for t in check.get(ws.cell(row=r, column=len(cols)).value, {}).get("tags", [])}
+        for c in range(first_tag, last_tag + 1):
+            t = found.get(str(ws.cell(row=1, column=c).value).lower())
+            if t and t["result"] in fills:
+                cell = ws.cell(row=r, column=c)
+                # Added before the green rule, so it wins while the cell still says yes.
+                ws.conditional_formatting.add(cell.coordinate, CellIsRule(operator="equal", formula=['"yes"'], fill=fills[t["result"]], stopIfTrue=True))
+                cell.comment = Comment(f"Menu check: {t['result']}. {t.get('note', '')}", "menu check")
     ws.conditional_formatting.add(f"D2:{get_column_letter(last_tag)}{n}", CellIsRule(operator="equal", formula=['"yes"'], fill=green))
     for c in range(1, len(cols) + 1):
         cell = ws.cell(row=1, column=c); cell.font = bold
@@ -68,6 +83,17 @@ def export():
     ws.column_dimensions[get_column_letter(len(cols) - 1)].width = 40
     ws.column_dimensions[get_column_letter(len(cols))].hidden = True   # slug links the row to its file
     ws.freeze_panes = "B2"
+    if check:
+        ms = wb.create_sheet("Menu check")
+        ms.append(["Restaurant", "Status", "Not on menu", "Unclear", "Suggested tags", "Website", "Menu used", "Notes"])
+        names = {slug: json.loads(v["name"]) for slug, v in data.items()}
+        for c in sorted(check.values(), key=lambda c: names.get(c["slug"], c["slug"]).lower()):
+            pick = lambda res: ", ".join(t["tag"] for t in c["tags"] if t["result"] == res)
+            ms.append([names.get(c["slug"], c["slug"]), c["status"], pick("no"), pick("unclear"), ", ".join(c["suggested"]),
+                       c["website"], c["menuUrl"], c.get("notes", "")])
+        for col, w in zip("ABCDEFGH", (28, 11, 24, 24, 34, 30, 30, 80)): ms.column_dimensions[col].width = w
+        for cell in ms[1]: cell.font = bold
+        ms.freeze_panes = "B2"
     wb.save(XLSX)
     print(f"Wrote restaurant-tags.xlsx: {n - 1} restaurants x {len(tag_cols)} tag columns")
 

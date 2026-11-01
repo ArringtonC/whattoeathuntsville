@@ -13,6 +13,7 @@ draft: true
 occasions: []
 status: open
 searchTerms: ["huntsville", "midcity", "bbq", "smoked meat", "chicken wings", "wing spot", "casual"]
+website: "https://blueoakbbqhsv.com/"
 ---
 
 Is tiktok still being weird?? Hope not because we wanna share our experience BlueOakBBQ located in MidCity Tried one of their daily specials the Winter Burger 🌶️🍔 and mild buffalo wings

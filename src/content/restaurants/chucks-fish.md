@@ -12,6 +12,7 @@ lastVerified: 2025-12-15
 draft: true
 status: open
 searchTerms: ["huntsville", "date night", "romantic dinner"]
+website: "https://www.chucksfish.com/madison/"
 ---
 
 Chuck’s Fish was a perfect date night ✨🩷 We order parmesan crusted grouper and sushi! def worth another visit!! 🍽️ 😋

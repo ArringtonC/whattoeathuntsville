@@ -1,0 +1,3135 @@
+[
+ {
+  "slug": "a-town-wings",
+  "website": "https://atownwings.com",
+  "menuUrl": "https://www.doordash.com/store/a-town-wings-huntsville-40737355/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "wings",
+    "result": "yes"
+   },
+   {
+    "tag": "lemon pepper wings",
+    "result": "yes",
+    "note": "hot lemon pepper flavor per listing/TikTok"
+   },
+   {
+    "tag": "hot honey",
+    "result": "yes",
+    "note": "hot honey flavor per listing/TikTok"
+   }
+  ],
+  "suggested": [
+   "philly cheesesteak",
+   "fried fish",
+   "catfish",
+   "fried rice",
+   "shrimp",
+   "chicken tenders"
+  ],
+  "notes": "Chain site (atownwings.com) has no flavor list; flavors from search snippets of DoorDash/TikTok. Address is 2608 Memorial Pkwy NW."
+ },
+ {
+  "slug": "aloha-ramen-house",
+  "website": "",
+  "menuUrl": "https://www.doordash.com/en/store/aloha-ramen-house-madison-27851339/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "ramen",
+    "result": "yes"
+   },
+   {
+    "tag": "dumplings",
+    "result": "yes",
+    "note": "gyoza and wontons"
+   },
+   {
+    "tag": "katsu",
+    "result": "yes",
+    "note": "chicken katsu curry, shrimp katsu"
+   }
+  ],
+  "suggested": [
+   "udon",
+   "curry",
+   "fried rice",
+   "vegetarian options",
+   "family-owned"
+  ],
+  "notes": "1591 Hughes Rd Ste C, Madison. Open Tue-Sat 11-8:30. No official site found."
+ },
+ {
+  "slug": "baby-bite-bake-shop",
+  "website": "https://babybitebakeshop.com",
+  "menuUrl": "",
+  "status": "closed",
+  "tags": [
+   {
+    "tag": "cookies",
+    "result": "unclear",
+    "note": "shop closed; no current menu"
+   },
+   {
+    "tag": "cake",
+    "result": "yes",
+    "note": "known for mini cakes ('baby bites')"
+   }
+  ],
+  "suggested": [],
+  "notes": "Closed permanently at end of 2025 (Homely Huntsville news; Yelp shows CLOSED)."
+ },
+ {
+  "slug": "barracuda-taco-stand",
+  "website": "https://www.eatbarracuda.com",
+  "menuUrl": "https://www.eatbarracuda.com/menu/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "tacos",
+    "result": "yes"
+   },
+   {
+    "tag": "margaritas",
+    "result": "yes"
+   },
+   {
+    "tag": "fish tacos",
+    "result": "yes",
+    "note": "crispy catfish taco"
+   },
+   {
+    "tag": "nachos",
+    "result": "yes",
+    "note": "deluxe nachos per Huntsville news; not on chain menu page"
+   },
+   {
+    "tag": "breakfast tacos",
+    "result": "yes",
+    "note": "egg/bean/cheese tacos; opens 7am"
+   }
+  ],
+  "suggested": [
+   "queso",
+   "patio",
+   "kids menu",
+   "catering",
+   "breakfast",
+   "vegetarian options"
+  ],
+  "notes": "Opened March 2026. Toast page blocked (403); used chain menu plus news/search snippets."
+ },
+ {
+  "slug": "beignets-and-brew",
+  "website": "https://www.beignetsandbrew.com/find/al/madison/12120-county-line-rd",
+  "menuUrl": "https://beignetsbrew.toast.site/order/bnb-madison",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "coffee",
+    "result": "yes"
+   },
+   {
+    "tag": "beignets",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "drive-thru",
+   "breakfast",
+   "mimosas",
+   "matcha",
+   "ice cream",
+   "tea"
+  ],
+  "notes": "12120 County Line Rd, Madison. Chain with drive-thru. Menu from search snippets."
+ },
+ {
+  "slug": "big-johns",
+  "website": "",
+  "menuUrl": "https://www.toasttab.com/local/order/big-johns-bbq-the-bottle-7061-hwy-72-w",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "catfish",
+    "result": "yes",
+    "note": "fried catfish (Fridays) and fish sandwich"
+   },
+   {
+    "tag": "fries",
+    "result": "yes",
+    "note": "loaded fries"
+   }
+  ],
+  "suggested": [
+   "wings",
+   "loaded fries",
+   "barbecue",
+   "ribs",
+   "food truck",
+   "Black-owned"
+  ],
+  "notes": "At The Open Bottle, 7061 Hwy 72 W; Thu-Sat 4-9pm. Toast and StreetFoodFinder blocked (403); used search snippets. Black-owned per TikTok tag."
+ },
+ {
+  "slug": "big-papa-gyro",
+  "website": "",
+  "menuUrl": "https://www.grubsouth.com/order/restaurant/big-papa-gyro-menu/422",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "fries",
+    "result": "yes"
+   },
+   {
+    "tag": "salads",
+    "result": "yes",
+    "note": "Greek, Mediterranean, gyro salads"
+   },
+   {
+    "tag": "gyros",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "falafel",
+   "hummus",
+   "baklava",
+   "greek",
+   "vegetarian options",
+   "catering"
+  ],
+  "notes": "4925 University Dr NW. No official site found."
+ },
+ {
+  "slug": "blue-oak-bbq",
+  "website": "https://blueoakbbqhsv.com/",
+  "menuUrl": "https://order.toasttab.com/online/blue-oak-bbq-huntsville-1000-university-drive",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "wings",
+    "result": "yes",
+    "note": "smoked wings"
+   },
+   {
+    "tag": "burgers",
+    "result": "yes",
+    "note": "BBQ burger, Rocket City Burger"
+   },
+   {
+    "tag": "sandwiches",
+    "result": "yes"
+   },
+   {
+    "tag": "barbecue",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "brisket",
+   "gumbo",
+   "mac and cheese",
+   "fajitas",
+   "happy hour"
+  ],
+  "notes": "1000 Mid City Dr. Toast blocked (403); used search snippets. Happy hour seen on chain site; Huntsville not confirmed."
+ },
+ {
+  "slug": "bos-best-wings",
+  "website": "https://bo-s-best-wings-number-2-llc.square.site/",
+  "menuUrl": "https://order.toasttab.com/online/bo's%20wings",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "wings",
+    "result": "yes"
+   },
+   {
+    "tag": "catfish",
+    "result": "yes"
+   },
+   {
+    "tag": "fries",
+    "result": "yes"
+   },
+   {
+    "tag": "lemon pepper wings",
+    "result": "yes",
+    "note": "hot lemon pepper per TikTok"
+   },
+   {
+    "tag": "hot honey",
+    "result": "yes",
+    "note": "hot honey wings per TikTok"
+   }
+  ],
+  "suggested": [
+   "fried green tomatoes",
+   "tilapia",
+   "whiting",
+   "boneless wings",
+   "chicken tenders",
+   "food truck"
+  ],
+  "notes": "3700 Blue Spring Rd NW Unit A. Square site is for the food truck. Toast blocked (403); used search snippets."
+ },
+ {
+  "slug": "caps-philly-cheesesteak",
+  "website": "https://capsphillycheesest.wixsite.com/welcome",
+  "menuUrl": "https://www.doordash.com/store/caps-philly-cheesesteak-huntsville-39370389/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "Black-owned",
+    "result": "yes",
+    "note": "described as Black-owned in reviews/TikTok"
+   },
+   {
+    "tag": "Philly cheesesteak",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "cajun fries",
+   "lemonade",
+   "breakfast"
+  ],
+  "notes": "Now at 11451 S Memorial Pkwy (in a gas station). Old 9th Ave SW spot shows closed on Yelp. Hours start 6am, weekdays only."
+ },
+ {
+  "slug": "chikin-jip",
+  "website": "https://www.chikinjipusa.com/",
+  "menuUrl": "https://allthingsmadison.com/chikinjip-madison-al/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "fries",
+    "result": "yes"
+   },
+   {
+    "tag": "bulgogi",
+    "result": "yes",
+    "note": "Beef Bulgogi Bowl"
+   },
+   {
+    "tag": "Korean fried chicken",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "wings",
+   "tteokbokki",
+   "soy garlic chicken",
+   "dumplings",
+   "beer",
+   "rice bowls"
+  ],
+  "notes": "Located at 12120 County Line Rd, Madison. The official site menu did not render, so I used the All Things Madison article, the ChowNow page, and search results."
+ },
+ {
+  "slug": "china-dragon",
+  "website": "",
+  "menuUrl": "https://www.ubereats.com/store/china-dragon-iii/8VBYAW-9SXiJZNS1BcAIzw",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "lo mein",
+    "result": "yes"
+   },
+   {
+    "tag": "General Tso's",
+    "result": "yes"
+   },
+   {
+    "tag": "sesame chicken",
+    "result": "yes"
+   },
+   {
+    "tag": "Chinese",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "fried rice",
+   "egg foo young",
+   "lunch specials",
+   "honey chicken",
+   "chow mein"
+  ],
+  "notes": "Several China Dragon restaurants exist: China Dragon III, plus others in Madison (7190 Wall Triana) and Athens. I used the China Dragon III Uber Eats menu, so confirm the address."
+ },
+ {
+  "slug": "chucks-fish",
+  "website": "https://www.chucksfish.com/madison/",
+  "menuUrl": "https://www.chucksfish.com/madison/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "pizza",
+    "result": "yes"
+   },
+   {
+    "tag": "sushi",
+    "result": "yes"
+   },
+   {
+    "tag": "hot honey",
+    "result": "yes",
+    "note": "hot honey pizza in reviews"
+   },
+   {
+    "tag": "chicken parmesan",
+    "result": "unclear",
+    "note": "Search shows parmesan crusted chicken/grouper and chicken scallopini, not a clear chicken parm; menu PDF not read"
+   },
+   {
+    "tag": "seafood",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "steak",
+   "gumbo",
+   "crab cakes",
+   "patio",
+   "cocktails",
+   "gluten-free options"
+  ],
+  "notes": "Located in Madison at Clift Farm (461 John Henry Way), not Huntsville. It has an outdoor terrace. I could not read the menu PDFs."
+ },
+ {
+  "slug": "city-barbeque",
+  "website": "https://www.citybbq.com/location/memorial-parkway",
+  "menuUrl": "https://www.yelp.com/menu/city-barbeque-huntsville",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "wings",
+    "result": "yes"
+   },
+   {
+    "tag": "mac and cheese",
+    "result": "yes"
+   },
+   {
+    "tag": "baked beans",
+    "result": "yes"
+   },
+   {
+    "tag": "green beans",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "brisket",
+   "pulled pork",
+   "ribs",
+   "banana pudding",
+   "cornbread",
+   "catering"
+  ],
+  "notes": "Located at 11544 Memorial Pkwy SW. It opened in Feb 2026."
+ },
+ {
+  "slug": "coopers-hawk",
+  "website": "https://chwinery.com/",
+  "menuUrl": "https://chwinery.com/menus/dine-in-carryout",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "chicken parmesan",
+    "result": "no",
+    "note": "Only Dana's Parmesan-Crusted Chicken, not classic chicken parm"
+   },
+   {
+    "tag": "seafood",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "wine",
+   "steak",
+   "salmon",
+   "brunch",
+   "happy hour",
+   "gluten-free options"
+  ],
+  "notes": "Located at 8228 Hwy 72 W, Madison. Brunch and happy hour are from news and listings."
+ },
+ {
+  "slug": "cutes-and-cupcakes",
+  "website": "https://www.cutesandcakes.com/",
+  "menuUrl": "https://www.cutesandcakes.com/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "cookies",
+    "result": "unclear",
+    "note": "Not shown on site"
+   },
+   {
+    "tag": "cheesecake",
+    "result": "yes",
+    "note": "Listings say cheesecakes"
+   },
+   {
+    "tag": "cake",
+    "result": "yes"
+   },
+   {
+    "tag": "cupcakes",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "charcuterie",
+   "custom cakes",
+   "desserts"
+  ],
+  "notes": "The real name is Cutes and Cakes, not Cutes and Cupcakes. Located at Stovehouse, 3414 Governors Dr SW."
+ },
+ {
+  "slug": "daylight-donuts-south",
+  "website": "",
+  "menuUrl": "https://order.online/store/daylight-donuts-memorial-pkwy-sw-22999791",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "donuts",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "coffee",
+   "breakfast"
+  ],
+  "notes": "Located at 11823 Memorial Pkwy SW. It has a Facebook page only, plus the daylightdonuts.com chain site. DoorDash blocked me (403), so I used search results."
+ },
+ {
+  "slug": "domaine-south",
+  "website": "https://www.domainesouth.com/",
+  "menuUrl": "https://www.yelp.com/menu/domaine-south-huntsville",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "cocktails",
+    "result": "yes"
+   },
+   {
+    "tag": "fries",
+    "result": "yes",
+    "note": "duck fat fries with steak frites"
+   },
+   {
+    "tag": "sandwiches",
+    "result": "yes"
+   },
+   {
+    "tag": "steak",
+    "result": "yes",
+    "note": "Steak Frites"
+   },
+   {
+    "tag": "salads",
+    "result": "yes"
+   },
+   {
+    "tag": "salmon",
+    "result": "yes",
+    "note": "Salmon Bowl"
+   }
+  ],
+  "suggested": [
+   "wine",
+   "charcuterie",
+   "cheese boards",
+   "burgers",
+   "desserts"
+  ],
+  "notes": "The Yelp menu looked old and showed no steak or salmon. Search snippets show Steak Frites and a Salmon Bowl."
+ },
+ {
+  "slug": "dragon-alley",
+  "website": "",
+  "menuUrl": "https://www.toasttab.com/local/order/dragon-alley",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "sushi",
+    "result": "unclear",
+    "note": "Only a vague mention of sushi/tuna tartare; not confirmed on menu"
+   },
+   {
+    "tag": "dumplings",
+    "result": "yes"
+   },
+   {
+    "tag": "noodles",
+    "result": "yes"
+   },
+   {
+    "tag": "udon",
+    "result": "yes",
+    "note": "Yaki Udon"
+   },
+   {
+    "tag": "bao",
+    "result": "yes"
+   },
+   {
+    "tag": "karaoke",
+    "result": "yes",
+    "note": "Fri & Sat"
+   }
+  ],
+  "suggested": [
+   "fried rice",
+   "pad thai",
+   "cocktails",
+   "roasted duck",
+   "dj",
+   "patio"
+  ],
+  "notes": "Toast blocked me (403). I used search snippets from Toast and Yelp."
+ },
+ {
+  "slug": "entice-bar-and-grille",
+  "website": "https://www.facebook.com/p/Entice-Bar-Grill-61564983720132/",
+  "menuUrl": "https://www.zmenu.com/entice-bar-and-grill-madison-online-menu/",
+  "status": "unknown",
+  "tags": [
+   {
+    "tag": "wings",
+    "result": "yes",
+    "note": "listing: tacos and chicken wings"
+   },
+   {
+    "tag": "happy hour",
+    "result": "unclear"
+   },
+   {
+    "tag": "budget-friendly",
+    "result": "unclear"
+   }
+  ],
+  "suggested": [
+   "tacos",
+   "sports bar",
+   "late night",
+   "cocktails"
+  ],
+  "notes": "Located at 8694 Madison Blvd. Open 3pm to 2am. Facebook only. Yelp last updated Dec 2025, so status is unknown. I did not see the full menu."
+ },
+ {
+  "slug": "floyds-barbecue",
+  "website": "",
+  "menuUrl": "https://www.allmenus.com/al/huntsville/743290-floyds-barbeque/menu/",
+  "status": "open",
+  "notes": "Floyd's Barbeque, 5988 Pulaski Pike NW. No official site. The menu comes from an allmenus listing and may be old. Yelp was updated July 2026 and is not marked closed.",
+  "tags": [
+   {
+    "tag": "Black-owned",
+    "result": "unclear",
+    "note": "no source found that confirms ownership"
+   },
+   {
+    "tag": "fries",
+    "result": "yes"
+   },
+   {
+    "tag": "sandwiches",
+    "result": "yes"
+   },
+   {
+    "tag": "mac and cheese",
+    "result": "yes"
+   },
+   {
+    "tag": "baked beans",
+    "result": "yes"
+   },
+   {
+    "tag": "ribs",
+    "result": "yes"
+   },
+   {
+    "tag": "pulled pork",
+    "result": "yes",
+    "note": "pork sandwich/plate/by the pound"
+   }
+  ],
+  "suggested": [
+   "smoked chicken",
+   "fried okra",
+   "potato salad",
+   "coleslaw",
+   "catering",
+   "bbq by the pound"
+  ]
+ },
+ {
+  "slug": "fluffy-fluffy",
+  "website": "https://www.fluffyfluffy.com",
+  "menuUrl": "https://order.toasttab.com/online/fluffy-fluffy-huntsville",
+  "status": "open",
+  "notes": "Toast blocked my fetch with a 403 error, so I used search snippets from Toast, DoorDash and fluffyfluffy.com. 2338 Whitesburg Dr.",
+  "tags": [
+   {
+    "tag": "coffee",
+    "result": "yes",
+    "note": "espresso lattes"
+   },
+   {
+    "tag": "cheesecake",
+    "result": "yes",
+    "note": "burnt-top cheesecakes incl. matcha"
+   },
+   {
+    "tag": "pancakes",
+    "result": "yes",
+    "note": "souffle pancakes"
+   },
+   {
+    "tag": "matcha",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "souffle pancakes",
+   "tiramisu",
+   "desserts",
+   "japanese",
+   "brunch"
+  ]
+ },
+ {
+  "slug": "gordo-street-tacos",
+  "website": "",
+  "menuUrl": "https://www.restaurantji.com/al/harvest/gordos-street-tacos-/",
+  "status": "closed",
+  "notes": "I found no Madison location. The nearest match is in Harvest, at 5525/5527 AL-53. Yelp and MapQuest list it as CLOSED, but other listings conflict, so check before you remove it. There is also an Ardmore location.",
+  "tags": [
+   {
+    "tag": "tacos",
+    "result": "yes"
+   },
+   {
+    "tag": "drive-thru",
+    "result": "yes",
+    "note": "listings and reviews mention drive-thru"
+   },
+   {
+    "tag": "street tacos",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "birria",
+   "burritos",
+   "tortas",
+   "quesadillas"
+  ]
+ },
+ {
+  "slug": "handels-ice-cream",
+  "website": "https://handelsicecream.com",
+  "menuUrl": "https://handelsicecream.com/menu/",
+  "status": "open",
+  "notes": "7086 Hwy 72 W.",
+  "tags": [
+   {
+    "tag": "cookies",
+    "result": "yes",
+    "note": "ice cream cookie sandwiches, cookie dough flavors"
+   },
+   {
+    "tag": "cheesecake",
+    "result": "yes",
+    "note": "cheesecake chunk flavors (ice cream, not slices)"
+   },
+   {
+    "tag": "ice cream",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "milkshakes",
+   "sundaes",
+   "dessert"
+  ]
+ },
+ {
+  "slug": "hattie-bs-huntsville",
+  "website": "https://www.hattieb.com",
+  "menuUrl": "https://cdn.prod.website-files.com/643d59ec34f67a709d4fb759/6933501f2c8dedfe54dc4980_HBS_Huntsville_Menu.pdf",
+  "status": "open",
+  "notes": "Huntsville print menu PDF. 3212 Memorial Pkwy SW.",
+  "tags": [
+   {
+    "tag": "wings",
+    "result": "yes"
+   },
+   {
+    "tag": "fries",
+    "result": "yes"
+   },
+   {
+    "tag": "salads",
+    "result": "yes",
+    "note": "Southern Salad"
+   },
+   {
+    "tag": "baked beans",
+    "result": "yes"
+   },
+   {
+    "tag": "chicken tenders",
+    "result": "yes"
+   },
+   {
+    "tag": "Nashville hot chicken",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "chicken sandwich",
+   "mac and cheese",
+   "grits",
+   "beer",
+   "gluten-free options",
+   "kids menu"
+  ]
+ },
+ {
+  "slug": "hunnydew-bakery",
+  "website": "",
+  "menuUrl": "",
+  "status": "unknown",
+  "notes": "I found no site or menu. A search snippet says it is Black-owned, offers gluten-free options, and sells at Providence Farmers Market. The bakery is on TikTok as @hunnydewbakery.",
+  "tags": [
+   {
+    "tag": "Black-owned",
+    "result": "yes",
+    "note": "search snippet only"
+   },
+   {
+    "tag": "cookies",
+    "result": "unclear",
+    "note": "no menu found"
+   },
+   {
+    "tag": "gluten-free options",
+    "result": "yes",
+    "note": "search snippet only"
+   }
+  ],
+  "suggested": [
+   "farmers market"
+  ]
+ },
+ {
+  "slug": "jets-pizza-madison",
+  "website": "https://www.jetspizza.com/stores/alabama/madison/1079-balch-rd-suite-i/",
+  "menuUrl": "https://www.jetspizza.com/menu/",
+  "status": "open",
+  "notes": "1079 Balch Rd Suite I. Chain menu.",
+  "tags": [
+   {
+    "tag": "wings",
+    "result": "yes"
+   },
+   {
+    "tag": "pizza",
+    "result": "yes"
+   },
+   {
+    "tag": "cookies",
+    "result": "yes",
+    "note": "8in chocolate chip cookie"
+   },
+   {
+    "tag": "deep dish pizza",
+    "result": "yes",
+    "note": "Detroit-style"
+   }
+  ],
+  "suggested": [
+   "detroit-style pizza",
+   "gluten-free options",
+   "salads",
+   "calzones",
+   "brownies",
+   "delivery"
+  ]
+ },
+ {
+  "slug": "jon-smith-subs",
+  "website": "https://www.jonsmithsubs.com",
+  "menuUrl": "https://www.doordash.com/store/jon-smith-subs-madison-24807444/",
+  "status": "open",
+  "notes": "Toast blocked my fetch with a 403 error, so I used search snippets from DoorDash and other locations. 11156 County Line Rd.",
+  "tags": [
+   {
+    "tag": "sandwiches",
+    "result": "yes"
+   },
+   {
+    "tag": "chicken sandwich",
+    "result": "yes",
+    "note": "chicken subs (Classic, Bomb, Teriyaki)"
+   },
+   {
+    "tag": "Cajun",
+    "result": "yes",
+    "note": "Smoked Cajun Chicken sub (chain menu)"
+   },
+   {
+    "tag": "subs",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "cuban sandwich",
+   "cheesesteak",
+   "fries",
+   "catering"
+  ]
+ },
+ {
+  "slug": "kyuramen",
+  "website": "https://www.kyuramen.com",
+  "menuUrl": "https://www.kyuramen.com/menu?menu=huntsville-al",
+  "status": "open",
+  "notes": "5850 University Dr NW, listed with Tbaar.",
+  "tags": [
+   {
+    "tag": "ramen",
+    "result": "yes"
+   },
+   {
+    "tag": "lemonade",
+    "result": "yes"
+   },
+   {
+    "tag": "yakitori",
+    "result": "yes"
+   },
+   {
+    "tag": "popcorn chicken",
+    "result": "yes"
+   },
+   {
+    "tag": "tiramisu",
+    "result": "yes",
+    "note": "matcha tiramisu"
+   },
+   {
+    "tag": "matcha",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "japanese",
+   "takoyaki",
+   "dumplings",
+   "rice bowls",
+   "omurice",
+   "bubble tea"
+  ]
+ },
+ {
+  "slug": "la-parrilla-clift-farm",
+  "website": "",
+  "menuUrl": "https://order.online/store/la-parrilla-mexican-restaurant-madison-lp26-44213171",
+  "status": "open",
+  "notes": "Opened May 2026 at 461 John Henry Way Ste 1080, Clift Farm. DoorDash blocked my fetch, so I used search snippets and TV Living news. I did not confirm an official site.",
+  "tags": [
+   {
+    "tag": "tacos",
+    "result": "yes"
+   },
+   {
+    "tag": "margaritas",
+    "result": "yes",
+    "note": "per news/snippet"
+   },
+   {
+    "tag": "budget-friendly",
+    "result": "unclear",
+    "note": "vibe tag"
+   },
+   {
+    "tag": "fish tacos",
+    "result": "unclear",
+    "note": "full menu not seen"
+   },
+   {
+    "tag": "guacamole",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "fajitas",
+   "birria",
+   "quesadillas",
+   "burritos",
+   "enchiladas"
+  ]
+ },
+ {
+  "slug": "las-trojas-cantina",
+  "website": "https://lastrojas.com/",
+  "menuUrl": "https://lastrojas.com/huntsville-highway-53/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "birria",
+    "result": "yes"
+   },
+   {
+    "tag": "pizza",
+    "result": "yes",
+    "note": "Miguel's Pizza, Birria Pizza"
+   },
+   {
+    "tag": "margaritas",
+    "result": "unclear",
+    "note": "not on the food menu page; drinks menu not seen"
+   },
+   {
+    "tag": "fries",
+    "result": "yes",
+    "note": "carne asada fries"
+   },
+   {
+    "tag": "carne asada",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "tacos",
+   "fajitas",
+   "quesadillas",
+   "birria ramen",
+   "catering",
+   "private dining"
+  ],
+  "notes": "Several Huntsville locations (Hwy 53, University Dr). I used the Hwy 53 menu page."
+ },
+ {
+  "slug": "lawlers-barbecue",
+  "website": "https://www.lawlersbarbecue.com/",
+  "menuUrl": "https://www.lawlersbarbecue.com/menu/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "loaded baked potato",
+    "result": "yes",
+    "note": "\"Stuffie\" tater"
+   },
+   {
+    "tag": "loaded potatoes",
+    "result": "yes"
+   },
+   {
+    "tag": "pulled pork",
+    "result": "yes"
+   },
+   {
+    "tag": "pulled chicken",
+    "result": "yes",
+    "note": "with white sauce"
+   }
+  ],
+  "suggested": [
+   "ribs",
+   "white sauce",
+   "mac and cheese",
+   "family packs",
+   "catering"
+  ],
+  "notes": "Local chain with several Huntsville locations."
+ },
+ {
+  "slug": "little-hats-nashville",
+  "website": "https://www.littlehatsmarket.com/",
+  "menuUrl": "https://www.littlehatsmarket.com/menu",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "chicken parmesan",
+    "result": "yes",
+    "note": "Chicken Parmigiana sandwich"
+   },
+   {
+    "tag": "meatballs",
+    "result": "yes",
+    "note": "Pici & Meatballs"
+   },
+   {
+    "tag": "ravioli",
+    "result": "yes",
+    "note": "crispy ravioli"
+   },
+   {
+    "tag": "subs",
+    "result": "yes"
+   },
+   {
+    "tag": "gluten-free options",
+    "result": "yes",
+    "note": "GF focaccia/Udi's bread per findmeglutenfree"
+   }
+  ],
+  "suggested": [
+   "muffuletta",
+   "deli",
+   "pasta",
+   "arancini",
+   "italian market",
+   "soups"
+  ],
+  "notes": "Menu details came from search snippets and listings. I did not fetch the menu page."
+ },
+ {
+  "slug": "ljz-backyard-bayou",
+  "website": "https://www.ljbackyardbayou.com/",
+  "menuUrl": "https://www.ljbackyardbayou.com/delivery-menu/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "catfish",
+    "result": "yes",
+    "note": "Catfish Bayou"
+   },
+   {
+    "tag": "Black-owned",
+    "result": "yes",
+    "note": "listed on huntsvilleblackownedbusinesses.com; site says veteran-owned"
+   },
+   {
+    "tag": "Cajun",
+    "result": "yes"
+   },
+   {
+    "tag": "Creole",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "po boys",
+   "gumbo",
+   "jambalaya",
+   "boudin balls",
+   "shrimp and grits",
+   "veteran-owned"
+  ],
+  "notes": "Located in Harvest, AL (3155 Old Railroad Bed Rd). Limited hours: Fri-Sun."
+ },
+ {
+  "slug": "loonas-cafe",
+  "website": "https://eatatloonas.com/",
+  "menuUrl": "https://order.toasttab.com/online/loonas-providence-bar",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "breakfast",
+    "result": "yes"
+   },
+   {
+    "tag": "cocktails",
+    "result": "yes",
+    "note": "mimosa cocktails listed; shares Toast with Providence Bar"
+   },
+   {
+    "tag": "salmon",
+    "result": "yes",
+    "note": "smoked salmon, salmon filet"
+   },
+   {
+    "tag": "grits",
+    "result": "yes"
+   },
+   {
+    "tag": "burritos",
+    "result": "yes",
+    "note": "breakfast burrito"
+   },
+   {
+    "tag": "Nashville hot chicken",
+    "result": "yes",
+    "note": "Nashville Hot Chix Bennie"
+   },
+   {
+    "tag": "avocado toast",
+    "result": "yes"
+   },
+   {
+    "tag": "mimosas",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "brunch",
+   "coffee",
+   "chicken and waffles",
+   "australian",
+   "pancakes"
+  ],
+  "notes": "Toast and res-menu returned 403. The official site fetch was not reliable. I confirmed items from search snippets of Toast and listings."
+ },
+ {
+  "slug": "los-morelenses",
+  "website": "https://taquerialasmorelenses.weebly.com/",
+  "menuUrl": "https://restaurantguru.com/Las-Morelenses-Taqueria-Madison-Alabama",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "tacos",
+    "result": "yes"
+   },
+   {
+    "tag": "quesadillas",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "birria",
+   "tortas",
+   "gorditas",
+   "sopes",
+   "breakfast tacos",
+   "burritos"
+  ],
+  "notes": "Actual name is Taqueria Las Morelenses, with several locations (Memorial Pkwy SW, N Memorial Pkwy, Drake Ave, Hwy 72 Madison). Menupix returned 403, so I used search snippets."
+ },
+ {
+  "slug": "louima-haitian-cuisine",
+  "website": "",
+  "menuUrl": "",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "fried chicken",
+    "result": "yes",
+    "note": "fried chicken stew mentioned"
+   },
+   {
+    "tag": "food truck",
+    "result": "yes"
+   },
+   {
+    "tag": "mac and cheese",
+    "result": "yes",
+    "note": "comes with every plate"
+   },
+   {
+    "tag": "jerk chicken",
+    "result": "yes",
+    "note": "off-menu, available on request"
+   },
+   {
+    "tag": "Haitian",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "fried snapper",
+   "fried pork",
+   "plantains",
+   "pikliz",
+   "catering"
+  ],
+  "notes": "No website or menu page found. Details come from search snippets of social posts (TikTok/Facebook). Opens after 4pm. Address may be 711 Old Railroad Bed Rd, Madison."
+ },
+ {
+  "slug": "luigis-italian-grill",
+  "website": "https://www.luigisitaliangrillmadison.com/",
+  "menuUrl": "https://www.luigisitaliangrillmadison.com/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "salads",
+    "result": "yes"
+   },
+   {
+    "tag": "pasta",
+    "result": "yes"
+   },
+   {
+    "tag": "fettuccine alfredo",
+    "result": "yes"
+   },
+   {
+    "tag": "ravioli",
+    "result": "yes",
+    "note": "cheese and lobster ravioli"
+   }
+  ],
+  "suggested": [
+   "lasagna",
+   "chicken parmesan",
+   "seafood",
+   "garlic bread",
+   "chicken marsala"
+  ],
+  "notes": "No pizza on menu. Closed Mondays."
+ },
+ {
+  "slug": "luogo-nashville",
+  "website": "https://www.luogorestaurant.com/",
+  "menuUrl": "https://www.luogorestaurant.com/menus/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "pizza",
+    "result": "yes",
+    "note": "Grilled Pizza Margherita"
+   },
+   {
+    "tag": "ribs",
+    "result": "no",
+    "note": "only Barolo braised short rib; no pork ribs"
+   }
+  ],
+  "suggested": [
+   "pasta",
+   "meatballs",
+   "cocktails",
+   "gelato",
+   "cannoli",
+   "short rib"
+  ],
+  "notes": "Italian restaurant at 211 12th Ave S (The Gulch)."
+ },
+ {
+  "slug": "lyli-viet-thai",
+  "website": "",
+  "menuUrl": "https://www.doordash.com/en/store/lyli-viet--thai-cuisine-phomous-madison-31816261/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "pho",
+    "result": "yes"
+   },
+   {
+    "tag": "dumplings",
+    "result": "yes",
+    "note": "gyoza appetizer per search snippet"
+   },
+   {
+    "tag": "Vietnamese",
+    "result": "yes"
+   },
+   {
+    "tag": "spring rolls",
+    "result": "yes"
+   },
+   {
+    "tag": "lemongrass chicken",
+    "result": "yes",
+    "note": "vermicelli lemongrass chicken"
+   },
+   {
+    "tag": "Thai",
+    "result": "yes",
+    "note": "pad thai, curry"
+   }
+  ],
+  "suggested": [
+   "banh mi",
+   "vermicelli",
+   "boba tea",
+   "egg rolls",
+   "vegan options",
+   "fried rice"
+  ],
+  "notes": "No official site found. DoorDash returned 403, so I used search snippets of DoorDash and Yelp."
+ },
+ {
+  "slug": "melt-downtown",
+  "website": "https://ilovemelt.com/huntsville",
+  "menuUrl": "https://ilovemelt.com/huntsville-menu",
+  "status": "open",
+  "notes": "Toast ordering page blocked (403); used official menu page plus search snippets. Brunch menu is a separate PDF on Saturdays.",
+  "tags": [
+   {
+    "tag": "burgers",
+    "result": "yes",
+    "note": "Cheeseburger and Patty Melt"
+   },
+   {
+    "tag": "fried chicken",
+    "result": "yes",
+    "note": "Rock A Doodle fried chicken sandwich"
+   },
+   {
+    "tag": "fries",
+    "result": "unclear",
+    "note": "not on official menu page; a TikTok order mentions fries"
+   },
+   {
+    "tag": "sandwiches",
+    "result": "yes"
+   },
+   {
+    "tag": "mac and cheese",
+    "result": "yes"
+   },
+   {
+    "tag": "egg rolls",
+    "result": "yes",
+    "note": "Mac 'N Egg Roll"
+   },
+   {
+    "tag": "tater tots",
+    "result": "unclear",
+    "note": "not on menu page; reviews and TikTok mention tots"
+   },
+   {
+    "tag": "grilled cheese",
+    "result": "yes"
+   },
+   {
+    "tag": "mimosas",
+    "result": "unclear",
+    "note": "mimosa pitchers mentioned in reviews/TikTok, not on menu page"
+   }
+  ],
+  "suggested": [
+   "brunch",
+   "full bar",
+   "fried pickles",
+   "nachos",
+   "salads",
+   "vegan options"
+  ]
+ },
+ {
+  "slug": "metro-diner",
+  "website": "https://metrodiner.com",
+  "menuUrl": "https://metrodiner.com/menu/",
+  "status": "open",
+  "notes": "Huntsville location at 975 Airport Rd SW.",
+  "tags": [
+   {
+    "tag": "breakfast",
+    "result": "yes",
+    "note": "breakfast all day"
+   },
+   {
+    "tag": "budget-friendly",
+    "result": "unclear",
+    "note": "mains about $12-20"
+   },
+   {
+    "tag": "fries",
+    "result": "yes"
+   },
+   {
+    "tag": "steak",
+    "result": "yes",
+    "note": "Steak Tips, Steak & Scramble Bowl"
+   },
+   {
+    "tag": "green beans",
+    "result": "yes"
+   },
+   {
+    "tag": "loaded fries",
+    "result": "yes",
+    "note": "Cheese Fries and Poutine"
+   },
+   {
+    "tag": "wine",
+    "result": "unclear",
+    "note": "not on online menu"
+   }
+  ],
+  "suggested": [
+   "chicken and waffles",
+   "shrimp and grits",
+   "meatloaf",
+   "biscuits and gravy",
+   "philly cheesesteak",
+   "fried chicken"
+  ]
+ },
+ {
+  "slug": "mi-delicioso-guanajuato",
+  "website": "https://mideliciosoguanajuatoal.com/",
+  "menuUrl": "https://mideliciosoguanajuatoal.com/mi-delicioso-guanajuato/",
+  "status": "open",
+  "notes": "Official menu page shows only a few items; Sirved menu blocked (403).",
+  "tags": [
+   {
+    "tag": "tacos",
+    "result": "yes"
+   },
+   {
+    "tag": "birria",
+    "result": "unclear",
+    "note": "partial menu only"
+   },
+   {
+    "tag": "quesabirria",
+    "result": "unclear",
+    "note": "partial menu only"
+   },
+   {
+    "tag": "consomé",
+    "result": "unclear",
+    "note": "partial menu only"
+   },
+   {
+    "tag": "flautas",
+    "result": "unclear",
+    "note": "partial menu only"
+   }
+  ],
+  "suggested": [
+   "bakery",
+   "pastries",
+   "enchiladas",
+   "cheese dip",
+   "desserts"
+  ]
+ },
+ {
+  "slug": "mi-tierra-oaxaquena",
+  "website": "",
+  "menuUrl": "",
+  "status": "unknown",
+  "notes": "Listed as Taqueria Mi Tierra Oaxaquena (food truck), 5990 Pulaski Pike NW. Only directory listings found; no menu. Facebook page result may belong to another business with the same name.",
+  "tags": [
+   {
+    "tag": "tacos",
+    "result": "yes",
+    "note": "business name is Taqueria; no menu seen"
+   }
+  ],
+  "suggested": [
+   "food truck",
+   "oaxacan"
+  ]
+ },
+ {
+  "slug": "mias-cafe",
+  "website": "",
+  "menuUrl": "https://www.toasttab.com/local/order/mias-cafe-30697-hwy-72w-suite-b",
+  "status": "open",
+  "notes": "Actually in Madison (30697 Hwy 72 W). Toast page blocked (403); used Huntsville.org and Tripadvisor snippets. Open 7am-2pm.",
+  "tags": [],
+  "suggested": [
+   "breakfast",
+   "meat and three",
+   "southern",
+   "sandwiches",
+   "soups",
+   "salads"
+  ]
+ },
+ {
+  "slug": "mizz-jujus",
+  "website": "",
+  "menuUrl": "https://www.toasttab.com/local/order/mizzjujus/r-e015b5e5-965f-4ead-b104-6405eb6fa4a7",
+  "status": "open",
+  "notes": "2022 Jordan Ln NW Ste B. Yelp lists old 'Mizz Juju's Cafe' as closed, but a newer listing 'Mizz Juju's Food & Beverage Distribution' at the same address has October 2026 reviews. Toast blocked (403); used Yelp/Restaurantji snippets.",
+  "tags": [
+   {
+    "tag": "wings",
+    "result": "yes"
+   },
+   {
+    "tag": "fried chicken",
+    "result": "unclear",
+    "note": "wings seen, no fried chicken plates seen"
+   },
+   {
+    "tag": "Black-owned",
+    "result": "unclear",
+    "note": "no source states it"
+   },
+   {
+    "tag": "sandwiches",
+    "result": "unclear"
+   },
+   {
+    "tag": "lemon pepper wings",
+    "result": "yes"
+   },
+   {
+    "tag": "chicken sandwich",
+    "result": "unclear"
+   }
+  ],
+  "suggested": [
+   "soul food",
+   "catfish",
+   "oxtails",
+   "fish",
+   "mac and cheese",
+   "green beans"
+  ]
+ },
+ {
+  "slug": "mk-wings",
+  "website": "",
+  "menuUrl": "https://mk-wings.restaurantmenu.us.com/",
+  "status": "open",
+  "notes": "Toast/Uber listings exist; used menu aggregator and search snippets. Open daily 10am-2am.",
+  "tags": [
+   {
+    "tag": "wings",
+    "result": "yes"
+   },
+   {
+    "tag": "fries",
+    "result": "yes"
+   },
+   {
+    "tag": "lemon pepper wings",
+    "result": "yes"
+   },
+   {
+    "tag": "hot honey",
+    "result": "unclear",
+    "note": "reviews mention honey hot lemon pepper; flavor list not seen"
+   },
+   {
+    "tag": "Cajun",
+    "result": "yes",
+    "note": "Cajun ranch fries"
+   }
+  ],
+  "suggested": [
+   "loaded fries",
+   "catfish",
+   "tenders",
+   "shrimp",
+   "burgers",
+   "late night"
+  ]
+ },
+ {
+  "slug": "mobay-beignet-co",
+  "website": "https://mobaybeignetco.com/visit-huntsville",
+  "menuUrl": "https://mobaybeignetco.com/visit-huntsville",
+  "status": "open",
+  "notes": "1981 Jeff Rd NW, shared with Bay Town Burger Co. Closed Sundays.",
+  "tags": [
+   {
+    "tag": "beignets",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "burgers",
+   "coffee",
+   "chicken fingers",
+   "frappes",
+   "cold brew"
+  ]
+ },
+ {
+  "slug": "mozza-pizza",
+  "website": "https://mozza-pizza.com/",
+  "menuUrl": "https://slicelife.com/restaurants/al/huntsville/35805/huntsville-mozza-pizza-restaurant/menu",
+  "status": "open",
+  "notes": "Official site blocked (403); used Slice menu.",
+  "tags": [
+   {
+    "tag": "pizza",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "new york style pizza",
+   "gluten-free options",
+   "calzones",
+   "wings",
+   "pasta",
+   "cannoli"
+  ]
+ },
+ {
+  "slug": "nicas-grill",
+  "website": "",
+  "menuUrl": "https://www.waff.com/2023/08/07/nicas-grill-caf-showcase-popular-menu-items/",
+  "status": "open",
+  "notes": "nicasgrillcafe.com now redirects to an unrelated domain, so I left website empty; Facebook page exists. Menu from search snippets of WAFF/site listing.",
+  "tags": [
+   {
+    "tag": "food truck",
+    "result": "yes"
+   },
+   {
+    "tag": "fries",
+    "result": "yes"
+   },
+   {
+    "tag": "Philly cheesesteak",
+    "result": "yes"
+   },
+   {
+    "tag": "loaded fries",
+    "result": "yes",
+    "note": "mojo pork loaded fries"
+   }
+  ],
+  "suggested": [
+   "nicaraguan",
+   "latin fusion",
+   "quesadillas",
+   "family-owned"
+  ]
+ },
+ {
+  "slug": "niyahs-southern-grill",
+  "website": "",
+  "menuUrl": "https://www.doordash.com/en/store/33652611",
+  "status": "open",
+  "notes": "No official site found. Menu from DoorDash/UberEats search snippets plus a WhatToEatHuntsville TikTok post. Listed as Black-owned soul food. Open Tue-Sat 11-8.",
+  "tags": [
+   {
+    "tag": "wings",
+    "result": "yes",
+    "note": "hot wings in TikTok order"
+   },
+   {
+    "tag": "catfish",
+    "result": "yes"
+   },
+   {
+    "tag": "fries",
+    "result": "yes"
+   },
+   {
+    "tag": "mac and cheese",
+    "result": "yes",
+    "note": "queso mac"
+   },
+   {
+    "tag": "baked beans",
+    "result": "yes"
+   },
+   {
+    "tag": "pork chops",
+    "result": "yes",
+    "note": "pork chop bites"
+   },
+   {
+    "tag": "white sauce",
+    "result": "yes",
+    "note": "homemade white sauce per TikTok"
+   }
+  ],
+  "suggested": [
+   "black-owned",
+   "soul food",
+   "ribs",
+   "smashburger",
+   "brisket",
+   "chicken and dumplings"
+  ]
+ },
+ {
+  "slug": "north-italia",
+  "website": "https://www.northitalia.com/locations/huntsville/",
+  "menuUrl": "https://www.northitalia.com/locations/huntsville/",
+  "status": "open",
+  "notes": "Opened Oct 28, 2026 at Bridge Street Town Centre, 401 The Bridge St NW #180. Alfredo appears as Tripoline Alfredo, not fettuccine.",
+  "tags": [
+   {
+    "tag": "pizza",
+    "result": "yes"
+   },
+   {
+    "tag": "cocktails",
+    "result": "yes"
+   },
+   {
+    "tag": "pasta",
+    "result": "yes"
+   },
+   {
+    "tag": "fettuccine alfredo",
+    "result": "yes",
+    "note": "listed as Tripoline Alfredo (different pasta shape)"
+   },
+   {
+    "tag": "tiramisu",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "brunch",
+   "happy hour",
+   "hot honey",
+   "meatballs",
+   "truffle garlic bread",
+   "kids menu"
+  ]
+ },
+ {
+  "slug": "oh-crepe",
+  "website": "",
+  "menuUrl": "https://www.yelp.com/biz/oh-cr%C3%AApe-huntsville-19",
+  "status": "open",
+  "notes": "No official site found. Located in Stovehouse at 3414 Governors Dr SW Ste 520. Menu from Yelp/search snippets.",
+  "tags": [
+   {
+    "tag": "crepes",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "gluten-free",
+   "desserts",
+   "shaved ice",
+   "japanese",
+   "savory crepes",
+   "stovehouse"
+  ]
+ },
+ {
+  "slug": "one-eleven",
+  "website": "https://www.oneelevenhsv.com/",
+  "menuUrl": "https://www.toasttab.com/local/order/one-eleven",
+  "status": "open",
+  "notes": "Menu page content did not load. Items come from 256 Today and Yelp snippets. Upscale bar and kitchen, opened June 2025.",
+  "tags": [],
+  "suggested": [
+   "cocktails",
+   "steak",
+   "seafood",
+   "pasta",
+   "burgers",
+   "brunch"
+  ]
+ },
+ {
+  "slug": "osteria-luca",
+  "website": "",
+  "menuUrl": "https://order.toasttab.com/online/osteria-luca-nupqn",
+  "status": "open",
+  "notes": "Toast and DoorDash returned 403. I verified items from search snippets. I did not confirm an official site. Located in Stovehouse.",
+  "tags": [
+   {
+    "tag": "pizza",
+    "result": "yes"
+   },
+   {
+    "tag": "hot honey",
+    "result": "yes",
+    "note": "Hot Honey & Meatball pizza"
+   },
+   {
+    "tag": "salads",
+    "result": "yes",
+    "note": "spinach and arugula salad"
+   },
+   {
+    "tag": "pasta",
+    "result": "yes"
+   },
+   {
+    "tag": "fettuccine alfredo",
+    "result": "yes",
+    "note": "chicken and wild mushroom fettuccine alfredo"
+   },
+   {
+    "tag": "meatballs",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "cocktails",
+   "lasagna",
+   "gnocchi",
+   "calamari",
+   "wood-fired",
+   "gluten-free options"
+  ]
+ },
+ {
+  "slug": "pan-z-effies",
+  "website": "",
+  "menuUrl": "",
+  "status": "open",
+  "notes": "Food truck on Pulaski Pike. No site or menu found, only TikTok and search snippets. IG: panzeffie. Hours are given as 5pm-4am and also as Wed-Sat after 4pm.",
+  "tags": [
+   {
+    "tag": "wings",
+    "result": "yes",
+    "note": "smoked wings"
+   },
+   {
+    "tag": "catfish",
+    "result": "yes"
+   },
+   {
+    "tag": "Black-owned",
+    "result": "yes",
+    "note": "search snippet calls it Black-owned"
+   },
+   {
+    "tag": "ribs",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "food truck",
+   "late night",
+   "burgers",
+   "hot dogs",
+   "birria nachos",
+   "bbq"
+  ]
+ },
+ {
+  "slug": "parlor-doughnuts",
+  "website": "https://www.parlordoughnuts.com/",
+  "menuUrl": "https://www.doordash.com/store/parlor-doughnuts-huntsville-24565420/",
+  "status": "open",
+  "notes": "2500 Clinton Ave W. Search snippets list pizza (Buffalo Chicken, Margherita). I did not fetch the official site.",
+  "tags": [
+   {
+    "tag": "pizza",
+    "result": "yes"
+   },
+   {
+    "tag": "donuts",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "coffee",
+   "breakfast",
+   "breakfast tacos",
+   "acai bowl",
+   "biscuits"
+  ]
+ },
+ {
+  "slug": "pf-changs",
+  "website": "https://www.pfchangs.com/",
+  "menuUrl": "https://www.doordash.com/store/pf-changs-422163/",
+  "status": "open",
+  "notes": "305 The Bridge St. Chain menu has lo mein and other noodles. I did not fetch this location's page.",
+  "tags": [
+   {
+    "tag": "noodles",
+    "result": "yes",
+    "note": "standard chain menu: lo mein, pad thai"
+   }
+  ],
+  "suggested": [
+   "chinese",
+   "lettuce wraps",
+   "gluten-free options",
+   "dumplings",
+   "cocktails",
+   "happy hour"
+  ]
+ },
+ {
+  "slug": "pico-fresh-mex",
+  "website": "https://picofreshmex.com/",
+  "menuUrl": "https://picofreshmex.com/menu/pico-fresh-mex-monrovia",
+  "status": "open",
+  "notes": "1947 Blake Bottom Rd NW. The menu page returned 403. I verified items from search snippets.",
+  "tags": [
+   {
+    "tag": "tacos",
+    "result": "yes"
+   },
+   {
+    "tag": "birria",
+    "result": "yes"
+   },
+   {
+    "tag": "pizza",
+    "result": "yes",
+    "note": "Pizza Quesabirria"
+   },
+   {
+    "tag": "margaritas",
+    "result": "yes"
+   },
+   {
+    "tag": "fish tacos",
+    "result": "yes"
+   },
+   {
+    "tag": "nachos",
+    "result": "yes"
+   },
+   {
+    "tag": "quesadillas",
+    "result": "yes"
+   },
+   {
+    "tag": "burritos",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "happy hour",
+   "bowls",
+   "kids menu",
+   "fast casual"
+  ]
+ },
+ {
+  "slug": "pita-street-food",
+  "website": "https://pitastreetfood.com/",
+  "menuUrl": "https://pitastreetfood.com/menu/",
+  "status": "open",
+  "notes": "PITA Mediterranean Street Food, 300 Hughes Rd, Madison. Lemonade is not on the official menu.",
+  "tags": [
+   {
+    "tag": "fries",
+    "result": "yes"
+   },
+   {
+    "tag": "steak",
+    "result": "yes",
+    "note": "steak shawarma"
+   },
+   {
+    "tag": "lemonade",
+    "result": "no",
+    "note": "not on official menu"
+   },
+   {
+    "tag": "gyros",
+    "result": "yes"
+   },
+   {
+    "tag": "pita",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "falafel",
+   "hummus",
+   "shawarma",
+   "baklava",
+   "halal",
+   "vegetarian options"
+  ]
+ },
+ {
+  "slug": "playa-bowls",
+  "website": "https://www.playabowls.com/location/madison",
+  "menuUrl": "https://www.doordash.com/store/playa-bowls-madison-25899355/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "smoothies",
+    "result": "yes"
+   },
+   {
+    "tag": "acai bowls",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "pitaya bowls",
+   "coconut bowls",
+   "juice",
+   "chain"
+  ],
+  "notes": "Two Madison locations: Town Madison (100 Outfield Dr) and Clift Farm (461 John Henry Way). Open daily 8am-8pm."
+ },
+ {
+  "slug": "rds-smokehouse",
+  "website": "http://4rdsbbq.com",
+  "menuUrl": "https://www.doordash.com/store/rds-smokehouse-bbq-32673642/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "wings",
+    "result": "yes"
+   },
+   {
+    "tag": "loaded baked potato",
+    "result": "yes",
+    "note": "Loaded Potato with pork or chicken"
+   },
+   {
+    "tag": "brisket",
+    "result": "yes"
+   },
+   {
+    "tag": "smoked meats",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "ribs",
+   "pulled pork",
+   "catfish",
+   "hush puppies",
+   "nachos",
+   "bbq"
+  ],
+  "notes": "Madison spot at 1109 Slaughter Rd; another location at 1811 Nick Davis Rd, Harvest. I used search snippets of the DoorDash menu, not a full fetch."
+ },
+ {
+  "slug": "roosters-athens",
+  "website": "https://roostersinathens.com/",
+  "menuUrl": "https://roostersinathens.com/order",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "drive-thru",
+    "result": "yes"
+   },
+   {
+    "tag": "fries",
+    "result": "yes",
+    "note": "crinkle-cut fries"
+   },
+   {
+    "tag": "chicken tenders",
+    "result": "yes",
+    "note": "called chicken fingers"
+   }
+  ],
+  "suggested": [
+   "wings",
+   "catfish",
+   "fried pickles",
+   "fried mushrooms",
+   "texas toast"
+  ],
+  "notes": "125 US-31 S, Athens."
+ },
+ {
+  "slug": "rosies-cantina",
+  "website": "https://rosiesmexicancantina.com/locations/university-drive/",
+  "menuUrl": "https://rosiesmexicancantina.com/menu/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "margaritas",
+    "result": "yes"
+   },
+   {
+    "tag": "nachos",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "happy hour",
+   "tacos",
+   "fajitas",
+   "queso",
+   "enchiladas",
+   "kids menu"
+  ],
+  "notes": "Happy hour Mon-Thu 3-6pm. Closed Sundays. Site says no patio."
+ },
+ {
+  "slug": "ruby-slipper-nashville",
+  "website": "https://rubybrunch.com/",
+  "menuUrl": "https://rubybrunch.com/menu/standard-menu/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "fried chicken",
+    "result": "yes"
+   },
+   {
+    "tag": "fries",
+    "result": "yes"
+   },
+   {
+    "tag": "sandwiches",
+    "result": "yes"
+   },
+   {
+    "tag": "chicken sandwich",
+    "result": "yes",
+    "note": "Ruby Fried Chicken Sandwich"
+   },
+   {
+    "tag": "French toast",
+    "result": "yes",
+    "note": "Bananas Foster and Berry Chantilly French toast"
+   }
+  ],
+  "suggested": [
+   "brunch",
+   "breakfast",
+   "mimosas",
+   "eggs benedict",
+   "shrimp and grits",
+   "vegetarian options"
+  ],
+  "notes": "The Nashville location (1800 21st Ave S, Hillsboro Village) is branded Ruby Sunshine. Ruby Slipper and Ruby Sunshine share the same menu."
+ },
+ {
+  "slug": "sacs-kitchen",
+  "website": "https://sacskitchen.com/",
+  "menuUrl": "https://sacskitchen.com/menu/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "wings",
+    "result": "yes"
+   },
+   {
+    "tag": "catfish",
+    "result": "yes"
+   },
+   {
+    "tag": "fries",
+    "result": "yes"
+   },
+   {
+    "tag": "mac and cheese",
+    "result": "yes"
+   },
+   {
+    "tag": "green beans",
+    "result": "yes"
+   },
+   {
+    "tag": "buffet",
+    "result": "yes"
+   },
+   {
+    "tag": "soul food",
+    "result": "yes"
+   },
+   {
+    "tag": "southern food",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "black-owned",
+   "meat and two",
+   "banana pudding",
+   "cobbler",
+   "catering",
+   "lemon pepper chicken"
+  ],
+  "notes": "6008 Mastin Lake Rd. Open Tue-Sat 11am-7pm. 256today lists it as Black-owned. The Wheree menu blocked me, so I used the official site plus search snippets."
+ },
+ {
+  "slug": "sam-and-gregs",
+  "website": "https://www.samandgregs.com/",
+  "menuUrl": "",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "pizza",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "gelato",
+   "craft beer",
+   "patio",
+   "dog-friendly",
+   "gluten-free options"
+  ],
+  "notes": "Downtown at 116 Southside Square, plus a Madison location at 364 Hughes Rd. I did not fetch a menu page. Tags come from the official about page and listings."
+ },
+ {
+  "slug": "scoop-and-slice",
+  "website": "https://scoopslicecafe.com/",
+  "menuUrl": "https://scoopslicecafe.com/menu",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "pizza",
+    "result": "yes"
+   },
+   {
+    "tag": "fries",
+    "result": "yes"
+   },
+   {
+    "tag": "pasta",
+    "result": "no",
+    "note": "no pasta on the full online menu"
+   },
+   {
+    "tag": "Philly cheesesteak",
+    "result": "yes",
+    "note": "Philly sandwich and Philly cheesesteak pizza"
+   },
+   {
+    "tag": "fettuccine alfredo",
+    "result": "no",
+    "note": "not on the online menu"
+   },
+   {
+    "tag": "ice cream",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "wings",
+   "milkshakes",
+   "coffee",
+   "smoothies",
+   "sandwiches",
+   "pastries"
+  ],
+  "notes": "Address is 30029 Capshaw Rd, Harvest. The online menu says 'non live location' and online ordering is closed, but I found no report of a closure."
+ },
+ {
+  "slug": "seoul-good",
+  "website": "https://order.toasttab.com/online/seoulgood",
+  "menuUrl": "https://order.toasttab.com/online/seoulgood",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "fried chicken",
+    "result": "yes"
+   },
+   {
+    "tag": "fries",
+    "result": "yes"
+   },
+   {
+    "tag": "Korean",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "wings",
+   "chicken tenders",
+   "bingsu",
+   "korean corn dogs",
+   "tteokbokki",
+   "kimchi"
+  ],
+  "notes": "Inside Stovehouse, 3414 Governors Dr SW. I used search snippets of the Toast and DoorDash listings, not a full fetch."
+ },
+ {
+  "slug": "steam-boys",
+  "website": "https://www.steamboys.com/madison",
+  "menuUrl": "https://www.doordash.com/en/store/steam-boys-madison-33840405/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "burgers",
+    "result": "unclear",
+    "note": "Chain menu snippets show no burgers. The official site and DoorDash blocked me (403), so I could not see the full menu. Likely wrong."
+   },
+   {
+    "tag": "dumplings",
+    "result": "yes"
+   },
+   {
+    "tag": "bao",
+    "result": "yes"
+   },
+   {
+    "tag": "bao buns",
+    "result": "yes"
+   },
+   {
+    "tag": "popcorn chicken",
+    "result": "yes",
+    "note": "5 spice popcorn chicken"
+   },
+   {
+    "tag": "boba",
+    "result": "yes"
+   },
+   {
+    "tag": "boba tea",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "noodle soup",
+   "gua bao",
+   "rice bowls",
+   "chinese"
+  ],
+  "notes": "Madison locations: Clift Farm and 8294 Hwy 72 W. The official site and DoorDash returned 403, so I used search snippets."
+ },
+ {
+  "slug": "sunnyside-pizzeria-atlanta",
+  "website": "https://sunnysidepizzeria.com",
+  "menuUrl": "https://order.toasttab.com/online/sunny-side",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "pizza",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "neapolitan pizza",
+   "wood-fired",
+   "pasta",
+   "gelato",
+   "wings",
+   "salads"
+  ],
+  "notes": "220 Sandy Springs Cir, Sandy Springs/Atlanta. Menu from search snippets (DoorDash/Toast/AJC)."
+ },
+ {
+  "slug": "super-chix-madison",
+  "website": "https://www.superchix.com",
+  "menuUrl": "https://www.doordash.com/store/super-chix-madison-23656768/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "fries",
+    "result": "yes",
+    "note": "hand-cut fries"
+   },
+   {
+    "tag": "sandwiches",
+    "result": "yes"
+   },
+   {
+    "tag": "chicken sandwich",
+    "result": "yes"
+   },
+   {
+    "tag": "chicken tenders",
+    "result": "yes"
+   },
+   {
+    "tag": "loaded fries",
+    "result": "unclear",
+    "note": "not seen in search snippets; full menu not fetched"
+   }
+  ],
+  "suggested": [
+   "frozen custard",
+   "nashville hot",
+   "nuggets",
+   "salads",
+   "grilled chicken"
+  ],
+  "notes": "100 Moon Shot Dr, Town Madison. Website URL not directly verified."
+ },
+ {
+  "slug": "superhero-chefs",
+  "website": "",
+  "menuUrl": "https://www.happycow.net/reviews/superhero-chefs-huntsville-280978",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "vegan",
+    "result": "yes",
+    "note": "vegan 'hero' menu: vegan bacon, tofu scramble, vegan waffles"
+   }
+  ],
+  "suggested": [
+   "breakfast",
+   "brunch",
+   "waffles",
+   "sandwiches",
+   "gluten-free options",
+   "black-owned"
+  ],
+  "notes": "930 Old Monrovia Rd NW; Chef Darnell Ferguson. Open Tue-Sat 9-3. Official site not confirmed. Black-owned suggestion based on chef; not verified explicitly."
+ },
+ {
+  "slug": "tacos-de-canasta-acapulco",
+  "website": "https://www.tacosdecanastaacapulco.com/",
+  "menuUrl": "https://toast.app/r/tacos-de-canasta-acapulco-llc-7192-wall-triana-hwy-a/order",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "tacos",
+    "result": "yes"
+   },
+   {
+    "tag": "steak",
+    "result": "yes",
+    "note": "Steak (Asada) listed as popular"
+   },
+   {
+    "tag": "nachos",
+    "result": "yes"
+   },
+   {
+    "tag": "gorditas",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "tacos de canasta",
+   "birria",
+   "chilaquiles",
+   "sopes",
+   "pambazos",
+   "quesadillas"
+  ],
+  "notes": "Official site failed SSL; DoorDash/res-menu blocked (403). Used search snippets of Toast/DoorDash listings."
+ },
+ {
+  "slug": "tamarind-island",
+  "website": "https://tamarindislandgrill.toast.site/",
+  "menuUrl": "https://www.toasttab.com/local/order/tamarind-island-grill-5909-university-drive",
+  "status": "open",
+  "tags": [],
+  "suggested": [
+   "caribbean",
+   "jerk chicken",
+   "curry goat",
+   "vegan options",
+   "seafood",
+   "fish fry"
+  ],
+  "notes": "Tamarind Island Grille, 5909 University Dr. Menu from search snippets."
+ },
+ {
+  "slug": "taqueria-catedral",
+  "website": "",
+  "menuUrl": "",
+  "status": "unknown",
+  "tags": [
+   {
+    "tag": "tacos",
+    "result": "unclear",
+    "note": "no listing found"
+   },
+   {
+    "tag": "food truck",
+    "result": "unclear",
+    "note": "no listing found"
+   },
+   {
+    "tag": "steak",
+    "result": "unclear",
+    "note": "no menu found"
+   }
+  ],
+  "suggested": [],
+  "notes": "Two searches found no trace of Taqueria Catedral in Madison/Alabama. May be renamed, Facebook-only, or gone."
+ },
+ {
+  "slug": "taqueria-don-pancho",
+  "website": "https://taqueriadonpanchoal.com",
+  "menuUrl": "https://fromtherestaurant.com/taqueria-don-pancho/menu/7950-Hwy-72-W/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "tacos",
+    "result": "yes"
+   },
+   {
+    "tag": "birria",
+    "result": "yes",
+    "note": "quesabirria"
+   },
+   {
+    "tag": "steak",
+    "result": "yes",
+    "note": "steak in alambre, torta"
+   },
+   {
+    "tag": "tortas",
+    "result": "yes",
+    "note": "Torta Mamalona"
+   }
+  ],
+  "suggested": [
+   "quesabirria",
+   "burritos",
+   "machete",
+   "alambre"
+  ],
+  "notes": "Open daily 10-8. Menu from search snippets."
+ },
+ {
+  "slug": "taqueria-dona-vale",
+  "website": "",
+  "menuUrl": "https://taqueria-doa-vale.res-discover.com/menu",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "tacos",
+    "result": "yes"
+   },
+   {
+    "tag": "shredded chicken",
+    "result": "unclear",
+    "note": "menu page lists categories only, no proteins"
+   }
+  ],
+  "suggested": [
+   "breakfast",
+   "quesadillas",
+   "burritos",
+   "tortas",
+   "elote"
+  ],
+  "notes": "7190 Wall Triana Hwy, Madison; Facebook: facebook.com/TaqueriaDonaVale. Hours 6AM-3PM daily (breakfast suggestion based on hours)."
+ },
+ {
+  "slug": "taqueria-las-adelitas",
+  "website": "",
+  "menuUrl": "https://www.restaurantji.com/al/huntsville/taqueria-las-adelitas-/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "tacos",
+    "result": "yes"
+   },
+   {
+    "tag": "fish tacos",
+    "result": "yes",
+    "note": "mentioned by reviewers in search summary; not seen on a full menu"
+   }
+  ],
+  "suggested": [
+   "birria",
+   "california burrito",
+   "carne asada fries",
+   "tortas",
+   "gorditas",
+   "ceviche"
+  ],
+  "notes": "6212 Madison Pike, Huntsville. Also sopes, chilaquiles, flan, aguas frescas."
+ },
+ {
+  "slug": "taqueria-los-3-reales",
+  "website": "http://www.ordertaquerialos3reales.com/",
+  "menuUrl": "http://www.ordertaquerialos3reales.com/",
+  "status": "open",
+  "tags": [
+   {
+    "tag": "tacos",
+    "result": "yes"
+   },
+   {
+    "tag": "food truck",
+    "result": "yes",
+    "note": "food bus at 1117 Jordan Ln NW; #2 truck"
+   },
+   {
+    "tag": "cash only",
+    "result": "unclear",
+    "note": "payment methods not stated"
+   },
+   {
+    "tag": "steak",
+    "result": "yes",
+    "note": "asada"
+   },
+   {
+    "tag": "tortas",
+    "result": "yes",
+    "note": "torta hawaiana"
+   },
+   {
+    "tag": "sopes",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "lengua",
+   "al pastor",
+   "huaraches",
+   "gringas",
+   "mulitas",
+   "burritos"
+  ],
+  "notes": "Has online ordering site; Facebook facebook.com/therealtacotruck for #2."
+ },
+ {
+  "slug": "taqueria-luna",
+  "website": "https://taqueria-luna.com/",
+  "menuUrl": "https://taqueria-luna.com/",
+  "status": "open",
+  "notes": "Food truck at 30098 Andrea Ln, Madison. Women-owned per listing. DoorDash/Uber blocked (403); steak confirmed via search snippets of ordering pages.",
+  "tags": [
+   {
+    "tag": "tacos",
+    "result": "yes"
+   },
+   {
+    "tag": "birria",
+    "result": "yes",
+    "note": "Queso birria tacos, birria quesadilla"
+   },
+   {
+    "tag": "steak",
+    "result": "yes",
+    "note": "Asada tacos, Asada Feliz plate"
+   },
+   {
+    "tag": "quesadillas",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "food truck",
+   "burritos",
+   "nachos",
+   "sopes",
+   "empanadas",
+   "women-owned"
+  ]
+ },
+ {
+  "slug": "teriyaki-express-grill",
+  "website": "",
+  "menuUrl": "https://teriyaki-express-grill.menufyy.com/",
+  "status": "open",
+  "notes": "Facebook-only presence; truck at Wall Triana Hwy & Capshaw Rd. menufyy and DoorDash pages failed to load; tags confirmed from listing summaries (popular: chicken teriyaki, dumplings, chicken & shrimp teriyaki) and a fried gyoza social post.",
+  "tags": [
+   {
+    "tag": "food truck",
+    "result": "yes"
+   },
+   {
+    "tag": "dumplings",
+    "result": "yes",
+    "note": "Dumplings/fried gyoza per listings"
+   },
+   {
+    "tag": "teriyaki",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "hibachi",
+   "shrimp",
+   "covered patio"
+  ]
+ },
+ {
+  "slug": "the-biscuit-express",
+  "website": "https://thebiscuitexpress.com/",
+  "menuUrl": "https://thebiscuitexpress.com/",
+  "status": "open",
+  "notes": "Three restaurant locations (Moores Mill, Meridianville, Owens Cross Roads) plus a food truck trailer Fri-Sat at the Grid in Owens Cross Roads. Opens 4:30am.",
+  "tags": [
+   {
+    "tag": "breakfast",
+    "result": "yes"
+   },
+   {
+    "tag": "food truck",
+    "result": "yes",
+    "note": "Has a food truck trailer, but is mainly brick-and-mortar"
+   },
+   {
+    "tag": "biscuits",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "burgers",
+   "sandwiches",
+   "specialty sodas",
+   "lunch",
+   "early morning"
+  ]
+ },
+ {
+  "slug": "the-cheesecake-factory",
+  "website": "https://locations.thecheesecakefactory.com/al/huntsville-217.html",
+  "menuUrl": "https://menu.thecheesecakefactory.com/al/huntsville-217/",
+  "status": "open",
+  "notes": "Bridge Street Town Centre. Tags checked against the chain's standard menu (Cajun Jambalaya Pasta, salmon dishes); did not load the full menu page.",
+  "tags": [
+   {
+    "tag": "pasta",
+    "result": "yes"
+   },
+   {
+    "tag": "cheesecake",
+    "result": "yes"
+   },
+   {
+    "tag": "Cajun",
+    "result": "yes",
+    "note": "Cajun Jambalaya Pasta on chain menu"
+   },
+   {
+    "tag": "salmon",
+    "result": "yes",
+    "note": "chain menu"
+   }
+  ],
+  "suggested": [
+   "brunch",
+   "happy hour",
+   "steaks",
+   "desserts",
+   "flatbread pizza"
+  ]
+ },
+ {
+  "slug": "the-moon-bakeshop",
+  "website": "https://www.themoonbakeshop.com/",
+  "menuUrl": "https://www.themoonbakeshop.com/menu",
+  "status": "open",
+  "notes": "Menu is a PDF; items confirmed through search results (Cookie Monster Box, cinnamon rolls). Pastries rotate daily.",
+  "tags": [
+   {
+    "tag": "cookies",
+    "result": "yes"
+   },
+   {
+    "tag": "cinnamon rolls",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "croissants",
+   "cruffins",
+   "coffee",
+   "custom cakes",
+   "breakfast sandwiches",
+   "vegan options"
+  ]
+ },
+ {
+  "slug": "the-spot",
+  "website": "https://thespothsv.com/",
+  "menuUrl": "https://thespothsv.com/menu",
+  "status": "open",
+  "notes": "1605 Pulaski Pike NW. Listing says Black female-owned (owner Charlee). Hookah lounge with daily drink specials.",
+  "tags": [
+   {
+    "tag": "wings",
+    "result": "yes"
+   },
+   {
+    "tag": "catfish",
+    "result": "yes"
+   },
+   {
+    "tag": "Black-owned",
+    "result": "yes",
+    "note": "Listing: Black female-owned"
+   },
+   {
+    "tag": "drink specials",
+    "result": "yes",
+    "note": "Daily specials page"
+   }
+  ],
+  "suggested": [
+   "hookah",
+   "happy hour",
+   "taco tuesday",
+   "turkey ribs",
+   "shrimp",
+   "late night"
+  ]
+ },
+ {
+  "slug": "the-veggie",
+  "website": "https://www.eattheveggie.com/",
+  "menuUrl": "https://www.eattheveggie.com/menu",
+  "status": "open",
+  "notes": "Fully vegan. Current address is 7504 US-72 W, Madison (originally Lowe Mill, Huntsville); city may need to change. News says Black woman-owned (Chef Adyre Mason).",
+  "tags": [
+   {
+    "tag": "vegan",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "Black-owned",
+   "vegan burgers",
+   "po boys",
+   "bowls",
+   "salads",
+   "catering"
+  ]
+ },
+ {
+  "slug": "tulum-cantina",
+  "website": "",
+  "menuUrl": "https://www.yelp.com/menu/tulum-cantina-and-grill-huntsville",
+  "status": "open",
+  "notes": "671 Martin Rd SW. No official website found; Facebook only. Margaritas confirmed by Hville Blast and reviews (margarita flight).",
+  "tags": [
+   {
+    "tag": "tacos",
+    "result": "yes"
+   },
+   {
+    "tag": "birria",
+    "result": "yes"
+   },
+   {
+    "tag": "margaritas",
+    "result": "yes"
+   },
+   {
+    "tag": "quesadillas",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "burritos",
+   "fajitas",
+   "enchiladas",
+   "nachos",
+   "patio",
+   "vegetarian options"
+  ]
+ },
+ {
+  "slug": "viet-crispwich",
+  "website": "https://vietcrispwich.com/",
+  "menuUrl": "https://order.online/en-US/store/36087467",
+  "status": "open",
+  "notes": "1300 Enterprise Way NW. Delivery pages blocked (403); items confirmed from search snippets.",
+  "tags": [
+   {
+    "tag": "dumplings",
+    "result": "yes",
+    "note": "Dumplings in chili oil"
+   },
+   {
+    "tag": "noodles",
+    "result": "yes",
+    "note": "Garlic noodle, drunken noodle"
+   },
+   {
+    "tag": "Vietnamese",
+    "result": "yes"
+   },
+   {
+    "tag": "shredded chicken",
+    "result": "yes",
+    "note": "W6 Shredded Chicken Banh Mi"
+   },
+   {
+    "tag": "banh mi",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "boba",
+   "vietnamese coffee",
+   "rice bowls",
+   "egg rolls",
+   "fried rice",
+   "lunch combo"
+  ]
+ },
+ {
+  "slug": "viet-house",
+  "website": "",
+  "menuUrl": "https://www.ubereats.com/store/viet-house/XcDOKVJiVrqD1VZDfIWiJQ",
+  "status": "open",
+  "notes": "975 Airport Rd SW Ste B2, closed Tuesdays. No official site found. Menu pages blocked (403); items confirmed from search snippets of Uber Eats/Yelp. Prices moderate (banh mi ~$7.55, large pho ~$16-18).",
+  "tags": [
+   {
+    "tag": "pho",
+    "result": "yes"
+   },
+   {
+    "tag": "budget-friendly",
+    "result": "unclear",
+    "note": "Banh mi ~$7.55 but pho ~$16; moderate"
+   },
+   {
+    "tag": "dumplings",
+    "result": "yes",
+    "note": "Pork dumplings 6pc"
+   },
+   {
+    "tag": "Vietnamese",
+    "result": "yes"
+   },
+   {
+    "tag": "spring rolls",
+    "result": "yes"
+   },
+   {
+    "tag": "banh mi",
+    "result": "yes"
+   },
+   {
+    "tag": "clay pot rice",
+    "result": "yes"
+   }
+  ],
+  "suggested": [
+   "boba",
+   "vermicelli",
+   "broken rice",
+   "gluten-free options",
+   "desserts"
+  ]
+ },
+ {
+  "slug": "vujee-vegan",
+  "website": "https://www.vujeeveganllc.com",
+  "menuUrl": "https://www.doordash.com/en/store/vujee-vegan-huntsville-27594745/",
+  "status": "open",
+  "notes": "Official site has no menu. DoorDash/UberEats blocked fetch (403); used search snippets, Restaurantji and HappyCow. 4701 Meridian St N Ste K. Black-owned per Madison Eats and listings.",
+  "tags": [
+   {
+    "tag": "burgers",
+    "result": "yes"
+   },
+   {
+    "tag": "vegan",
+    "result": "yes",
+    "note": "100% plant-based"
+   },
+   {
+    "tag": "fries",
+    "result": "yes",
+    "note": "waffle fries, chili cheese fries"
+   },
+   {
+    "tag": "sandwiches",
+    "result": "yes",
+    "note": "chick'n sandwiches"
+   },
+   {
+    "tag": "Philly cheesesteak",
+    "result": "unclear",
+    "note": "only Philly egg rolls seen; no full menu"
+   },
+   {
+    "tag": "lemonade",
+    "result": "unclear",
+    "note": "not seen in snippets"
+   },
+   {
+    "tag": "egg rolls",
+    "result": "yes",
+    "note": "Philly egg rolls"
+   },
+   {
+    "tag": "waffles",
+    "result": "unclear",
+    "note": "only waffle fries seen; likely a mistag"
+   }
+  ],
+  "suggested": [
+   "black-owned",
+   "nashville hot chicken",
+   "chicken nuggets",
+   "chili",
+   "mac and cheese",
+   "cake"
+  ]
+ },
+ {
+  "slug": "west-end-grill",
+  "website": "",
+  "menuUrl": "https://restaurantguru.com/West-End-Grill-Huntsville/menu",
+  "status": "open",
+  "notes": "Official site not confirmed; DoorDash blocked (403). Menu from Restaurant Guru. American scratch kitchen (steaks, pot roast, burgers). Several tags look like a different restaurant.",
+  "tags": [
+   {
+    "tag": "wings",
+    "result": "yes",
+    "note": "Buffalo wings"
+   },
+   {
+    "tag": "budget-friendly",
+    "result": "unclear",
+    "note": "entrees ~$16-23"
+   },
+   {
+    "tag": "lemon pepper wings",
+    "result": "yes",
+    "note": "lemon pepper is a wing sauce option"
+   },
+   {
+    "tag": "lemonade",
+    "result": "no",
+    "note": "not on menu seen"
+   },
+   {
+    "tag": "loaded baked potato",
+    "result": "no",
+    "note": "only plain baked potato side"
+   },
+   {
+    "tag": "loaded potatoes",
+    "result": "no",
+    "note": "not on menu seen"
+   },
+   {
+    "tag": "jerk chicken",
+    "result": "no",
+    "note": "only Jamaican jerk wing sauce"
+   },
+   {
+    "tag": "potato skins",
+    "result": "no",
+    "note": "not on menu seen"
+   }
+  ],
+  "suggested": [
+   "steaks",
+   "pot roast",
+   "burgers",
+   "brunch",
+   "cheese curds",
+   "peanut butter pie"
+  ]
+ },
+ {
+  "slug": "willie-bs-nashville",
+  "website": "http://www.thewilliebs.com/",
+  "menuUrl": "https://wnam-cdn.menuweb.menu/storage/media/companies_menu_pdf/70128883/willie-bs-kitchen-lounge-nashville-menu.pdf",
+  "status": "closed",
+  "notes": "Yelp listing titled 'CLOSED' (updated Sept 2026); other directories still list hours. DoorDash blocked. 918 Buchanan St.",
+  "tags": [
+   {
+    "tag": "mac and cheese",
+    "result": "yes",
+    "note": "mac cheese side on menu listing"
+   }
+  ],
+  "suggested": [
+   "chicken and waffles",
+   "wings",
+   "lamb chops",
+   "shrimp and grits",
+   "cocktails",
+   "hookah"
+  ]
+ },
+ {
+  "slug": "wings-and-gyros",
+  "website": "https://wingsandgyros.com/",
+  "menuUrl": "https://wingsandgyros.com/huntsville-wings-and-gyros-food-menu",
+  "status": "open",
+  "notes": "1212 Sparkman Dr NW near UAH. Listings say wings are halal.",
+  "tags": [
+   {
+    "tag": "wings",
+    "result": "yes"
+   },
+   {
+    "tag": "gyros",
+    "result": "yes",
+    "note": "sandwich or bowl, beef/lamb/chicken"
+   }
+  ],
+  "suggested": [
+   "halal",
+   "burgers",
+   "philly cheesesteak",
+   "pizza",
+   "ice cream",
+   "lemon pepper wings"
+  ]
+ }
+]

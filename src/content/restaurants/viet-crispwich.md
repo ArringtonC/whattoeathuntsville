@@ -12,6 +12,7 @@ lastVerified: 2026-09-03
 draft: true
 status: open
 searchTerms: ["huntsville", "asian", "sandwiches", "quick lunch", "asian food", "fast lunch"]
+website: "https://vietcrispwich.com/"
 ---
 
 Y’all hear that crunch? 👀😋 Make Viet Crispwich our new go to! We tried thier Shredded Chicken Bánh Mì, fried pork dumplings, Premium Spicy Chilli Broth Noodles! Everything was sooo flavorful and crispy. Def worth a try! Fun fact: they also manage Viet House

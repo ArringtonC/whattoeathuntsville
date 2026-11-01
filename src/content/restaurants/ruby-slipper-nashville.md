@@ -12,6 +12,7 @@ lastVerified: 2023-03-12
 draft: true
 status: open
 searchTerms: ["nashville", "breakfast", "brunch", "morning food", "chicken", "weekend brunch"]
+website: "https://rubybrunch.com/"
 ---
 
 A nice rubyslippercafe in The order 📝: Sweet heat fried chicken & Fried & fries with sweet heat sauce— both were delish!

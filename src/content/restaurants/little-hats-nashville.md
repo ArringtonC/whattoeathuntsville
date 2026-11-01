@@ -13,6 +13,7 @@ draft: true
 occasions: []
 status: open
 searchTerms: ["nashville", "germantown", "italian", "sandwiches", "gluten free"]
+website: "https://www.littlehatsmarket.com/"
 ---
 
 Little Hats Italian Market in Nashville, TN 🔥 Craving Italian? 🇮🇹👀🥪 Located in Germanton/Nashville! So so good! Be sure to check them out when you visit 🔥 The order 📝 Fried Ravioli Chicken Parmigiana Sub Meatball Sub Side note: They had gluten free buns too!!

@@ -12,6 +12,7 @@ lastVerified: 2025-10-27
 draft: true
 status: open
 searchTerms: ["huntsville", "sweet treats", "breakfast", "brunch", "dessert", "bakery", "sweets", "morning food", "weekend brunch"]
+website: "https://www.fluffyfluffy.com"
 ---
 
 Huntsville, y’all… fluffyfluffyusa is serving up fall coziness ☁️🍵 Weekdays = Matcha Lover Fest Combo ($14.50 for pancake + latte) Weekends = free cheesecake slice with any all-day menu item 🍰 📅 Oct 20–Nov 9 — it’s giving fluffy, sweet, and so worth the stop!

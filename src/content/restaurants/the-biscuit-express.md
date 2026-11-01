@@ -12,6 +12,7 @@ lastVerified: 2025-07-08
 draft: true
 status: open
 searchTerms: ["huntsville", "moores mill rd", "brunch", "morning food", "weekend brunch", "mobile food"]
+website: "https://thebiscuitexpress.com/"
 ---
 
 The Biscuit Express 🍳 Check out our review of this breakfast/lunch spot in Huntsville. They currently have 2 locations, this is the one on Moores Mills Rd.Heard that they’re opening a food truck soon! Thebiscuitexpress

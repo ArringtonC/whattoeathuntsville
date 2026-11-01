@@ -13,6 +13,7 @@ lastVerified: 2025-09-18
 draft: true
 status: open
 searchTerms: ["madison", "clift farm", "breakfast", "quick lunch", "morning food", "fast lunch"]
+website: "https://www.playabowls.com/location/madison"
 ---
 
 Have you tried Playa Bowls in Cliff Farms? Well.. we did for you!! 🥤 Ordered: Acai Nutella Bowl Aloha Smoothie with added chia seeds & protien Mermaid Fuel (green juice) They have 3 locations across Huntsville/Madison.

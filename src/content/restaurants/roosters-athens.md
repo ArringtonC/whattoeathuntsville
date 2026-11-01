@@ -12,6 +12,7 @@ lastVerified: 2026-04-05
 draft: true
 status: open
 searchTerms: ["athens", "chicken", "quick lunch", "fast lunch"]
+website: "https://roostersinathens.com/"
 ---
 
 Quick bite from Rooster’s in Athens 😍🐓 The sauce >> The tenders >> Fries >> Sweet tea was hitting too 👀 Drive thru was quick…A little pricey…but honestly worth it

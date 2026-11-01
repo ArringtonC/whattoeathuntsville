@@ -13,6 +13,7 @@ draft: true
 occasions: []
 status: open
 searchTerms: ["huntsville", "stovehouse", "sweet treats", "dessert", "bakery", "sweets"]
+website: "https://www.cutesandcakes.com/"
 ---
 
 Sweet treats 🍰 from Cutes and Cupcakes located at stovehouse The order 📝: Chocolate Overload Cupcake 🍫 Biscoff Cheesecake 😋 But they have soooo many options to try from cakes, cookies, brownies, cupcakes you name it!!

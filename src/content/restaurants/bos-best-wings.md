@@ -12,6 +12,7 @@ draft: true
 occasions: []
 status: open
 searchTerms: ["huntsville", "chicken wings", "wing spot", "fried fish", "fish plate", "lemon pepper", "lemon pepper chicken"]
+website: "https://bo-s-best-wings-number-2-llc.square.site/"
 ---
 
 Bo’s Best Wings in Huntsville, AL 🍗🔥 Yall suggested Bo’s after we posted the other wing spots! They’ve been serving up flavor since 1998 for a reason and they were so good!! 📝 Order: Fried Wings, Hot Lemon Pepper Fried Wings, Hot Honey Wings, Fried Catfish & Fries 📍 3700 Blue Spring Rd NW, Unit A, Huntsville, AL 35810

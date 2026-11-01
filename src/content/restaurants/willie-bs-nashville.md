@@ -12,6 +12,7 @@ lastVerified: 2023-03-16
 draft: true
 status: open
 searchTerms: ["nashville", "soul food", "late night", "buffalo chicken mac & cheese", "southern food", "comfort food", "mac n cheese", "macaroni and cheese", "late night food"]
+website: "http://www.thewilliebs.com/"
 ---
 
 Buffalo chicken mac & cheese at 1am? Why not! Check out Willie B’s Kitchen & Lounge in Nashville for late night food & vibes, it was as good as it looks 🤤

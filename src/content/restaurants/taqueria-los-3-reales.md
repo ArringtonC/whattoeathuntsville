@@ -14,6 +14,7 @@ lastVerified: 2025-03-28
 draft: true
 status: open
 searchTerms: ["huntsville", "south huntsville", "mexican", "cheap eats", "mexican food", "taco", "budget friendly", "affordable", "mobile food"]
+website: "http://www.ordertaquerialos3reales.com/"
 ---
 
 let’s 🌮 bout this food truck in South Huntsville My fiance and I LOVE Taqueria Los 3 Reales!! Heads up they take CASH ONLY! We always order their steak tacos, chicken tacos and sopes 🔥 I heard their tortas are bomb as well! We’re pretty often tbh 😅 📍11563 Memorial Parkway SW SE (tagged is the gym right next to it)

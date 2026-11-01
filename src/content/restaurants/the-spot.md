@@ -12,6 +12,7 @@ lastVerified: 2026-06-04
 draft: true
 status: open
 searchTerms: ["huntsville", "soul food", "late night", "group", "southern food", "comfort food", "chicken wings", "wing spot", "fried fish", "fish plate", "late night food"]
+website: "https://thespothsv.com/"
 ---
 
 Good catfish, wings & vibes. 🔥 The Spot has been one of my go-to spots for a night out. The food is always good, the drink specials are solid, and they aren’t trying to charge an arm and a leg for a meal and drinks. Plus, if you’re into hookah, they’ve got that too. In this economy, we love a place that serves good food, good drinks, and keeps it affordable. Everyone there is so nice too. Def deserves a visit! 📍is tagged

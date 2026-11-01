@@ -13,6 +13,7 @@ lastVerified: 2026-01-20
 draft: true
 status: open
 searchTerms: ["madison", "county line rd", "quick lunch", "hot cajun chicken sandwich", "fast lunch"]
+website: "https://www.jonsmithsubs.com"
 ---
 
 If I had to choose between subway and Jon Smith Subs I’m picking Jon Smith 🥪🔥 JSS Hot cajun chicken sandwhich was sooo good!! And they were so nice! Located on county line rd. 📍

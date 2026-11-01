@@ -14,6 +14,7 @@ occasions: []
 status: open
 searchTerms: ["huntsville", "sweet treats", "chocolate cake bites", "dessert", "bakery", "sweets", "cakes", "cake bites", "bakery desserts"]
 address: "975 Airport Road, Huntsville, AL"
+website: "https://babybitebakeshop.com"
 ---
 
 Baby Bite Bake Shop has my whole heart 🫶🏽 I could eat these cake bites every day — they’re so good! 🍫 Chocolate (my fav!) 🍪 Cookies & Cream 🍦 Vanilla Also tried Red Velvet and Caramel another time both are 😍!! Location is tagged!

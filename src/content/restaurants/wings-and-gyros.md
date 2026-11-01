@@ -12,6 +12,7 @@ draft: true
 occasions: []
 status: open
 searchTerms: ["huntsville", "mediterranean", "chicken wings", "wing spot", "gyro", "greek food"]
+website: "https://wingsandgyros.com/"
 ---
 
 Wings & Gyros 🔥🍗🔥 We now have a new wing spot as our go-to!! They gotta be some of the best wings in Huntsville— no lie!!

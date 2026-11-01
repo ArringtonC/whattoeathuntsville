@@ -13,6 +13,7 @@ draft: true
 occasions: []
 status: open
 searchTerms: ["huntsville", "downtown", "sweet treats", "dessert", "bakery", "sweets"]
+website: "https://www.themoonbakeshop.com/"
 ---
 
 the moon bakeshop located in head there for some tasty and from a featuring: a & 😋

@@ -13,6 +13,7 @@ lastVerified: 2025-08-26
 draft: true
 status: open
 searchTerms: ["huntsville", "hazel green and university dr", "mexican", "group", "birthday", "mexican food", "birria tacos", "quesabirria"]
+website: "https://lastrojas.com/"
 ---
 
 Which Las Trojas location is your go-to? 🌮🌯🍹 I’m always down for a marg at Las Trojas iykyk. We went for a birthday dinner and they did their thing at the Hazel Green location! Check out what we ordered!

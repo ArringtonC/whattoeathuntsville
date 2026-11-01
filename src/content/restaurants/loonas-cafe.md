@@ -12,6 +12,7 @@ lastVerified: 2026-08-11
 draft: true
 status: open
 searchTerms: ["huntsville", "brunch", "morning food", "weekend brunch"]
+website: "https://eatatloonas.com/"
 ---
 
 We love a good brunch spot 🍳 Loona’s Cafe deserves a spotlight! Great drinks AND food! We ordered: Nashville Hot Chicken Bennie Breakfast Burrito Salmon & Grits Avocado Toast & a Hugo spritz and mimosas for drinks! Worth the visit! And no this isn't a paid promotion. Located in Providence!
