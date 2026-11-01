@@ -15,6 +15,8 @@ export async function getStaticPaths() {
 const { r } = Astro.props;
 const d = r.data;
 const { Content } = await render(r);
+// Thin pages (no best dish, short caption) stay out of Google until we add our own take.
+const thin = !d.bestDish && (r.body ?? '').split(/\s+/).filter(Boolean).length < 40;
 const videos = await videosFor(r.id);
 const mainVideo = videos[0];
 const guides = await guidesFor(r.id);
@@ -25,7 +27,7 @@ const directions = mapsUrl(d);
 const status = { open: ['Open', 'var(--green)'], 'temporarily-closed': ['Temporarily closed', 'var(--red)'], closed: ['Closed', 'var(--red)'] }[d.status];
 const disclosure = { independent: 'We paid for our meal. This is not a sponsored post.', hosted: 'This visit was hosted. Our opinion is our own.', sponsored: 'Sponsored. This feature was paid for.' }[d.disclosure];
 ---
-<Base title={d.name} description={d.verdict ?? `${d.name}: what to order, where it is, and our take.`} image={d.cover}>
+<Base title={d.name} description={d.verdict ?? `${d.name}: what to order, where it is, and our take.`} image={d.cover} noindex={thin}>
   <article class="wrap" style="padding-top: 20px;">
     <nav aria-label="Breadcrumb" style="font-size: 14px; color: var(--soft-text); display: flex; gap: 8px; flex-wrap: wrap;">
       <a href="/restaurants" style="color: inherit;">Find Food</a><span>/</span><a href={`/restaurants/city/${slugify(d.city)}`} style="color: inherit;">{d.city}</a><span>/</span><a href={`/restaurants/cuisine/${slugify(d.cuisines[0])}`} style="color: inherit;">{d.cuisines[0]}</a>

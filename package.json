@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && node scripts/prefix-base.mjs",
+    "build": "astro build && node scripts/prefix-base.mjs && node scripts/sitemap.mjs",
     "preview": "astro preview",
     "astro": "astro",
     "deploy": "sh scripts/deploy.sh"
