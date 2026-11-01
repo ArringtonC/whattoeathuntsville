@@ -12,13 +12,16 @@ const restaurants = await listedRestaurants();
 const local = restaurants.filter((r) => LOCAL_CITIES.includes(r.data.city));
 const newFinds = [...local].sort((a, b) => +b.data.lastVerified - +a.data.lastVerified || Number(b.data.featured) - Number(a.data.featured)).slice(0, 4);
 const greatUrls = local.filter((r) => r.data.label === 'great').map((r) => `/restaurants/${r.id}`);
-// Biggest cuisines first; each circle uses a cover from that cuisine once covers exist.
-const cuisines = CUISINES.map((c) => {
-  const rs = local.filter((r) => r.data.cuisines.includes(c));
-  return { name: c, count: rs.length, cover: rs.find((r) => r.data.cover)?.data.cover };
-}).filter((c) => c.count > 0).sort((a, b) => b.count - a.count).slice(0, 12);
+// Biggest cuisines first. Each circle gets a different restaurant's photo, cropped below the TikTok caption text.
+const used = new Set<string>();
+const cuisines = CUISINES.map((c) => ({ name: c, rs: local.filter((r) => r.data.cuisines.includes(c)) }))
+  .filter((c) => c.rs.length > 0).sort((a, b) => b.rs.length - a.rs.length).slice(0, 12)
+  .map(({ name, rs }) => {
+    const cover = rs.map((r) => r.data.cover).find((c) => c && !used.has(c)) ?? rs.find((r) => r.data.cover)?.data.cover;
+    if (cover) used.add(cover);
+    return { name, count: rs.length, cover: cover?.replace('/covers/videos/', '/covers/circles/') };
+  });
 const guides = await Promise.all((await getCollection('guides', visible)).slice(0, 3).map(async (g) => ({ ...g, cover: await guideCover(g) })));
-const videos = (await getCollection('videos')).sort((a, b) => +b.data.postedDate - +a.data.postedDate).slice(0, 6);
 const outside = restaurants.filter((r) => TRAVEL_CITIES.includes(r.data.city)).slice(0, 4);
 const cravings = ['Tacos', 'Brunch', 'Burgers', 'Pizza', 'BBQ', 'Sweet treats', 'Date night', 'Cheap eats'];
 ---
@@ -47,11 +50,6 @@ const cravings = ['Tacos', 'Brunch', 'Burgers', 'Pizza', 'BBQ', 'Sweet treats', 
           </button>
         )}
       </div>
-      <div style="flex: 1 1 420px; min-width: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px;">
-        {newFinds.slice(0, 3).map((r, i) => (
-          <a href={`/restaurants/${r.id}`} style={i === 0 ? 'grid-row: span 2;' : ''}><Cover id={r.id} src={r.data.cover} alt={r.data.name} ratio={i === 0 ? '4 / 5' : '8 / 5'} play={false} /></a>
-        ))}
-      </div>
     </div>
   </section>
 
@@ -62,6 +60,8 @@ const cravings = ['Tacos', 'Brunch', 'Burgers', 'Pizza', 'BBQ', 'Sweet treats', 
     </div>
     <div class="grid">{newFinds.map((r) => <RestaurantCard r={r} />)}</div>
   </section>
+
+  <SignupBand />
 
   {cuisines.length > 0 && (
     <section class="wrap" style="padding-bottom: 64px;">
@@ -109,22 +109,10 @@ const cravings = ['Tacos', 'Brunch', 'Burgers', 'Pizza', 'BBQ', 'Sweet treats', 
     </div>
   </section>
 
-  <section class="wrap section">
-    <div class="row-head">
-      <h2 style="font-size: 30px; font-weight: 800;">Watch before you go</h2>
-      <a href={SITE.tiktok} style="font-weight: 700;">@whattoeathuntsville on TikTok</a>
-    </div>
-    <div class="grid" style="grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));">
-      {videos.map((v) => (
-        <a class="card" href={v.data.tiktokUrl} rel="noopener">
-          <Cover id={v.id} src={v.data.cover} alt={v.data.title} ratio="9 / 16" />
-          <span style="font-weight: 800; font-size: 16px;">{v.data.title}</span>
-        </a>
-      ))}
-    </div>
+  <section class="wrap section" style="display: flex; flex-wrap: wrap; gap: 12px 24px; align-items: center; justify-content: space-between;">
+    <h2 style="font-size: 30px; font-weight: 800;">See it all on TikTok</h2>
+    <a class="btn" href={SITE.tiktok} rel="noopener">@whattoeathuntsville on TikTok</a>
   </section>
-
-  <SignupBand />
 
   <script>
     const btn = document.getElementById('surprise');
