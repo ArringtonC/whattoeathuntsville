@@ -17,7 +17,7 @@ const places = await getEntries(g.data.entries.map((e) => e.restaurant));
 const entries = g.data.entries.map((e, i) => ({ ...e, r: places[i] })).filter((e) => e.r && e.r.data.status !== 'closed');
 const adAfter = new Set(guideAdSlots(entries.length));
 ---
-<Base title={g.data.title} description={g.data.dek}>
+<Base title={g.data.seoTitle ?? g.data.title} description={g.data.seoDescription ?? g.data.dek}>
   <article class="narrow" style="padding-top: 40px; padding-bottom: 56px;">
     {g.data.sponsored && <p class="note" style="margin-bottom: 20px;"><span class="label label-sponsored">SPONSORED</span> This guide was paid for. Places on it were still chosen by us.</p>}
     <p class="kicker" style="margin-bottom: 12px;">Guide · {entries.length} places · Updated {fmtDate(g.data.updated)}</p>

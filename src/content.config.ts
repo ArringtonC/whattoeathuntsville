@@ -35,6 +35,8 @@ const restaurants = defineCollection({
     lastVerified: z.coerce.date(),
     disclosure: z.enum(['independent', 'hosted', 'sponsored']).default('independent'),
     featured: z.boolean().default(false),
+    seoTitle: z.string().optional(), // search result title; falls back to name + cuisine + area
+    seoDescription: z.string().optional(), // search result snippet, ~150 characters
     draft: z.boolean().default(false),
   }),
 });
@@ -55,6 +57,8 @@ const guides = defineCollection({
   schema: z.object({
     title: z.string(),
     dek: z.string(),
+    seoTitle: z.string().optional(),
+    seoDescription: z.string().optional(),
     city: z.enum(CITIES),
     updated: z.coerce.date(),
     entries: z.array(z.object({ restaurant: reference('restaurants'), why: z.string(), dish: z.string().optional() })),
