@@ -16,8 +16,10 @@ searchTerms: ["huntsville", "soul food", "southern food", "comfort food", "fried
 area: "Jordan Rd"
 ---
 
-Niyah's Southern Grill is a soul food spot on Jordan Road, and we came hungry.
+Niyah's Southern Grill is a soul food spot in the Buckhorn area off Jordan Road. People told us to try it a few times, so we came hungry.
 
-We ordered the fried catfish, porkchop bites, fries, hot wings, baked beans and queso mac. That is a full table of Southern comfort food.
+We ordered the fried catfish, porkchop bites, fries, hot wings, baked beans and queso mac. That is a full table of Southern comfort food. The catfish was our favorite: well seasoned and crispy. It was our first time having porkchop bites, and they were nice and crispy too. Arrington approved the wings.
 
-One thing to know: they make their own white sauce. Ask for it with your plate.
+They make their own white sauce, so ask for it with your plate. The red sauce, a sweet chili sauce, went well too. We also saw a meatloaf plate go by that looked pretty good.
+
+Check the menu before you go, since it shows what they serve on which days.

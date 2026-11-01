@@ -19,6 +19,6 @@ area: "Airport Rd"
 
 Best pho in Huntsville. Yes, we said it. Viet House is our forever favorite, and we end up here almost every week for good reason. We got all this for under $40.
 
-If you don't know what to order, take ours. Start with the fried spring rolls, then get the chicken pho. Ask for level 1 if you want it a little spicy, or level 3 if you like it hot, the way Michaela does.
+If you don't know what to order, take ours. Start with the fried spring rolls, and you can never go wrong with the dumplings either. The fried appetizers are so good. Then get the chicken pho. Ask for level 1 if you want it a little spicy, or level 3 if you like it hot, the way Michaela does.
 
-Arrington always gets the large and Michaela always gets a small. It's simple, flavorful and hits every time.
+You can pick your size. Arrington always gets the large and Michaela always gets a small, which is plenty for her. The broth is always really good, and the menu has so many items to choose from. It's simple, flavorful and hits every time.

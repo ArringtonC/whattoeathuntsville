@@ -17,8 +17,10 @@ website: "https://www.northitalia.com/locations/huntsville/"
 address: "401 The Bridge St NW, Suite 180, Huntsville, AL 35806"
 ---
 
-North Italia is newer to Huntsville, at Bridge Street Town Centre, and we went in to try a little bit of everything. It works for almost any occasion.
+North Italia is newer to Huntsville, at Bridge Street Town Centre, and we got to try it before it officially opened. We tried a little bit of everything, and it works for almost any occasion.
 
-We started with the truffle garlic bread, then had the margherita pizza and the tripoline alfredo. We finished with tiramisu. To drink, we had the new Italian spritz and a Zonin nonalcoholic sparkling.
+To drink, we had the new Italian spritz and a Zonin nonalcoholic sparkling. We started with the truffle garlic bread, which was very buttery with Parmesan, and some juicy meatballs. Then came the margherita pizza, which tasted fresh, and the tripoline alfredo. We loved the noodles, and the sauce was very creamy.
 
-The portions were generous. We had leftovers to take home.
+For dessert, the tiramisu had a different spin, with crunchy balls on top. It was a nice touch.
+
+The space is pretty and has plenty of seating. The portions were generous, and we had leftovers to take home. It is worth the visit.

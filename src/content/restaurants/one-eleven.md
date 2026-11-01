@@ -16,4 +16,10 @@ address: "111 Washington St NE, Huntsville, AL 35801"
 website: "https://www.oneelevenhsv.com/"
 ---
 
-One Eleven is downtown, and it has cute vibes and good food. It is a nice pick for a date night.
+One Eleven is downtown, and it has cute vibes and good food. We came for a girls' dinner to celebrate a friend's birthday, and they gave us our own room.
+
+The drinks were a vibe. They come with fun touches like bubbles and tea kettles. Some are made to share, and some are single drinks. We all tasted each other's, and they were good.
+
+The food was really good too. The wedge salad was so fresh, with no brown spots on the lettuce. Our table had fish, mussels, soup, pasta and steak. Nobody had a complaint.
+
+After dinner we went to the photo booth. You get unlimited footage, cute mirrors and a little postcard to take home. It is a nice pick for a date night or a girls' night.

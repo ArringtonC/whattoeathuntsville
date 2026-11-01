@@ -16,8 +16,10 @@ searchTerms: ["madison", "clift farm", "mexican", "group", "mexican food", "taco
 address: "461 John Henry Way, Ste 1080, Madison, AL 35757"
 ---
 
-We ate at La Parrilla at Clift Farm for under $60. They were busy, so we grabbed seats at the bar, and the service was still great.
+We ate at La Parrilla at Clift Farm for under $60. It is a really pretty restaurant. They were busy, so we grabbed seats at the bar, and the service was still great.
 
-We ordered two house margaritas, the tableside guacamole, their famous Sopa de Pollo, and the fried fish tacos.
+We started with two house margaritas, and they were very tasty. A woman sitting next to us suggested the tableside guacamole, and she was right. The avocado was really, really good.
 
-Everything was fresh, flavorful, and filling. It's a solid spot when you're craving Mexican food in Madison.
+The fried fish tacos normally come with beans, but we asked for double rice instead. It was some of the best rice we have had. Their famous Sopa de Pollo is a lot like tortilla soup and comes with little chips. Honestly, some of the best soup we have ever had.
+
+Everything was fresh, flavorful, and filling. The menu has so many options that we can't wait to go back. It's a solid spot when you're craving Mexican food in Madison.

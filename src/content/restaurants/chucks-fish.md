@@ -17,6 +17,12 @@ address: "461 John Henry Way, Bldg 500, Madison, AL 35757"
 area: "Clift Farm"
 ---
 
-Chuck's Fish made for a perfect date night.
+Chuck's Fish at Clift Farm made for a perfect date night. The vibe and ambiance were so nice, and the customer service was too.
 
-We ordered the parmesan-crusted grouper and sushi, and we enjoyed it. It's definitely worth another visit.
+We started with drinks: a French 75 and a margarita. They were very busy that Wednesday night, so they brought out salads while we waited on our sushi, which was a nice touch.
+
+The hot honey pizza was the main reason we came, and it earned five stars. It was full of flavor and very sweet. It was so much food that we took some home, and it was still good warmed up.
+
+We also got salmon sushi from their secret menu. It had a nice crunch, and we'd get it again. We liked that they have non-shellfish sushi options for anyone with an allergy. The parmesan-crusted grouper was flavorful and crispy, and the risotto it came with was so good we kept stealing bites.
+
+It's a little on the pricey side, but everything tasted fresh, and we think it's worth it. We can't wait to go back.

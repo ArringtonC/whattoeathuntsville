@@ -17,8 +17,10 @@ address: "20 Town Center Dr NW, Ste 1109, Huntsville, AL 35806"
 area: "Providence"
 ---
 
-We love a good brunch spot, and Loona's Cafe in Providence deserves a spotlight. Great drinks and great food.
+We love a good brunch spot, and we had wanted to try Loona's Cafe in Providence for the longest time. It deserves a spotlight. This is not one of those overrated places in Huntsville.
 
-We ordered the Nashville Hot Chicken Bennie, a breakfast burrito, salmon and grits, and avocado toast. To drink, we had a Hugo spritz and mimosas.
+We started with a Hugo spritz and mimosas, because what is brunch without a mimosa? Very good drinks. We came as a group and got seated pretty fast.
+
+We ordered the shrimp and grits but swapped in salmon because of a shrimp allergy, and the salmon was great. We also got the Nashville Hot Chicken Bennie, a breakfast burrito, and avocado toast. The chicken looked so crispy, and everything was well seasoned and full of flavor. All of us were really happy.
 
 It is worth the visit. And no, nobody paid us to say that.

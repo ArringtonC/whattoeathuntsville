@@ -18,8 +18,10 @@ website: "https://taqueriadonpanchoal.com"
 area: "Hwy 72 W"
 ---
 
-The online reviews didn't lie about Taqueria Don Pancho. This place is great.
+We love finding a really good Mexican restaurant, and the online reviews didn't lie about Taqueria Don Pancho. This place is great, and the menu has so many items to choose from.
 
-We ordered the birria tacos, the torta mamalona, and steak and chicken tacos.
+The birria tacos are some of the best birria we've had in Huntsville. A lot of birria is soggy, but theirs comes out with a crispy tortilla, cooked to perfection, with good flavor and not too oily. You won't go wrong ordering them.
 
-It's in the plaza next to Lowe's, with Michael's and Taco Bell, so look there if you have trouble finding it.
+We also got the torta mamalona, the one with every meat you can think of, even eggs. If you're a carnivore, it's the sandwich for you. It's big enough to feed two people, so don't make our mistake of ordering one each. We also got steak and chicken tacos, and the chicken ones took the win.
+
+It's in the plaza next to Lowe's, with Michael's and Taco Bell, so look there if you have trouble finding it. We drove by plenty of times before we stopped, and now we'll be back.

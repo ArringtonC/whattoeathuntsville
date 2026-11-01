@@ -19,6 +19,8 @@ address: "14739 Hwy 231-431 N, Suite H, Hazel Green, AL 35750"
 
 We are always down for a margarita at Las Trojas. If you know, you know.
 
-We went to the Hazel Green location for a birthday dinner, and they did their thing. It is a fun spot for a group or a celebration.
+We went to the Hazel Green location for a birthday dinner and ordered almost the whole menu. On the table: birria tacos, shrimp fajita nachos, beef nachos, enchiladas, and a Hawaiian quesadilla with pineapple, which we are suckers for. The chicken cheese and rice is a forever favorite, and the queso just hits different. They are always good about handling large groups, and they did their thing.
 
-On the table this time: birria pizza, carne asada fries and margaritas.
+They later invited us back to try new menu items. The Bama margarita was one of our favorite drinks, and it is big enough for two. The new carne asada fries were very cheesy. The birria pizza was crisp with a pastry-like texture, almost like a croissant, and it reminded us of a Jamaican patty. Both were really good, and everything came out fast.
+
+They now have birria ramen and street tacos too.

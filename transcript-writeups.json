@@ -1,0 +1,668 @@
+{
+ "a-town-wings": {
+  "slug": "a-town-wings",
+  "body": "The wings here are tiny but mighty. Just a heads up: you might have to order extra.\n\nWe always get the same three flavors: honey gold, hot honey and hot lemon pepper. In our opinion, this is a pretty solid place to get wings in Huntsville.",
+  "removed": [],
+  "flag": ""
+ },
+ "aloha-ramen-house": {
+  "slug": "aloha-ramen-house",
+  "body": "Aloha Ramen House in Madison has a great comfort food vibe, and we loved our experience here. The appetizers were great, the ramen was good, and so were the drinks.\n\nWe were pointed to the yuzu white peach drink by someone who said she drinks a lot of them, so we had to try it. It was very refreshing and hit the spot.\n\nTo start, we got the fried gyoza and the chicken katsu. It was our first time having gyoza fried instead of pan seared, and now it's a new favorite. The katsu was nice and crispy, just how we like it.\n\nFor ramen, we got the spicy tonkotsu two ways, one with chicken and one with pork. It's a pork ramen, but you can swap the meat to chicken. You can't swap the broth, but there is a vegan broth option. We both liked it, and it was on the lighter side. We definitely recommend it if you're craving flavorful broth and crispy apps.",
+  "removed": [
+   "\"Our server recommended the yuzu white peach drink\": the transcript says \"He actually referred me ... and she said she drinks a lot of them\" and never says it was the server. I changed it to a neutral \"someone who said she drinks a lot of them\"."
+  ],
+  "flag": "The transcript does not say who recommended the yuzu white peach drink (it says 'he' and then 'she'). If it was your server, you can put 'Our server' back."
+ },
+ "baby-bite-bake-shop": {
+  "slug": "baby-bite-bake-shop",
+  "body": "Baby Bite Bake Shop has our whole heart. We could eat these cake bites every day. They're so good.\n\nThis time we got chocolate (our favorite), cookies and cream, and vanilla. Another time we tried the red velvet and the caramel, and we loved both of those too.",
+  "removed": [],
+  "flag": "The front matter says status: closed, but the write-up reads as if the shop is still open. Check this."
+ },
+ "barracuda-taco-stand": {
+  "slug": "barracuda-taco-stand",
+  "body": "Is Barracuda Taco Stand actually worth it? We were invited to try it, and it's giving laid-back vibes with a little hint of California. We ordered a chicken taco, a pork taco, a crispy fish taco and a couple of quesadillas.\n\nThe tacos were the star of the show. Everything is made to order, and you can tell. The pork taco was the best thing we had. It was juicy and full of flavor, and those pickled onions really set it off. The sauce made every taco even better.\n\nThe chicken taco was a close second, with good flavor. The fish taco was crispy and light. The lime margarita on the rocks was a 10 out of 10, and they have pitchers too.\n\nThey were out of chips, so we didn't get to try the queso. We'll be back for that and a pitcher.",
+  "removed": [],
+  "flag": "Whisper errors: 'pictures' was fixed to 'pitchers' (the caption says 'a pitcher'), and 'crispy chicken taco' was fixed to 'fish taco' (the caption says 'fish taco crispy & light'). The transcript says 'classic margarita' but the caption says 'Lime margarita on the rocks'. The draft uses the caption. The 7am to 9pm hours come from the caption and may have changed."
+ },
+ "beignets-and-brew": {
+  "slug": "beignets-and-brew",
+  "body": "We grabbed a caramel latte and an order of beignets with chocolate sauce.\n\nIt's not great for us that this place is just up the street. After trying it, we might be there more than we should.\n\nThey have a Madison location and a Huntsville one too.",
+  "removed": [],
+  "flag": ""
+ },
+ "big-johns": {
+  "slug": "big-johns",
+  "body": "Big John's has the best fried catfish in Huntsville, in our opinion. If you know somewhere better, tell us.\n\nWe also got two small orders of fries: the loaded buffalo fries and the rooftop fries.\n\nYou'll find Big John's at The Open Bottle. They're only open Thursday to Saturday, 4 to 9pm, so plan ahead.",
+  "removed": [],
+  "flag": "The caption says 'best fried catfish in in my opinion', with a word missing. 'In Huntsville' is inferred from the caption opening. The Thursday to Saturday, 4 to 9pm hours come from the caption and may have changed."
+ },
+ "big-papa-gyro": {
+  "slug": "big-papa-gyro",
+  "body": "We're definitely late to the party here, since Big Papa Gyro has been around for 20 years. But it was good, with really fresh ingredients.\n\nWe ordered the Big Papa Gyro, a chicken gyro and a Greek salad. That salad was amazing, and the fries were crispy as heck.",
+  "removed": [],
+  "flag": "The '20 years' claim comes from the caption and was true at the time of that post."
+ },
+ "blue-oak-bbq": {
+  "slug": "blue-oak-bbq",
+  "body": "We stopped by Blue Oak BBQ in MidCity. It was Michaela's first time eating here, but we already love their margaritas, so of course we ordered a couple. On top of the regular menu, they have daily specials, and the place is really accommodating, especially for large groups.\n\nThe food came out pretty fast. Michaela got the Winter Burger, a Friday special, with fries. It was a very messy burger, but really good: spicy with jalapeno, crispy, and sweet too. Arrington got the mild buffalo wings with fries and baked beans, and the beans were really good.\n\nWe were basically fighting over the tater tots and fries. They were beer battered, hot and really, really good. We definitely want to go back.",
+  "removed": [],
+  "flag": "The transcript never names the speaker. It calls Arrington 'Earrington' (fixed), so I assumed the speaker is Michaela. Confirm this."
+ },
+ "bos-best-wings": {
+  "slug": "bos-best-wings",
+  "body": "You all suggested Bo's Best Wings after we posted our other wing spots, so we had to go. They've been serving up flavor since 1998 for a reason. Everything was so good.\n\nWe ordered fried wings, hot lemon pepper fried wings, hot honey wings, and fried catfish with fries.",
+  "removed": [],
+  "flag": ""
+ },
+ "caps-philly-cheesesteak": {
+  "slug": "caps-philly-cheesesteak",
+  "body": "Cap's Philly Cheesesteak is a real taste of Philly, inside the Nails gas station. They make their own cheese whiz, and they're actually from Philly.\n\nDon't just take our word for it. Check what people say online, or go try it yourself. We get ours with provolone, so don't judge.",
+  "removed": [],
+  "flag": ""
+ },
+ "chikin-jip": {
+  "slug": "chikin-jip",
+  "body": "We tried Chikin Jip in Madison for a birthday, and it delivered. They had recently opened, and we wanted to give this local business a spotlight.\n\nThere are plenty of menu options, mostly Korean fried chicken in different formats. We ordered the yangnyeom boneless chicken with fries and the bulgogi fries. The yangnyeom chicken was really spicy, but so good. The fries were good too.\n\nThe customer service was friendly, the vibe was good, and the food tasted fresh all around. It's definitely worth a visit, especially if you like some spice. Just know your mouth might be burning later.",
+  "removed": [],
+  "flag": "'Recently opened' was true when the video was made (Jan 2026) and may now be out of date. In the transcript, the bulgogi fries line reads 'It's not really good', which is probably a Whisper error for 'It's really good'. The draft makes no claim either way about those fries."
+ },
+ "china-dragon": {
+  "slug": "china-dragon",
+  "body": "China Dragon is our Chinese takeout spot. Michaela has been coming here since she was a kid.\n\nOur go-to order is the General Tso's or sesame chicken with lo mein. To be fair, we haven't tried anything else on the menu, so we can only speak for those.\n\nWe'd love to know your favorite Chinese spot in Huntsville.",
+  "removed": [],
+  "flag": "The caption says 'I've been coming here since I was a kid' and does not name the person. 'Michaela' comes from the existing restaurant file. Confirm this. The restaurant is in Madison, but the closing question says 'Huntsville', as the caption does."
+ },
+ "chucks-fish": {
+  "slug": "chucks-fish",
+  "body": "Chuck's Fish at Clift Farm made for a perfect date night. The vibe and ambiance were so nice, and the customer service was too.\n\nWe started with drinks: a French 75 and a margarita. They were very busy that Wednesday night, so they brought out salads while we waited on our sushi, which was a nice touch.\n\nThe hot honey pizza was the main reason we came, and it earned five stars. It was full of flavor and very sweet. It was so much food that we took some home, and it was still good warmed up.\n\nWe also got salmon sushi from their secret menu. It had a nice crunch, and we'd get it again. We liked that they have non-shellfish sushi options for anyone with an allergy. The parmesan-crusted grouper was flavorful and crispy, and the risotto it came with was so good we kept stealing bites.\n\nIt's a little on the pricey side, but everything tasted fresh, and we think it's worth it. We can't wait to go back.",
+  "removed": [
+   "Fixed 'pan-crusted grouper' (Whisper) to 'parmesan-crusted grouper' per caption and alsoOrder.",
+   "Added 'on our sushi' to the salads line to match the transcript; no claims removed."
+  ],
+  "flag": ""
+ },
+ "city-barbeque": {
+  "slug": "city-barbeque",
+  "body": "City Barbeque recently opened in South Huntsville, and they invited us in to try it. It's their first location in Alabama. The staff kept saying \"more cowbell,\" and as a Mississippi State girl, Michaela couldn't ignore that.\n\nWe got the 6-piece wings with hush puppies, green beans and baked beans, plus the Texas sausage meal with mac and cheese and baked beans. Everything came to about $32, which we think is pretty good.\n\nThe wings were the star: smoky, seasoned and actually flavorful. We'd go back for them alone. The mac and cheese had a great cheese pull and was one of the better ones in Huntsville. The green beans were loaded with meat and top tier. The hush puppies were really good, the baked beans were solid, and the Texas sausage had a good snap.\n\nWe left full, but don't forget dessert on your way out. The chocolate cake was pretty good. They also have a drive-thru and do catering.",
+  "removed": [
+   "Softened 'save room for the chocolate cake' to match the transcript: 'don't forget to get a dessert... the chocolate cake, and it's pretty good.'"
+  ],
+  "flag": "The name 'Michaela' comes only from the existing restaurant file; the caption says 'I'. Confirm the name is right."
+ },
+ "coopers-hawk": {
+  "slug": "coopers-hawk",
+  "body": "Is Cooper's Hawk worth the hype? We tried the newest spot at Clift Farm, and we think it is. Huntsville has needed a spot like this for a while.\n\nIt works for any occasion: date night, girls' night, birthdays, or a just-because dinner.\n\nThe bread came out first, with really smooth butter. We ordered a lemon drop and a margarita, then the chicken potstickers, which came with a pretty good ginger soy sauce. The Prime, a prime rib sandwich, was really good. The surf and turf came with parmesan-crusted medallions and grouper. We ended with the s'mores budino, and it was a 10 out of 10: rich, chocolatey and perfectly toasted.\n\nThe service stood out too. They even bag your food for you before you leave. And we're not exaggerating when we say the leftovers tasted just as good the next day.",
+  "removed": [
+   "Changed 'bag your leftovers' to 'bag your food' to match the transcript wording."
+  ],
+  "flag": "Transcript says 'meeting a spot like this' (read as 'needing'). Transcript calls the appetizer only 'an appetizer'; linking it to the caption's chicken potstickers is an inference."
+ },
+ "cutes-and-cupcakes": {
+  "slug": "cutes-and-cupcakes",
+  "body": "We grabbed sweet treats from Cutes and Cupcakes at Stovehouse.\n\nOur order was the Chocolate Overload cupcake and the Biscoff cheesecake.\n\nThey have so many options to try: cakes, cookies, brownies, cupcakes, you name it.",
+  "removed": [],
+  "flag": "Transcript is only song lyrics, so the write-up rests on the caption alone."
+ },
+ "daylight-donuts-south": {
+  "slug": "daylight-donuts-south",
+  "body": "We finally tried Daylight Donuts in South Huntsville, and they had so many options to choose from.\n\nWe didn't know they also serve breakfast sandwiches and pigs in a blanket, so there's something for anyone who isn't in the mood for sweets.\n\nWe only tried three things. The traditional chocolate glazed donut was so chocolatey once we warmed it up. The cinnamon roll was good warmed up too, though we had to sneak a bite in the shop. We also got donut holes to try their regular glaze, and those were pretty good.",
+  "removed": [],
+  "flag": ""
+ },
+ "domaine-south": {
+  "slug": "domaine-south",
+  "body": "Domaine South is such a nice spot for date night or dinner with friends. We had no complaints.\n\nWe enjoyed some cocktails while we waited on our meals, and the service was great too. Reservations are suggested, and the menu changes with the seasons.\n\nWe ordered the salmon with risotto and the steak with duck fat fries. Those fries were a standout.",
+  "removed": [],
+  "flag": "Transcript has only an outro line, so the write-up rests on the caption alone."
+ },
+ "dragon-alley": {
+  "slug": "dragon-alley",
+  "body": "Everyone's been asking if we've tried Dragon Alley in MidCity, so here's our honest review.\n\nWe started with two drinks. They were not your typical flavors, with more earthy tones. One was a little spicy, and the other was pretty refreshing.\n\nThe dumplings were okay, a little plain, but we liked the sauce. The duck bao had good flavor and was soft and fluffy. The yaki udon was by far our favorite, with thick noodles and great flavor. We'd go back just for that. We also tried a chicken dish that had flavor and wasn't bland. Overall, the food was solid.\n\nAt the end of dinner, you tie a wish tag to the tree, which is a cute touch. There's karaoke where you can earn a free drink, and a DJ every night. The vibes are immaculate.",
+  "removed": [
+   "Changed 'two cocktails' to 'two drinks'; sources only say 'drinks'.",
+   "Changed chicken 'had flavor but nothing crazy' to 'had flavor and wasn't bland'; in the transcript 'nothing crazy' described the food overall, not the chicken."
+  ],
+  "flag": "Whisper heard drink names 'Night Drift' and 'One Night in Shanghai' and a dish 'Alley Mama's Chicken'. I left all three out because I can't confirm them; check the menu if you want them back."
+ },
+ "entice-bar-and-grille": {
+  "slug": "entice-bar-and-grille",
+  "body": "Best wings in Madison? We think we found them at Entice Bar & Grille.\n\nWe had no idea it was this nice inside. The decor is beautiful, and we sat at the little swing. We went on a Wednesday for 50-cent wings (you must order at least 10), plus happy hour drink deals until 8pm, and we ordered margaritas.\n\nWe got fries, hot honey wings and hot lemon pepper wings. The hot honey leaned more sweet than hot. The hot lemon pepper was our favorite of the two. These wings were crispy, hot and flavorful.\n\nGreat drinks, good food and good energy, all for under $40.",
+  "removed": [
+   "Removed 'on University Drive' (street location)."
+  ],
+  "flag": "The caption says University Dr, but the front matter area and address say Madison Blvd. Confirm the right location."
+ },
+ "floyds-barbecue": {
+  "slug": "floyds-barbecue",
+  "body": "So many of you told us to try Floyd's Barbecue, and now we get why. One of us has been coming here for about 20 years. We're giving it 5 stars, and this is the best pork sandwich in Huntsville.\n\nWe went on a Friday. Online it may say they're not open, but they are. We waited in line about 20 minutes.\n\nWe both got pork sandwich plates, one large and one small. The large comes with coleslaw on it, and even if you don't like coleslaw, it works on this sandwich. One of us added a little of their sauce and liked it. For sides we picked fries, mac and cheese, and baked beans. The mac had a little pepper and was good, but the baked beans are the side you'll really like. We also had to try a rib, and it was so juicy we ate it to the bone.\n\nStart with the pork sandwich plate and you can't go wrong.",
+  "removed": [
+   "Changed 'A little of their sauce on top is good too' to 'One of us added a little of their sauce and liked it'; only one person liked the sauce, and the other said he doesn't usually use it."
+  ],
+  "flag": "The 'online says they're not open' line may go out of date. Check their listed hours."
+ },
+ "fluffy-fluffy": {
+  "slug": "fluffy-fluffy",
+  "body": "We stopped by Fluffy Fluffy for some fall coziness. On weekdays they ran a Matcha Lover Fest combo, a matcha pancake and a latte for $14.50. On weekends you got a free cheesecake slice with any item from the all-day menu.\n\nThose deals ran Oct 20 to Nov 9, so they may be gone by the time you visit. Either way, we found it fluffy, sweet, and worth the stop.",
+  "removed": [],
+  "flag": ""
+ },
+ "gordo-street-tacos": {
+  "slug": "gordo-street-tacos",
+  "body": "Gordo Street Tacos in Harvest has a drive-thru, so you don't even have to get out of your car to get your tacos. It sits right off Hwy 53, which makes it an easy quick lunch.",
+  "removed": [],
+  "flag": "The front matter says status: closed, but the body reads as if the place is open. Transcript is only 'Music'."
+ },
+ "handels-ice-cream": {
+  "slug": "handels-ice-cream",
+  "body": "Handel's invited us in to try their new limited-time flavor, Cheesecake with Biscoff Cookies. If you love the cookies they hand out on airplanes, this one is for you.\n\nIt's cheesecake ice cream with a Biscoff cookie butter swirl and Biscoff cookie pieces all the way through. It had the perfect mix of crunchy cookie and creamy ice cream. One of us doesn't even like cheesecake, and we still thought it was so good.\n\nIt's only around for a limited time, while supplies last, so get it before it goes off the menu.",
+  "removed": [
+   "Fixed Whisper 'this cough cookies' to 'Biscoff Cookies' per the caption (the draft already had it right)."
+  ],
+  "flag": ""
+ },
+ "hattie-bs-huntsville": {
+  "slug": "hattie-bs-huntsville",
+  "body": "We already love the Nashville locations, so we were excited to finally try Hattie B's here in Huntsville. We were a little worried it would not compare. It does.\n\nWe started with the Dirty Bird Fries, which come with mac and cheese. It is an interesting combination, but the mac and cheese actually goes well with the fries. The medium hot chicken tenders came out so hot we could not eat them on camera, and you have to get the honey mustard. The medium hot wings were crispy and came out hot too. Our sides were fries and solid baked beans.\n\nBut honestly, the Poppy Seed Grilled Chicken Salad stole the show. Top-tier salad. We will be going back for it.\n\nWe ended with a waffle and ice cream for dessert, a combination we had been sleeping on. Everything had that classic Nashville hot flavor we love, and it tastes just like the original. Definitely worth a visit.",
+  "removed": [
+   "\"mac and cheese on top\" changed to \"come with mac and cheese\": transcript says \"in them\", not on top",
+   "\"could barely eat them on camera\" changed to \"could not eat them on camera\": transcript says \"I couldn't eat mine on camera\"",
+   "\"Dirty burger fries\" (Whisper) confirmed as Dirty Bird Fries from caption and alsoOrder; \"big beans\" confirmed as baked beans from caption"
+  ],
+  "flag": ""
+ },
+ "hunnydew-bakery": {
+  "slug": "hunnydew-bakery",
+  "body": "Unreal. We give Hunnydew Bakery a 10 out of 10 across the board.\n\nWe tried a wide variety: cinnamon sparkle, chocolate lava, chocolate strawberry, and velvet dreams. Every single cookie was made fresh. The cinnamon sparkle felt like it had just come out of the oven, with no dryness at all. The strawberry one is part of her Valentine's Day collection, dipped and topped with strawberries, and we have never had a cookie like it. Velvet dreams mixes cookies and cream with red velvet, and it is the perfect combination.\n\nWe also warmed an old reliable chocolate chip cookie in the oven as a late-night sweet treat. So good.\n\nThe packaging is cute, and the ingredients are listed on the back, which helps if you have food sensitivities. Her cookies are gluten-friendly, and buying them helps support her medical treatments. This is a small local baker worth supporting.",
+  "removed": [
+   "No unsupported claims found; all sentences trace to the caption or transcript. Kept the left-out \"freeze-dried\" omission (Whisper: \"free strud\")."
+  ],
+  "flag": "The transcript calls the Valentine's strawberry cookie a \"strawberry crunch\" cookie, while the caption lists \"chocolate strawberry\". They may be two different cookies. The body says only \"the strawberry one\" to stay safe."
+ },
+ "jets-pizza-madison": {
+  "slug": "jets-pizza-madison",
+  "body": "Jet's Pizza is flying under the radar in Madison. We stopped by ahead of their grand opening on a day it was pouring rain, and the staff were really nice.\n\nWe started with the 4 Corner Deep Dish, half buffalo chicken ranch and half all meat. It was good. We also customized a thin crust, half cheese and half pepperoni with jalapeños, and it came out very crispy.\n\nThe wings were half BBQ and half buffalo. We loved the buffalo, and the BBQ sauce was great too. For dessert we got a cookie and a brownie, and we split on the winner: one of us liked the cookie better, the other liked the brownie.\n\nAnd can we talk about the ranch? They make it in-house, and it was so good. If you're a ranch person, don't skip it.",
+  "removed": [
+   "\"right before their grand opening\" changed to \"ahead of their grand opening\": caption and transcript say \"ahead of\", not how close"
+  ],
+  "flag": "Grand opening ($4.44 4 Corner Pizza, July 29) and giveaway lines left out as promo. The page now reads as pre-opening; owners may want to confirm it is open."
+ },
+ "jon-smith-subs": {
+  "slug": "jon-smith-subs",
+  "body": "If we had to choose between Subway and Jon Smith Subs, we're picking Jon Smith every time.\n\nWe had been eyeing them for a while and finally stopped in for a lunch break. We did not know they specialize in hot sandwiches, and we love a good hot sandwich with peppers, onions, jalapeños, and cheese.\n\nThe hot Cajun chicken sandwich came out fresh and so hot we could not eat it all right away. It was so cheesy that we took the rest home. The fries on the side were just basic fries.\n\nTip: Monday through Friday they have a deal with a sandwich, chips, and a drink for $10, which is a pretty good deal. The staff were so nice. It's on County Line Rd, so it's an easy stop for a quick lunch, and it's now on our list of sandwich places.",
+  "removed": [
+   "No changes needed; all claims trace to caption or transcript. \"John Smith's\" (Whisper) confirmed as Jon Smith Subs."
+  ],
+  "flag": "Transcript says \"I don't love a good hot sandwich\"; the body reads it as \"we love\", which fits the context. The $10 weekday deal is from the January 2026 video and may change."
+ },
+ "kyuramen": {
+  "slug": "kyuramen",
+  "body": "We've been craving a good bowl of ramen bad lately, and Kyuramen delivered. We had seen some mixed reviews, so we wanted to test it for ourselves. We really enjoyed it. The staff were nice, the food was fresh, and the space looks great.\n\nThe Kyushu Spicy Tonkotsu Ramen at extra hot was the perfect spice level, and the pork melted in our mouths. The yakitori platter comes with shrimp, chicken, beef, pork belly, and zucchini, so it is great if you want a little of everything. The popcorn chicken did not look seasoned at first, but it was well seasoned, crispy, and fresh. The lemonade was super refreshing.\n\nFor dessert, the matcha tiramisu was a favorite, and the s'mores tiramisu was a 10 out of 10: chocolatey and melt-in-your-mouth.\n\nOur order is honestly a solid place to start. Definitely give them a shot.",
+  "removed": [
+   "No changes needed. \"Q shu spicy Tom cook to ramen\" (Whisper) confirmed as Kyushu Spicy Tonkotsu Ramen from caption."
+  ],
+  "flag": ""
+ },
+ "la-parrilla-clift-farm": {
+  "slug": "la-parrilla-clift-farm",
+  "body": "We ate at La Parrilla at Clift Farm for under $60. It is a really pretty restaurant. They were busy, so we grabbed seats at the bar, and the service was still great.\n\nWe started with two house margaritas, and they were very tasty. A woman sitting next to us suggested the tableside guacamole, and she was right. The avocado was really, really good.\n\nThe fried fish tacos normally come with beans, but we asked for double rice instead. It was some of the best rice we have had. Their famous Sopa de Pollo is a lot like tortilla soup and comes with little chips. Honestly, some of the best soup we have ever had.\n\nEverything was fresh, flavorful, and filling. The menu has so many options that we can't wait to go back. It's a solid spot when you're craving Mexican food in Madison.",
+  "removed": [
+   "\"they passed the check\" changed to \"they were very tasty\": likely a mishearing of \"passed the vibe check\" and unclear to readers; transcript also says \"They were very tasty\""
+  ],
+  "flag": ""
+ },
+ "las-trojas-cantina": {
+  "slug": "las-trojas-cantina",
+  "body": "We are always down for a margarita at Las Trojas. If you know, you know.\n\nWe went to the Hazel Green location for a birthday dinner and ordered almost the whole menu. On the table: birria tacos, shrimp fajita nachos, beef nachos, enchiladas, and a Hawaiian quesadilla with pineapple, which we are suckers for. The chicken cheese and rice is a forever favorite, and the queso just hits different. They are always good about handling large groups, and they did their thing.\n\nThey later invited us back to try new menu items. The Bama margarita was one of our favorite drinks, and it is big enough for two. The new carne asada fries were very cheesy. The birria pizza was crisp with a pastry-like texture, almost like a croissant, and it reminded us of a Jamaican patty. Both were really good, and everything came out fast.\n\nThey now have birria ramen and street tacos too.",
+  "removed": [
+   "Split the dish list from \"ordered almost the whole menu\" so the list does not read as the full menu",
+   "\"Berea\"/\"barria\" (Whisper) confirmed as birria from tags and front matter"
+  ],
+  "flag": "Transcript 7196813124668788010 has no usable content. Second transcript says \"Los Trojas\"; front matter uses Las Trojas."
+ },
+ "lawlers-barbecue": {
+  "slug": "lawlers-barbecue",
+  "body": "Two Potato Tuesdays at LawLer's Barbecue is a deal we look forward to: two loaded potatoes for $16. It has had us in a chokehold lately.\n\nIt used to be cheaper back in the day, but these potatoes are huge. One can serve as a meal, and sometimes two. We usually get ours with pulled chicken or pulled pork. Ours came from the Madison location, but there are plenty more around the area.\n\nLawLer's has been around so long that we honestly did not know it was only in Alabama. It is a Huntsville staple for a reason, and this is one of the best cheap eats in town.",
+  "removed": [
+   "\"The ones in our video came from\" changed to \"Ours came from\": social/video reference",
+   "\"we honestly thought it was a nationwide chain\" changed to \"did not know it was only in Alabama\": transcript says they did not know LawLer's was not outside Alabama; \"nationwide chain\" was not said",
+   "\"Lawyer's\" (Whisper) confirmed as LawLer's"
+  ],
+  "flag": "The video potatoes came from the Madison location, but the page address is the South Memorial Pkwy (Huntsville) location. Owners may want to align them."
+ },
+ "little-hats-nashville": {
+  "slug": "little-hats-nashville",
+  "body": "If you are craving Italian in Nashville, go to Little Hats Italian Market in Germantown. It was so, so good.\n\nWe ordered the fried ravioli, a chicken parmigiana sub and a meatball sub.\n\nGood to know: they had gluten-free buns too. Be sure to check them out when you visit.",
+  "removed": [
+   "No changes needed; all claims come from the caption."
+  ],
+  "flag": "Transcript 7475399423393058079 is song lyrics only, so nothing could be checked against speech. Caption spells it \"Germanton\"; body uses Germantown per front matter."
+ },
+ "ljz-backyard-bayou": {
+  "slug": "ljz-backyard-bayou",
+  "body": "LJ'z Backyard Bayou is our latest addiction. We kept it to ourselves for a bit, because we have been going back for New Orleans food on Sundays for the last three weekends.\n\nAs soon as you walk in, you smell the seasoning, so you know what's up. They serve Cajun and Creole food, and everything is made to order. The gumbo has no shellfish in it, which is good news if you have a shellfish allergy. The jambalaya is our favorite, full of flavor and not your out-of-the-box kind. We have had the fried fish fillets twice with dirty rice and cabbage, and the whole catfish with red beans and rice and fries.\n\nWe have not had one disappointing meal here. They play New Orleans music, and it is just a vibe.\n\nHeads up: they are only open Friday through Sunday, and they have Sunday specials. They also have beignets on Sundays. We love supporting a local business like this one.",
+  "removed": [
+   "\"every Sunday for weeks\" changed to \"on Sundays for the last three weekends\": transcript says three weekends",
+   "\"seafood allergy\" changed to \"shellfish allergy\": speaker corrected herself to shellfish; saying seafood could mislead people with fish allergies",
+   "\"Sunday specials, including beignets\" split: transcript says they also have beignets on Sunday, not that beignets are a special"
+  ],
+  "flag": "Caption address says \"1355 Old Railroad Bed\" but front matter says 3155 Old Railroad Bed Rd. One is a typo; owners should confirm."
+ },
+ "loonas-cafe": {
+  "slug": "loonas-cafe",
+  "body": "We love a good brunch spot, and we had wanted to try Loona's Cafe in Providence for the longest time. It deserves a spotlight. This is not one of those overrated places in Huntsville.\n\nWe started with a Hugo spritz and mimosas, because what is brunch without a mimosa? Very good drinks. We came as a group and got seated pretty fast.\n\nWe ordered the shrimp and grits but swapped in salmon because of a shrimp allergy, and the salmon was great. We also got the Nashville Hot Chicken Bennie, a breakfast burrito, and avocado toast. The chicken looked so crispy, and everything was well seasoned and full of flavor. All of us were really happy.\n\nIt is worth the visit. And no, nobody paid us to say that.",
+  "removed": [
+   "No changes needed. \"Luna's\" and \"binny\" (Whisper) confirmed as Loona's and Bennie from front matter."
+  ],
+  "flag": "Transcript says the crispy chicken was \"on the burrito\", which may be a mishearing; body keeps it general as \"the chicken\"."
+ },
+ "los-morelenses": {
+  "slug": "los-morelenses",
+  "body": "We admit we gatekept this one for a while. But Los Morelenses is that good.\n\nFor months we went almost every week just for a quesadilla. The go-to order is a quesadilla with a corn tortilla, for the crispiness, and chicken tacos on flour. Get the green and red sauce for extra kick.\n\nIt is at a white gas station off Hwy 72 by Old Railroad Bed, so do not drive past it.",
+  "removed": [
+   "No changes needed; all claims come from the caption."
+  ],
+  "flag": "Transcript 7483288092754070830 has no usable content. Caption spells the name \"Las Morelenses\" and the website is taquerialasmorelenses, but front matter says \"Los Morelenses\". Owners should confirm the correct name."
+ },
+ "louima-haitian-cuisine": {
+  "slug": "louima-haitian-cuisine",
+  "body": "Huntsville has a new Haitian food truck, and Chef Kay is on fire. We have already been back three times, which says enough.\n\nWe started with the vegetable stew, and the stew with that rice was amazing. The mac and cheese was so good, and they had the pikliz too. We also got the fried snapper, and when we say that fish was cooked to perfection, we mean it. It was our first time trying plantains, and they were pretty good.\n\nOn the next visit we got a little mix of everything, and the chicken and the pork were full of flavor. We also went back for that fish, because it was that good the first time. So far we have also tried the fried chicken stew and the jerk chicken. The jerk chicken is not on the menu, so ask if they have it.\n\nEvery plate comes with rice, mac and cheese, plantains and pikliz, so you get a full meal. If it is your first time trying Haitian food, start with the vegetable stew or the fried snapper fillet.\n\nThey open after 4pm. Five stars from us, and it is going on our list of hidden gems in Huntsville.",
+  "removed": [
+   "\"our first time trying their plantains\" changed to \"our first time trying plantains\": the transcript says it was the first time trying plantain at all, not just theirs.",
+   "\"the chicken and the spicy fried pork\" changed to \"the chicken and the pork\": on the second visit the transcript only says \"the pork\", not which pork dish."
+  ],
+  "flag": "The front matter says city: Madison, but the caption and body say Huntsville. The truck is on Old Railroad Bed Rd. Please confirm the right city. The transcript also says she later added chicken to the menu, which may mean the jerk chicken is now on the menu. I left that out."
+ },
+ "luigis-italian-grill": {
+  "slug": "luigis-italian-grill",
+  "body": "Luigi's Italian Grill in Madison is the most slept-on Italian restaurant around. We went for a birthday dinner with family and were shocked by the quality and flavor.\n\nThe pasta was amazing, and everything tasted authentic and homemade. We ordered the lobster ravioli, chicken alfredo, grandma's lasagna and the Hellenic salad.\n\nOur plates were wiped clean. Five stars from us.",
+  "removed": [],
+  "flag": ""
+ },
+ "luogo-nashville": {
+  "slug": "luogo-nashville",
+  "body": "Luogo was our date night pick in Nashville, and it did not disappoint. Flavorful dishes, great vibes and super nice servers. What more can you ask for?\n\nWe ordered the grilled Margherita pizza, Chianti braised short rib, pappardelle with duck ragu, and bomboloni for dessert.\n\nIt is on our must-visit list now. Their sister restaurant, Pelato, is great too.",
+  "removed": [],
+  "flag": ""
+ },
+ "lyli-viet-thai": {
+  "slug": "lyli-viet-thai",
+  "body": "Lyli Viet-Thai Cuisine, also called Phomous, in Madison is bringing the heat.\n\nThe chicken gyoza was a big plus, and it is a must-order. We could not try the spring rolls because they have shellfish in them. Our friend said they were fine, but she did not really like the sauce.\n\nThe lemongrass chicken and the chicken pho were both great. The pho comes with add-ins, so you can put in your bok choy or whatever you like. We ordered the lemongrass chicken spicy, and it is really spicy, even for someone who can handle heat. Consider that your warning.\n\nHeads up: there is a cigar lounge next door, so the smell can be a bit strong.",
+  "removed": [],
+  "flag": ""
+ },
+ "melt-downtown": {
+  "slug": "melt-downtown",
+  "body": "Melt is always a go-to for us. We have been coming here for years, and the service and food are always on point.\n\nThe tater tots, sandwiches, mac and cheese egg rolls and mimosa pitchers are what keep us coming back. This time we got a bacon cheeseburger with fries, a Fried Chicken Bacon Ranch Sandwich with tater tots, and the Wakin' Bacon with tater tots.\n\nIf you haven't been yet, what are you waiting for?",
+  "removed": [],
+  "flag": ""
+ },
+ "metro-diner": {
+  "slug": "metro-diner",
+  "body": "We usually come to Metro Diner for brunch, but this time we stopped by for dinner. Good news: they serve breakfast for dinner too.\n\nWe started with a little wine and the loaded fries, which came with crispy jalapenos and a big bowl of ranch. The portion was so big it could be a meal on its own.\n\nThe fish and chips seem to be a fan favorite in online reviews, and we can see why. The fish and fries were both crispy, the fish was still steaming, and the cole slaw was good and fresh. The steak tips came in gravy with mashed potatoes and green beans, and even those mashed potatoes surprised us.\n\nEverything came out hot and crispy, and we kept the whole meal under $50. We were sleeping on their dinner menu. What's your go-to order here?",
+  "removed": [],
+  "flag": "The transcript says \"if you're in Madison\", but this location is on Airport Rd in Huntsville. I kept the city out of the body. The transcript line \"They had the right hot sauce there\" is likely misheard, possibly the tartar sauce. I left it out."
+ },
+ "mi-delicioso-guanajuato": {
+  "slug": "mi-delicioso-guanajuato",
+  "body": "Mi Delicioso Guanajuato was a good one. The food was tasty, the service was great, and everything came out hot and fresh.\n\nWe ordered the quesabirrias with consomé, a chicken taco and the flautas con pollo. Muy delicioso. You'll find it near Stovehouse.",
+  "removed": [],
+  "flag": ""
+ },
+ "mi-tierra-oaxaquena": {
+  "slug": "mi-tierra-oaxaquena",
+  "body": "If you're looking for some solid tacos, Mi Tierra Oaxaqueña on Pulaski Pike is a good stop. They have plenty of items on the menu, but we came for the tacos.\n\nWe got chicken and steak tacos on corn tortillas. The staff suggested we try flour tortillas too, so we did, and those came with lettuce instead of onion. The flour ones were good, and honestly, both were good. The tacos got a great rating from us.\n\nWe are on a mission to try every taco spot in Huntsville. Got a favorite? Let us know and we'll give it a visit.",
+  "removed": [],
+  "flag": "The tags include \"food truck\", but no source says it is a food truck. Please check."
+ },
+ "mias-cafe": {
+  "slug": "mias-cafe",
+  "body": "Mia's Cafe serves breakfast, sandwiches, salads, soups and a Southern-style meat and three. Our full take on this one is still to come.",
+  "removed": [],
+  "flag": "There is almost no source material. The caption is only \"Mia's Cafe in\", and the transcript is song lyrics. The menu line comes only from the front-matter tags. Please confirm the menu, or add a real write-up."
+ },
+ "mizz-jujus": {
+  "slug": "mizz-jujus",
+  "body": "Mizz Juju's is a must. The food is flavorful and seasoned to perfection.\n\nThe menu changes daily, so check their page to see what's on before you go. Our order was a fried chicken sandwich with hot lemon pepper wings and honey gold wings, and it was all so good.\n\nAnd you have to try their Ocean Water, a homemade juice. Go try them as soon as you can.",
+  "removed": [],
+  "flag": "The order list in the original caption is empty (\"The order: was bomb af!!! with\"). The dishes come only from the front-matter bestDish and alsoOrder fields. Please confirm the order."
+ },
+ "mk-wings": {
+  "slug": "mk-wings",
+  "body": "Fair warning: this one may give you cravings.\n\nAt MK Wings, the hot honey and hot lemon pepper wings with a side of Cajun fries is the ultimate combo for us. Who's ready for a wing run?",
+  "removed": [],
+  "flag": ""
+ },
+ "mobay-beignet-co": {
+  "slug": "mobay-beignet-co",
+  "body": "Mo'Bay Beignet Co. is a new spot on Jeff Rd, and we're so happy to have a new place in Monrovia. We rarely get food options on this side of town.\n\nWe came for lunch, and there is a lot on the menu: burgers and chicken, and they also sell coffee and beignets. There is plenty of space to sit, an outdoor area, and they plan to have concerts in the fall. Plug-ins on the wall make it a good place to work, too.\n\nWe ordered burgers, the club chicken sandwich, onion rings, tater tots and beignets. Every item was fresh and well put together. The chicken sandwich was so crispy, and their sauce was one of our favorite things. The beignets were a hit. They are made fresh daily and come with syrups.\n\nThey also sell swag. If you've been, let us know what you think.",
+  "removed": [
+   "\"plus coffee and beignets every day\" changed to \"they also sell coffee and beignets\": the transcript says \"on a regular basis\", not every day."
+  ],
+  "flag": "The transcript compares the sauce to \"Zach's sauce\", probably a mishearing of Zaxby's sauce. I left it out. \"They even sell the binye formula\" is probably a beignet mix. I could not confirm it, so I left it out."
+ },
+ "mozza-pizza": {
+  "slug": "mozza-pizza",
+  "body": "Is Mozza the best pizza spot in Huntsville? We definitely put it in our top 3 for pizza in town.\n\nThis location used to be a Mexican spot, and now it is a pizzeria with an Italian-style menu. We went during work hours and it was a packed house. Even so, our food came out pretty fast, hot and fresh out of the oven.\n\nWe both ordered pizza, including a pepperoni and sausage. Pizza is one of our favorite things, but lactose intolerance keeps a lot of pizza spots off our page. This one did not hurt our stomach at all, which was exciting.\n\nThe menu is very extensive, with buffalo, veggie and pepperoni pizzas plus pasta. Our mom loves the pasta here. The prices are good and the servers are nice. They are also opening another location. We will be back, and we are bringing friends.",
+  "removed": [
+   "\"Michaela's mom loves the pasta here\": the name Michaela is not in any source. The transcript only says \"my mom\". Changed to \"Our mom\"."
+  ],
+  "flag": "Whisper heard the name as \"Maza\"; front matter and caption confirm Mozza. Lactose intolerance is the speaker's own, written as \"our\" in the blog voice."
+ },
+ "nicas-grill": {
+  "slug": "nicas-grill",
+  "body": "We tried Nicas Grill & Café at the Orion Amphitheater. It's a fusion food truck with a mix of Nicaraguan and American food.\n\nWe got the loaded fries, which tasted like Philly cheese fries. We also had a sample of their signature dish, the Valenciana rice, and we're adding it to our order next time.\n\nThe truck moves around, so follow them to see where they're parked next. They also set up at the NASA Corral.",
+  "removed": [
+   "\"Have you tried them?\": social engagement prompt."
+  ],
+  "flag": "Transcript is only song lyrics, so the caption is the only source."
+ },
+ "niyahs-southern-grill": {
+  "slug": "niyahs-southern-grill",
+  "body": "Niyah's Southern Grill is a soul food spot in the Buckhorn area off Jordan Road. People told us to try it a few times, so we came hungry.\n\nWe ordered the fried catfish, porkchop bites, fries, hot wings, baked beans and queso mac. That is a full table of Southern comfort food. The catfish was our favorite: well seasoned and crispy. It was our first time having porkchop bites, and they were nice and crispy too. Arrington approved the wings.\n\nThey make their own white sauce, so ask for it with your plate. The red sauce, a sweet chili sauce, went well too. We also saw a meatloaf plate go by that looked pretty good.\n\nCheck the menu before you go, since it shows what they serve on which days.",
+  "removed": [
+   "\"went well with the catfish and porkchop bites\": transcript only says \"went well with the two\", which is unclear. Shortened to \"went well too\"."
+  ],
+  "flag": "Whisper heard the name as \"Nia Southern Grill\"; front matter confirms Niyah's. \"Arrington\" replaces \"my fiancé\" from the transcript; confirm the owners are fine using the name."
+ },
+ "north-italia": {
+  "slug": "north-italia",
+  "body": "North Italia is newer to Huntsville, at Bridge Street Town Centre, and we got to try it before it officially opened. We tried a little bit of everything, and it works for almost any occasion.\n\nTo drink, we had the new Italian spritz and a Zonin nonalcoholic sparkling. We started with the truffle garlic bread, which was very buttery with Parmesan, and some juicy meatballs. Then came the margherita pizza, which tasted fresh, and the tripoline alfredo. We loved the noodles, and the sauce was very creamy.\n\nFor dessert, the tiramisu had a different spin, with crunchy balls on top. It was a nice touch.\n\nThe space is pretty and has plenty of seating. The portions were generous, and we had leftovers to take home. It is worth the visit.",
+  "removed": [],
+  "flag": "Transcript says the meatballs were \"very tough\" then \"good juicy\"; \"tough\" is likely a mishearing, but worth a check. Transcript also has an unclear line \"they also have ranch roads ranch lovers\"; I left it out."
+ },
+ "oh-crepe": {
+  "slug": "oh-crepe",
+  "body": "Oh Crepe! is inside Stovehouse. We tried the BLT crepe, a savory crepe with bacon.",
+  "removed": [
+   "\"and it was the one we wanted to share\": not in any source.",
+   "\"We came for\" changed to \"We tried\": the caption only names the crepe."
+  ],
+  "flag": "Transcript is only \"May I take your order?\", so the caption is the only source. The write-up is very thin."
+ },
+ "one-eleven": {
+  "slug": "one-eleven",
+  "body": "One Eleven is downtown, and it has cute vibes and good food. We came for a girls' dinner to celebrate a friend's birthday, and they gave us our own room.\n\nThe drinks were a vibe. They come with fun touches like bubbles and tea kettles. Some are made to share, and some are single drinks. We all tasted each other's, and they were good.\n\nThe food was really good too. The wedge salad was so fresh, with no brown spots on the lettuce. Our table had fish, mussels, soup, pasta and steak. Nobody had a complaint.\n\nAfter dinner we went to the photo booth. You get unlimited footage, cute mirrors and a little postcard to take home. It is a nice pick for a date night or a girls' night.",
+  "removed": [
+   "\"The drinks are a show\": not in the source. Changed to \"The drinks were a vibe\", from the transcript."
+  ],
+  "flag": "Transcript mentions a dish that might be \"fry balls\"; name unclear, so I left it out."
+ },
+ "osteria-luca": {
+  "slug": "osteria-luca",
+  "body": "Osteria Luca, over by Stovehouse, might be one of our new favorites. We waited a while to come because the prices on Google made it look overpriced. The menu in person is actually lower, so do not let that stop you.\n\nThe Caesar salad is one of the best we have had in Huntsville, crispy with great croutons. The hot honey meatball pizza was the one, packed with flavor. It is one of their most popular items, and we can see why. We even took some home.\n\nThe chicken and wild mushroom fettuccine alfredo had chicken, mushrooms, spinach and herbs, and Arrington loved it. The chicken parm was pretty good, a fair rating from us. Everything tasted super fresh.\n\nIt is a great place for large groups, date nights and birthdays, and worth every penny.",
+  "removed": [],
+  "flag": "\"Arrington\" replaces \"my husband\" from the transcript; confirm the owners are fine using the name."
+ },
+ "pan-z-effies": {
+  "slug": "pan-z-effies",
+  "body": "We almost did not share Pan-Z-Effie's. Some spots we want to keep to ourselves. But this one deserves the business. There is no paid promotion here, and they are not even on Facebook.\n\nThe fried catfish was 1000/10, the best we have had in a long time, and it is always on point. We also got hot wings, fries and cheesy mac and cheese. It tastes like a Southern home-cooked meal. The food takes a good minute because he takes his time, but it is worth it. We spent about $40 to $50 with a drink.\n\nWe went back for the ribs, and they delivered. The green beans were really good too. Another visit, we tried the bell dog, a beef hot dog loaded with peppers, onions and ground beef. It is a flavor bomb, one of the best hot dogs we have had. They also have specialty drinks.\n\nIt is open Wednesday to Saturday, after 4pm.",
+  "removed": [],
+  "flag": "Conflict: the caption says open Wednesday to Saturday after 4pm, but the first transcript says \"I don't even know what days he gonna be there\". Please confirm the hours. Also, the second transcript says the owner gave the ribs for free; the write-up does not mention it."
+ },
+ "parlor-doughnuts": {
+  "slug": "parlor-doughnuts",
+  "body": "Would you try a pizza doughnut? These savory doughnuts at Parlor Doughnuts had been calling our name for a long time, so we finally did a taste test.\n\nWe ordered three: the Buffalo Chicken, the Chicken Bacon Ranch and the OG Pepperoni. They were all so good. We give it a 10 out of 10, and we will definitely be back.",
+  "removed": [],
+  "flag": ""
+ },
+ "pf-changs": {
+  "slug": "pf-changs",
+  "body": "We spent some time at P.F. Chang's at Bridge Street and worked our way through seven items on the menu. Among them were the spicy chicken and the garlic noodles.",
+  "removed": [],
+  "flag": "No transcript. The caption gives only the count of seven items; the two dish names come from front matter."
+ },
+ "pico-fresh-mex": {
+  "slug": "pico-fresh-mex",
+  "body": "Birria pizza, tacos, quesadillas, nachos, burritos. Pico Fresh Mex in Monrovia does not miss.\n\nWe come here almost every week, and the margarita pitchers might be part of the reason. They have deals and events throughout the week. We stayed quiet about it for a while because we do not want to wait in a line. The flavor is always there, the staff is really nice, and they work super fast. You can eat on the patio, at the bar or inside.\n\nThe birria pizza is our favorite. The fish taco is great, and you can customize it. Add the pickled onions. The nachos let you add up to four toppings, and we usually go with jalapenos, corn, lettuce and onion. The chicken tacos and the burrito were very flavorful, and the quesadilla was so good.\n\nIf you have not tried it yet, go. And go before the weekend.",
+  "removed": [],
+  "flag": "Whisper misheard \"birria\" as \"Berea\", \"pitchers\" as \"pictures\" and \"Monrovia\" as \"Monerovia\". The caption confirms the right words."
+ },
+ "pita-street-food": {
+  "slug": "pita-street-food",
+  "body": "Pita Street Food in Madison is one of our favorite grab-and-go spots.\n\nWe got the grilled chicken gyro combo with fries, plus an order of steak fries. The raspberry lemonade was pretty good too.",
+  "removed": [],
+  "flag": "Transcript is only song lyrics, so the caption is the only source."
+ },
+ "playa-bowls": {
+  "slug": "playa-bowls",
+  "body": "We know we usually post the heavier stuff, but Playa Bowls in Clift Farm is our pick for something cold, fresh, and a little healthier. We've been going for a while, and we always go back.\n\nThe Aloha Smoothie is the favorite here. We get it every single time, with added protein and chia seeds for the fiber. It's a good mix of sweet and tart, thanks to the pineapple. There are lots of options and ways to change up your smoothie, too.\n\nThe Acai Nutella Bowl comes with coconut flakes, chocolate, bananas, and granola. Bowls aren't really our thing because of the texture, but it still got a thumbs up from our table. If you love smoothie bowls, you're good to go.\n\nWe also tried the Mermaid Fuel green juice. It tasted like an Earth Fare juice. Green juices aren't really our thing, though. We lean more toward fruity juices.\n\nIf Clift Farm isn't close to you, they have three locations across Huntsville and Madison.",
+  "removed": [
+   "\"If you lean more toward fruity juices, you may want to skip the green ones.\" changed to \"Green juices aren't really our thing, though. We lean more toward fruity juices.\" The source states a personal preference. It does not give readers a skip recommendation."
+  ],
+  "flag": "The caption says \"Cliff Farms\". The front matter says \"Clift Farm\". I used Clift Farm."
+ },
+ "rds-smokehouse": {
+  "slug": "rds-smokehouse",
+  "body": "RD's Smokehouse Barbecue has been around for years, and we love it. It's an easy spot to find, right at the four-way stop off Nick Davis.\n\nOur favorite thing here is the loaded baked potato, especially with brisket on it.\n\nTry their wings too.",
+  "removed": [
+   "\"That's the one to get.\" Added emphasis not in the caption.",
+   "\"They're worth adding to the order.\" Goes beyond the caption's \"try their wings too\"."
+  ],
+  "flag": "The transcript is only song lyrics. All facts come from the caption and front matter."
+ },
+ "roosters-athens": {
+  "slug": "roosters-athens",
+  "body": "Rooster's in Athens was a quick bite for us. The sauce was the star, with the tenders right behind it, then the fries. The sweet tea was hitting too.\n\nThe drive-thru was quick. It's a little pricey, but honestly worth it.",
+  "removed": [
+   "\"and it delivered\" Added verdict. The caption does not say this."
+  ],
+  "flag": "The transcript has no content (\"Thanks for watching\"). All facts come from the caption."
+ },
+ "rosies-cantina": {
+  "slug": "rosies-cantina",
+  "body": "We'll be honest: we thought Rosie's was basic, and we hadn't been since about middle school. A friend kept asking to go, so we finally tried the one on University Drive.\n\nThe Rotel dip was good. Our friend ordered the fajita quesadilla, chicken nachos, and a buffalo shrimp taco. She liked it all, but said the taco had too much sauce. We got the steak nachos without all the toppings, plus a beef taco on the side and a margarita. We enjoyed the nachos and the marg.\n\nOverall, we'd call it a decent Tex-Mex spot, based on both the service and the food. People seem split on Rosie's, and we even saw a whole Reddit debate about it.\n\nHave you been? We'd love to know if it's a hit or miss for you, and which location you like best.",
+  "removed": [
+   "\"The place was crowded when we went.\" The transcript line (\"obviously y'all crowded the place a little bit\") is garbled. It may mean people crowd Rosie's in general, not on this visit."
+  ],
+  "flag": "The transcript is garbled near the end (\"his tech smacks like we have two of them\"). It may say Huntsville has two Rosie's locations, but I could not confirm that. The friend's order (\"fajita quesadilla and chicken and then there's the chicken nachos\") is also a little unclear."
+ },
+ "ruby-slipper-nashville": {
+  "slug": "ruby-slipper-nashville",
+  "body": "The Ruby Slipper Cafe was a nice brunch stop for us in Nashville.\n\nWe ordered the sweet heat fried chicken with French toast, and the fried chicken sandwich with fries and the sweet heat sauce. Both were delicious.",
+  "removed": [],
+  "flag": "The caption is garbled. It reads \"Sweet heat fried chicken & Fried & fries with sweet heat sauce\" because hashtags were stripped. The words \"French toast\" and \"sandwich\" come only from the front matter alsoOrder field. The transcript is song lyrics. Please confirm the two dishes."
+ },
+ "sacs-kitchen": {
+  "slug": "sacs-kitchen",
+  "body": "Ain't nothing like some soul food. We tried Sac's Kitchen this weekend.\n\nOur order was hot wings and fries, plus fried catfish with mac and cheese, green beans, and cornbread.\n\nThey also have a buffet option. We need to go back and check that out.",
+  "removed": [],
+  "flag": "The transcript is song lyrics. All facts come from the caption."
+ },
+ "sam-and-gregs": {
+  "slug": "sam-and-gregs",
+  "body": "Sam & Greg's is a downtown pizza spot. Try the sweet and spicy BBQ pizza. You won't regret it.",
+  "removed": [],
+  "flag": "The caption is garbled (\"located in & ... Try the & 🌶️\") because hashtags were stripped. \"Downtown\" and \"sweet and spicy BBQ pizza\" come only from the front matter. The transcript is song lyrics. The body is one paragraph because there is nothing more in the sources."
+ },
+ "scoop-and-slice": {
+  "slug": "scoop-and-slice",
+  "body": "We've been regulars at Scoop & Slice for a while, but somehow we just tried the Philly Cheesesteak Pizza, on a family member's request. We've been missing out. We got it with the Alfredo sauce, and our only regret was not adding jalapeños. We added them at home, and next time we'll order it that way. That combo is elite.\n\nOur go-to is still the Italian club, loaded with our own additions: banana peppers, jalapeños, mustard, and pickles. We get it at least three times a month.\n\nWe always get fries, and they're always fresh, well seasoned, and well salted. The ice cream always hits, and they let you sample up to two before you pick. It's a spot worth the visit.",
+  "removed": [
+   "\"up to two flavors\" changed to \"up to two\". The transcript says \"up to two samples\". It does not say flavors."
+  ],
+  "flag": "The front matter says status: temporarily-closed. Readers may need a note about this. The second transcript (7477224062385786142) is only song lyrics."
+ },
+ "seoul-good": {
+  "slug": "seoul-good",
+  "body": "Seoul Good serves some crunchy fried chicken, and you'll find it inside Stovehouse. Our order was the perfect amount of food for our date night.\n\nWe got the 16-piece combo, split between honey mustard fried chicken and sweet and spicy fried chicken. For sides, we had fries and pickled cucumbers, plus the Korean cheese corn.",
+  "removed": [],
+  "flag": "The transcript has no content. All facts come from the caption."
+ },
+ "steam-boys": {
+  "slug": "steam-boys",
+  "body": "Steam Boys invited us in, and it's one of our favorite places. If you don't know what to order, start here.\n\nThe pan-seared beef bao is our go-to. The chicken cutlet gua bao was crispy and spicy. The popcorn chicken was really good, and one of us pretty much finished it alone.\n\nFor dumplings, go with the pan-seared chicken and the new pan-seared cheeseburger dumplings. The cheeseburger ones really do taste like a cheeseburger.\n\nThis was a first time trying boba for one of us. The passion fruit boba tea was a real surprise, and really good. For a sweet treat, one of us got the mocha Oreo blended drink.\n\nIf you go on a Thursday, they have all-you-can-eat dumplings for $20.",
+  "removed": [
+   "\"already\" removed from \"already one of our favorite places\". The transcript says only \"one of my favorite places\".",
+   "\"If you have a sweet tooth, get the mocha Oreo blended drink.\" changed to \"For a sweet treat, one of us got the mocha Oreo blended drink.\" The transcript says the person ordered it because they love sweet treats. It does not recommend it to readers."
+  ],
+  "flag": "Whisper misheard two names. \"Steam Movies\" is Steam Boys, and \"bell\" is bao. The caption confirms both. The second transcript (7479583162394299694) is only song lyrics."
+ },
+ "sunnyside-pizzeria-atlanta": {
+  "slug": "sunnyside-pizzeria-atlanta",
+  "body": "This one is a road-trip pick. If you ever make the drive to Atlanta, you have to try the Honey Hot Pizza at Sunnyside Pizzeria.\n\nWe got it with pepperoni, and it was fresh, hot, and cheesy, with the perfect amount of sweet heat. Another version at our table came with spinach, and that was really good too. We also tried the Alfredo pasta, which was pretty good, but the pizza was the win.\n\nThe drinks were good as well. We had a spritz that was very bubbly. The menu goes from wines to salads to pizzas to pastas, and they have gelato you can grab on the way out.\n\nWe sat on this one for a while, honestly. But it's too good to keep to ourselves, so we're done gatekeeping it.",
+  "removed": [],
+  "flag": "The transcript's \"April spritz\" is probably \"Aperol spritz\". I could not confirm it, so the body says only \"a spritz\". The transcript says \"hot honey pepperoni pizza\". The caption says \"Honey Hot Pizza\". I kept the caption's name. The address is in Sandy Springs, not Atlanta proper."
+ },
+ "super-chix-madison": {
+  "slug": "super-chix-madison",
+  "body": "Super Chix did not disappoint. We hit the Madison spot by Toyota Field after a big day out, and let's just say a walk after the meal was necessary.\n\nWe did not expect the portions to be this big. One of us got the Buffalo Chicken Sandwich, with pickles and sauce, plus a regular fry. That regular fry took up the whole plate. You could easily feed a family.\n\nThe five chicken tenders were nice and crispy, better than some of the tenders in Huntsville. They came with the loaded fries, topped with bacon and queso. Yes, it was worth it.\n\nThere are plenty of sauces: ranch, barbecue, Korean barbecue, their signature sauce, Nashville hot, buffalo, ketchup, and honey mustard. There's plenty of seating, including outside.\n\nThey have two locations, one in South Huntsville and one in Madison.",
+  "removed": [
+   "\"better than a lot of tenders in Huntsville\" changed to \"better than some of the tenders in Huntsville\". The transcript says \"some of the chicken tenders in Huntsville\"."
+  ],
+  "flag": "The transcript says \"Nashville hot buffalo\" with no comma. It could be one sauce or two. The draft lists them as two. Please confirm."
+ },
+ "superhero-chefs": {
+  "slug": "superhero-chefs",
+  "body": "Superhero Chefs has tasty options.",
+  "removed": [
+   "\"it's a spot we wanted to share\": filler, not in any source",
+   "\"Swing by and see for yourself.\": promo line"
+  ],
+  "flag": "The original caption is garbled (\"tasty & options! Visit them when they have located in\"). An emoji was likely stripped, possibly a vegan or plant emoji. The transcript is only music, so the sources support almost nothing. This page needs a real write-up from the owners."
+ },
+ "tacos-de-canasta-acapulco": {
+  "slug": "tacos-de-canasta-acapulco",
+  "body": "Everybody's out here looking for LA tacos in Alabama. You probably won't find California tacos here, but you will find some really good Mexican spots, and Tacos de Canasta Acapulco is one of those spots we keep coming back to. It's in the Harvest and Madison area, by the neighborhood Walmart.\n\nOur usual order is two chicken gorditas, a steak taco, a chicken taco, and nachos. The tacos are good, and their tortillas are really nice.\n\nBut those gorditas are the star. This might be the best gordita we've had in Huntsville so far. The tortilla is crispy and well cooked, and the chicken inside is so flavorful that you don't really need the sauce, even though the sauce is good too.\n\nOne of us isn't a sour cream fan, so the nachos weren't a favorite, but they still got eaten, and that says something. If you go, get the gorditas.",
+  "removed": [],
+  "flag": "In the transcript, Whisper wrote \"hustle\". I read this as \"Huntsville\"."
+ },
+ "tamarind-island": {
+  "slug": "tamarind-island",
+  "body": "Tamarind Island is a Caribbean spot at The Camp.",
+  "removed": [
+   "\"we were big fans of this one\": only inferred from fire emojis in the caption, not stated anywhere"
+  ],
+  "flag": "The transcript is only song lyrics and the caption is one line. This page needs more content from the owners."
+ },
+ "taqueria-catedral": {
+  "slug": "taqueria-catedral",
+  "body": "Nothing beats a good taco truck, and Taqueria Catedral in Harvest is a good one.\n\nYou'll find it at the Chevron off Hwy 53. We got the steak and chicken tacos, and both were good.",
+  "removed": [],
+  "flag": ""
+ },
+ "taqueria-don-pancho": {
+  "slug": "taqueria-don-pancho",
+  "body": "We love finding a really good Mexican restaurant, and the online reviews didn't lie about Taqueria Don Pancho. This place is great, and the menu has so many items to choose from.\n\nThe birria tacos are some of the best birria we've had in Huntsville. A lot of birria is soggy, but theirs comes out with a crispy tortilla, cooked to perfection, with good flavor and not too oily. You won't go wrong ordering them.\n\nWe also got the torta mamalona, the one with every meat you can think of, even eggs. If you're a carnivore, it's the sandwich for you. It's big enough to feed two people, so don't make our mistake of ordering one each. We also got steak and chicken tacos, and the chicken ones took the win.\n\nIt's in the plaza next to Lowe's, with Michael's and Taco Bell, so look there if you have trouble finding it. We drove by plenty of times before we stopped, and now we'll be back.",
+  "removed": [],
+  "flag": "The transcript calls the sandwich a \"monster torta\". The caption says \"mamalona\", so I kept \"torta mamalona\". The transcript says \"ordering every one\". I read this as \"each one\". The video says \"in Huntsville\", but the restaurant is in Madison."
+ },
+ "taqueria-dona-vale": {
+  "slug": "taqueria-dona-vale",
+  "body": "Shredded chicken taco fan? Us too. Taqueria Doña Vale is an under-the-radar taco spot we found in Madison, out in Harvest near Legacy Elementary. It's inside a gas station, and there's a sitting area inside.\n\nThe food is very traditional Mexican, close to street food. We ordered four chicken and steak tacos and a chicken sope. The sope has a thick base, and we loved it.\n\nThe shredded chicken is the reason to go. It's a rare find in Huntsville, and it was very flavorful. The steak tacos were really good too, and you can tell the tortillas are fresh and homemade. They gave us green and red sauce on the side.\n\nThe flavor took us back to our trips to Mexico. Are you team shredded or team diced chicken?",
+  "removed": [],
+  "flag": ""
+ },
+ "taqueria-las-adelitas": {
+  "slug": "taqueria-las-adelitas",
+  "body": "We stopped by Taqueria Las Adelitas, over by Bridge Street. The menu has plenty of options to choose from.\n\nWe started with chips and salsa, and the salsa was pretty good. For our mains we ordered a fish taco, chicken, cheese and rice, and steak nachos. The chicken, cheese and rice had a good ratio of chicken to rice. Our friend got the steak nachos, and nothing was left on her plate.\n\nBut that fish taco was great. It's one of the best tacos we've ever had. If you go here for anything, get the fish taco.",
+  "removed": [],
+  "flag": "In the transcript, Whisper wrote the name as \"Taquilla\". The front matter says \"Taqueria\". The video says \"over by Bridge Street\", but the listed address is on Madison Pike. Please check that these match."
+ },
+ "taqueria-los-3-reales": {
+  "slug": "taqueria-los-3-reales",
+  "body": "Let's talk about this food truck in South Huntsville. We love Taqueria Los 3 Reales, and we're there pretty often, to be honest.\n\nHeads up: they take cash only.\n\nWe always order the steak tacos, chicken tacos, and sopes. We've also heard their tortas are great, so those are next on our list.",
+  "removed": [],
+  "flag": "The transcript file is empty. All claims come from the caption only."
+ },
+ "taqueria-luna": {
+  "slug": "taqueria-luna",
+  "body": "The birria tacos at Taqueria Luna were the star of the show. That crispy, cheesy goodness was everything.\n\nWe also tried the birria quesadilla, the steak taco and the chicken taco, but birria took the crown.",
+  "removed": [
+   "\"They were good\": the caption never says the other items were good",
+   "\"If you come here, start with the birria tacos.\": invented advice, not in the sources"
+  ],
+  "flag": "The transcript is only song lyrics. All claims come from the caption."
+ },
+ "teriyaki-express-grill": {
+  "slug": "teriyaki-express-grill",
+  "body": "We tried Teriyaki Express Grill, a new food truck in Madison on the corner of Capshaw and Wall Triana. It parks in the gravel lot where they sometimes sell fireworks.\n\nThere are lots of options, with beef, chicken, and salmon teriyaki plates. It isn't badly priced either. We paid about $15 for the fried gyoza and a chicken teriyaki plate with rice and veggies.\n\nIt was a yum from us, very tasty and flavorful. It came with two sauces, the pink sauce you get at restaurants and a dipping sauce for the gyoza. The plate didn't even need the pink sauce, but it was a good addition.\n\nService was quicker than we expected. We've been back three or four times now, so it's worth a visit.",
+  "removed": [],
+  "flag": "The $15 price is from May 2025, and the speaker said \"I think\", so it may be out of date. \"New food truck\" is also time-sensitive."
+ },
+ "the-biscuit-express": {
+  "slug": "the-biscuit-express",
+  "body": "The Biscuit Express is a breakfast and lunch spot in Huntsville. They have two locations, and this is the one on Moores Mill Rd. There are plenty of options to choose from.\n\nWe ordered sweet tea, lemonade, tater tots, a bacon, egg and cheese biscuit, and a chicken biscuit.\n\nOn the bacon, egg and cheese, the bacon is crisp and the eggs are kind of fluffy. The chicken biscuit reminded us of Jack's. The tater tots were average.\n\nWe heard they were opening a food truck soon.",
+  "removed": [],
+  "flag": "The transcript is garbled around the chicken biscuit, so the Jack's comparison is a best guess. The food truck line is from July 2025 and may be out of date. The front matter already tags \"food truck\"."
+ },
+ "the-cheesecake-factory": {
+  "slug": "the-cheesecake-factory",
+  "body": "We came to The Cheesecake Factory to try its viral dishes. Keith Lee put us on to the Cajun Salmon, so we had to try it.\n\nWe ordered the Louisiana Chicken Pasta with extra sauce. It was so good. It was a little light on seasoning, but we weren't mad about it.\n\nThe Cajun Salmon was really good, especially with extra sauce, and we added cheese to the mashed potatoes. Both of these trending meals passed the test with us.\n\nThe drinks are underrated. One of us had a strawberry spritz-style drink and the other had a mango margarita, and they were some of the best drinks we've had. The bartender that day deserves a shout-out.",
+  "removed": [
+   "\"extra cheese\" changed to \"cheese\": the transcript says \"we also added cheese to our potatoes\", not extra cheese"
+  ],
+  "flag": "In the transcript, Whisper wrote \"GSK Factory\" for Cheesecake Factory and \"on his egging\" for the bartender line. \"On his egging\" is probably \"on his A game\", so the shout-out line is a reading of it. The transcript also mentions a \"chicken cutlet\". I left it out because I could not confirm it."
+ },
+ "the-moon-bakeshop": {
+  "slug": "the-moon-bakeshop",
+  "body": "The Moon Bakeshop is a downtown Huntsville bakery we stopped by for something sweet. We picked up a cinnamon roll and chocolate chip cookies.",
+  "removed": [],
+  "flag": "Sources are thin. The transcript is only song lyrics, and the original caption is garbled (\"located in head there for some tasty and from a featuring: a &\"). The cinnamon roll and cookies come only from front matter alsoOrder. An owner should confirm what was ordered."
+ },
+ "the-spot": {
+  "slug": "the-spot",
+  "body": "Good catfish, good wings and good vibes. The Spot has been one of our go-to places for a night out, and honestly a bit of a gem for a long time. Part of us wants to gatekeep it, but it deserves a visit.\n\nThe food always hits, from the catfish to the wings. The drink specials are solid too, with $2 drinks, and times are hard. They don't charge an arm and a leg for a meal and drinks.\n\nIt's very low-key and old school, the kind of place you can go with the girls and nobody acts crazy. The crowd has been getting a little younger lately. The hookah is really good if you're into that, and the vibes are always good.\n\nIn this economy, we love a place that serves good food and good drinks and keeps it affordable. Everyone there is so nice too. If you haven't been yet, give it a try.",
+  "removed": [
+   "\"it deserves the love\" changed to \"it deserves a visit\" to match the caption wording.",
+   "\"Where else are you finding $2 drinks these days?\" changed to a plain statement. The draft's question form was an interpretation of a garbled transcript line."
+  ],
+  "flag": "The $2 drinks claim rests on a garbled Whisper line: \"How can you not be $2 drinks these days?\" and \"I love them to drink\" (likely \"two dollar drinks\"). Please confirm the price is right and still current."
+ },
+ "the-veggie": {
+  "slug": "the-veggie",
+  "body": "The Veggie is a vegan spot in Madison. We don't have a full write-up for this one yet.",
+  "removed": [
+   "\"in Huntsville\" changed to \"in Madison\". Front matter has city: Madison and a Madison address."
+  ],
+  "flag": "There is no usable source. The transcript says only \"Music\" and the caption says only \"located in\". This is a placeholder."
+ },
+ "tulum-cantina": {
+  "slug": "tulum-cantina",
+  "body": "Craving birria and margaritas? Try Tulum Cantina. It's a rare treat to find birria at a sit-down place in Huntsville, and here it comes with margaritas.\n\nWe ordered the birria quesadilla and the birria tacos, plus frozen mango and lime margaritas on the rocks. The margaritas were refreshing.",
+  "removed": [],
+  "flag": "The caption says \"frozen mango and lime margaritas on the rocks\". Frozen and on the rocks contradict each other. Maybe one was frozen mango and one was lime on the rocks. Please confirm. The transcript is only song lyrics."
+ },
+ "viet-crispwich": {
+  "slug": "viet-crispwich",
+  "body": "Y'all hear that crunch? Viet Crispwich might be our new go-to. It had been on our radar for the longest time, and Arrington already raved about their banh mi, so we finally went.\n\nArrington got the Shredded Chicken Banh Mi and Michaela got the Premium Spicy Chili Broth Noodles. We also had to get the fried pork dumplings. Everything was so flavorful and crispy.\n\nThat soup is loaded: beef bulgogi, beef meatballs, egg, pork dumplings, sausage, fish balls, broccoli, cabbage and kimchi. You can change the spice level, and the egg was a highlight. It's worth a try.\n\nFun fact: the same people also manage Viet House.",
+  "removed": [],
+  "flag": "Whisper wrote \"The at Christmas\" for Viet Crispwich and \"bombies\" for banh mi. I used the correct names from the caption and front matter. Who ordered what comes from \"you got... and I got...\". The narrator is Michaela, per the about page."
+ },
+ "viet-house": {
+  "slug": "viet-house",
+  "body": "Best pho in Huntsville. Yes, we said it. Viet House is our forever favorite, and we end up here almost every week for good reason. We got all this for under $40.\n\nIf you don't know what to order, take ours. Start with the fried spring rolls, and you can never go wrong with the dumplings either. The fried appetizers are so good. Then get the chicken pho. Ask for level 1 if you want it a little spicy, or level 3 if you like it hot, the way Michaela does.\n\nYou can pick your size. Arrington always gets the large and Michaela always gets a small, which is plenty for her. The broth is always really good, and the menu has so many items to choose from. It's simple, flavorful and hits every time.",
+  "removed": [],
+  "flag": "The second transcript (7484662317163007263) is only song lyrics. The first transcript mentions menu numbers \"P6\" and \"P8\" that I could not match to dishes, so I left them out."
+ },
+ "vujee-vegan": {
+  "slug": "vujee-vegan",
+  "body": "Vegan or not, Vujee Vegan is a must try. It was super clean inside with good vibes, a nice place to relax and enjoy some good food. We tried so much here: a cheeze burger, Philly egg rolls, chick'n nuggets, the buffalo chick'n sandwich, and their famous chili.\n\nThat chili was a five-star bite and a real sleeper. It was very flavorful and honestly tasted like chili with meat. It came with sweet cornbread, plus sour cream and cheese to go on top. The Philly egg rolls came out hot and fresh, and the waffle fries were a 10 out of 10.\n\nGet the punch and the lemonade. They were so good we went back for a second cup. Even after all that food, we didn't feel guilty.\n\nIf you think you don't like vegan food, this place might change your mind. Get our two favorites: the chili and the buffalo chick'n sandwich. They're open Tuesday through Saturday, 11 AM to 7 PM.",
+  "removed": [
+   "\"It came with sweet cornbread, sour cream and cheese on top\" changed to \"sweet cornbread, plus sour cream and cheese to go on top\". The transcript says the toppings came on the side for topping."
+  ],
+  "flag": "Whisper wrote \"village cheese egg rolls\" for Philly cheese egg rolls, which the caption confirms. The second-cup line comes from a garbled phrase, \"i had to give two cups\". The transcript also names \"tanky gold\" and \"annum's campus\" (likely Alabama A&M). I could not confirm these, so I left them out. Please also check that the hours are still current."
+ },
+ "west-end-grill": {
+  "slug": "west-end-grill",
+  "body": "West End Grill is a Huntsville staple and a great cheap date. They've been around a while, and we admit we'd been sleeping on them. If you've lived here a while and still haven't been, we think it's worth a visit.\n\nWe got all of this for under $60: a Galaxy Lemonade with gin and curaçao, the loaded potato skins (a new item), a patty melt with tater tots, and two kinds of wings, Jamaican jerk and lemon pepper. Everything came out fresh and hot. That homemade ranch is one of the best we've ever had.\n\nThe lemon pepper rub is very lemony, and Arrington really liked it. The Jamaican rub was Michaela's favorite, with a sweet, tangy sauce. The patty melt had great reviews online and lived up to them: juicy burger, onions cooked just right.\n\nShoutout to Darrell for being a great server.",
+  "removed": [
+   "\"Arrington loved it\" changed to \"Arrington really liked it\" to match the transcript."
+  ],
+  "flag": "The patty melt side conflicts between sources. The caption says \"Patty melt & eye bread\" (garbled) and the transcript says \"patty melt with tater tots\". I kept tater tots, but please confirm."
+ },
+ "willie-bs-nashville": {
+  "slug": "willie-bs-nashville",
+  "body": "Buffalo chicken mac and cheese at 1 AM? Why not. Willie B's Kitchen & Lounge in Nashville was our pick for late-night food and vibes.\n\nThe buffalo chicken mac and cheese was as good as it looks.",
+  "removed": [],
+  "flag": "The front matter has status: closed, but the body reads like a live recommendation. The transcript has no content, only \"Thanks for watching guys!\"."
+ },
+ "wings-and-gyros": {
+  "slug": "wings-and-gyros",
+  "body": "Wings & Gyros is our new go-to wing spot, and a real hidden gem. No lie, these have to be some of the best wings in Huntsville.\n\nWe ordered hot lemon pepper wings, hot honey wings and fries. Michaela loves hot honey, so those didn't last long. The wings were very well seasoned, and the fries came out hot and fresh.\n\nWe also tried a sausage and pepperoni pizza. It had a good cheese pull but was pretty average. They even let us try their ice cream, chocolate and vanilla, and it was really good. You won't regret checking them out.",
+  "removed": [
+   "\"so stick to the wings\" was removed. It is advice the sources do not give."
+  ],
+  "flag": "Whisper wrote \"wings in Gero's\" for Wings & Gyros and \"hidden Gym\" for hidden gem. The transcript says the place is \"near Oakwood University\", but front matter puts it at Sparkman Dr / UAH. I left the location out. Please confirm which is right."
+ }
+}

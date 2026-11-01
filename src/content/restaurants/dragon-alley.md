@@ -17,8 +17,10 @@ searchTerms: ["huntsville", "midcity", "asian", "group", "late night", "yaki udo
 address: "1030 Mid City Dr, Huntsville, AL 35806"
 ---
 
-Everyone's been asking about Dragon Alley, so here's our honest review.
+Everyone's been asking if we've tried Dragon Alley in MidCity, so here's our honest review.
 
-The drinks were different, not your typical flavors. The dumplings were a little plain. But the yaki udon? We'd go back just for that.
+We started with two drinks. They were not your typical flavors, with more earthy tones. One was a little spicy, and the other was pretty refreshing.
 
-There's a lot more on the menu to try. Overall, it's a solid spot, and the wish tree and karaoke at the end were a cute touch. They also have a DJ every night.
+The dumplings were okay, a little plain, but we liked the sauce. The duck bao had good flavor and was soft and fluffy. The yaki udon was by far our favorite, with thick noodles and great flavor. We'd go back just for that. We also tried a chicken dish that had flavor and wasn't bland. Overall, the food was solid.
+
+At the end of dinner, you tie a wish tag to the tree, which is a cute touch. There's karaoke where you can earn a free drink, and a DJ every night. The vibes are immaculate.

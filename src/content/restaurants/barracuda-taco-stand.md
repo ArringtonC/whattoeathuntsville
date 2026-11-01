@@ -18,8 +18,10 @@ website: "https://www.eatbarracuda.com"
 area: "Meridian St"
 ---
 
-Is Barracuda Taco Stand actually worth it? The pork taco was the best thing we had. It was juicy, and those pickled onions really made it.
+Is Barracuda Taco Stand actually worth it? We were invited to try it, and it's giving laid-back vibes with a little hint of California. We ordered a chicken taco, a pork taco, a crispy fish taco and a couple of quesadillas.
 
-The chicken taco was right behind it, with good flavor. The fish taco was crispy and light. The lime margarita on the rocks was a 10 out of 10.
+The tacos were the star of the show. Everything is made to order, and you can tell. The pork taco was the best thing we had. It was juicy and full of flavor, and those pickled onions really set it off. The sauce made every taco even better.
+
+The chicken taco was a close second, with good flavor. The fish taco was crispy and light. The lime margarita on the rocks was a 10 out of 10, and they have pitchers too.
 
 They were out of chips, so we didn't get to try the queso. We'll be back for that and a pitcher.

@@ -17,8 +17,10 @@ address: "1605 Pulaski Pike NW, Ste 3, Huntsville, AL 35816"
 area: "Pulaski Pike"
 ---
 
-Good catfish, good wings and good vibes. The Spot has been one of our go-to places for a night out.
+Good catfish, good wings and good vibes. The Spot has been one of our go-to places for a night out, and honestly a bit of a gem for a long time. Part of us wants to gatekeep it, but it deserves a visit.
 
-The food is always good, the drink specials are solid, and they don't charge an arm and a leg for a meal and drinks. If you're into hookah, they have that too.
+The food always hits, from the catfish to the wings. The drink specials are solid too, with $2 drinks, and times are hard. They don't charge an arm and a leg for a meal and drinks.
 
-In this economy, we love a place that serves good food and good drinks and keeps it affordable. Everyone there is so nice too. It deserves a visit.
+It's very low-key and old school, the kind of place you can go with the girls and nobody acts crazy. The crowd has been getting a little younger lately. The hookah is really good if you're into that, and the vibes are always good.
+
+In this economy, we love a place that serves good food and good drinks and keeps it affordable. Everyone there is so nice too. If you haven't been yet, give it a try.

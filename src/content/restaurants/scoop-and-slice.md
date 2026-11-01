@@ -18,8 +18,8 @@ website: "https://scoopslicecafe.com/"
 address: "30029 Capshaw Rd, Suite B, Harvest, AL 35749"
 ---
 
-We've been regulars at Scoop & Slice for a while, but somehow we just tried the Philly Cheesesteak Pizza. We've been missing out. Get it with the Alfredo base, and next time add jalapeños. That combo is elite.
+We've been regulars at Scoop & Slice for a while, but somehow we just tried the Philly Cheesesteak Pizza, on a family member's request. We've been missing out. We got it with the Alfredo sauce, and our only regret was not adding jalapeños. We added them at home, and next time we'll order it that way. That combo is elite.
 
-Our go-to is still the Italian club, loaded with banana peppers, jalapeños, mustard, and pickles. We get it at least three times a month.
+Our go-to is still the Italian club, loaded with our own additions: banana peppers, jalapeños, mustard, and pickles. We get it at least three times a month.
 
-The fries are always fresh. The ice cream always hits, and they even let you sample.
+We always get fries, and they're always fresh, well seasoned, and well salted. The ice cream always hits, and they let you sample up to two before you pick. It's a spot worth the visit.

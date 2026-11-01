@@ -16,10 +16,10 @@ website: "https://chwinery.com/"
 address: "8228 Hwy 72 W, Madison, AL 35758"
 ---
 
-Is Cooper's Hawk worth the hype? We tried the newest spot at Clift Farm, and we think it is.
+Is Cooper's Hawk worth the hype? We tried the newest spot at Clift Farm, and we think it is. Huntsville has needed a spot like this for a while.
 
 It works for any occasion: date night, girls' night, birthdays, or a just-because dinner.
 
-We tried the chicken potstickers, The Prime, and the surf and turf with parmesan-crusted medallions and grouper. The s'mores budino was a 10 out of 10: rich, chocolatey and perfectly toasted.
+The bread came out first, with really smooth butter. We ordered a lemon drop and a margarita, then the chicken potstickers, which came with a pretty good ginger soy sauce. The Prime, a prime rib sandwich, was really good. The surf and turf came with parmesan-crusted medallions and grouper. We ended with the s'mores budino, and it was a 10 out of 10: rich, chocolatey and perfectly toasted.
 
-We're not exaggerating when we say the leftovers tasted just as good the next day.
+The service stood out too. They even bag your food for you before you leave. And we're not exaggerating when we say the leftovers tasted just as good the next day.

@@ -17,8 +17,10 @@ address: "1079 Balch Rd, Suite I, Madison, AL"
 area: "Balch Rd"
 ---
 
-Jet's Pizza is flying under the radar in Madison. We stopped by right before their grand opening.
+Jet's Pizza is flying under the radar in Madison. We stopped by ahead of their grand opening on a day it was pouring rain, and the staff were really nice.
 
-We tried the 4 Corner Deep Dish (half buffalo chicken ranch, half all meat), a thin crust (half cheese, half pepperoni and jalapeños), wings (half BBQ, half buffalo), a cookie, and a brownie.
+We started with the 4 Corner Deep Dish, half buffalo chicken ranch and half all meat. It was good. We also customized a thin crust, half cheese and half pepperoni with jalapeños, and it came out very crispy.
+
+The wings were half BBQ and half buffalo. We loved the buffalo, and the BBQ sauce was great too. For dessert we got a cookie and a brownie, and we split on the winner: one of us liked the cookie better, the other liked the brownie.
 
 And can we talk about the ranch? They make it in-house, and it was so good. If you're a ranch person, don't skip it.

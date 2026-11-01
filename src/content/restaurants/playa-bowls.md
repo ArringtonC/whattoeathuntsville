@@ -17,8 +17,12 @@ website: "https://www.playabowls.com/location/madison"
 address: "460 John Henry Way, Suite 390, Madison, AL 35758"
 ---
 
-We tried Playa Bowls in Clift Farm so you don't have to guess. It's an easy stop for something cold and fresh.
+We know we usually post the heavier stuff, but Playa Bowls in Clift Farm is our pick for something cold, fresh, and a little healthier. We've been going for a while, and we always go back.
 
-We ordered the Acai Nutella Bowl, an Aloha Smoothie with added chia seeds and protein, and the Mermaid Fuel green juice.
+The Aloha Smoothie is the favorite here. We get it every single time, with added protein and chia seeds for the fiber. It's a good mix of sweet and tart, thanks to the pineapple. There are lots of options and ways to change up your smoothie, too.
+
+The Acai Nutella Bowl comes with coconut flakes, chocolate, bananas, and granola. Bowls aren't really our thing because of the texture, but it still got a thumbs up from our table. If you love smoothie bowls, you're good to go.
+
+We also tried the Mermaid Fuel green juice. It tasted like an Earth Fare juice. Green juices aren't really our thing, though. We lean more toward fruity juices.
 
 If Clift Farm isn't close to you, they have three locations across Huntsville and Madison.

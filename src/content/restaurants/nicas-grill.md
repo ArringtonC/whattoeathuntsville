@@ -19,4 +19,4 @@ We tried Nicas Grill & Café at the Orion Amphitheater. It's a fusion food truck
 
 We got the loaded fries, which tasted like Philly cheese fries. We also had a sample of their signature dish, the Valenciana rice, and we're adding it to our order next time.
 
-The truck moves around, so follow them to see where they're parked next. They also set up at the NASA Corral. Have you tried them?
+The truck moves around, so follow them to see where they're parked next. They also set up at the NASA Corral.

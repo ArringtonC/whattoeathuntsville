@@ -16,6 +16,8 @@ searchTerms: ["huntsville", "mexican", "mexican food", "taco"]
 area: "Pulaski Pike"
 ---
 
-If you're looking for some solid tacos, Mi Tierra Oaxaqueña on Pulaski Pike is a good stop.
+If you're looking for some solid tacos, Mi Tierra Oaxaqueña on Pulaski Pike is a good stop. They have plenty of items on the menu, but we came for the tacos.
 
-Got a favorite taco spot? Let us know and we'll give it a visit.
+We got chicken and steak tacos on corn tortillas. The staff suggested we try flour tortillas too, so we did, and those came with lettuce instead of onion. The flour ones were good, and honestly, both were good. The tacos got a great rating from us.
+
+We are on a mission to try every taco spot in Huntsville. Got a favorite? Let us know and we'll give it a visit.

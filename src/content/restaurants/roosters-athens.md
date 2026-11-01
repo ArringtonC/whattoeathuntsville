@@ -17,6 +17,6 @@ address: "125 US-31 S, Athens, AL 35611"
 area: "US-31"
 ---
 
-Rooster's in Athens was a quick bite for us, and it delivered. The sauce was the star, with the tenders right behind it, then the fries. The sweet tea was hitting too.
+Rooster's in Athens was a quick bite for us. The sauce was the star, with the tenders right behind it, then the fries. The sweet tea was hitting too.
 
 The drive-thru was quick. It's a little pricey, but honestly worth it.

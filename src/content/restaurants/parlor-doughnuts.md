@@ -17,6 +17,6 @@ address: "2500 Clinton Ave W, Huntsville, AL"
 area: "Clinton Ave W"
 ---
 
-Would you try a pizza doughnut? We did a taste test at Parlor Doughnuts.
+Would you try a pizza doughnut? These savory doughnuts at Parlor Doughnuts had been calling our name for a long time, so we finally did a taste test.
 
-We ordered three: the Buffalo Chicken, the Chicken Bacon Ranch and the OG Pepperoni. They were all so good.
+We ordered three: the Buffalo Chicken, the Chicken Bacon Ranch and the OG Pepperoni. They were all so good. We give it a 10 out of 10, and we will definitely be back.

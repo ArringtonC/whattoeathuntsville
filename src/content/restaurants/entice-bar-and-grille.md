@@ -17,8 +17,10 @@ website: "https://www.facebook.com/p/Entice-Bar-Grill-61564983720132/"
 address: "8694 Madison Blvd, Madison, AL 35758"
 ---
 
-Best wings in Madison? We think we found them at Entice Bar & Grille on University Drive.
+Best wings in Madison? We think we found them at Entice Bar & Grille.
 
-On Wednesdays they have 50-cent wings (you must order at least 10), plus happy hour drink deals until 8pm.
+We had no idea it was this nice inside. The decor is beautiful, and we sat at the little swing. We went on a Wednesday for 50-cent wings (you must order at least 10), plus happy hour drink deals until 8pm, and we ordered margaritas.
+
+We got fries, hot honey wings and hot lemon pepper wings. The hot honey leaned more sweet than hot. The hot lemon pepper was our favorite of the two. These wings were crispy, hot and flavorful.
 
 Great drinks, good food and good energy, all for under $40.

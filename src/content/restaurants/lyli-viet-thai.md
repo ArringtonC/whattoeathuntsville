@@ -18,6 +18,8 @@ area: "Hwy 72 W"
 
 Lyli Viet-Thai Cuisine, also called Phomous, in Madison is bringing the heat.
 
-We ordered the chicken gyoza, spring rolls, chicken pho and the lemongrass chicken, spicy.
+The chicken gyoza was a big plus, and it is a must-order. We could not try the spring rolls because they have shellfish in them. Our friend said they were fine, but she did not really like the sauce.
+
+The lemongrass chicken and the chicken pho were both great. The pho comes with add-ins, so you can put in your bok choy or whatever you like. We ordered the lemongrass chicken spicy, and it is really spicy, even for someone who can handle heat. Consider that your warning.
 
 Heads up: there is a cigar lounge next door, so the smell can be a bit strong.

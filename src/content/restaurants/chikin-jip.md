@@ -17,8 +17,8 @@ address: "12120 County Line Rd, Suite A, Madison, AL 35756"
 area: "County Line Rd"
 ---
 
-We tried Chikin Jip in Madison, and it delivered. Expect a little bit of spice.
+We tried Chikin Jip in Madison for a birthday, and it delivered. They had recently opened, and we wanted to give this local business a spotlight.
 
-We ordered the bulgogi fries and the yangnyeom boneless chicken with fries. Both were good picks.
+There are plenty of menu options, mostly Korean fried chicken in different formats. We ordered the yangnyeom boneless chicken with fries and the bulgogi fries. The yangnyeom chicken was really spicy, but so good. The fries were good too.
 
-The customer service was friendly, the vibe was good, and the food tasted fresh all around.
+The customer service was friendly, the vibe was good, and the food tasted fresh all around. It's definitely worth a visit, especially if you like some spice. Just know your mouth might be burning later.

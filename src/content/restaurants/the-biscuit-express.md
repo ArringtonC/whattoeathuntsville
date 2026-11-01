@@ -16,6 +16,10 @@ website: "https://thebiscuitexpress.com/"
 address: "5077 Moores Mill Rd, Huntsville, AL"
 ---
 
-The Biscuit Express is a breakfast and lunch spot in Huntsville. They have two locations, and this is the one on Moores Mill Rd.
+The Biscuit Express is a breakfast and lunch spot in Huntsville. They have two locations, and this is the one on Moores Mill Rd. There are plenty of options to choose from.
+
+We ordered sweet tea, lemonade, tater tots, a bacon, egg and cheese biscuit, and a chicken biscuit.
+
+On the bacon, egg and cheese, the bacon is crisp and the eggs are kind of fluffy. The chicken biscuit reminded us of Jack's. The tater tots were average.
 
 We heard they were opening a food truck soon.

@@ -16,4 +16,4 @@ address: "7504 US-72, Suite A5, Madison, AL"
 area: "US-72 W"
 ---
 
-The Veggie is a vegan spot in Huntsville. We don't have a full write-up for this one yet.
+The Veggie is a vegan spot in Madison. We don't have a full write-up for this one yet.

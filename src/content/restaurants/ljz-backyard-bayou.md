@@ -16,8 +16,10 @@ address: "3155 Old Railroad Bed Rd, Harvest, AL 35749"
 area: "Harvest"
 ---
 
-LJ'z Backyard Bayou is our latest addiction. We are so happy we finally stopped and tried it.
+LJ'z Backyard Bayou is our latest addiction. We kept it to ourselves for a bit, because we have been going back for New Orleans food on Sundays for the last three weekends.
 
-They serve Cajun and Creole food, and everything is made to order. It is so flavorful. We ordered gumbo, jambalaya, a whole catfish with red beans and rice, and fried fish with cabbage and dirty rice.
+As soon as you walk in, you smell the seasoning, so you know what's up. They serve Cajun and Creole food, and everything is made to order. The gumbo has no shellfish in it, which is good news if you have a shellfish allergy. The jambalaya is our favorite, full of flavor and not your out-of-the-box kind. We have had the fried fish fillets twice with dirty rice and cabbage, and the whole catfish with red beans and rice and fries.
 
-Heads up: they are only open Friday through Sunday, and they have Sunday specials too. We love supporting a local business like this one.
+We have not had one disappointing meal here. They play New Orleans music, and it is just a vibe.
+
+Heads up: they are only open Friday through Sunday, and they have Sunday specials. They also have beignets on Sundays. We love supporting a local business like this one.

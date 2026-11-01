@@ -17,8 +17,10 @@ address: "11544 Memorial Pkwy SW, Huntsville, AL 35803"
 area: "South Huntsville"
 ---
 
-City Barbeque recently opened in Huntsville, and they invited us in to try it. It's their first location in Alabama.
+City Barbeque recently opened in South Huntsville, and they invited us in to try it. It's their first location in Alabama. The staff kept saying "more cowbell," and as a Mississippi State girl, Michaela couldn't ignore that.
 
-The staff kept saying "more cowbell," and as a Mississippi State girl, Michaela couldn't ignore that.
+We got the 6-piece wings with hush puppies, green beans and baked beans, plus the Texas sausage meal with mac and cheese and baked beans. Everything came to about $32, which we think is pretty good.
 
-We got the 6-piece wings with hush puppies, green beans and baked beans, plus the Texas sausage meal with mac and cheese and baked beans. Everything came to about $32.
+The wings were the star: smoky, seasoned and actually flavorful. We'd go back for them alone. The mac and cheese had a great cheese pull and was one of the better ones in Huntsville. The green beans were loaded with meat and top tier. The hush puppies were really good, the baked beans were solid, and the Texas sausage had a good snap.
+
+We left full, but don't forget dessert on your way out. The chocolate cake was pretty good. They also have a drive-thru and do catering.

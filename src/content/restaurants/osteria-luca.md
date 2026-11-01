@@ -17,8 +17,10 @@ address: "3414 Governors Dr SW, Suite 705, Huntsville, AL 35805"
 area: "Stovehouse"
 ---
 
-Osteria Luca might be one of our new favorites.
+Osteria Luca, over by Stovehouse, might be one of our new favorites. We waited a while to come because the prices on Google made it look overpriced. The menu in person is actually lower, so do not let that stop you.
 
-We ordered the Caesar salad, the hot honey meatball pizza and the fettuccine alfredo. The hot honey meatball pizza was the one. Everything tasted super fresh and full of flavor.
+The Caesar salad is one of the best we have had in Huntsville, crispy with great croutons. The hot honey meatball pizza was the one, packed with flavor. It is one of their most popular items, and we can see why. We even took some home.
 
-It is a great place for large groups, date nights and birthdays.
+The chicken and wild mushroom fettuccine alfredo had chicken, mushrooms, spinach and herbs, and Arrington loved it. The chicken parm was pretty good, a fair rating from us. Everything tasted super fresh.
+
+It is a great place for large groups, date nights and birthdays, and worth every penny.

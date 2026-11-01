@@ -19,4 +19,6 @@ area: "Hwy 72 W"
 
 Handel's invited us in to try their new limited-time flavor, Cheesecake with Biscoff Cookies. If you love the cookies they hand out on airplanes, this one is for you.
 
-It's cheesecake ice cream with a Biscoff cookie butter swirl and Biscoff cookie pieces all the way through. It's only around for a limited time, while supplies last, so don't wait too long if you want to try it.
+It's cheesecake ice cream with a Biscoff cookie butter swirl and Biscoff cookie pieces all the way through. It had the perfect mix of crunchy cookie and creamy ice cream. One of us doesn't even like cheesecake, and we still thought it was so good.
+
+It's only around for a limited time, while supplies last, so get it before it goes off the menu.

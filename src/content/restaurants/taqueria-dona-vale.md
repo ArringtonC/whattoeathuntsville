@@ -16,6 +16,10 @@ searchTerms: ["madison", "mexican", "shredded chicken tacos", "mexican food", "t
 address: "7190 Wall Triana Hwy, Madison, AL 35757"
 ---
 
-Shredded chicken taco fan? Us too. Taqueria Doña Vale is an under-the-radar taco spot we found in Madison, out in Harvest near Legacy Elementary.
+Shredded chicken taco fan? Us too. Taqueria Doña Vale is an under-the-radar taco spot we found in Madison, out in Harvest near Legacy Elementary. It's inside a gas station, and there's a sitting area inside.
 
-The shredded chicken tacos are the reason to go. Are you team shredded or team diced chicken?
+The food is very traditional Mexican, close to street food. We ordered four chicken and steak tacos and a chicken sope. The sope has a thick base, and we loved it.
+
+The shredded chicken is the reason to go. It's a rare find in Huntsville, and it was very flavorful. The steak tacos were really good too, and you can tell the tortillas are fresh and homemade. They gave us green and red sauce on the side.
+
+The flavor took us back to our trips to Mexico. Are you team shredded or team diced chicken?

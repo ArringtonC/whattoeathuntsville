@@ -16,6 +16,10 @@ address: "1591 Hughes Rd Ste C, Madison, AL 35758"
 area: "Hughes Rd"
 ---
 
-Aloha Ramen House has a great comfort food vibe. We definitely recommend it if you're craving flavorful broth and crispy apps.
+Aloha Ramen House in Madison has a great comfort food vibe, and we loved our experience here. The appetizers were great, the ramen was good, and so were the drinks.
 
-We ordered the fried gyoza and the chicken katsu to start. For ramen, we got the spicy tonkotsu two ways, one with chicken and one with pork.
+We were pointed to the yuzu white peach drink by someone who said she drinks a lot of them, so we had to try it. It was very refreshing and hit the spot.
+
+To start, we got the fried gyoza and the chicken katsu. It was our first time having gyoza fried instead of pan seared, and now it's a new favorite. The katsu was nice and crispy, just how we like it.
+
+For ramen, we got the spicy tonkotsu two ways, one with chicken and one with pork. It's a pork ramen, but you can swap the meat to chicken. You can't swap the broth, but there is a vegan broth option. We both liked it, and it was on the lighter side. We definitely recommend it if you're craving flavorful broth and crispy apps.

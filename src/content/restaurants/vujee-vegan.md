@@ -18,8 +18,10 @@ address: "4701 Meridian St N, Ste K, Huntsville, AL 35811"
 area: "Meridian St N"
 ---
 
-Vegan or not, Vujee Vegan is a must try. We tried so much here: a cheeze burger, Philly egg rolls, chick'n nuggets, the buffalo chick'n sandwich, and the chili.
+Vegan or not, Vujee Vegan is a must try. It was super clean inside with good vibes, a nice place to relax and enjoy some good food. We tried so much here: a cheeze burger, Philly egg rolls, chick'n nuggets, the buffalo chick'n sandwich, and their famous chili.
 
-That chili was a five-star bite for us. The punch, the lemonade and the waffle fries were all really good too.
+That chili was a five-star bite and a real sleeper. It was very flavorful and honestly tasted like chili with meat. It came with sweet cornbread, plus sour cream and cheese to go on top. The Philly egg rolls came out hot and fresh, and the waffle fries were a 10 out of 10.
 
-If you think you don't like vegan food, this place might change your mind. If you go, get our two favorites from the taste test: the chili and the buffalo chick'n sandwich. They're open Tuesday through Saturday, 11 AM to 7 PM.
+Get the punch and the lemonade. They were so good we went back for a second cup. Even after all that food, we didn't feel guilty.
+
+If you think you don't like vegan food, this place might change your mind. Get our two favorites: the chili and the buffalo chick'n sandwich. They're open Tuesday through Saturday, 11 AM to 7 PM.

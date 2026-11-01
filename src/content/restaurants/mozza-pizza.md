@@ -16,6 +16,10 @@ website: "https://mozza-pizza.com/"
 area: "Jordan Ln"
 ---
 
-Best pizza spot in Huntsville? We definitely put Mozza in the top 3 for pizza in town.
+Is Mozza the best pizza spot in Huntsville? We definitely put it in our top 3 for pizza in town.
 
-The pizza is good, the prices are good, and the servers are nice. They're also opening another location.
+This location used to be a Mexican spot, and now it is a pizzeria with an Italian-style menu. We went during work hours and it was a packed house. Even so, our food came out pretty fast, hot and fresh out of the oven.
+
+We both ordered pizza, including a pepperoni and sausage. Pizza is one of our favorite things, but lactose intolerance keeps a lot of pizza spots off our page. This one did not hurt our stomach at all, which was exciting.
+
+The menu is very extensive, with buffalo, veggie and pepperoni pizzas plus pasta. Our mom loves the pasta here. The prices are good and the servers are nice. They are also opening another location. We will be back, and we are bringing friends.

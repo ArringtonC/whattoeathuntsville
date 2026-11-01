@@ -16,4 +16,4 @@ website: "https://tamarindislandgrill.toast.site/"
 address: "5909 University Dr NW, Huntsville, AL 35806"
 ---
 
-Tamarind Island is a Caribbean spot at The Camp, and we were big fans of this one.
+Tamarind Island is a Caribbean spot at The Camp.

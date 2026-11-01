@@ -17,7 +17,9 @@ area: "University Drive"
 website: "https://rosiesmexicancantina.com/locations/university-drive/"
 ---
 
-We went to the Rosie's on University Drive. We enjoyed the nachos and the margarita.
+We'll be honest: we thought Rosie's was basic, and we hadn't been since about middle school. A friend kept asking to go, so we finally tried the one on University Drive.
+
+The Rotel dip was good. Our friend ordered the fajita quesadilla, chicken nachos, and a buffalo shrimp taco. She liked it all, but said the taco had too much sauce. We got the steak nachos without all the toppings, plus a beef taco on the side and a margarita. We enjoyed the nachos and the marg.
 
 Overall, we'd call it a decent Tex-Mex spot, based on both the service and the food. People seem split on Rosie's, and we even saw a whole Reddit debate about it.
 

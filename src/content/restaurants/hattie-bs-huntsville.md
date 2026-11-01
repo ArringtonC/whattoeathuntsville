@@ -17,8 +17,10 @@ address: "3212 Memorial Pkwy SW, Huntsville, AL 35801"
 area: "Memorial Pkwy (Stadium Commons)"
 ---
 
-We already love the Nashville locations, so we were excited to finally try Hattie B's here in Huntsville.
+We already love the Nashville locations, so we were excited to finally try Hattie B's here in Huntsville. We were a little worried it would not compare. It does.
 
-We ordered medium hot wings, medium hot chicken tenders, Dirty Bird Fries, and the Poppy Seed Grilled Chicken Salad. Our sides were fries and baked beans.
+We started with the Dirty Bird Fries, which come with mac and cheese. It is an interesting combination, but the mac and cheese actually goes well with the fries. The medium hot chicken tenders came out so hot we could not eat them on camera, and you have to get the honey mustard. The medium hot wings were crispy and came out hot too. Our sides were fries and solid baked beans.
 
-Everything had that classic Nashville hot flavor we love. But honestly, the Poppy Seed Grilled Chicken Salad stole the show. The grilled chicken with that poppy seed dressing was so good.
+But honestly, the Poppy Seed Grilled Chicken Salad stole the show. Top-tier salad. We will be going back for it.
+
+We ended with a waffle and ice cream for dessert, a combination we had been sleeping on. Everything had that classic Nashville hot flavor we love, and it tastes just like the original. Definitely worth a visit.

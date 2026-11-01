@@ -16,8 +16,8 @@ searchTerms: ["huntsville", "soul food", "fried catfish", "southern food", "comf
 area: "Food truck (Pulaski Pike)"
 ---
 
-We almost did not share Pan-Z-Effie's. Some spots we want to keep to ourselves. But this one deserves the business.
+We almost did not share Pan-Z-Effie's. Some spots we want to keep to ourselves. But this one deserves the business. There is no paid promotion here, and they are not even on Facebook.
 
-The fried catfish was 1000/10, the best we have had in a while. We wanted the ribs, but he was out, so we got the wings. They were great too.
+The fried catfish was 1000/10, the best we have had in a long time, and it is always on point. We also got hot wings, fries and cheesy mac and cheese. It tastes like a Southern home-cooked meal. The food takes a good minute because he takes his time, but it is worth it. We spent about $40 to $50 with a drink.
 
-We stopped here on a whim and have no regrets. It is open Wednesday to Saturday, after 4pm. It is on our list to come back to soon, and we still want to try those ribs.
+We went back for the ribs, and they delivered. The green beans were really good too. They also have specialty drinks.

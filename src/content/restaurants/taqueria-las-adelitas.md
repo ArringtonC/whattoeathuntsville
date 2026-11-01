@@ -16,4 +16,8 @@ address: "6212 Madison Pike, Huntsville, AL 35806"
 area: "Madison Pike"
 ---
 
-We stopped by Taqueria Las Adelitas, and that fish taco was great. If you go, that's the one to get.
+We stopped by Taqueria Las Adelitas, over by Bridge Street. The menu has plenty of options to choose from.
+
+We started with chips and salsa, and the salsa was pretty good. For our mains we ordered a fish taco, chicken, cheese and rice, and steak nachos. The chicken, cheese and rice had a good ratio of chicken to rice. Our friend got the steak nachos, and nothing was left on her plate.
+
+But that fish taco was great. It's one of the best tacos we've ever had. If you go here for anything, get the fish taco.

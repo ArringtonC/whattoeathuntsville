@@ -17,8 +17,10 @@ address: "1300 Enterprise Way, Huntsville, AL 35806"
 area: "Enterprise Way"
 ---
 
-Y'all hear that crunch? Viet Crispwich might be our new go-to.
+Y'all hear that crunch? Viet Crispwich might be our new go-to. It had been on our radar for the longest time, and Arrington already raved about their banh mi, so we finally went.
 
-We tried the Shredded Chicken Banh Mi, the fried pork dumplings and the Premium Spicy Chili Broth Noodles. Everything was so flavorful and crispy. It's worth a try.
+Arrington got the Shredded Chicken Banh Mi and Michaela got the Premium Spicy Chili Broth Noodles. We also had to get the fried pork dumplings. Everything was so flavorful and crispy.
+
+That soup is loaded: beef bulgogi, beef meatballs, egg, pork dumplings, sausage, fish balls, broccoli, cabbage and kimchi. You can change the spice level, and the egg was a highlight. It's worth a try.
 
 Fun fact: the same people also manage Viet House.

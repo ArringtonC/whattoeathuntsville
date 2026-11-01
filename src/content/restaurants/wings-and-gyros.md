@@ -17,4 +17,8 @@ address: "1212 Sparkman Dr NW, Huntsville, AL 35816"
 area: "Sparkman Dr / UAH"
 ---
 
-Wings & Gyros is our new go-to wing spot. No lie, these have to be some of the best wings in Huntsville.
+Wings & Gyros is our new go-to wing spot, and a real hidden gem. No lie, these have to be some of the best wings in Huntsville.
+
+We ordered hot lemon pepper wings, hot honey wings and fries. Michaela loves hot honey, so those didn't last long. The wings were very well seasoned, and the fries came out hot and fresh.
+
+We also tried a sausage and pepperoni pizza. It had a good cheese pull but was pretty average. They even let us try their ice cream, chocolate and vanilla, and it was really good. You won't regret checking them out.

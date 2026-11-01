@@ -19,4 +19,8 @@ address: "300 The Bridge St NW, Suite 110, Huntsville, AL 35806"
 
 We came to The Cheesecake Factory to try its viral dishes. Keith Lee put us on to the Cajun Salmon, so we had to try it.
 
-We ordered the Louisiana Chicken Pasta with extra sauce, and the Cajun Salmon with extra sauce and extra cheese on the mashed potatoes.
+We ordered the Louisiana Chicken Pasta with extra sauce. It was so good. It was a little light on seasoning, but we weren't mad about it.
+
+The Cajun Salmon was really good, especially with extra sauce, and we added cheese to the mashed potatoes. Both of these trending meals passed the test with us.
+
+The drinks are underrated. One of us had a strawberry spritz-style drink and the other had a mango margarita, and they were some of the best drinks we've had. The bartender that day deserves a shout-out.

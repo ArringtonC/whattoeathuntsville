@@ -20,6 +20,6 @@ address: "1811 Nick Davis Rd, Harvest, AL 35749"
 
 RD's Smokehouse Barbecue has been around for years, and we love it. It's an easy spot to find, right at the four-way stop off Nick Davis.
 
-Our favorite thing here is the loaded baked potato, especially with brisket on it. That's the one to get.
+Our favorite thing here is the loaded baked potato, especially with brisket on it.
 
-Try their wings too. They're worth adding to the order.
+Try their wings too.
