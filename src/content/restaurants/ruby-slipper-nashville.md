@@ -15,6 +15,8 @@ searchTerms: ["nashville", "breakfast", "brunch", "morning food", "chicken", "we
 website: "https://rubybrunch.com/"
 address: "1800 21st Ave S, Nashville, TN 37212"
 area: "Hillsboro Village"
+seoTitle: "Ruby Slipper Cafe: Brunch in Nashville"
+seoDescription: "A nice brunch stop in Nashville: sweet heat fried chicken and French toast, plus a fried chicken sandwich with fries. What to order at Ruby Slipper."
 ---
 
 The Ruby Slipper Cafe was a nice brunch stop for us in Nashville.

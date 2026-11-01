@@ -15,6 +15,8 @@ searchTerms: ["nashville", "soul food", "late night", "buffalo chicken mac & che
 website: "http://www.thewilliebs.com/"
 address: "918 Buchanan St, Nashville, TN 37208"
 area: "North Nashville"
+seoTitle: "Willie B's: Late-Night Soul Food in Nashville"
+seoDescription: "Closed. Willie B's Kitchen & Lounge in Nashville was our late-night soul food pick, and the buffalo chicken mac and cheese was as good as it looked."
 ---
 
 Buffalo chicken mac and cheese at 1 AM? Why not. Willie B's Kitchen & Lounge in Nashville was our pick for late-night food and vibes.

@@ -15,6 +15,8 @@ status: open
 searchTerms: ["huntsville", "soul food", "chicken", "fried chicken sandwich", "southern food", "comfort food", "chicken wings", "wing spot", "lemon pepper", "lemon pepper chicken"]
 address: "2022 Jordan Ln NW Ste B, Huntsville, AL 35816"
 area: "Jordan Ln"
+seoTitle: "Mizz Juju's: Soul Food & Wings in Huntsville"
+seoDescription: "Fried chicken sandwich, hot lemon pepper wings, honey gold wings and Ocean Water juice. The menu changes daily at Mizz Juju's on Jordan Ln in Huntsville."
 ---
 
 Mizz Juju's is a must. The food is flavorful and seasoned to perfection.

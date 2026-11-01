@@ -16,6 +16,8 @@ status: open
 searchTerms: ["huntsville", "south huntsville", "mexican", "cheap eats", "mexican food", "taco", "budget friendly", "affordable", "mobile food"]
 website: "http://www.ordertaquerialos3reales.com/"
 address: "11563 Memorial Pkwy SW, Huntsville, AL 35803"
+seoTitle: "Taqueria Los 3 Reales: Taco Truck, Huntsville"
+seoDescription: "Our regular South Huntsville taco truck: steak tacos, chicken tacos and sopes, with tortas next on our list. Cash only. What to order at Los 3 Reales."
 ---
 
 Let's talk about this food truck in South Huntsville. We love Taqueria Los 3 Reales, and we're there pretty often, to be honest.

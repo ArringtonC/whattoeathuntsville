@@ -14,6 +14,8 @@ status: open
 searchTerms: ["madison", "clift farm", "american", "date night", "group", "birthday", "romantic dinner"]
 website: "https://chwinery.com/"
 address: "8228 Hwy 72 W, Madison, AL 35758"
+seoTitle: "Cooper's Hawk: Date Night Dinner in Madison"
+seoDescription: "Worth the hype at Clift Farm: prime rib sandwich, surf and turf, chicken potstickers and a 10/10 s'mores budino. What to order at Cooper's Hawk in Madison."
 ---
 
 Is Cooper's Hawk worth the hype? We tried the newest spot at Clift Farm, and we think it is. Huntsville has needed a spot like this for a while.

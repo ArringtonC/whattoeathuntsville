@@ -13,6 +13,8 @@ occasions: []
 status: open
 searchTerms: ["huntsville", "south huntsville", "sweet treats", "breakfast", "dessert", "bakery", "sweets", "morning food"]
 address: "11823 Memorial Pkwy SW, Huntsville, AL 35803"
+seoTitle: "Daylight Donuts: South Huntsville Donuts"
+seoDescription: "Chocolate glazed donuts, cinnamon rolls and donut holes, plus breakfast sandwiches and pigs in a blanket. What to order at Daylight Donuts, Huntsville."
 ---
 
 We finally tried Daylight Donuts in South Huntsville, and they had so many options to choose from.

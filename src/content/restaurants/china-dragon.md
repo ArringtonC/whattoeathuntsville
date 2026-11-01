@@ -14,6 +14,8 @@ status: open
 searchTerms: ["asian", "cheap eats", "asian food", "budget friendly", "affordable", "madison"]
 address: "7190 Wall Triana Hwy, Ste A, Madison, AL 35757"
 area: "Wall Triana Hwy"
+seoTitle: "China Dragon: Chinese Takeout in Madison"
+seoDescription: "Our go-to Chinese takeout since Michaela was a kid: General Tso's or sesame chicken with lo mein. Cheap eats at China Dragon in Madison, AL."
 ---
 
 China Dragon is our Chinese takeout spot. Michaela has been coming here since she was a kid.

@@ -14,6 +14,8 @@ status: open
 searchTerms: ["huntsville", "downtown", "american", "date night", "romantic dinner"]
 address: "111 Washington St NE, Huntsville, AL 35801"
 website: "https://www.oneelevenhsv.com/"
+seoTitle: "One Eleven: Downtown Huntsville Date Night"
+seoDescription: "Shareable cocktails, a fresh wedge salad, fish, mussels, pasta and steak, plus a photo booth. Our take on One Eleven for date night in downtown Huntsville."
 ---
 
 One Eleven is downtown, and it has cute vibes and good food. We came for a girls' dinner to celebrate a friend's birthday, and they gave us our own room.

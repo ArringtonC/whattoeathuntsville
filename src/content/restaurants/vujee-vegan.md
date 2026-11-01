@@ -16,6 +16,8 @@ searchTerms: ["huntsville", "chili", "plant based", "plant-based", "philly"]
 website: "https://www.vujeeveganllc.com"
 address: "4701 Meridian St N, Ste K, Huntsville, AL 35811"
 area: "Meridian St N"
+seoTitle: "Vujee Vegan: Chili & Burgers in Huntsville"
+seoDescription: "Black-owned vegan spot with five-star chili, a buffalo chick'n sandwich, Philly egg rolls and waffle fries. What to order at Vujee Vegan in Huntsville."
 ---
 
 Vegan or not, Vujee Vegan is a must try. It was super clean inside with good vibes, a nice place to relax and enjoy some good food. We tried so much here: a cheeze burger, Philly egg rolls, chick'n nuggets, the buffalo chick'n sandwich, and their famous chili.

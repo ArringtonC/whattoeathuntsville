@@ -15,6 +15,8 @@ status: open
 searchTerms: ["huntsville", "italian", "date night", "group", "hot honey meatball pizza", "romantic dinner"]
 address: "3414 Governors Dr SW, Suite 705, Huntsville, AL 35805"
 area: "Stovehouse"
+seoTitle: "Osteria Luca: Italian & Pizza in Huntsville"
+seoDescription: "The hot honey meatball pizza was the one, plus a crispy Caesar salad and chicken mushroom fettuccine alfredo. Italian near Stovehouse in Huntsville."
 ---
 
 Osteria Luca, over by Stovehouse, might be one of our new favorites. We waited a while to come because the prices on Google made it look overpriced. The menu in person is actually lower, so do not let that stop you.

@@ -14,6 +14,8 @@ status: open
 searchTerms: ["nashville", "italian", "date night", "romantic dinner"]
 website: "https://www.luogorestaurant.com/"
 address: "211 12th Ave S, Nashville, TN 37203"
+seoTitle: "Luogo: Italian Date Night in Nashville"
+seoDescription: "Grilled Margherita pizza, braised short rib, duck ragu pappardelle and bomboloni. Our date night pick at Luogo in The Gulch, Nashville."
 ---
 
 Luogo was our date night pick in Nashville, and it did not disappoint. Flavorful dishes, great vibes and super nice servers. What more can you ask for?

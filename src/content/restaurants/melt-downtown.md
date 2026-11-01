@@ -15,6 +15,8 @@ status: open
 searchTerms: ["huntsville", "downtown", "american", "brunch", "group", "chicken", "mac n cheese", "macaroni and cheese", "weekend brunch"]
 address: "201 Jefferson St N Ste I, Huntsville, AL 35801"
 website: "https://ilovemelt.com/huntsville"
+seoTitle: "Melt: Burgers & Brunch in Downtown Huntsville"
+seoDescription: "Tater tots, mac and cheese egg rolls, fried chicken sandwiches and mimosa pitchers. Our go-to for years at Melt in downtown Huntsville."
 ---
 
 Melt is always a go-to for us. We have been coming here for years, and the service and food are always on point.

@@ -13,6 +13,8 @@ draft: false
 status: open
 searchTerms: ["huntsville", "caribbean", "quick lunch", "chicken", "mac n cheese", "macaroni and cheese", "fast lunch", "mobile food"]
 area: "Food truck (Old Railroad Bed Rd)"
+seoTitle: "Louima Haitian Cuisine: Madison Food Truck"
+seoDescription: "Fried snapper, vegetable stew, jerk chicken and pikliz from Chef Kay's Haitian food truck in Madison. Five stars from us. Opens after 4pm."
 ---
 
 Huntsville has a new Haitian food truck, and Chef Kay is on fire. We have already been back three times, which says enough.

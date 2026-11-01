@@ -14,6 +14,8 @@ occasions: []
 status: open
 searchTerms: ["madison", "mexican", "shredded chicken tacos", "mexican food", "taco"]
 address: "7190 Wall Triana Hwy, Madison, AL 35757"
+seoTitle: "Taqueria Doña Vale: Chicken Tacos in Madison"
+seoDescription: "Shredded chicken tacos, steak tacos on fresh homemade tortillas and a thick chicken sope, inside a gas station. What to order at Taqueria Doña Vale."
 ---
 
 Shredded chicken taco fan? Us too. Taqueria Doña Vale is an under-the-radar taco spot we found in Madison, out in Harvest near Legacy Elementary. It's inside a gas station, and there's a sitting area inside.

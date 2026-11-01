@@ -16,6 +16,8 @@ searchTerms: ["madison", "mexican", "birria tacos", "mexican food", "quesabirria
 website: "https://taqueria-luna.com/"
 address: "30098 Andrea Ln, Madison, AL 35756"
 area: "Food truck"
+seoTitle: "Taqueria Luna: Birria Tacos in Madison, AL"
+seoDescription: "Crispy, cheesy birria tacos were the star of the show, plus a birria quesadilla, steak and chicken tacos. What to order at Taqueria Luna in Madison, AL."
 ---
 
 The birria tacos at Taqueria Luna were the star of the show. That crispy, cheesy goodness was everything.

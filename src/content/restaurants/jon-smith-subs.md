@@ -15,6 +15,8 @@ status: open
 searchTerms: ["madison", "county line rd", "quick lunch", "hot cajun chicken sandwich", "fast lunch"]
 website: "https://www.jonsmithsubs.com"
 address: "11156 County Line Rd, Ste G, Madison, AL 35756"
+seoTitle: "Jon Smith Subs: Hot Cajun Chicken in Madison"
+seoDescription: "Get the hot Cajun chicken sandwich at Jon Smith Subs in Madison: cheesy, fresh and hot. Weekday $10 sandwich, chips and drink deal on County Line Rd."
 ---
 
 If we had to choose between Subway and Jon Smith Subs, we're picking Jon Smith every time.

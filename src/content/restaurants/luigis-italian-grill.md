@@ -14,6 +14,8 @@ searchTerms: ["madison", "italian", "family", "birthday"]
 website: "https://www.luigisitaliangrillmadison.com/"
 address: "7559 US-72, Suite 112, Madison, AL 35758"
 area: "Hwy 72"
+seoTitle: "Luigi's Italian Grill: Madison Italian Food"
+seoDescription: "Lobster ravioli, chicken alfredo and grandma's lasagna that taste homemade. Our birthday dinner pick at Luigi's Italian Grill in Madison. Five stars."
 ---
 
 Luigi's Italian Grill in Madison is the most slept-on Italian restaurant around. We went for a birthday dinner with family and were shocked by the quality and flavor.

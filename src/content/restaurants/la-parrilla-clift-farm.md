@@ -14,6 +14,8 @@ draft: false
 status: open
 searchTerms: ["madison", "clift farm", "mexican", "group", "mexican food", "taco"]
 address: "461 John Henry Way, Ste 1080, Madison, AL 35757"
+seoTitle: "La Parrilla Clift Farm: Mexican in Madison"
+seoDescription: "Mexican food at Clift Farm in Madison for under $60: house margaritas, tableside guacamole, fried fish tacos and the famous Sopa de Pollo. Our honest take."
 ---
 
 We ate at La Parrilla at Clift Farm for under $60. It is a really pretty restaurant. They were busy, so we grabbed seats at the bar, and the service was still great.

@@ -14,6 +14,8 @@ status: open
 searchTerms: ["huntsville"]
 website: "https://mozza-pizza.com/"
 area: "Jordan Ln"
+seoTitle: "Mozza: New York Style Pizza in Huntsville"
+seoDescription: "Pepperoni and sausage pizza, pasta and calzones, fast and fresh out of the oven. Mozza on Jordan Ln is in our top 3 for pizza in Huntsville."
 ---
 
 Is Mozza the best pizza spot in Huntsville? We definitely put it in our top 3 for pizza in town.

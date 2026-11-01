@@ -15,6 +15,8 @@ searchTerms: ["atlanta", "honey hot pizza"]
 website: "https://sunnysidepizzeria.com"
 address: "220 Sandy Springs Cir NE, Suite 149, Sandy Springs, GA 30328"
 area: "Sandy Springs"
+seoTitle: "Sunnyside Pizzeria: Honey Hot Pizza, Atlanta"
+seoDescription: "A road-trip pick near Atlanta: the Honey Hot Pizza with pepperoni is fresh, cheesy and sweet-hot. Alfredo pasta, spritz drinks and gelato in Sandy Springs."
 ---
 
 This one is a road-trip pick. If you ever make the drive to Atlanta, you have to try the Honey Hot Pizza at Sunnyside Pizzeria.

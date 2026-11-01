@@ -15,6 +15,8 @@ searchTerms: ["huntsville", "sweet treats", "breakfast", "brunch", "dessert", "b
 website: "https://www.fluffyfluffy.com"
 address: "2338 Whitesburg Dr, Ste B, Huntsville, AL 35801"
 area: "Whitesburg Dr"
+seoTitle: "Fluffy Fluffy: Souffle Pancakes in Huntsville"
+seoDescription: "Fluffy matcha souffle pancakes, lattes and cheesecake on Whitesburg Dr. Sweet, cozy and worth the stop. What to order at Fluffy Fluffy in Huntsville."
 ---
 
 We stopped by Fluffy Fluffy for some fall coziness. On weekdays they ran a Matcha Lover Fest combo, a matcha pancake and a latte for $14.50. On weekends you got a free cheesecake slice with any item from the all-day menu.

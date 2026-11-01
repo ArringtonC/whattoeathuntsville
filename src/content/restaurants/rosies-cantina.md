@@ -15,6 +15,8 @@ searchTerms: ["huntsville", "mexican", "mexican food", "tex mex", "family dining
 address: "6196 University Drive, Huntsville, AL 35806"
 area: "University Drive"
 website: "https://rosiesmexicancantina.com/locations/university-drive/"
+seoTitle: "Rosie's: Tex-Mex & Nachos in Huntsville"
+seoDescription: "A decent Tex-Mex spot on University Drive: Rotel dip, steak nachos, a beef taco and a margarita. Our honest take on Rosie's in Huntsville."
 ---
 
 We'll be honest: we thought Rosie's was basic, and we hadn't been since about middle school. A friend kept asking to go, so we finally tried the one on University Drive.

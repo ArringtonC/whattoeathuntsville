@@ -14,6 +14,8 @@ status: open
 searchTerms: ["huntsville", "mexican", "group", "mexican food", "birria tacos", "quesabirria", "taco"]
 address: "671 Martin Rd SW, Huntsville, AL"
 area: "Martin Rd"
+seoTitle: "Tulum Cantina: Birria Tacos in Huntsville"
+seoDescription: "A rare sit-down spot for birria in Huntsville: birria tacos, a birria quesadilla and refreshing mango and lime margaritas. What to order at Tulum Cantina."
 ---
 
 Craving birria and margaritas? Try Tulum Cantina. It's a rare treat to find birria at a sit-down place in Huntsville, and here it comes with margaritas.

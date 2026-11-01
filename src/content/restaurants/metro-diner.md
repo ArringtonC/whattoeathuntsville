@@ -14,6 +14,8 @@ searchTerms: ["huntsville", "american", "brunch", "family", "morning food", "wee
 website: "https://metrodiner.com"
 address: "975 Airport Rd SW Ste 20-22, Huntsville, AL 35802"
 area: "Airport Rd (Westburg Shopping Ctr)"
+seoTitle: "Metro Diner: Breakfast & Dinner in Huntsville"
+seoDescription: "Loaded fries, crispy fish and chips and steak tips with mashed potatoes, all under $50. Breakfast is served at dinner too at Metro Diner in Huntsville."
 ---
 
 We usually come to Metro Diner for brunch, but this time we stopped by for dinner. Good news: they serve breakfast for dinner too.

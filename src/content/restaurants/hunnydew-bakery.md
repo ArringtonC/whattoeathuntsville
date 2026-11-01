@@ -13,6 +13,8 @@ occasions: []
 status: open
 searchTerms: ["huntsville", "sweet treats", "dessert", "bakery", "sweets", "gluten free"]
 area: "Home bakery / farmers market"
+seoTitle: "Hunnydew Bakery: Fresh Cookies in Huntsville"
+seoDescription: "We gave Hunnydew Bakery a 10 out of 10. Cinnamon sparkle, chocolate lava and velvet dreams cookies from a Black-owned, gluten-friendly Huntsville baker."
 ---
 
 Unreal. We give Hunnydew Bakery a 10 out of 10 across the board.

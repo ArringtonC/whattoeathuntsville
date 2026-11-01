@@ -15,6 +15,8 @@ searchTerms: ["huntsville", "mexican", "mexican food", "birria tacos", "taco", "
 address: "2818 Governors Dr SW Ste C, Huntsville, AL 35805"
 website: "https://mideliciosoguanajuatoal.com/"
 area: "Governors Dr"
+seoTitle: "Mi Delicioso Guanajuato: Birria in Huntsville"
+seoDescription: "Quesabirrias with consomé, chicken tacos and flautas con pollo, all hot and fresh. What to order at Mi Delicioso Guanajuato on Governors Dr in Huntsville."
 ---
 
 Mi Delicioso Guanajuato was a good one. The food was tasty, the service was great, and everything came out hot and fresh.

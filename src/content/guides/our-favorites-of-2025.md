@@ -16,6 +16,8 @@ entries:
   - { restaurant: floyds-barbecue, why: "Best pork sandwich in Huntsville. Five stars.", dish: "Pork sandwich plate" }
   - { restaurant: niyahs-southern-grill, why: "Fried catfish, porkchop bites, and homemade white sauce.", dish: "Fried catfish" }
   - { restaurant: taqueria-los-3-reales, why: "Our favorite taco truck. Bring cash.", dish: "Steak tacos" }
+seoTitle: "Our Favorite Huntsville Restaurants of 2025"
+seoDescription: "The Huntsville spots we kept going back to in 2025: wings, pho at Viet House, Philly cheesesteaks, a pork sandwich plate, catfish and taco truck tacos."
 ---
 
 These came straight from our Favs of 2025 video. If you only try a few places this year, start here.

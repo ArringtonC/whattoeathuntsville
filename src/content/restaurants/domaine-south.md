@@ -14,6 +14,8 @@ status: open
 searchTerms: ["huntsville", "downtown", "american", "date night", "romantic dinner", "charcuterie", "cheese board", "duck fat fries", "tiramisu", "outdoor dining", "wine bar"]
 address: "200 West Side Square, Huntsville, AL 35801"
 website: "https://www.domainesouth.com/"
+seoTitle: "Domaine South: Downtown Huntsville Dinner"
+seoDescription: "Date night downtown: salmon with risotto, steak with standout duck fat fries, and cocktails. Reservations suggested. What to order at Domaine South."
 ---
 
 Domaine South is such a nice spot for date night or dinner with friends. We had no complaints.

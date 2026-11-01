@@ -15,6 +15,8 @@ searchTerms: ["madison", "mediterranean", "quick lunch", "gyro", "greek food", "
 website: "https://pitastreetfood.com/"
 address: "300 Hughes Rd, Madison, AL 35758"
 area: "Hughes Rd"
+seoTitle: "Pita Street Food: Gyros & Fries in Madison"
+seoDescription: "One of our favorite grab-and-go spots in Madison. Get the grilled chicken gyro combo with fries, steak fries and raspberry lemonade at Pita Street Food."
 ---
 
 Pita Street Food in Madison is one of our favorite grab-and-go spots.

@@ -15,6 +15,8 @@ searchTerms: ["huntsville", "sweet treats", "family", "dessert", "sweets"]
 website: "https://handelsicecream.com"
 address: "7086 Hwy 72 W, Huntsville, AL 35806"
 area: "Hwy 72 W"
+seoTitle: "Handel's Ice Cream: Biscoff Cheesecake Flavor"
+seoDescription: "Handel's limited-time Cheesecake with Biscoff Cookies ice cream: cheesecake base, cookie butter swirl and crunchy cookie pieces. Try it in Huntsville."
 ---
 
 Handel's invited us in to try their new limited-time flavor, Cheesecake with Biscoff Cookies. If you love the cookies they hand out on airplanes, this one is for you.

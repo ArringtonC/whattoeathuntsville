@@ -15,6 +15,8 @@ status: open
 searchTerms: ["huntsville", "monrovia", "mexican", "group", "mexican food", "birria tacos", "quesabirria", "taco"]
 website: "https://picofreshmex.com/"
 address: "1947 Blake Bottom Rd NW, Huntsville, AL 35806"
+seoTitle: "Pico Fresh Mex: Birria Pizza in Huntsville"
+seoDescription: "Birria pizza is our favorite, plus fish tacos with pickled onions, nachos, quesadillas and margarita pitchers. Our weekly Mexican spot in Monrovia."
 ---
 
 Birria pizza, tacos, quesadillas, nachos, burritos. Pico Fresh Mex in Monrovia does not miss.

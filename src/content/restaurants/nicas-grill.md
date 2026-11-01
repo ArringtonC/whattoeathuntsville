@@ -13,6 +13,8 @@ occasions: []
 status: open
 searchTerms: ["huntsville", "latin", "cheesesteak", "philly", "mobile food"]
 area: "Food truck"
+seoTitle: "Nicas Grill: Latin Food Truck in Huntsville"
+seoDescription: "Nicaraguan-American fusion food truck. The loaded fries taste like Philly cheese fries, and the Valenciana rice is next. Find it at Orion and NASA Corral."
 ---
 
 We tried Nicas Grill & Café at the Orion Amphitheater. It's a fusion food truck with a mix of Nicaraguan and American food.

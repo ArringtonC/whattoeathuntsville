@@ -15,6 +15,8 @@ searchTerms: ["madison", "sweet treats", "dessert", "bakery", "sweets"]
 website: "https://www.beignetsandbrew.com/find/al/madison/12120-county-line-rd"
 address: "12120 County Line Rd, Suite C, Madison, AL 35756"
 area: "County Line Rd"
+seoTitle: "Beignets & Brew: Beignets in Madison"
+seoDescription: "A caramel latte and beignets with chocolate sauce at Beignets & Brew on County Line Rd in Madison. It is just up the street, so we might go too often."
 ---
 
 We grabbed a caramel latte and an order of beignets with chocolate sauce.

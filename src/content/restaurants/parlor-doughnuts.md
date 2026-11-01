@@ -15,6 +15,8 @@ searchTerms: ["huntsville", "sweet treats", "dessert", "bakery", "sweets"]
 website: "https://www.parlordoughnuts.com/"
 address: "2500 Clinton Ave W, Huntsville, AL"
 area: "Clinton Ave W"
+seoTitle: "Parlor Doughnuts: Pizza Doughnuts, Huntsville"
+seoDescription: "Three savory pizza doughnuts: Buffalo Chicken, Chicken Bacon Ranch and OG Pepperoni. We gave them 10 out of 10. Parlor Doughnuts, Clinton Ave, Huntsville."
 ---
 
 Would you try a pizza doughnut? These savory doughnuts at Parlor Doughnuts had been calling our name for a long time, so we finally did a taste test.

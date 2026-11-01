@@ -14,6 +14,8 @@ status: open
 searchTerms: ["madison", "asian", "asian food", "vietnamese noodle soup"]
 address: "7407 Hwy 72 W, Ste D, Madison, AL 35758"
 area: "Hwy 72 W"
+seoTitle: "Lyli Viet-Thai (Phomous): Pho in Madison"
+seoDescription: "Chicken gyoza, chicken pho with add-ins and really spicy lemongrass chicken. What to order at Lyli Viet-Thai Cuisine, also called Phomous, in Madison."
 ---
 
 Lyli Viet-Thai Cuisine, also called Phomous, in Madison is bringing the heat.

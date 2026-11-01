@@ -15,6 +15,8 @@ searchTerms: ["huntsville", "mexican", "quesadilla with a corn tortilla", "mexic
 website: "https://taquerialasmorelenses.weebly.com/"
 address: "30697 Hwy 72 W, Madison, AL 35757"
 area: "Hwy 72 W / Old Railroad Bed"
+seoTitle: "Los Morelenses: Tacos & Quesadillas, Madison"
+seoDescription: "A gas station taqueria off Hwy 72 in Madison worth stopping for: a crispy quesadilla on a corn tortilla, chicken tacos on flour, and green and red sauce."
 ---
 
 We admit we gatekept this one for a while. But Los Morelenses is that good.

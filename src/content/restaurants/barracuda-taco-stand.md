@@ -16,6 +16,8 @@ searchTerms: ["huntsville", "mexican", "pork taco", "mexican food", "taco", "cri
 address: "535 Meridian St N, Huntsville, AL 35801"
 website: "https://www.eatbarracuda.com"
 area: "Meridian St"
+seoTitle: "Barracuda Taco Stand: Tacos in Huntsville"
+seoDescription: "Made-to-order tacos on Meridian St: a juicy pork taco with pickled onions was our favorite, plus chicken and crispy fish tacos and a 10/10 lime margarita."
 ---
 
 Is Barracuda Taco Stand actually worth it? We were invited to try it, and it's giving laid-back vibes with a little hint of California. We ordered a chicken taco, a pork taco, a crispy fish taco and a couple of quesadillas.

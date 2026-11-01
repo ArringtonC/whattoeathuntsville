@@ -15,6 +15,8 @@ searchTerms: ["huntsville", "chicken wings", "wing spot", "lemon pepper", "lemon
 address: "2608 Memorial Pkwy NW, Huntsville, AL 35810"
 area: "North Huntsville"
 website: "https://atownwings.com"
+seoTitle: "A-Town Wings: Honey Gold Wings in Huntsville"
+seoDescription: "Tiny but mighty wings in North Huntsville. We get honey gold, hot honey and hot lemon pepper, and you might need extra. What to order at A-Town Wings."
 ---
 
 The wings here are tiny but mighty. Just a heads up: you might have to order extra.

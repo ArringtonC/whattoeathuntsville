@@ -15,6 +15,8 @@ status: open
 searchTerms: ["huntsville", "nails gas station", "sandwiches", "quick lunch", "cheesesteak", "philly", "fast lunch"]
 website: "https://capsphillycheesest.wixsite.com/welcome"
 address: "11451 S Memorial Pkwy, Huntsville, AL 35803"
+seoTitle: "Cap's Philly Cheesesteak in Huntsville"
+seoDescription: "A real taste of Philly inside the Nails gas station on South Memorial Pkwy. They make their own cheese whiz, and we get our cheesesteak with provolone."
 ---
 
 Cap's Philly Cheesesteak is a real taste of Philly, inside the Nails gas station. They make their own cheese whiz, and they're actually from Philly.

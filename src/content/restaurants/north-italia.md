@@ -15,6 +15,8 @@ status: open
 searchTerms: ["huntsville", "bridge street town centre", "italian", "date night", "group", "romantic dinner"]
 website: "https://www.northitalia.com/locations/huntsville/"
 address: "401 The Bridge St NW, Suite 180, Huntsville, AL 35806"
+seoTitle: "North Italia: Pizza & Pasta at Bridge Street"
+seoDescription: "Buttery truffle garlic bread, fresh margherita pizza, creamy tripoline alfredo and tiramisu. What to order at North Italia, Bridge Street Town Centre."
 ---
 
 North Italia is newer to Huntsville, at Bridge Street Town Centre, and we got to try it before it officially opened. We tried a little bit of everything, and it works for almost any occasion.

@@ -15,6 +15,8 @@ status: open
 searchTerms: ["huntsville", "asian", "cheap eats", "chicken pho", "asian food", "vietnamese noodle soup", "budget friendly", "affordable", "beef pho", "vermicelli bowls", "boba tea", "vietnamese coffee", "casual", "quick lunch", "takeout"]
 address: "975 Airport Rd SW, Ste B2, Huntsville, AL 35802"
 area: "Airport Rd"
+seoTitle: "Viet House: Best Pho in Huntsville"
+seoDescription: "Our forever-favorite pho spot: spicy chicken pho, fried spring rolls and pork dumplings, all under $40. What to order at Viet House in Huntsville."
 ---
 
 Best pho in Huntsville. Yes, we said it. Viet House is our forever favorite, and we end up here almost every week for good reason. We got all this for under $40.

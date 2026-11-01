@@ -15,6 +15,8 @@ searchTerms: ["huntsville", "bbq", "cheap eats", "loaded potato with pulled chic
 website: "https://www.lawlersbarbecue.com/"
 address: "11310 S Memorial Pkwy SW, Suite A, Huntsville, AL 35803"
 area: "South Parkway"
+seoTitle: "LawLer's Barbecue: Two Potato Tuesdays"
+seoDescription: "Two Potato Tuesdays at LawLer's Barbecue: two huge loaded potatoes with pulled chicken or pork for $16. One of the best cheap eats in Huntsville."
 ---
 
 Two Potato Tuesdays at LawLer's Barbecue is a deal we look forward to: two loaded potatoes for $16. It has had us in a chokehold lately.

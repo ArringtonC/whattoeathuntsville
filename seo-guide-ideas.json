@@ -1,0 +1,120 @@
+[
+ {
+  "title": "Best tacos in Huntsville",
+  "searchPhrase": "best tacos Huntsville AL",
+  "slugs": [
+   "taqueria-los-3-reales",
+   "barracuda-taco-stand",
+   "taqueria-las-adelitas",
+   "mi-tierra-oaxaquena",
+   "mi-delicioso-guanajuato",
+   "rosies-cantina",
+   "tulum-cantina",
+   "pico-fresh-mex",
+   "los-morelenses",
+   "tacos-de-canasta-acapulco"
+  ],
+  "why": "Mexican is our biggest cuisine (20 open). No taco guide exists. Web search budget was used up, so demand is based on common local food search patterns, not fresh data."
+ },
+ {
+  "title": "Best BBQ in Huntsville",
+  "searchPhrase": "best BBQ Huntsville AL",
+  "slugs": [
+   "floyds-barbecue",
+   "blue-oak-bbq",
+   "lawlers-barbecue",
+   "city-barbeque",
+   "big-johns",
+   "pan-z-effies",
+   "rds-smokehouse"
+  ],
+  "why": "7 open BBQ spots. BBQ is a top Alabama food search."
+ },
+ {
+  "title": "Best brunch and breakfast in Huntsville",
+  "searchPhrase": "best brunch Huntsville AL",
+  "slugs": [
+   "loonas-cafe",
+   "the-biscuit-express",
+   "metro-diner",
+   "melt-downtown",
+   "superhero-chefs",
+   "fluffy-fluffy",
+   "parlor-doughnuts",
+   "daylight-donuts-south"
+  ],
+  "why": "Several already carry the Brunch occasion tag. Brunch is a high-volume weekend search."
+ },
+ {
+  "title": "Date night restaurants in Huntsville and Madison",
+  "searchPhrase": "date night restaurants Huntsville",
+  "slugs": [
+   "one-eleven",
+   "domaine-south",
+   "osteria-luca",
+   "north-italia",
+   "kyuramen",
+   "seoul-good",
+   "chucks-fish",
+   "coopers-hawk"
+  ],
+  "why": "8 open places already tagged Date night."
+ },
+ {
+  "title": "Cheap eats in Huntsville",
+  "searchPhrase": "cheap eats Huntsville AL",
+  "slugs": [
+   "viet-house",
+   "lawlers-barbecue",
+   "taqueria-los-3-reales",
+   "tacos-de-canasta-acapulco",
+   "taqueria-catedral",
+   "china-dragon",
+   "caps-philly-cheesesteak"
+  ],
+  "why": "6 already tagged Cheap eats, plus Caps. Budget food is a steady search."
+ },
+ {
+  "title": "Best soul food in Huntsville",
+  "searchPhrase": "soul food Huntsville AL",
+  "slugs": [
+   "niyahs-southern-grill",
+   "sacs-kitchen",
+   "mizz-jujus",
+   "mias-cafe",
+   "the-spot",
+   "pan-z-effies",
+   "big-johns",
+   "ljz-backyard-bayou"
+  ],
+  "why": "8 open soul food spots, a core strength of the site's coverage."
+ },
+ {
+  "title": "Best Asian food in Huntsville and Madison (pho, ramen, more)",
+  "searchPhrase": "best Asian food Huntsville AL",
+  "slugs": [
+   "viet-house",
+   "kyuramen",
+   "aloha-ramen-house",
+   "dragon-alley",
+   "lyli-viet-thai",
+   "steam-boys",
+   "viet-crispwich",
+   "seoul-good",
+   "chikin-jip"
+  ],
+  "why": "14 open Asian spots. Ramen alone has only 2, so a broad Asian guide is safer; pho/ramen can be H2 sections."
+ },
+ {
+  "title": "Best pizza in Huntsville",
+  "searchPhrase": "best pizza Huntsville AL",
+  "slugs": [
+   "mozza-pizza",
+   "sam-and-gregs",
+   "osteria-luca",
+   "north-italia",
+   "jets-pizza-madison"
+  ],
+  "why": "5 open pizza places. Pizza is a top generic food search. Left out scoop-and-slice (temporarily closed)."
+ }
+]

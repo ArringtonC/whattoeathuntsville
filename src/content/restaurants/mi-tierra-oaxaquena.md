@@ -14,6 +14,8 @@ occasions: []
 status: open
 searchTerms: ["huntsville", "mexican", "mexican food", "taco"]
 area: "Pulaski Pike"
+seoTitle: "Mi Tierra Oaxaqueña: Tacos in Huntsville"
+seoDescription: "Chicken and steak tacos on corn and flour tortillas got a great rating from us. What to order at Mi Tierra Oaxaqueña on Pulaski Pike in Huntsville."
 ---
 
 If you're looking for some solid tacos, Mi Tierra Oaxaqueña on Pulaski Pike is a good stop. They have plenty of items on the menu, but we came for the tacos.
