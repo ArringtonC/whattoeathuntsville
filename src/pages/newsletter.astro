@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import { SITE } from '../lib/site';
 ---
 <Base title="The Weekly Bite" description="One Huntsville food pick in your inbox every Thursday. Free.">
   <section class="band-cream">
@@ -7,27 +8,13 @@ import Base from '../layouts/Base.astro';
       <p class="kicker">What to eat this week</p>
       <h1 class="h1">The Weekly Bite</h1>
       <p class="dek">Never wonder what to eat this week. One Huntsville food pick in your inbox every Thursday: why it's good, what to order, and how to get there. Free.</p>
-      <p id="thanks" hidden class="box" style="background: #fff; font-size: 20px; font-weight: 700;">You're in. Check your inbox to confirm, and your first pick arrives Thursday.</p>
-      <form id="signup" name="newsletter" method="POST" data-netlify="true" action="/newsletter?thanks=1" style="display: flex; flex-direction: column; gap: 14px;">
-        <input type="hidden" name="form-name" value="newsletter" />
+      <form id="signup" data-kit method="POST" action={SITE.kitForm} style="display: flex; flex-direction: column; gap: 14px;">
         <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-          <label style="flex: 1 1 260px;"><span class="sr-only">Email address</span><input class="input" type="email" name="email" required placeholder="you@email.com" autocomplete="email" /></label>
+          <label style="flex: 1 1 260px;"><span class="sr-only">Email address</span><input class="input" type="email" name="email_address" required placeholder="you@email.com" autocomplete="email" /></label>
           <button class="btn btn-red" type="submit" style="min-height: 52px;">Sign me up</button>
         </div>
-        <fieldset style="border: 0; padding: 0; margin: 0;">
-          <legend style="font-weight: 700; margin-bottom: 4px;">Also send me</legend>
-          <label class="check"><input type="checkbox" name="lists" value="just-opened" checked /> Just Opened alerts, when a new place opens</label>
-          <label class="check"><input type="checkbox" name="lists" value="eat-for-less" checked /> Eat for Less deals, some weekends</label>
-          <label class="check"><input type="checkbox" name="lists" value="partner" /> Partner features (sponsored), at most one a month</label>
-        </fieldset>
         <p style="font-size: 13px; color: var(--muted);">Unsubscribe anytime. We never sell your email.</p>
       </form>
     </div>
   </section>
-  <script>
-    if (new URLSearchParams(location.search).has('thanks')) {
-      document.getElementById('signup')?.setAttribute('hidden', '');
-      document.getElementById('thanks')?.removeAttribute('hidden');
-    }
-  </script>
 </Base>

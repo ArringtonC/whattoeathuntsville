@@ -8,6 +8,7 @@ export const SITE = {
   threads: 'https://www.threads.net/@whattoeathuntsville',
   tagline: 'Local roots. Global taste.',
   newsletter: 'The Weekly Bite',
+  kitForm: 'https://app.kit.com/forms/10126403/subscriptions', // Kit form "The Weekly Bite"
 };
 
 // Display ads stay off until traffic qualifies for an ad network (v3 ad rules).
