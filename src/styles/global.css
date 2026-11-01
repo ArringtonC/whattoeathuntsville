@@ -136,7 +136,7 @@ textarea.input { padding: 12px 14px; min-height: 120px; resize: vertical; }
 /* Browse by cuisine circles */
 .circles { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 24px 16px; }
 .circles a { display: flex; flex-direction: column; align-items: center; gap: 8px; text-decoration: none; text-align: center; }
-.circles .circle { width: 100%; aspect-ratio: 1 / 1; border-radius: 50%; overflow: hidden; display: block; transition: transform 0.15s; }
+.circles .circle { width: 100%; aspect-ratio: 1 / 1; border-radius: 50%; overflow: hidden; display: block; transition: transform 0.15s; box-shadow: 0 0 0 3px #fff, 0 0 0 4px var(--line), 0 8px 18px rgba(28, 22, 16, 0.14); }
 .circles .circle img { width: 100%; height: 100%; object-fit: cover; }
 .circles a:hover .circle { transform: scale(1.04); }
 .circles b { font-size: 16px; font-weight: 700; }

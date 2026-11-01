@@ -1,18 +1,18 @@
 Cuisine circle photos from Pexels (free to use, no attribution required, pexels.com/license).
 mexican.jpg  https://www.pexels.com/photo/9258712/
-asian.jpg  https://www.pexels.com/photo/16266742/
-sweet-treats.jpg  https://www.pexels.com/photo/7761650/
+asian.jpg  https://www.pexels.com/photo/8992932/
+sweet-treats.jpg  https://www.pexels.com/photo/34565248/
 breakfast.jpg  https://www.pexels.com/photo/730922/
-american.jpg  https://www.pexels.com/photo/27988502/
-soul-food.jpg  https://www.pexels.com/photo/32083398/
+american.jpg  https://www.pexels.com/photo/36007382/
+soul-food.jpg  https://www.pexels.com/photo/9872916/
 wings.jpg  https://www.pexels.com/photo/5946434/
-bbq.jpg  https://www.pexels.com/photo/37030068/
-pizza.jpg  https://www.pexels.com/photo/36178132/
-chicken.jpg  https://www.pexels.com/photo/14686443/
+bbq.jpg  https://www.pexels.com/photo/13304044/
+pizza.jpg  https://www.pexels.com/photo/11111603/
+chicken.jpg  https://www.pexels.com/photo/39853099/
 sandwiches.jpg  https://www.pexels.com/photo/6416558/
-italian.jpg  https://www.pexels.com/photo/12667658/
+italian.jpg  https://www.pexels.com/photo/31637793/
 seafood.jpg  https://www.pexels.com/photo/6426095/
-mediterranean.jpg  https://www.pexels.com/photo/31249644/
+mediterranean.jpg  https://www.pexels.com/photo/7473276/
 cajun.jpg  https://www.pexels.com/photo/3650124/
 caribbean.jpg  https://www.pexels.com/photo/36895285/
 latin.jpg  https://www.pexels.com/photo/5837196/
