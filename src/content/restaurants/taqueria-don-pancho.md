@@ -18,6 +18,7 @@ website: "https://taqueriadonpanchoal.com"
 area: "Hwy 72 W"
 seoTitle: "Taqueria Don Pancho: Birria Tacos in Madison"
 seoDescription: "Crispy, not-soggy birria tacos, a torta mamalona big enough for two, and steak and chicken tacos. What to order at Taqueria Don Pancho in Madison, AL."
+price: 1
 ---
 
 We love finding a really good Mexican restaurant, and the online reviews didn't lie about Taqueria Don Pancho. This place is great, and the menu has so many items to choose from.

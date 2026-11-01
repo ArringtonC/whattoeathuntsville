@@ -15,6 +15,8 @@ address: "930 Old Monrovia Rd NW, Suite 3, Huntsville, AL 35806"
 area: "MidCity"
 seoTitle: "Superhero Chefs: Vegan Brunch in Huntsville"
 seoDescription: "A Black-owned vegan breakfast and brunch spot in MidCity Huntsville with waffles, sandwiches and gluten-free options. Our take: it has tasty options."
+price: 2
+phone: "(256) 489-4044"
 ---
 
 Superhero Chefs has tasty options.

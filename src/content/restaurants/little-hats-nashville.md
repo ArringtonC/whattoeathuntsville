@@ -17,6 +17,8 @@ website: "https://www.littlehatsmarket.com/"
 address: "1120 4th Ave N, Nashville, TN 37208"
 seoTitle: "Little Hats Italian Market: Subs in Nashville"
 seoDescription: "Craving Italian in Nashville? Little Hats Italian Market in Germantown: fried ravioli, chicken parmigiana sub and meatball sub, with gluten-free buns too."
+price: 2
+phone: "(615) 281-3332"
 ---
 
 If you are craving Italian in Nashville, go to Little Hats Italian Market in Germantown. It was so, so good.

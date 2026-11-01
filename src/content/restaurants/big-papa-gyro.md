@@ -16,6 +16,8 @@ address: "4925 University Dr NW, Huntsville, AL 35816"
 area: "University Dr"
 seoTitle: "Big Papa Gyro: Gyros in Huntsville"
 seoDescription: "Around for 20 years on University Dr: the Big Papa Gyro, a chicken gyro, an amazing Greek salad and crispy fries, all with fresh ingredients. Our take."
+price: 2
+phone: "(256) 489-9050"
 ---
 
 We're definitely late to the party here, since Big Papa Gyro has been around for 20 years. But it was good, with really fresh ingredients.

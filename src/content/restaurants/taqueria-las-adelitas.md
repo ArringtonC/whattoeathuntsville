@@ -16,6 +16,8 @@ address: "6212 Madison Pike, Huntsville, AL 35806"
 area: "Madison Pike"
 seoTitle: "Taqueria Las Adelitas: Fish Tacos, Huntsville"
 seoDescription: "Get the fish taco: one of the best tacos we've ever had. We also liked the chips and salsa. What to order at Taqueria Las Adelitas in Huntsville."
+price: 1
+phone: "(256) 489-3100"
 ---
 
 We stopped by Taqueria Las Adelitas, over by Bridge Street. The menu has plenty of options to choose from.

@@ -17,6 +17,8 @@ address: "7061 Hwy 72 W, Huntsville, AL 35806"
 area: "The Open Bottle (Hwy 72 W)"
 seoTitle: "Big John's: Fried Catfish in Huntsville"
 seoDescription: "In our opinion, the best fried catfish in Huntsville, plus loaded buffalo and rooftop fries. At The Open Bottle, open Thursday to Saturday, 4 to 9pm only."
+price: 2
+phone: "(256) 469-6099"
 ---
 
 Big John's has the best fried catfish in Huntsville, in our opinion. If you know somewhere better, tell us.

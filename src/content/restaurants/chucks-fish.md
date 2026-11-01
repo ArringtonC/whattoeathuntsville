@@ -17,6 +17,8 @@ address: "461 John Henry Way, Bldg 500, Madison, AL 35757"
 area: "Clift Farm"
 seoTitle: "Chuck's Fish: Sushi & Seafood in Madison"
 seoDescription: "Date night at Clift Farm: five-star hot honey pizza, salmon sushi and parmesan-crusted grouper. Pricey but worth it. Chuck's Fish in Madison."
+price: 3
+phone: "(256) 489-4892"
 ---
 
 Chuck's Fish at Clift Farm made for a perfect date night. The vibe and ambiance were so nice, and the customer service was too.

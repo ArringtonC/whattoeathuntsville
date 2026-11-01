@@ -16,6 +16,8 @@ address: "1591 Hughes Rd Ste C, Madison, AL 35758"
 area: "Hughes Rd"
 seoTitle: "Aloha Ramen House: Ramen & Gyoza in Madison"
 seoDescription: "Comfort food in Madison: fried gyoza, crispy chicken katsu and spicy tonkotsu ramen with chicken or pork, plus a yuzu white peach drink. What to order."
+price: 2
+phone: "(256) 945-7480"
 ---
 
 Aloha Ramen House in Madison has a great comfort food vibe, and we loved our experience here. The appetizers were great, the ramen was good, and so were the drinks.

@@ -17,6 +17,8 @@ address: "3700 Blue Spring Rd NW, Unit A, Huntsville, AL 35810"
 area: "Blue Spring Rd"
 seoTitle: "Bo's Best Wings: Fried Wings in Huntsville"
 seoDescription: "Serving flavor since 1998: we got fried wings, hot lemon pepper and hot honey wings, and fried catfish with fries. Everything was so good. Our take."
+price: 1
+phone: "(256) 715-0232"
 ---
 
 You all suggested Bo's Best Wings after we posted our other wing spots, so we had to go. They've been serving up flavor since 1998 for a reason. Everything was so good.

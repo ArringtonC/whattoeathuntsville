@@ -17,6 +17,8 @@ address: "20 Town Center Dr NW, Ste 1109, Huntsville, AL 35806"
 area: "Providence"
 seoTitle: "Loona's Cafe: Brunch in Huntsville"
 seoDescription: "Brunch at Loona's Cafe in Providence, Huntsville: Nashville Hot Chicken Bennie, salmon and grits, breakfast burrito, avocado toast and mimosas."
+price: 2
+phone: "(256) 583-8888"
 ---
 
 We love a good brunch spot, and we had wanted to try Loona's Cafe in Providence for the longest time. It deserves a spotlight. This is not one of those overrated places in Huntsville.

@@ -17,6 +17,8 @@ address: "1300 Enterprise Way, Huntsville, AL 35806"
 area: "Enterprise Way"
 seoTitle: "Viet Crispwich: Banh Mi in Huntsville"
 seoDescription: "Crispy shredded chicken banh mi, fried pork dumplings and loaded spicy chili broth noodles. What to order at Viet Crispwich in Huntsville."
+price: 2
+phone: "(256) 999-9968"
 ---
 
 Y'all hear that crunch? Viet Crispwich might be our new go-to. It had been on our radar for the longest time, and Arrington already raved about their banh mi, so we finally went.

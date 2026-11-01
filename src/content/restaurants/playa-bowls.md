@@ -17,6 +17,8 @@ website: "https://www.playabowls.com/location/madison"
 address: "460 John Henry Way, Suite 390, Madison, AL 35758"
 seoTitle: "Playa Bowls: Acai Bowls & Smoothies, Madison"
 seoDescription: "Our pick for something cold: the Aloha Smoothie with protein and chia, plus the Acai Nutella Bowl. What to order at Playa Bowls, Clift Farm, Madison."
+price: 2
+phone: "(256) 429-9015"
 ---
 
 We know we usually post the heavier stuff, but Playa Bowls in Clift Farm is our pick for something cold, fresh, and a little healthier. We've been going for a while, and we always go back.

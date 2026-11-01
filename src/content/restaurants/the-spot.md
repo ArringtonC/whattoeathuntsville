@@ -17,6 +17,8 @@ address: "1605 Pulaski Pike NW, Ste 3, Huntsville, AL 35816"
 area: "Pulaski Pike"
 seoTitle: "The Spot: Catfish & Wings in Huntsville"
 seoDescription: "Our go-to for a night out: good catfish, wings, $2 drink specials and hookah at affordable prices. What to order at The Spot on Pulaski Pike in Huntsville."
+price: 2
+phone: "(938) 309-2284"
 ---
 
 Good catfish, good wings and good vibes. The Spot has been one of our go-to places for a night out, and honestly a bit of a gem for a long time. Part of us wants to gatekeep it, but it deserves a visit.

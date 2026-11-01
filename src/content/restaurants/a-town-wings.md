@@ -17,6 +17,8 @@ area: "North Huntsville"
 website: "https://atownwings.com"
 seoTitle: "A-Town Wings: Honey Gold Wings in Huntsville"
 seoDescription: "Tiny but mighty wings in North Huntsville. We get honey gold, hot honey and hot lemon pepper, and you might need extra. What to order at A-Town Wings."
+price: 1
+phone: "(256) 585-3198"
 ---
 
 The wings here are tiny but mighty. Just a heads up: you might have to order extra.

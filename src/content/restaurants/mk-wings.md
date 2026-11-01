@@ -16,6 +16,8 @@ searchTerms: ["huntsville", "hot honey + hot lemon pepper wings", "chicken wings
 area: "Jordan Ln"
 seoTitle: "MK Wings: Lemon Pepper Wings in Huntsville"
 seoDescription: "Hot honey and hot lemon pepper wings with a side of Cajun fries is our ultimate combo. What to order at MK Wings on Jordan Ln in Huntsville."
+price: 1
+phone: "(256) 270-7373"
 ---
 
 Fair warning: this one may give you cravings.

@@ -17,6 +17,8 @@ website: "https://www.steamboys.com/madison"
 address: "8294 Hwy 72 W, Building 200, Madison, AL 35758"
 seoTitle: "Steam Boys: Bao, Dumplings & Boba in Madison"
 seoDescription: "One of our favorites in Madison: beef bao, cheeseburger dumplings, popcorn chicken and passion fruit boba. All-you-can-eat dumplings Thursdays for $20."
+price: 2
+phone: "(256) 513-8380"
 ---
 
 Steam Boys invited us in, and it's one of our favorite places. If you don't know what to order, start here.

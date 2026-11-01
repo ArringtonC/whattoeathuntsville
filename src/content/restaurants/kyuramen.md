@@ -17,6 +17,8 @@ address: "5850 University Dr NW, Suite D2, Huntsville, AL 35806"
 area: "University Dr"
 seoTitle: "Kyuramen: Spicy Tonkotsu Ramen in Huntsville"
 seoDescription: "What to order at Kyuramen in Huntsville: extra hot Kyushu Spicy Tonkotsu Ramen, the yakitori platter, popcorn chicken, and matcha and s'mores tiramisu."
+price: 2
+phone: "(256) 270-9855"
 ---
 
 We've been craving a good bowl of ramen bad lately, and Kyuramen delivered. We had seen some mixed reviews, so we wanted to test it for ourselves. We really enjoyed it. The staff were nice, the food was fresh, and the space looks great.

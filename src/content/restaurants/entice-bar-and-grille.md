@@ -17,6 +17,8 @@ website: "https://www.facebook.com/p/Entice-Bar-Grill-61564983720132/"
 address: "8694 Madison Blvd, Madison, AL 35758"
 seoTitle: "Entice Bar & Grille: Wings in Madison"
 seoDescription: "Our pick for best wings in Madison: 50-cent wings on Wednesdays (10 minimum), hot lemon pepper, and happy hour until 8pm. All under $40 at Entice."
+price: 2
+phone: "(256) 870-1013"
 ---
 
 Best wings in Madison? We think we found them at Entice Bar & Grille.

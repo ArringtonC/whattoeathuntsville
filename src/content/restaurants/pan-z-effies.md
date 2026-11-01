@@ -16,6 +16,7 @@ searchTerms: ["huntsville", "soul food", "fried catfish", "southern food", "comf
 area: "Food truck (Pulaski Pike)"
 seoTitle: "Pan-Z-Effie's: Fried Catfish in Huntsville"
 seoDescription: "Fried catfish we rate 1000/10, plus ribs, wings and mac and cheese from this Huntsville soul food and BBQ truck on Pulaski Pike. Open Wed to Sat after 4pm."
+price: 2
 ---
 
 We almost did not share Pan-Z-Effie's. Some spots we want to keep to ourselves. But this one deserves the business. There is no paid promotion here, and they are not even on Facebook.

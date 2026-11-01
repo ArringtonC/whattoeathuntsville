@@ -16,6 +16,8 @@ address: "3155 Old Railroad Bed Rd, Harvest, AL 35749"
 area: "Harvest"
 seoTitle: "LJ'z Backyard Bayou: Cajun Food in Harvest"
 seoDescription: "Cajun and Creole food in Harvest, AL: jambalaya, shellfish-free gumbo, fried catfish and Sunday beignets. Open Friday to Sunday only. Black-owned."
+price: 2
+phone: "(256) 489-0759"
 ---
 
 LJ'z Backyard Bayou is our latest addiction. We kept it to ourselves for a bit, because we have been going back for New Orleans food on Sundays for the last three weekends.

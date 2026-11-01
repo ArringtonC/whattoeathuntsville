@@ -17,6 +17,8 @@ address: "975 Airport Rd SW, Ste B2, Huntsville, AL 35802"
 area: "Airport Rd"
 seoTitle: "Viet House: Best Pho in Huntsville"
 seoDescription: "Our forever-favorite pho spot: spicy chicken pho, fried spring rolls and pork dumplings, all under $40. What to order at Viet House in Huntsville."
+price: 2
+phone: "(256) 880-4888"
 ---
 
 Best pho in Huntsville. Yes, we said it. Viet House is our forever favorite, and we end up here almost every week for good reason. We got all this for under $40.

@@ -17,6 +17,7 @@ address: "3414 Governors Dr SW, Suite 510, Huntsville, AL 35805"
 area: "Stovehouse"
 seoTitle: "Seoul Good: Korean Fried Chicken, Huntsville"
 seoDescription: "Crunchy Korean fried chicken inside Stovehouse: a 16-piece honey mustard and sweet and spicy combo with fries and cheese corn. A good date night pick."
+phone: "(256) 678-7043"
 ---
 
 Seoul Good serves some crunchy fried chicken, and you'll find it inside Stovehouse. Our order was the perfect amount of food for our date night.

@@ -17,6 +17,8 @@ address: "6008 Mastin Lake Rd NW, Suite B, Huntsville, AL 35810"
 area: "Mastin Lake Rd"
 seoTitle: "Sac's Kitchen: Soul Food in Huntsville"
 seoDescription: "Soul food on Mastin Lake Rd: hot wings and fries, fried catfish with mac and cheese, green beans and cornbread, plus a buffet. Our take on Sac's Kitchen."
+price: 1
+phone: "(256) 746-9030"
 ---
 
 Ain't nothing like some soul food. We tried Sac's Kitchen this weekend.

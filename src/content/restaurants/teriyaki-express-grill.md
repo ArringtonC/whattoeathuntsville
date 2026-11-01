@@ -16,6 +16,8 @@ searchTerms: ["madison", "capshaw & wall triana", "asian", "quick lunch", "asian
 address: "6540 Wall Triana Hwy, Madison, AL"
 seoTitle: "Teriyaki Express Grill: Teriyaki in Madison"
 seoDescription: "A Madison food truck at Capshaw and Wall Triana: fried gyoza and a chicken teriyaki plate for about $15. What to order at Teriyaki Express Grill."
+price: 2
+phone: "(256) 679-6983"
 ---
 
 We tried Teriyaki Express Grill, a new food truck in Madison on the corner of Capshaw and Wall Triana. It parks in the gravel lot where they sometimes sell fireworks.

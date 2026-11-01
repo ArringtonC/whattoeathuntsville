@@ -16,6 +16,8 @@ website: "https://thebiscuitexpress.com/"
 address: "5077 Moores Mill Rd, Huntsville, AL"
 seoTitle: "The Biscuit Express: Biscuits in Huntsville"
 seoDescription: "A bacon, egg and cheese biscuit with crisp bacon and a chicken biscuit that reminded us of Jack's. What to order at The Biscuit Express on Moores Mill Rd."
+price: 1
+phone: "(256) 852-5571"
 ---
 
 The Biscuit Express is a breakfast and lunch spot in Huntsville. They have two locations, and this is the one on Moores Mill Rd. There are plenty of options to choose from.

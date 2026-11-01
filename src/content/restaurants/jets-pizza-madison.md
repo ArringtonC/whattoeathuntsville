@@ -17,6 +17,8 @@ address: "1079 Balch Rd, Suite I, Madison, AL"
 area: "Balch Rd"
 seoTitle: "Jet's Pizza Madison: Deep Dish Pizza & Wings"
 seoDescription: "Jet's Pizza on Balch Rd in Madison: 4 Corner Deep Dish, crispy thin crust, buffalo and BBQ wings, and house-made ranch you should not skip. Our take."
+price: 2
+phone: "(256) 489-8992"
 ---
 
 Jet's Pizza is flying under the radar in Madison. We stopped by ahead of their grand opening on a day it was pouring rain, and the staff were really nice.

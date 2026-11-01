@@ -17,6 +17,8 @@ website: "https://www.tacosdecanastaacapulco.com/"
 area: "Wall Triana Hwy"
 seoTitle: "Tacos de Canasta Acapulco: Gorditas, Madison"
 seoDescription: "The chicken gorditas are the star: crispy tortilla and flavorful chicken. Plus steak tacos and nachos at this cheap, quick-lunch Mexican spot in Madison."
+price: 1
+phone: "(938) 218-5459"
 ---
 
 Everybody's out here looking for LA tacos in Alabama. You probably won't find California tacos here, but you will find some really good Mexican spots, and Tacos de Canasta Acapulco is one of those spots we keep coming back to. It's in the Harvest and Madison area, by the neighborhood Walmart.

@@ -17,6 +17,8 @@ website: "https://lastrojas.com/"
 address: "14739 Hwy 231-431 N, Suite H, Hazel Green, AL 35750"
 seoTitle: "Las Trojas Cantina: Birria in Hazel Green"
 seoDescription: "Birria tacos, birria pizza, carne asada fries and the big Bama margarita at Las Trojas Cantina in Hazel Green. Great for birthdays and large groups."
+price: 2
+phone: "(256) 813-5060"
 ---
 
 We are always down for a margarita at Las Trojas. If you know, you know.

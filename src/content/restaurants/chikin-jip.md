@@ -17,6 +17,7 @@ address: "12120 County Line Rd, Suite A, Madison, AL 35756"
 area: "County Line Rd"
 seoTitle: "Chikin Jip: Korean Fried Chicken in Madison"
 seoDescription: "Spicy yangnyeom boneless chicken with fries and bulgogi fries. Fresh food and friendly service. What to order at Chikin Jip in Madison, AL."
+phone: "(256) 325-3040"
 ---
 
 We tried Chikin Jip in Madison for a birthday, and it delivered. They had recently opened, and we wanted to give this local business a spotlight.

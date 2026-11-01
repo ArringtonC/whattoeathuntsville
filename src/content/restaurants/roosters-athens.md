@@ -17,6 +17,8 @@ address: "125 US-31 S, Athens, AL 35611"
 area: "US-31"
 seoTitle: "Rooster's: Chicken Tenders in Athens, AL"
 seoDescription: "A quick drive-thru stop in Athens: the sauce was the star, then the tenders, fries and sweet tea. A little pricey, but honestly worth it."
+price: 2
+phone: "(256) 230-9001"
 ---
 
 Rooster's in Athens was a quick bite for us. The sauce was the star, with the tenders right behind it, then the fries. The sweet tea was hitting too.

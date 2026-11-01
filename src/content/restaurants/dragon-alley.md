@@ -17,6 +17,8 @@ searchTerms: ["huntsville", "midcity", "asian", "group", "late night", "yaki udo
 address: "1030 Mid City Dr, Huntsville, AL 35806"
 seoTitle: "Dragon Alley: Yaki Udon & Bao in Huntsville"
 seoDescription: "Yaki udon we'd go back for, soft duck bao and earthy cocktails, plus karaoke and a nightly DJ. Our honest review of Dragon Alley in MidCity, Huntsville."
+price: 2
+phone: "(256) 808-0588"
 ---
 
 Everyone's been asking if we've tried Dragon Alley in MidCity, so here's our honest review.

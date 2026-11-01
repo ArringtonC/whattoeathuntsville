@@ -16,6 +16,7 @@ website: "https://tamarindislandgrill.toast.site/"
 address: "5909 University Dr NW, Huntsville, AL 35806"
 seoTitle: "Tamarind Island: Caribbean Food in Huntsville"
 seoDescription: "A Caribbean spot at The Camp in Huntsville with jerk chicken, curry goat, seafood, fish fry and vegan options. Find Tamarind Island on University Drive."
+price: 2
 ---
 
 Tamarind Island is a Caribbean spot at The Camp.

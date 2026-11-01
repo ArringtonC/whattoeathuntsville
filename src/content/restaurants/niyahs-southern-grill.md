@@ -16,6 +16,8 @@ searchTerms: ["huntsville", "soul food", "southern food", "comfort food", "fried
 area: "Jordan Rd"
 seoTitle: "Niyah's Southern Grill: Catfish in Huntsville"
 seoDescription: "Crispy, well-seasoned fried catfish was our favorite, plus porkchop bites, hot wings, queso mac and homemade white sauce at this Huntsville soul food spot."
+price: 2
+phone: "(256) 489-2200"
 ---
 
 Niyah's Southern Grill is a soul food spot in the Buckhorn area off Jordan Road. People told us to try it a few times, so we came hungry.

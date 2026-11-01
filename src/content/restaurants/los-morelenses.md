@@ -17,6 +17,8 @@ address: "30697 Hwy 72 W, Madison, AL 35757"
 area: "Hwy 72 W / Old Railroad Bed"
 seoTitle: "Los Morelenses: Tacos & Quesadillas, Madison"
 seoDescription: "A gas station taqueria off Hwy 72 in Madison worth stopping for: a crispy quesadilla on a corn tortilla, chicken tacos on flour, and green and red sauce."
+price: 1
+phone: "(256) 431-9123"
 ---
 
 We admit we gatekept this one for a while. But Los Morelenses is that good.

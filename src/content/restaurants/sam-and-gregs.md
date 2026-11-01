@@ -17,6 +17,8 @@ website: "https://www.samandgregs.com/"
 address: "116 S Side Sq, Huntsville, AL 35801"
 seoTitle: "Sam & Greg's: Downtown Huntsville Pizza"
 seoDescription: "A downtown Huntsville pizza spot on the square. Our pick is the sweet and spicy BBQ pizza, and you won't regret it. What to order at Sam & Greg's Pizzeria."
+price: 2
+phone: "(256) 469-6932"
 ---
 
 Sam & Greg's is a downtown pizza spot. Try the sweet and spicy BBQ pizza. You won't regret it.

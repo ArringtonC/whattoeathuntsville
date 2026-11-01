@@ -17,6 +17,8 @@ address: "11544 Memorial Pkwy SW, Huntsville, AL 35803"
 area: "South Huntsville"
 seoTitle: "City Barbeque: Wings & BBQ in Huntsville"
 seoDescription: "Smoky wings, mac and cheese with a real cheese pull, and meaty green beans, about $32 for two. What to order at City Barbeque in South Huntsville."
+price: 2
+phone: "(256) 210-1089"
 ---
 
 City Barbeque recently opened in South Huntsville, and they invited us in to try it. It's their first location in Alabama. The staff kept saying "more cowbell," and as a Mississippi State girl, Michaela couldn't ignore that.

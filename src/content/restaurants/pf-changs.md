@@ -17,6 +17,8 @@ website: "https://www.pfchangs.com/"
 address: "305 The Bridge St, Suite 101, Huntsville, AL 35806"
 seoTitle: "P.F. Chang's: Chinese at Bridge Street"
 seoDescription: "We worked through seven dishes at P.F. Chang's at Bridge Street Town Centre in Huntsville. Order the spicy chicken and garlic noodles. Good for groups."
+price: 2
+phone: "(256) 327-8320"
 ---
 
 We spent some time at P.F. Chang's at Bridge Street and worked our way through seven items on the menu. Among them were the spicy chicken and the garlic noodles.

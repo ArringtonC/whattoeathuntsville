@@ -16,6 +16,8 @@ address: "6610 Old Madison Pike Unit 109, Huntsville, AL 35806"
 area: "Old Madison Pike"
 seoTitle: "West End Grill: Wings in Huntsville"
 seoDescription: "A Huntsville staple and cheap date: lemon pepper and Jamaican jerk wings, a juicy patty melt and homemade ranch, all under $60. What to order here."
+price: 2
+phone: "(256) 722-8040"
 ---
 
 West End Grill is a Huntsville staple and a great cheap date. They've been around a while, and we admit we'd been sleeping on them. If you've lived here a while and still haven't been, we think it's worth a visit.

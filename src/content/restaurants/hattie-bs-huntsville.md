@@ -17,6 +17,8 @@ address: "3212 Memorial Pkwy SW, Huntsville, AL 35801"
 area: "Memorial Pkwy (Stadium Commons)"
 seoTitle: "Hattie B's: Nashville Hot Chicken, Huntsville"
 seoDescription: "Nashville hot chicken in Huntsville: medium hot tenders and wings, Dirty Bird Fries and the Poppy Seed Grilled Chicken Salad. Tastes like the original."
+price: 2
+phone: "(256) 690-0300"
 ---
 
 We already love the Nashville locations, so we were excited to finally try Hattie B's here in Huntsville. We were a little worried it would not compare. It does.

@@ -16,6 +16,8 @@ searchTerms: ["huntsville", "stovehouse", "breakfast", "blt crepe", "morning foo
 address: "3414 Governors Dr SW, Suite 520, Huntsville, AL 35805"
 seoTitle: "Oh Crepe!: Savory Crepes at Stovehouse"
 seoDescription: "Crepes inside Stovehouse in Huntsville. We tried the BLT crepe, a savory crepe with bacon. Dessert crepes, gluten-free options and shaved ice are here too."
+price: 2
+phone: "(256) 678-7032"
 ---
 
 Oh Crepe! is inside Stovehouse. We tried the BLT crepe, a savory crepe with bacon.

@@ -16,6 +16,8 @@ website: "https://www.superchix.com"
 address: "100 Moon Shot Dr, Suite 100, Madison, AL 35758"
 seoTitle: "Super Chix: Chicken Tenders in Madison"
 seoDescription: "Big portions by Toyota Field: crispy chicken tenders, a buffalo chicken sandwich, and loaded fries with bacon and queso. Our take on Super Chix in Madison."
+price: 2
+phone: "(256) 325-4063"
 ---
 
 Super Chix did not disappoint. We hit the Madison spot by Toyota Field after a big day out, and let's just say a walk after the meal was necessary.
