@@ -1,6 +1,6 @@
 ---
 import '../styles/global.css';
-import { SITE } from '../lib/site';
+import { ADSENSE_CLIENT, SITE } from '../lib/site';
 
 interface Props { title?: string; description?: string; image?: string }
 const { title, description = 'Honest restaurant picks in Huntsville, Madison, and beyond. What to order and where to go.', image } = Astro.props;
@@ -33,6 +33,7 @@ const preview = import.meta.env.PUBLIC_SHOW_DRAFTS === 'true';
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,400..600&display=swap" rel="stylesheet" />
 {preview && <meta name="robots" content="noindex, nofollow" />}
 <slot name="head" />
+<script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`} crossorigin="anonymous"></script>
 </head>
 <body>
 {preview && <div style="background: var(--ink); color: #fff; font-size: 13px; font-weight: 600; text-align: center; padding: 8px 16px;">Preview · Our Great and Good labels are coming soon · Forms open at launch</div>}
