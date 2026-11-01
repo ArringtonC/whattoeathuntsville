@@ -9,7 +9,7 @@ tags: ["wings", "burgers", "happy hour", "sandwiches", "mac and cheese", "barbec
 label: none
 alsoOrder: [{"name": "Winter Burger (daily special)"}, {"name": "Mild buffalo wings"}]
 lastVerified: 2026-02-03
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "midcity", "bbq", "smoked meat", "chicken wings", "wing spot", "casual"]

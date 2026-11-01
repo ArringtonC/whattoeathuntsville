@@ -10,7 +10,7 @@ tags: ["breakfast", "Black-owned", "Philly cheesesteak", "lemonade", "cajun frie
 label: none
 bestDish: {"name": "Philly cheesesteak", "note": "House-made cheese whiz"}
 lastVerified: 2025-02-26
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "nails gas station", "sandwiches", "quick lunch", "cheesesteak", "philly", "fast lunch"]
 website: "https://capsphillycheesest.wixsite.com/welcome"

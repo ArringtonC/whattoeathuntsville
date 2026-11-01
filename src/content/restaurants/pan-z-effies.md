@@ -9,7 +9,7 @@ label: none
 bestDish: {"name": "Fried catfish", "note": "1000/10. Open Wednesday to Saturday after 4pm."}
 alsoOrder: [{"name": "Ribs"}, {"name": "Bell Dog", "note": "Loaded with peppers, onions, and ground beef"}]
 lastVerified: 2026-04-09
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "soul food", "fried catfish", "southern food", "comfort food", "fried fish", "fish plate", "chicken wings", "wing spot"]

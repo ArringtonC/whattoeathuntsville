@@ -8,7 +8,7 @@ tags: ["fries", "salads", "gyros", "falafel", "hummus", "baklava", "greek", "veg
 label: none
 alsoOrder: [{"name": "Salad"}, {"name": "Fries"}]
 lastVerified: 2025-03-03
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "mediterranean", "gyro", "greek food", "mediterranean food", "quick lunch"]

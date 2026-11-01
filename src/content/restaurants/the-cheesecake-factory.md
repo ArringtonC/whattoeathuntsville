@@ -10,7 +10,7 @@ tags: ["brunch", "dessert", "happy hour", "steak", "pasta", "cheesecake", "Cajun
 label: none
 alsoOrder: [{"name": "Louisiana Chicken Pasta (extra sauce)"}, {"name": "Cajun Salmon"}]
 lastVerified: 2026-10-08
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "bridge street town centre", "american", "group", "family"]
 website: "https://locations.thecheesecakefactory.com/al/huntsville-217.html"

@@ -9,7 +9,7 @@ tags: ["wings", "burgers", "catfish", "late night", "fries", "lemon pepper wings
 label: none
 bestDish: {"name": "Hot honey + hot lemon pepper wings", "note": "With cajun fries"}
 lastVerified: 2025-03-25
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "hot honey + hot lemon pepper wings", "chicken wings", "wing spot", "lemon pepper", "lemon pepper chicken"]

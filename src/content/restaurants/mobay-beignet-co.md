@@ -8,7 +8,7 @@ coverFocus: center
 tags: ["burgers", "coffee", "beignets", "chicken fingers", "frappes", "cold brew"]
 label: none
 lastVerified: 2025-07-03
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "monrovia (jeff rd)", "sweet treats", "dessert", "bakery", "sweets"]

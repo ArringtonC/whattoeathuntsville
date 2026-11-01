@@ -10,7 +10,7 @@ tags: ["cocktails", "happy hour", "dumplings", "noodles", "chinese", "lettuce wr
 label: none
 alsoOrder: [{"name": "Spicy chicken"}, {"name": "Garlic noodles"}]
 lastVerified: 2025-10-25
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "bridge street town centre", "asian", "group", "asian food"]
 website: "https://www.pfchangs.com/"

@@ -8,7 +8,7 @@ tags: ["ramen", "dumplings", "katsu", "udon", "curry", "fried rice", "vegetarian
 label: none
 alsoOrder: [{"name": "Fried gyoza"}, {"name": "Chicken katsu"}, {"name": "Spicy tonkotsu ramen with chicken"}]
 lastVerified: 2025-04-16
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["madison", "asian", "asian food", "noodle soup"]

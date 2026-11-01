@@ -9,7 +9,7 @@ label: none
 bestDish: {"name": "Chocolate cake bites", "note": "My favorite"}
 alsoOrder: [{"name": "Cookies & Cream"}, {"name": "Vanilla"}]
 lastVerified: 2025-05-14
-draft: true
+draft: false
 occasions: []
 status: closed
 searchTerms: ["huntsville", "sweet treats", "chocolate cake bites", "dessert", "bakery", "sweets", "cakes", "cake bites", "bakery desserts"]

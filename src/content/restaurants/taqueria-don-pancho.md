@@ -10,7 +10,7 @@ label: none
 bestDish: {"name": "Birria tacos"}
 alsoOrder: [{"name": "Torta mamalona"}, {"name": "Steak & chicken tacos"}]
 lastVerified: 2025-06-07
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["madison", "mexican", "birria tacos", "mexican food", "quesabirria", "taco"]

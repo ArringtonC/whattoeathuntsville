@@ -11,7 +11,7 @@ label: none
 bestDish: {"name": "Philly Cheesesteak Pizza", "note": "Alfredo base; add jalape\u00f1os"}
 alsoOrder: [{"name": "Italian club, loaded"}]
 lastVerified: 2026-04-21
-draft: true
+draft: false
 status: open
 searchTerms: ["madison", "old railroad bed & capshaw", "sandwiches", "sweet treats", "late night", "family", "philly cheesesteak pizza", "dessert", "bakery", "sweets", "cheesesteak", "philly", "late night food"]
 website: "https://scoopslicecafe.com/"

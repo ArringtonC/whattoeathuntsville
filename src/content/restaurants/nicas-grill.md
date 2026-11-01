@@ -8,7 +8,7 @@ tags: ["food truck", "fries", "Philly cheesesteak", "quesadillas", "loaded fries
 label: none
 alsoOrder: [{"name": "Loaded fries"}]
 lastVerified: 2025-05-02
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "latin", "cheesesteak", "philly", "mobile food"]

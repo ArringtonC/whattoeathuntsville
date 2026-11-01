@@ -8,7 +8,7 @@ tags: ["breakfast", "coffee", "drive-thru", "beignets", "mimosas", "matcha", "ic
 label: none
 alsoOrder: [{"name": "Caramel latte"}, {"name": "Beignets with chocolate sauce"}]
 lastVerified: 2025-04-15
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["madison", "sweet treats", "dessert", "bakery", "sweets"]

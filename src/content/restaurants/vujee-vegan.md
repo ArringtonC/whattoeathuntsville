@@ -9,7 +9,7 @@ label: none
 bestDish: {"name": "Chili", "note": "5 stars"}
 alsoOrder: [{"name": "Cheeze burger"}, {"name": "Philly egg rolls"}, {"name": "Chick'n nuggets"}, {"name": "Buffalo chick'n sandwich"}]
 lastVerified: 2026-02-25
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "chili", "plant based", "plant-based", "cheesesteak", "philly"]

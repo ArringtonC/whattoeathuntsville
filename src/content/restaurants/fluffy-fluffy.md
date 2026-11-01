@@ -9,7 +9,7 @@ tags: ["brunch", "dessert", "coffee", "cheesecake", "pancakes", "matcha", "souff
 label: none
 alsoOrder: [{"name": "Matcha pancake + latte combo"}]
 lastVerified: 2025-10-27
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "sweet treats", "breakfast", "brunch", "dessert", "bakery", "sweets", "morning food", "weekend brunch"]
 website: "https://www.fluffyfluffy.com"

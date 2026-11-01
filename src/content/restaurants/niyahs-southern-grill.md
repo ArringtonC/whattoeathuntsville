@@ -9,7 +9,7 @@ tags: ["wings", "catfish", "Black-owned", "fries", "mac and cheese", "baked bean
 label: none
 alsoOrder: [{"name": "Fried catfish"}, {"name": "Porkchop bites"}, {"name": "Hot wings"}, {"name": "Baked beans"}, {"name": "Queso mac"}, {"name": "Homemade white sauce"}]
 lastVerified: 2025-05-06
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "soul food", "southern food", "comfort food", "fried fish", "fish plate", "chicken wings", "wing spot", "mac n cheese", "macaroni and cheese"]

@@ -8,7 +8,7 @@ tags: ["Black-owned", "cookies", "gluten-free options", "farmers market"]
 label: none
 alsoOrder: [{"name": "Cinnamon sparkle cookie"}, {"name": "Chocolate lava cookie"}, {"name": "Chocolate strawberry cookie"}, {"name": "Velvet dreams cookie"}]
 lastVerified: 2026-02-08
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "sweet treats", "dessert", "bakery", "sweets", "gluten free"]

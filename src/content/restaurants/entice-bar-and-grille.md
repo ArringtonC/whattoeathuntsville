@@ -10,7 +10,7 @@ tags: ["tacos", "wings", "cocktails", "late night", "happy hour", "budget-friend
 label: none
 bestDish: {"name": "Wings", "note": "50-cent wings on Wednesdays (order at least 10), happy hour until 8pm"}
 lastVerified: 2026-09-28
-draft: true
+draft: false
 status: open
 searchTerms: ["madison", "university dr", "american", "group", "late night", "chicken wings", "wing spot", "late night food"]
 website: "https://www.facebook.com/p/Entice-Bar-Grill-61564983720132/"

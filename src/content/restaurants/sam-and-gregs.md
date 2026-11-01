@@ -9,7 +9,7 @@ tags: ["pizza", "patio", "gelato", "craft beer", "dog-friendly", "gluten-free op
 label: none
 bestDish: {"name": "Sweet & spicy BBQ pizza"}
 lastVerified: 2023-02-14
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "downtown", "sweet & spicy bbq pizza"]

@@ -8,7 +8,7 @@ tags: ["pho", "dumplings", "Vietnamese", "spring rolls", "lemongrass chicken", "
 label: none
 alsoOrder: [{"name": "Chicken gyoza"}, {"name": "Spring rolls"}, {"name": "Chicken pho"}, {"name": "Lemongrass chicken (spicy)"}]
 lastVerified: 2025-04-10
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["madison", "asian", "asian food", "vietnamese noodle soup"]

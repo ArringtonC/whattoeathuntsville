@@ -9,7 +9,7 @@ tags: ["wings", "catfish", "drive-thru", "fries", "chicken tenders", "fried pick
 label: none
 alsoOrder: [{"name": "Tenders"}, {"name": "Fries"}, {"name": "Sweet tea"}]
 lastVerified: 2026-04-05
-draft: true
+draft: false
 status: open
 searchTerms: ["athens", "chicken", "quick lunch", "fast lunch"]
 website: "https://roostersinathens.com/"

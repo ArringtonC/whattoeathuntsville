@@ -8,7 +8,7 @@ tags: ["wings", "pizza", "burgers", "lemon pepper wings", "Philly cheesesteak", 
 label: none
 bestDish: {"name": "Wings", "note": "Some of the best wings in Huntsville"}
 lastVerified: 2025-11-30
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "mediterranean", "chicken wings", "wing spot", "gyro", "greek food"]

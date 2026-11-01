@@ -10,7 +10,7 @@ tags: ["tacos", "birria", "steak", "nachos", "quesadillas", "gorditas", "tacos d
 label: none
 alsoOrder: [{"name": "Chicken gorditas"}, {"name": "Steak tacos"}]
 lastVerified: 2026-09-18
-draft: true
+draft: false
 status: open
 searchTerms: ["madison", "mexican", "cheap eats", "quick lunch", "mexican food", "taco", "budget friendly", "affordable", "fast lunch"]
 website: "https://www.tacosdecanastaacapulco.com/"

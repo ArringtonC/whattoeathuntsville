@@ -8,7 +8,7 @@ tags: ["tacos", "birria", "fish tacos", "california burrito", "carne asada fries
 label: none
 bestDish: {"name": "Fish taco"}
 lastVerified: 2025-11-21
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "mexican", "fish taco", "mexican food", "taco"]

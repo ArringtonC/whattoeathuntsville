@@ -11,7 +11,7 @@ label: none
 bestDish: {"name": "Yaki udon", "note": "We'd go back just for this"}
 alsoOrder: [{"name": "Drinks", "note": "Not your typical flavors"}]
 lastVerified: 2026-03-24
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "midcity", "asian", "group", "late night", "yaki udon", "asian food", "late night food", "bao buns", "group dining"]
 address: "1030 Mid City Dr, Huntsville, AL 35806"

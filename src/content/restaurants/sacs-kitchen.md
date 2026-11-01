@@ -8,7 +8,7 @@ tags: ["wings", "catfish", "Black-owned", "fries", "mac and cheese", "green bean
 label: none
 alsoOrder: [{"name": "Hot wings & fries"}]
 lastVerified: 2025-03-12
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "comfort food", "fried fish", "fish plate", "chicken wings", "wing spot", "mac n cheese", "macaroni and cheese", "casual"]

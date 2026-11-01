@@ -8,7 +8,7 @@ coverFocus: center
 tags: ["brunch", "breakfast", "vegan", "Black-owned", "sandwiches", "waffles", "gluten-free options"]
 label: none
 lastVerified: 2023-02-28
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "brunch", "plant based", "plant-based", "weekend brunch"]
 ---

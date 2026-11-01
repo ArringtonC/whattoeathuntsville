@@ -9,7 +9,7 @@ tags: ["wings", "catfish", "Black-owned", "late night", "happy hour", "drink spe
 label: none
 alsoOrder: [{"name": "Catfish"}, {"name": "Wings"}]
 lastVerified: 2026-06-04
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "soul food", "late night", "group", "southern food", "comfort food", "chicken wings", "wing spot", "fried fish", "fish plate", "late night food"]
 website: "https://thespothsv.com/"

@@ -10,7 +10,7 @@ tags: ["tacos", "birria", "pizza", "margaritas", "fries", "quesadillas", "carne 
 label: none
 alsoOrder: [{"name": "Birria pizza"}, {"name": "Carne asada fries"}, {"name": "Margaritas"}]
 lastVerified: 2025-08-26
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "hazel green and university dr", "mexican", "group", "birthday", "mexican food", "birria tacos", "quesabirria"]
 website: "https://lastrojas.com/"

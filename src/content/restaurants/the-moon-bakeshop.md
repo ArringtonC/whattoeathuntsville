@@ -9,7 +9,7 @@ tags: ["coffee", "cookies", "cinnamon rolls", "croissants", "cruffins", "custom 
 label: none
 alsoOrder: [{"name": "Cinnamon roll"}, {"name": "Chocolate chip cookies"}]
 lastVerified: 2023-03-22
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "downtown", "sweet treats", "dessert", "bakery", "sweets"]

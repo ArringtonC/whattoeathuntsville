@@ -3,7 +3,7 @@ title: "Our favorites of 2025"
 dek: "The Huntsville spots we kept going back to this year, in no particular order."
 city: Huntsville
 updated: 2026-10-31
-draft: true
+draft: false
 entries:
   - { restaurant: wings-and-gyros, why: "Our go-to wing spot. Some of the best wings in Huntsville.", dish: "Wings" }
   - { restaurant: mozza-pizza, why: "Top 3 pizza in Huntsville for us. Good prices, nice servers." }

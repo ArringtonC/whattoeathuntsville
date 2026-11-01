@@ -10,7 +10,7 @@ label: none
 bestDish: {"name": "Hot Honey Meatball Pizza", "note": "This was the one"}
 alsoOrder: [{"name": "Caesar Salad"}, {"name": "Fettuccine Alfredo"}]
 lastVerified: 2026-04-04
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "italian", "date night", "group", "hot honey meatball pizza", "romantic dinner"]
 address: "3414 Governors Dr SW Ste 705, Huntsville, AL 35805"

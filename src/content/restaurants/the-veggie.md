@@ -7,7 +7,7 @@ coverFocus: center
 tags: ["vegan", "Black-owned", "salads", "vegan burgers", "po boys", "bowls", "catering"]
 label: none
 lastVerified: 2023-08-03
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "plant based", "plant-based"]

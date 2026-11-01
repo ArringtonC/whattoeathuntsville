@@ -9,7 +9,7 @@ label: none
 bestDish: {"name": "Fried catfish", "note": "The best fried catfish in Huntsville, in our opinion"}
 alsoOrder: [{"name": "Loaded buffalo fries"}, {"name": "Rooftop fries"}]
 lastVerified: 2025-03-01
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "seafood", "soul food", "fried catfish", "southern food", "comfort food", "fried fish", "fish plate", "barbecue", "bbq", "casual"]

@@ -9,7 +9,7 @@ coverFocus: center
 tags: ["brunch", "happy hour", "steak", "chicken parmesan", "salmon", "seafood", "wine", "gluten-free options"]
 label: none
 lastVerified: 2026-02-13
-draft: true
+draft: false
 status: open
 searchTerms: ["madison", "clift farm", "american", "date night", "group", "birthday", "romantic dinner"]
 website: "https://chwinery.com/"

@@ -10,7 +10,7 @@ label: none
 bestDish: {"name": "Chicken pho, made angry (spicy)", "note": "Our forever favorite"}
 alsoOrder: [{"name": "Fried spring rolls"}, {"name": "Pork dumplings"}]
 lastVerified: 2026-03-18
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "asian", "cheap eats", "chicken pho", "made angry (spicy)", "asian food", "vietnamese noodle soup", "budget friendly", "affordable", "beef pho", "vermicelli bowls", "boba tea", "vietnamese coffee", "casual", "quick lunch", "takeout"]
 address: "975 Airport Rd SW, Huntsville, AL 35802"

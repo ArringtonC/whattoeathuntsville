@@ -10,7 +10,7 @@ tags: ["food truck", "dumplings", "teriyaki", "hibachi", "shrimp", "covered pati
 label: none
 alsoOrder: [{"name": "Fried gyoza"}, {"name": "Chicken teriyaki with rice"}]
 lastVerified: 2025-05-20
-draft: true
+draft: false
 status: open
 searchTerms: ["madison", "capshaw & wall triana", "asian", "quick lunch", "asian food", "fast lunch", "mobile food"]
 ---

@@ -10,7 +10,7 @@ label: none
 bestDish: {"name": "Loaded baked potato with brisket"}
 alsoOrder: [{"name": "Wings"}]
 lastVerified: 2025-02-28
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["madison", "harvest (nick davis rd)", "bbq", "loaded baked potato with brisket", "barbecue", "smoked meat", "chicken wings", "wing spot", "loaded potato"]

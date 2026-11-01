@@ -9,7 +9,7 @@ coverFocus: center
 tags: ["burgers", "breakfast", "food truck", "sandwiches", "biscuits", "specialty sodas", "lunch", "early morning"]
 label: none
 lastVerified: 2025-07-08
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "moores mill rd", "brunch", "morning food", "weekend brunch", "mobile food"]
 website: "https://thebiscuitexpress.com/"

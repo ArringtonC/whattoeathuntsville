@@ -8,7 +8,7 @@ tags: ["wings", "pizza", "salads", "pasta", "neapolitan pizza", "wood-fired", "g
 label: none
 bestDish: {"name": "Honey Hot Pizza"}
 lastVerified: 2026-01-12
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["atlanta", "honey hot pizza"]

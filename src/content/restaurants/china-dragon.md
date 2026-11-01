@@ -9,7 +9,7 @@ tags: ["lo mein", "General Tso's", "sesame chicken", "Chinese", "fried rice", "e
 label: none
 alsoOrder: [{"name": "General Tso's or sesame chicken"}, {"name": "Lo mein"}]
 lastVerified: 2025-03-07
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "asian", "cheap eats", "asian food", "budget friendly", "affordable"]
 ---

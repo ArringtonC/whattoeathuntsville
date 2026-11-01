@@ -8,7 +8,7 @@ tags: ["wings", "catfish", "food truck", "fries", "lemon pepper wings", "hot hon
 label: none
 alsoOrder: [{"name": "Fried wings"}]
 lastVerified: 2025-04-04
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "chicken wings", "wing spot", "fried fish", "fish plate", "lemon pepper", "lemon pepper chicken"]

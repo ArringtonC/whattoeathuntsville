@@ -9,7 +9,7 @@ label: none
 bestDish: {"name": "Pork taco", "note": "Juicy, with pickled onions"}
 alsoOrder: [{"name": "Chicken taco"}, {"name": "Fish taco"}, {"name": "Lime margarita"}]
 lastVerified: 2026-04-02
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "mexican", "pork taco", "mexican food", "taco", "crispy fish tacos", "pork tacos", "shrimp tacos", "broccoli tacos", "mushroom tacos", "quesadillas", "queso", "outdoor dining", "casual", "group dining"]

@@ -7,7 +7,7 @@ coverFocus: center
 tags: ["catfish", "Black-owned", "Cajun", "Creole", "po boys", "gumbo", "jambalaya", "boudin balls", "shrimp and grits", "veteran-owned"]
 label: none
 lastVerified: 2025-04-29
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "fried fish", "fish plate"]

@@ -9,7 +9,7 @@ tags: ["tacos", "birria", "margaritas", "patio", "nachos", "quesadillas", "burri
 label: none
 alsoOrder: [{"name": "Birria quesadilla"}, {"name": "Birria tacos"}, {"name": "Margaritas"}]
 lastVerified: 2025-04-10
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "mexican", "group", "mexican food", "birria tacos", "quesabirria", "taco"]
 ---

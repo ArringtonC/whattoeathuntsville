@@ -9,7 +9,7 @@ tags: ["wings", "burgers", "brunch", "budget-friendly", "steak", "lemon pepper w
 label: none
 alsoOrder: [{"name": "Galaxy Lemonade"}, {"name": "Loaded potato skins"}]
 lastVerified: 2026-05-12
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "american", "group", "chicken wings", "wing spot", "lemon pepper", "lemon pepper chicken", "loaded potato"]
 address: "6610 Old Madison Pike Unit 109, Huntsville, AL 35806"

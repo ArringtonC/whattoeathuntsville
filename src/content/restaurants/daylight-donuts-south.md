@@ -8,7 +8,7 @@ coverFocus: center
 tags: ["breakfast", "coffee", "donuts"]
 label: none
 lastVerified: 2025-11-13
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "south huntsville", "sweet treats", "breakfast", "dessert", "bakery", "sweets", "morning food"]

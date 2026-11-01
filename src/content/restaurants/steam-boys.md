@@ -9,7 +9,7 @@ tags: ["burgers", "dumplings", "bao", "bao buns", "popcorn chicken", "boba", "bo
 label: none
 alsoOrder: [{"name": "Popcorn chicken"}, {"name": "Gua bao"}, {"name": "Pan-seared beef bao"}, {"name": "Pan-seared cheeseburger dumplings"}, {"name": "Passion fruit boba tea"}]
 lastVerified: 2026-03-02
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["madison", "clift farm", "asian", "asian food", "bubble tea"]

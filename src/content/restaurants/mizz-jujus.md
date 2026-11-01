@@ -9,7 +9,7 @@ label: none
 bestDish: {"name": "Fried chicken sandwich"}
 alsoOrder: [{"name": "Hot lemon pepper wings"}, {"name": "Honey gold wings"}]
 lastVerified: 2025-03-09
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "soul food", "chicken", "fried chicken sandwich", "southern food", "comfort food", "chicken wings", "wing spot", "lemon pepper", "lemon pepper chicken"]

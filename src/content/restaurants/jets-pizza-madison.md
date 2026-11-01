@@ -9,7 +9,7 @@ tags: ["wings", "pizza", "cookies", "salads", "deep dish pizza", "detroit-style 
 label: none
 alsoOrder: [{"name": "4 Corner Deep Dish"}]
 lastVerified: 2026-07-12
-draft: true
+draft: false
 status: open
 searchTerms: ["madison", "family", "chicken wings", "wing spot"]
 website: "https://www.jetspizza.com/stores/alabama/madison/1079-balch-rd-suite-i/"

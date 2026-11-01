@@ -8,7 +8,7 @@ tags: ["Black-owned", "fries", "sandwiches", "mac and cheese", "baked beans", "r
 label: none
 bestDish: {"name": "Pork sandwich plate", "note": "Best pork sandwich in Huntsville"}
 lastVerified: 2025-05-30
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "bbq", "pork sandwich plate", "barbecue", "smoked meat", "mac n cheese", "macaroni and cheese"]

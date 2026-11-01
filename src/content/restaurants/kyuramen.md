@@ -9,7 +9,7 @@ tags: ["ramen", "dumplings", "lemonade", "yakitori", "popcorn chicken", "tiramis
 label: none
 alsoOrder: [{"name": "Kyushu Spicy Tonkotsu Ramen (extra hot)"}, {"name": "Yakitori Platter"}, {"name": "Popcorn Chicken"}, {"name": "Matcha Tiramisu"}, {"name": "S'mores Tiramisu"}]
 lastVerified: 2026-05-22
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "asian", "date night", "asian food", "noodle soup", "romantic dinner"]
 website: "https://www.kyuramen.com"

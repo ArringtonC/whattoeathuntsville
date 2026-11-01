@@ -9,7 +9,7 @@ label: none
 bestDish: {"name": "Birria tacos", "note": "The star of the show"}
 alsoOrder: [{"name": "Birria quesadilla"}, {"name": "Steak taco"}, {"name": "Chicken taco"}]
 lastVerified: 2025-03-27
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["madison", "mexican", "birria tacos", "mexican food", "quesabirria", "taco"]

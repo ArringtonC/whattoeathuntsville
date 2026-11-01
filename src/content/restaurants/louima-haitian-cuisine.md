@@ -9,7 +9,7 @@ tags: ["fried chicken", "food truck", "mac and cheese", "jerk chicken", "Haitian
 label: none
 alsoOrder: [{"name": "Vegetable Stew"}, {"name": "Spicy fried pork"}]
 lastVerified: 2026-07-29
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "caribbean", "quick lunch", "chicken", "mac n cheese", "macaroni and cheese", "fast lunch", "mobile food"]
 ---

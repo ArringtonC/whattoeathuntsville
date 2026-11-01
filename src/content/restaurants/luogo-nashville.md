@@ -9,7 +9,7 @@ coverFocus: center
 tags: ["pizza", "cocktails", "pasta", "ribs", "meatballs", "gelato", "cannoli", "short rib"]
 label: none
 lastVerified: 2025-03-10
-draft: true
+draft: false
 status: open
 searchTerms: ["nashville", "downtown", "italian", "date night", "romantic dinner"]
 website: "https://www.luogorestaurant.com/"

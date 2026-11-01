@@ -10,7 +10,7 @@ tags: ["fries", "sandwiches", "chicken sandwich", "Cajun", "subs", "cuban sandwi
 label: none
 bestDish: {"name": "Hot cajun chicken sandwich"}
 lastVerified: 2026-01-20
-draft: true
+draft: false
 status: open
 searchTerms: ["madison", "county line rd", "quick lunch", "hot cajun chicken sandwich", "fast lunch"]
 website: "https://www.jonsmithsubs.com"

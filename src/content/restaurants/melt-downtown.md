@@ -10,7 +10,7 @@ tags: ["burgers", "fried chicken", "brunch", "fries", "sandwiches", "mac and che
 label: none
 alsoOrder: [{"name": "Tater tots"}, {"name": "Mac & cheese egg rolls"}, {"name": "Mimosa pitchers"}]
 lastVerified: 2025-04-26
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "downtown", "american", "brunch", "group", "chicken", "mac n cheese", "macaroni and cheese", "weekend brunch"]
 address: "201 Jefferson St N Ste I, Huntsville, AL 35801"

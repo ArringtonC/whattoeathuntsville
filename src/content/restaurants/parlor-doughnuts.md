@@ -8,7 +8,7 @@ tags: ["pizza", "breakfast", "coffee", "donuts", "breakfast tacos", "acai bowl",
 label: none
 alsoOrder: [{"name": "Buffalo Chicken pizza doughnut"}, {"name": "Chicken Bacon Ranch pizza doughnut"}, {"name": "OG Pepperoni pizza doughnut"}]
 lastVerified: 2026-04-07
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "sweet treats", "dessert", "bakery", "sweets"]

@@ -9,7 +9,7 @@ tags: ["dessert", "cookies", "cheesecake", "cake", "cupcakes", "charcuterie", "c
 label: none
 alsoOrder: [{"name": "Chocolate Overload Cupcake"}, {"name": "Biscoff Cheesecake"}]
 lastVerified: 2025-03-20
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "stovehouse", "sweet treats", "dessert", "bakery", "sweets"]

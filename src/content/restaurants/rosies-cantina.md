@@ -8,7 +8,7 @@ tags: ["tacos", "margaritas", "happy hour", "nachos", "fajitas", "queso", "enchi
 label: none
 alsoOrder: [{"name": "Nachos"}, {"name": "Margarita"}]
 lastVerified: 2025-04-23
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "mexican", "mexican food", "tex mex", "family dining"]

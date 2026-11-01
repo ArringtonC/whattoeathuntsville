@@ -10,7 +10,7 @@ tags: ["tacos", "birria", "margaritas", "budget-friendly", "fish tacos", "quesad
 label: none
 alsoOrder: [{"name": "House margaritas"}, {"name": "Tableside guacamole"}]
 lastVerified: 2026-07-02
-draft: true
+draft: false
 status: open
 searchTerms: ["madison", "clift farm", "mexican", "group", "mexican food", "taco"]
 ---

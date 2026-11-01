@@ -10,7 +10,7 @@ tags: ["pizza", "brunch", "cocktails", "happy hour", "hot honey", "pasta", "fett
 label: none
 alsoOrder: [{"name": "Truffle Garlic Bread"}, {"name": "Margherita Pizza"}, {"name": "Tripoline Alfredo"}, {"name": "Tiramisu"}]
 lastVerified: 2026-10-25
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "bridge street town centre", "italian", "date night", "group", "romantic dinner"]
 website: "https://www.northitalia.com/locations/huntsville/"

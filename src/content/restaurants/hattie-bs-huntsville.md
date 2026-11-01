@@ -8,7 +8,7 @@ tags: ["wings", "fries", "mac and cheese", "salads", "baked beans", "chicken san
 label: none
 alsoOrder: [{"name": "Medium hot wings"}, {"name": "Medium hot chicken tenders"}, {"name": "Dirty Bird Fries"}, {"name": "Poppy Seed Grilled Chicken"}]
 lastVerified: 2026-03-14
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "chicken", "chicken wings", "wing spot"]

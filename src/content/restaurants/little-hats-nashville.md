@@ -9,7 +9,7 @@ tags: ["pasta", "chicken parmesan", "meatballs", "ravioli", "subs", "gluten-free
 label: none
 alsoOrder: [{"name": "Fried ravioli"}, {"name": "Chicken parmigiana"}]
 lastVerified: 2025-02-25
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["nashville", "germantown", "italian", "sandwiches", "gluten free"]

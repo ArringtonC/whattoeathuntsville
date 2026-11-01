@@ -9,7 +9,7 @@ tags: ["mac and cheese", "ribs", "loaded baked potato", "loaded potatoes", "pull
 label: none
 bestDish: {"name": "Loaded potato with pulled chicken or pork", "note": "Two Potato Tuesdays: 2 loaded potatoes for $16"}
 lastVerified: 2026-07-14
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "bbq", "cheap eats", "loaded potato with pulled chicken or pork", "barbecue", "smoked meat", "loaded potato", "budget friendly", "affordable"]
 website: "https://www.lawlersbarbecue.com/"

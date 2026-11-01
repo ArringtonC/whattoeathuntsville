@@ -9,7 +9,7 @@ tags: ["tacos", "breakfast", "quesadillas", "shredded chicken", "burritos", "tor
 label: none
 bestDish: {"name": "Shredded chicken tacos"}
 lastVerified: 2025-06-25
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["madison", "harvest", "mexican", "shredded chicken tacos", "mexican food", "taco"]

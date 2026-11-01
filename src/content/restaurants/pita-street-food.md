@@ -9,7 +9,7 @@ tags: ["fries", "steak", "lemonade", "gyros", "pita", "falafel", "hummus", "shaw
 label: none
 alsoOrder: [{"name": "Grilled chicken gyro combo with fries"}, {"name": "Steak fries"}, {"name": "Raspberry lemonade"}]
 lastVerified: 2025-04-03
-draft: true
+draft: false
 status: open
 searchTerms: ["madison", "mediterranean", "quick lunch", "gyro", "greek food", "fast lunch"]
 website: "https://pitastreetfood.com/"

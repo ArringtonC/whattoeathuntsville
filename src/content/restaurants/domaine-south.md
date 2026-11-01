@@ -9,7 +9,7 @@ coverFocus: center
 tags: ["burgers", "dessert", "cocktails", "fries", "sandwiches", "steak", "salads", "salmon", "wine", "charcuterie", "cheese boards"]
 label: none
 lastVerified: 2025-03-05
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "downtown", "american", "date night", "romantic dinner", "charcuterie", "cheese board", "duck fat fries", "tiramisu", "outdoor dining", "wine bar"]
 address: "200 West Side Square, Huntsville, AL 35801"

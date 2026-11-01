@@ -10,7 +10,7 @@ tags: ["smoothies", "acai bowls", "pitaya bowls", "coconut bowls", "juice", "cha
 label: none
 alsoOrder: [{"name": "Acai Nutella Bowl"}, {"name": "Aloha Smoothie"}, {"name": "Mermaid Fuel juice"}]
 lastVerified: 2025-09-18
-draft: true
+draft: false
 status: open
 searchTerms: ["madison", "clift farm", "breakfast", "quick lunch", "morning food", "fast lunch"]
 website: "https://www.playabowls.com/location/madison"

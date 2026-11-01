@@ -8,7 +8,7 @@ coverFocus: center
 tags: ["wings", "pizza", "pasta", "new york style pizza", "gluten-free options", "calzones", "cannoli"]
 label: none
 lastVerified: 2025-08-11
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville"]

@@ -9,7 +9,7 @@ tags: ["pizza", "sushi", "cocktails", "patio", "steak", "hot honey", "chicken pa
 label: none
 alsoOrder: [{"name": "Hot honey pizza"}, {"name": "Parmesan-crusted grouper"}, {"name": "Sushi"}]
 lastVerified: 2025-12-15
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "date night", "romantic dinner"]
 website: "https://www.chucksfish.com/madison/"

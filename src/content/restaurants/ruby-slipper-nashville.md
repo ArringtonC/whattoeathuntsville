@@ -9,7 +9,7 @@ tags: ["fried chicken", "brunch", "breakfast", "fries", "sandwiches", "chicken s
 label: none
 alsoOrder: [{"name": "Sweet heat fried chicken & French toast"}, {"name": "Fried chicken sandwich with sweet heat sauce"}]
 lastVerified: 2023-03-12
-draft: true
+draft: false
 status: open
 searchTerms: ["nashville", "breakfast", "brunch", "morning food", "chicken", "weekend brunch"]
 website: "https://rubybrunch.com/"

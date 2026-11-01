@@ -10,7 +10,7 @@ tags: ["tacos", "birria", "pizza", "margaritas", "happy hour", "fish tacos", "na
 label: none
 alsoOrder: [{"name": "Birria pizza"}, {"name": "Tacos"}, {"name": "Quesadillas"}, {"name": "Margarita pitchers"}]
 lastVerified: 2026-04-29
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "monrovia", "mexican", "group", "mexican food", "birria tacos", "quesabirria", "taco"]
 website: "https://picofreshmex.com/"

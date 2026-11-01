@@ -9,7 +9,7 @@ coverFocus: center
 tags: ["fries", "sandwiches", "salads", "chicken sandwich", "chicken tenders", "loaded fries", "frozen custard", "nashville hot", "nuggets", "grilled chicken"]
 label: none
 lastVerified: 2025-05-30
-draft: true
+draft: false
 status: open
 searchTerms: ["madison", "by toyota field", "chicken", "family"]
 website: "https://www.superchix.com"

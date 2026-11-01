@@ -8,7 +8,7 @@ coverFocus: center
 tags: ["salads", "pasta", "fettuccine alfredo", "chicken parmesan", "ravioli", "lasagna", "seafood", "garlic bread", "chicken marsala"]
 label: none
 lastVerified: 2025-02-28
-draft: true
+draft: false
 status: open
 searchTerms: ["madison", "italian", "family", "birthday"]
 website: "https://www.luigisitaliangrillmadison.com/"

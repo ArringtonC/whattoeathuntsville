@@ -3,7 +3,7 @@ title: "Dragon Alley in MidCity: our honest review"
 dek: "Different drinks, plain dumplings, and a yaki udon we'd go back for."
 kind: our-experience
 published: 2026-03-24
-draft: true
+draft: false
 restaurants: [dragon-alley]
 video: "7620645198065880351"
 ---

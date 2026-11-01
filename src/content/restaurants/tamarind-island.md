@@ -8,7 +8,7 @@ coverFocus: center
 tags: ["caribbean", "jerk chicken", "curry goat", "vegan options", "seafood", "fish fry"]
 label: none
 lastVerified: 2025-02-23
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "the camp", "caribbean"]

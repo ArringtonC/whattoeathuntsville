@@ -9,7 +9,7 @@ tags: ["wings", "fried chicken", "fries", "chicken tenders", "Korean", "bingsu",
 label: none
 alsoOrder: [{"name": "16-piece combo: honey mustard and sweet & spicy fried chicken"}]
 lastVerified: 2025-03-21
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "asian", "chicken", "date night", "asian food", "romantic dinner"]
 website: "https://order.toasttab.com/online/seoulgood"

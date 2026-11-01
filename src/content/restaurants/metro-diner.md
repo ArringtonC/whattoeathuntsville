@@ -8,7 +8,7 @@ coverFocus: center
 tags: ["fried chicken", "breakfast", "budget-friendly", "fries", "steak", "Philly cheesesteak", "green beans", "loaded fries", "wine", "chicken and waffles", "shrimp and grits", "meatloaf", "biscuits and gravy"]
 label: none
 lastVerified: 2026-03-06
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "american", "brunch", "family", "morning food", "weekend brunch"]
 website: "https://metrodiner.com"

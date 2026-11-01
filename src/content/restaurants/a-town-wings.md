@@ -8,7 +8,7 @@ tags: ["wings", "catfish", "lemon pepper wings", "hot honey", "Philly cheesestea
 label: none
 alsoOrder: [{"name": "Honey gold wings"}, {"name": "Hot honey wings"}, {"name": "Hot lemon pepper wings"}]
 lastVerified: 2025-03-26
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "chicken wings", "wing spot", "lemon pepper", "lemon pepper chicken", "honey lemon pepper wings", "garlic parmesan wings", "philly cheesesteak", "fried fish", "seasoned fries", "casual", "takeout"]

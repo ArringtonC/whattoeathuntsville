@@ -1,8 +1,8 @@
 #!/bin/sh
-# Builds the public preview and publishes it to the gh-pages branch (GitHub Pages).
-# Remove PUBLIC_SHOW_DRAFTS at launch so only reviewed restaurants go live.
+# Builds the site and publishes it to the gh-pages branch (GitHub Pages).
+# Launched 2026-10-31: only entries with draft: false are published.
 set -e
-export SITE_URL=https://whattoeathuntsville.com BASE_PATH=/ PUBLIC_SHOW_DRAFTS=true
+export SITE_URL=https://whattoeathuntsville.com BASE_PATH=/
 npm run build
 touch dist/.nojekyll   # keep GitHub from hiding the _astro folder
 echo whattoeathuntsville.com > dist/CNAME   # custom domain for GitHub Pages

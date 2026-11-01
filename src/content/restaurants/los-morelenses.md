@@ -8,7 +8,7 @@ tags: ["tacos", "birria", "quesadillas", "tortas", "gorditas", "sopes", "breakfa
 label: none
 bestDish: {"name": "Quesadilla with a corn tortilla", "note": "We went almost every week just for this"}
 lastVerified: 2025-03-18
-draft: true
+draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "mexican", "quesadilla with a corn tortilla", "mexican food", "taco"]

@@ -9,7 +9,7 @@ tags: ["brunch", "breakfast", "coffee", "cocktails", "salmon", "grits", "burrito
 label: none
 alsoOrder: [{"name": "Nashville Hot Chicken Bennie"}, {"name": "Breakfast Burrito"}, {"name": "Salmon & Grits"}, {"name": "Avocado Toast"}, {"name": "Hugo spritz and mimosas"}]
 lastVerified: 2026-08-11
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "brunch", "morning food", "weekend brunch"]
 website: "https://eatatloonas.com/"

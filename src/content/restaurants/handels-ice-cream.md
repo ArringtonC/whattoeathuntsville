@@ -9,7 +9,7 @@ tags: ["dessert", "cookies", "cheesecake", "ice cream", "milkshakes", "sundaes"]
 label: none
 alsoOrder: [{"name": "Cheesecake with Biscoff Cookies (limited time)"}]
 lastVerified: 2026-08-19
-draft: true
+draft: false
 status: open
 searchTerms: ["huntsville", "sweet treats", "family", "dessert", "bakery", "sweets"]
 website: "https://handelsicecream.com"

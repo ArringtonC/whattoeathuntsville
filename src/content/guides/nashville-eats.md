@@ -3,7 +3,7 @@ title: "Nashville eats"
 dek: "Where we ate in Nashville, and what we'd order again."
 city: Nashville
 updated: 2026-10-31
-draft: true
+draft: false
 entries:
   - { restaurant: luogo-nashville, why: "Date night Italian downtown. Great vibes and nice servers." }
   - { restaurant: little-hats-nashville, why: "Italian market in Germantown. So good.", dish: "Fried ravioli" }

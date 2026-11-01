@@ -10,7 +10,7 @@ tags: ["tacos", "food truck", "steak"]
 label: none
 alsoOrder: [{"name": "Steak tacos"}, {"name": "Chicken tacos"}]
 lastVerified: 2025-03-12
-draft: true
+draft: false
 status: open
 searchTerms: ["madison", "harvest (hwy 53 chevron)", "mexican", "cheap eats", "mexican food", "taco", "budget friendly", "affordable", "mobile food"]
 ---
