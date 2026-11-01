@@ -8,7 +8,7 @@ export const SITE = {
   threads: 'https://www.threads.net/@whattoeathuntsville',
   tagline: 'Local roots. Global taste.',
   newsletter: 'The Weekly Bite',
-  email: 'whattoeathuntsville@gmail.com',
+  email: 'hello@whattoeathuntsville.com',
   kitForm: 'https://app.kit.com/forms/10126403/subscriptions', // Kit form "The Weekly Bite"
 };
 
