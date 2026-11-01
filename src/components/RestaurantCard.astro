@@ -13,7 +13,7 @@ const d = r.data;
   data-search={[d.name, d.area, d.city, ...d.cuisines, ...d.occasions, ...d.tags, ...d.searchTerms, d.bestDish?.name, ...d.alsoOrder.map((x) => x.name)].filter(Boolean).join(' ').toLowerCase()}
   data-verified={d.lastVerified.toISOString()}>
   <Cover id={r.id} src={d.cover} alt={d.name} focus={d.coverFocus}><Label label={d.label} /></Cover>
-  <span class="meta">{metaLine(d.cuisines[0], d.area ?? d.city, priceText(d.price))}</span>
+  <span class="meta">{metaLine(d.cuisines[0], d.area && d.area !== d.city ? `${d.area}, ${d.city}` : d.city, priceText(d.price))}</span>
   <span class="name">{d.name}</span>
   {d.bestDish && <span class="order">Order: <em>{d.bestDish.name}</em></span>}
 </a>
