@@ -11,7 +11,7 @@ alsoOrder: [{"name": "Cookies & Cream"}, {"name": "Vanilla"}]
 lastVerified: 2025-05-14
 draft: true
 occasions: []
-status: open
+status: closed
 searchTerms: ["huntsville", "sweet treats", "chocolate cake bites", "dessert", "bakery", "sweets", "cakes", "cake bites", "bakery desserts"]
 address: "975 Airport Road, Huntsville, AL"
 website: "https://babybitebakeshop.com"

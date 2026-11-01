@@ -10,7 +10,7 @@ tags: ["tacos", "birria", "drive-thru", "quesadillas", "street tacos", "burritos
 label: none
 lastVerified: 2025-02-24
 draft: true
-status: open
+status: closed
 searchTerms: ["madison", "harvest (hwy 53)", "mexican", "quick lunch", "mexican food", "taco", "fast lunch"]
 ---
 

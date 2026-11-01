@@ -1,7 +1,7 @@
 ---
 name: "Fluffy Fluffy"
 city: Huntsville
-cuisines: ["Asian", "Sweet treats", "Breakfast"]
+cuisines: ["Sweet treats", "Breakfast", "Asian"]
 occasions: ["Brunch"]
 cover: /covers/videos/7565948000862883102.jpg
 coverFocus: center

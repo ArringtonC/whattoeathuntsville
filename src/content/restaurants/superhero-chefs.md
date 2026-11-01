@@ -1,7 +1,7 @@
 ---
 name: "Superhero Chefs"
 city: Huntsville
-cuisines: ["Breakfast", "Vegan"]
+cuisines: ["Vegan", "Breakfast"]
 occasions: ["Brunch"]
 cover: /covers/videos/7205331019283615019.jpg
 coverFocus: center
