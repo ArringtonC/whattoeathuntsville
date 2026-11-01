@@ -6,7 +6,7 @@ cuisines: ["American"]
 occasions: ["Date night", "Group", "Birthday"]
 cover: /covers/videos/7606495742949149982.jpg
 coverFocus: center
-tags: ["chicken parmesan", "seafood"]
+tags: ["brunch", "happy hour", "steak", "chicken parmesan", "salmon", "seafood", "wine", "gluten-free options"]
 label: none
 lastVerified: 2026-02-13
 draft: true

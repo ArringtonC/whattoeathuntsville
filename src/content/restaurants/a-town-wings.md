@@ -4,7 +4,7 @@ city: Huntsville
 cuisines: ["Wings"]
 cover: /covers/videos/7486263785787755807.jpg
 coverFocus: center
-tags: ["wings", "lemon pepper wings", "hot honey"]
+tags: ["wings", "catfish", "lemon pepper wings", "hot honey", "Philly cheesesteak", "chicken tenders", "fried fish", "fried rice", "shrimp"]
 label: none
 alsoOrder: [{"name": "Honey gold wings"}, {"name": "Hot honey wings"}, {"name": "Hot lemon pepper wings"}]
 lastVerified: 2025-03-26

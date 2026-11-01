@@ -5,7 +5,7 @@ cuisines: ["Italian"]
 occasions: ["Family", "Birthday"]
 cover: /covers/videos/7476255304024378670.jpg
 coverFocus: center
-tags: ["salads", "pasta", "fettuccine alfredo", "ravioli"]
+tags: ["salads", "pasta", "fettuccine alfredo", "chicken parmesan", "ravioli", "lasagna", "seafood", "garlic bread", "chicken marsala"]
 label: none
 lastVerified: 2025-02-28
 draft: true

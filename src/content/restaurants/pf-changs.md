@@ -6,7 +6,7 @@ cuisines: ["Asian"]
 occasions: ["Group"]
 cover: /covers/videos/7564945141723663646.jpg
 coverFocus: center
-tags: ["noodles"]
+tags: ["cocktails", "happy hour", "dumplings", "noodles", "chinese", "lettuce wraps", "gluten-free options"]
 label: none
 alsoOrder: [{"name": "Spicy chicken"}, {"name": "Garlic noodles"}]
 lastVerified: 2025-10-25

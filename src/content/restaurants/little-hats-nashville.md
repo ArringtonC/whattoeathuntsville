@@ -5,7 +5,7 @@ area: "Germantown"
 cuisines: ["Italian", "Sandwiches"]
 cover: /covers/videos/7475399423393058079.jpg
 coverFocus: center
-tags: ["chicken parmesan", "meatballs", "ravioli", "subs", "gluten-free options"]
+tags: ["pasta", "chicken parmesan", "meatballs", "ravioli", "subs", "gluten-free options", "muffuletta", "deli", "arancini", "italian market", "soups"]
 label: none
 alsoOrder: [{"name": "Fried ravioli"}, {"name": "Chicken parmigiana"}]
 lastVerified: 2025-02-25

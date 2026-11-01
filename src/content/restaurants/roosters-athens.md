@@ -5,7 +5,7 @@ cuisines: ["Chicken"]
 occasions: ["Quick lunch"]
 cover: /covers/videos/7625105435950894366.jpg
 coverFocus: center
-tags: ["drive-thru", "fries", "chicken tenders"]
+tags: ["wings", "catfish", "drive-thru", "fries", "chicken tenders", "fried pickles", "fried mushrooms", "texas toast"]
 label: none
 alsoOrder: [{"name": "Tenders"}, {"name": "Fries"}, {"name": "Sweet tea"}]
 lastVerified: 2026-04-05

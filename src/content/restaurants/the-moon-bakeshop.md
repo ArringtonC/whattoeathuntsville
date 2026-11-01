@@ -5,7 +5,7 @@ area: "Downtown"
 cuisines: ["Sweet treats"]
 cover: /covers/videos/7213222724364455214.jpg
 coverFocus: center
-tags: ["cookies", "cinnamon rolls"]
+tags: ["coffee", "cookies", "cinnamon rolls", "croissants", "cruffins", "custom cakes", "breakfast sandwiches", "vegan options"]
 label: none
 alsoOrder: [{"name": "Cinnamon roll"}, {"name": "Chocolate chip cookies"}]
 lastVerified: 2023-03-22

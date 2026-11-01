@@ -5,7 +5,7 @@ cuisines: ["Soul food"]
 occasions: ["Late night"]
 cover: /covers/videos/7210953851019545898.jpg
 coverFocus: center
-tags: ["mac and cheese"]
+tags: ["wings", "cocktails", "mac and cheese", "chicken and waffles", "lamb chops", "shrimp and grits", "hookah"]
 label: none
 bestDish: {"name": "Buffalo chicken mac & cheese"}
 lastVerified: 2023-03-16

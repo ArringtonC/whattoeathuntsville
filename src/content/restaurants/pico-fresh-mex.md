@@ -6,7 +6,7 @@ cuisines: ["Mexican"]
 occasions: ["Group"]
 cover: /covers/videos/7634265374699080990.jpg
 coverFocus: center
-tags: ["tacos", "birria", "pizza", "margaritas", "fish tacos", "nachos", "quesadillas", "burritos"]
+tags: ["tacos", "birria", "pizza", "margaritas", "happy hour", "fish tacos", "nachos", "quesadillas", "burritos", "bowls", "kids menu", "fast casual"]
 label: none
 alsoOrder: [{"name": "Birria pizza"}, {"name": "Tacos"}, {"name": "Quesadillas"}, {"name": "Margarita pitchers"}]
 lastVerified: 2026-04-29

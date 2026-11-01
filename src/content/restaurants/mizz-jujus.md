@@ -4,7 +4,7 @@ city: Huntsville
 cuisines: ["Soul food", "Chicken"]
 cover: /covers/videos/7479862731873586462.jpg
 coverFocus: center
-tags: ["wings", "fried chicken", "Black-owned", "sandwiches", "lemon pepper wings", "chicken sandwich"]
+tags: ["wings", "catfish", "fried chicken", "Black-owned", "sandwiches", "mac and cheese", "lemon pepper wings", "chicken sandwich", "green beans", "soul food", "oxtails", "fish"]
 label: none
 bestDish: {"name": "Fried chicken sandwich"}
 alsoOrder: [{"name": "Hot lemon pepper wings"}, {"name": "Honey gold wings"}]

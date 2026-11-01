@@ -4,7 +4,7 @@ city: Huntsville
 cuisines: ["Mexican"]
 cover: /covers/videos/7575229618286791967.jpg
 coverFocus: center
-tags: ["tacos", "fish tacos"]
+tags: ["tacos", "birria", "fish tacos", "california burrito", "carne asada fries", "tortas", "gorditas", "ceviche"]
 label: none
 bestDish: {"name": "Fish taco"}
 lastVerified: 2025-11-21

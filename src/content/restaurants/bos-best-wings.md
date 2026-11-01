@@ -4,7 +4,7 @@ city: Huntsville
 cuisines: ["Wings"]
 cover: /covers/videos/7489492736618302750.jpg
 coverFocus: center
-tags: ["wings", "catfish", "fries", "lemon pepper wings", "hot honey"]
+tags: ["wings", "catfish", "food truck", "fries", "lemon pepper wings", "hot honey", "chicken tenders", "fried green tomatoes", "tilapia", "whiting", "boneless wings"]
 label: none
 alsoOrder: [{"name": "Fried wings"}]
 lastVerified: 2025-04-04

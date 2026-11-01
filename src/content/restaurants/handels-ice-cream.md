@@ -5,7 +5,7 @@ cuisines: ["Sweet treats"]
 occasions: ["Family"]
 cover: /covers/videos/7675839031615229215.jpg
 coverFocus: center
-tags: ["cookies", "cheesecake", "ice cream"]
+tags: ["dessert", "cookies", "cheesecake", "ice cream", "milkshakes", "sundaes"]
 label: none
 alsoOrder: [{"name": "Cheesecake with Biscoff Cookies (limited time)"}]
 lastVerified: 2026-08-19

@@ -5,7 +5,7 @@ cuisines: ["Asian"]
 occasions: ["Cheap eats"]
 cover: /covers/videos/7478874923650272554.jpg
 coverFocus: center
-tags: ["lo mein", "General Tso's", "sesame chicken", "Chinese"]
+tags: ["lo mein", "General Tso's", "sesame chicken", "Chinese", "fried rice", "egg foo young", "lunch specials", "honey chicken", "chow mein"]
 label: none
 alsoOrder: [{"name": "General Tso's or sesame chicken"}, {"name": "Lo mein"}]
 lastVerified: 2025-03-07

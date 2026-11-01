@@ -5,7 +5,7 @@ cuisines: ["Soul food", "Wings"]
 occasions: ["Late night", "Group"]
 cover: /covers/videos/7647688633373199646.jpg
 coverFocus: center
-tags: ["wings", "catfish", "Black-owned", "drink specials"]
+tags: ["wings", "catfish", "Black-owned", "late night", "happy hour", "drink specials", "hookah", "taco tuesday", "turkey ribs", "shrimp"]
 label: none
 alsoOrder: [{"name": "Catfish"}, {"name": "Wings"}]
 lastVerified: 2026-06-04

@@ -5,7 +5,7 @@ cuisines: ["Breakfast"]
 occasions: ["Brunch"]
 cover: /covers/videos/7672878319875968286.jpg
 coverFocus: center
-tags: ["breakfast", "cocktails", "salmon", "grits", "burritos", "Nashville hot chicken", "avocado toast", "mimosas"]
+tags: ["brunch", "breakfast", "coffee", "cocktails", "salmon", "grits", "burritos", "Nashville hot chicken", "avocado toast", "mimosas", "chicken and waffles", "australian", "pancakes"]
 label: none
 alsoOrder: [{"name": "Nashville Hot Chicken Bennie"}, {"name": "Breakfast Burrito"}, {"name": "Salmon & Grits"}, {"name": "Avocado Toast"}, {"name": "Hugo spritz and mimosas"}]
 lastVerified: 2026-08-11

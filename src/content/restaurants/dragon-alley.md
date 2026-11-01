@@ -6,7 +6,7 @@ cuisines: ["Asian"]
 occasions: ["Group", "Late night"]
 cover: /covers/videos/7620645198065880351.jpg
 coverFocus: center
-tags: ["sushi", "dumplings", "noodles", "udon", "bao", "karaoke"]
+tags: ["sushi", "cocktails", "patio", "dumplings", "noodles", "udon", "bao", "karaoke", "fried rice", "pad thai", "roasted duck", "dj"]
 label: none
 bestDish: {"name": "Yaki udon", "note": "We'd go back just for this"}
 alsoOrder: [{"name": "Drinks", "note": "Not your typical flavors"}]

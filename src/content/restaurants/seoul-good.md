@@ -1,11 +1,11 @@
 ---
 name: "Seoul Good"
 city: Huntsville
-cuisines: ["Asian", "Chicken"]
+cuisines: ["Chicken", "Asian"]
 occasions: ["Date night"]
 cover: /covers/videos/7484308655098105119.jpg
 coverFocus: center
-tags: ["fried chicken", "fries", "Korean"]
+tags: ["wings", "fried chicken", "fries", "chicken tenders", "Korean", "bingsu", "korean corn dogs", "tteokbokki", "kimchi"]
 label: none
 alsoOrder: [{"name": "16-piece combo: honey mustard and sweet & spicy fried chicken"}]
 lastVerified: 2025-03-21

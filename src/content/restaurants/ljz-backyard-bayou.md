@@ -1,10 +1,10 @@
 ---
 name: "LJ'z Backyard Bayou"
 city: Huntsville
-cuisines: ["Cajun"]
+cuisines: ["Soul food", "Cajun"]
 cover: /covers/videos/7498831881719254302.jpg
 coverFocus: center
-tags: ["catfish", "Black-owned", "Cajun", "Creole"]
+tags: ["catfish", "Black-owned", "Cajun", "Creole", "po boys", "gumbo", "jambalaya", "boudin balls", "shrimp and grits", "veteran-owned"]
 label: none
 lastVerified: 2025-04-29
 draft: true

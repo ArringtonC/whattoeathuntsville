@@ -2,11 +2,11 @@
 name: "Scoop & Slice Cafe"
 city: Madison
 area: "Old Railroad Bed & Capshaw"
-cuisines: ["Pizza", "Sandwiches", "Sweet treats"]
+cuisines: ["Sweet treats", "Pizza", "Sandwiches"]
 occasions: ["Late night", "Family"]
 cover: /covers/videos/7631362238493904158.jpg
 coverFocus: center
-tags: ["pizza", "fries", "pasta", "Philly cheesesteak", "fettuccine alfredo", "ice cream"]
+tags: ["wings", "pizza", "coffee", "fries", "sandwiches", "pasta", "Philly cheesesteak", "fettuccine alfredo", "ice cream", "milkshakes", "smoothies", "pastries"]
 label: none
 bestDish: {"name": "Philly Cheesesteak Pizza", "note": "Alfredo base; add jalape\u00f1os"}
 alsoOrder: [{"name": "Italian club, loaded"}]

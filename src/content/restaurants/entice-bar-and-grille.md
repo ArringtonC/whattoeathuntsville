@@ -6,7 +6,7 @@ cuisines: ["Wings", "American"]
 occasions: ["Group", "Late night"]
 cover: /covers/videos/7690722740361366815.jpg
 coverFocus: center
-tags: ["wings", "happy hour", "budget-friendly"]
+tags: ["tacos", "wings", "cocktails", "late night", "happy hour", "budget-friendly", "sports bar"]
 label: none
 bestDish: {"name": "Wings", "note": "50-cent wings on Wednesdays (order at least 10), happy hour until 8pm"}
 lastVerified: 2026-09-28

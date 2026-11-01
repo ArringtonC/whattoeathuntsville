@@ -6,7 +6,7 @@ cuisines: ["Mexican"]
 occasions: ["Group"]
 cover: /covers/videos/7657958304131337502.jpg
 coverFocus: center
-tags: ["tacos", "margaritas", "budget-friendly", "fish tacos", "guacamole"]
+tags: ["tacos", "birria", "margaritas", "budget-friendly", "fish tacos", "quesadillas", "guacamole", "fajitas", "burritos", "enchiladas"]
 label: none
 alsoOrder: [{"name": "House margaritas"}, {"name": "Tableside guacamole"}]
 lastVerified: 2026-07-02

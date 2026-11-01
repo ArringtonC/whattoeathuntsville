@@ -1,6 +1,7 @@
 # Tag grid spreadsheet: one row per restaurant, one yes/no column per popular tag.
 #   python3 scripts/tag-grid.py export   writes restaurant-tags.xlsx
-#   python3 scripts/tag-grid.py import   copies label, reviewed, and tags back into the restaurant files
+#   python3 scripts/tag-grid.py import [file.xlsx]   copies label, reviewed, and tags back into the restaurant files
+#   A "Primary cuisine" column (with "Cuisine confidence" = High) moves that cuisine to the front.
 # If menu-check.json exists (from the website check), tags the menu did not show are red, unclear ones yellow,
 # and a "Menu check" sheet lists websites, closures and suggested tags.
 import glob, json, os, sys
@@ -23,6 +24,8 @@ ALWAYS = ["tacos", "birria", "wings", "pizza", "burgers", "catfish", "fried chic
           "breakfast", "dessert", "coffee", "margaritas", "cocktails", "vegan", "food truck", "Black-owned", "late night",
           "drive-thru", "cash only", "patio", "happy hour", "kid-friendly", "budget-friendly", "date night"]
 LABELS = ["great", "good", "first-look", "none"]
+CUISINES = ["Mexican", "Wings", "Soul food", "BBQ", "Asian", "Italian", "Pizza", "Chicken", "Sweet treats", "Breakfast",
+            "American", "Seafood", "Sandwiches", "Mediterranean", "Cajun", "Caribbean", "Latin", "Vegan"]  # same as src/lib/site.ts
 
 def read(path):
     head, body = open(path).read().split("\n---\n", 1)
@@ -100,7 +103,7 @@ def export():
 def imp():
     ws = load_workbook(XLSX).active
     head = [c.value for c in ws[1]]
-    tag_cols = head[len(FIXED):-len(TAIL)]
+    tag_cols = head[len(FIXED):head.index("Other tags")]  # extra columns after slug are allowed
     paths, changed, problems = files(), 0, []
     for r, row in enumerate(ws.iter_rows(min_row=2, values_only=True), start=2):
         rec = dict(zip(head, row))
@@ -114,6 +117,10 @@ def imp():
         new = dict(v)
         new["label"] = label
         new["tags"] = json.dumps(tags)
+        primary = str(rec.get("Primary cuisine") or "").strip()
+        if primary and str(rec.get("Cuisine confidence") or "").strip().lower() == "high":
+            if primary not in CUISINES: problems.append(f"row {r} ({rec['Restaurant']}): unknown cuisine {primary}"); continue
+            new["cuisines"] = json.dumps(([primary] + [c for c in json.loads(v["cuisines"]) if c != primary])[:3])
         new["draft"] = "false" if str(rec.get("Reviewed") or "").strip().lower() == "yes" else "true"
         if new != v:
             order = [k for k in keys if k in new] + [k for k in new if k not in keys]
@@ -123,4 +130,5 @@ def imp():
     for p in problems: print("  fix:", p)
     if problems: sys.exit(1)
 
+if len(sys.argv) > 2: XLSX = sys.argv[2]  # import a sheet saved somewhere else
 {"export": export, "import": imp}[sys.argv[1] if len(sys.argv) > 1 else "export"]()

@@ -1,10 +1,10 @@
 ---
 name: "Big John's"
 city: Huntsville
-cuisines: ["Seafood", "Soul food"]
+cuisines: ["BBQ", "Seafood", "Soul food"]
 cover: /covers/videos/7476946083231452447.jpg
 coverFocus: center
-tags: ["catfish", "fries"]
+tags: ["wings", "catfish", "BBQ", "food truck", "Black-owned", "fries", "ribs", "loaded fries"]
 label: none
 bestDish: {"name": "Fried catfish", "note": "The best fried catfish in Huntsville, in our opinion"}
 alsoOrder: [{"name": "Loaded buffalo fries"}, {"name": "Rooftop fries"}]

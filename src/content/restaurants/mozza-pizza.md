@@ -5,7 +5,7 @@ address: "520 Jordan Ln NW, Huntsville, AL"
 cuisines: ["Pizza"]
 cover: /covers/videos/7537337950678306078.jpg
 coverFocus: center
-tags: ["pizza"]
+tags: ["wings", "pizza", "pasta", "new york style pizza", "gluten-free options", "calzones", "cannoli"]
 label: none
 lastVerified: 2025-08-11
 draft: true

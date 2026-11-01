@@ -6,7 +6,7 @@ cuisines: ["Asian"]
 occasions: ["Quick lunch"]
 cover: /covers/videos/7506627766050196766.jpg
 coverFocus: center
-tags: ["food truck", "dumplings", "teriyaki"]
+tags: ["food truck", "dumplings", "teriyaki", "hibachi", "shrimp", "covered patio"]
 label: none
 alsoOrder: [{"name": "Fried gyoza"}, {"name": "Chicken teriyaki with rice"}]
 lastVerified: 2025-05-20

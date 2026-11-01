@@ -6,7 +6,7 @@ cuisines: ["American"]
 occasions: ["Group", "Family"]
 cover: /covers/videos/7694313066262957343.jpg
 coverFocus: center
-tags: ["pasta", "cheesecake", "Cajun", "salmon"]
+tags: ["brunch", "dessert", "happy hour", "steak", "pasta", "cheesecake", "Cajun", "salmon", "flatbread pizza"]
 label: none
 alsoOrder: [{"name": "Louisiana Chicken Pasta (extra sauce)"}, {"name": "Cajun Salmon"}]
 lastVerified: 2026-10-08

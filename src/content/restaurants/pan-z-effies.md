@@ -1,10 +1,10 @@
 ---
 name: "Pan-Z-Effie's"
 city: Huntsville
-cuisines: ["Soul food"]
+cuisines: ["BBQ", "Soul food"]
 cover: /covers/videos/7626902218251210015.jpg
 coverFocus: center
-tags: ["wings", "catfish", "Black-owned", "ribs"]
+tags: ["wings", "burgers", "catfish", "BBQ", "food truck", "Black-owned", "late night", "ribs", "hot dogs", "birria nachos"]
 label: none
 bestDish: {"name": "Fried catfish", "note": "1000/10. Open Wednesday to Saturday after 4pm."}
 alsoOrder: [{"name": "Ribs"}, {"name": "Bell Dog", "note": "Loaded with peppers, onions, and ground beef"}]

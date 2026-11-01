@@ -4,7 +4,7 @@ city: Huntsville
 cuisines: ["Mexican"]
 cover: /covers/videos/7496137238233795870.jpg
 coverFocus: center
-tags: ["tacos", "birria", "quesabirria", "consom\u00e9", "flautas"]
+tags: ["tacos", "birria", "dessert", "quesabirria", "consom\u00e9", "flautas", "bakery", "pastries", "enchiladas", "cheese dip"]
 label: none
 alsoOrder: [{"name": "Quesabirrias y consom\u00e9"}, {"name": "Chicken taco"}, {"name": "Flautas con pollo"}]
 lastVerified: 2025-04-22

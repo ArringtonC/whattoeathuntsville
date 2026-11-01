@@ -4,7 +4,7 @@ city: Huntsville
 cuisines: ["Latin"]
 cover: /covers/videos/7499689934505168159.jpg
 coverFocus: center
-tags: ["food truck", "fries", "Philly cheesesteak", "loaded fries"]
+tags: ["food truck", "fries", "Philly cheesesteak", "quesadillas", "loaded fries", "nicaraguan", "latin fusion", "family-owned"]
 label: none
 alsoOrder: [{"name": "Loaded fries"}]
 lastVerified: 2025-05-02

@@ -4,7 +4,7 @@ city: Huntsville
 cuisines: ["Chicken"]
 cover: /covers/videos/7617190018733395230.jpg
 coverFocus: center
-tags: ["wings", "fries", "salads", "baked beans", "chicken tenders", "Nashville hot chicken"]
+tags: ["wings", "fries", "mac and cheese", "salads", "baked beans", "chicken sandwich", "chicken tenders", "Nashville hot chicken", "grits", "beer", "gluten-free options", "kids menu"]
 label: none
 alsoOrder: [{"name": "Medium hot wings"}, {"name": "Medium hot chicken tenders"}, {"name": "Dirty Bird Fries"}, {"name": "Poppy Seed Grilled Chicken"}]
 lastVerified: 2026-03-14

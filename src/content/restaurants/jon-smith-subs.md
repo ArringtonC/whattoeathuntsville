@@ -6,7 +6,7 @@ cuisines: ["Sandwiches"]
 occasions: ["Quick lunch"]
 cover: /covers/videos/7597532740979789087.jpg
 coverFocus: center
-tags: ["sandwiches", "chicken sandwich", "Cajun", "subs"]
+tags: ["fries", "sandwiches", "chicken sandwich", "Cajun", "subs", "cuban sandwich", "cheesesteak", "catering"]
 label: none
 bestDish: {"name": "Hot cajun chicken sandwich"}
 lastVerified: 2026-01-20

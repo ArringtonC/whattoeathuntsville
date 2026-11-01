@@ -6,7 +6,7 @@ cuisines: ["Chicken"]
 occasions: ["Family"]
 cover: /covers/videos/7510256079150894367.jpg
 coverFocus: center
-tags: ["fries", "sandwiches", "chicken sandwich", "chicken tenders", "loaded fries"]
+tags: ["fries", "sandwiches", "salads", "chicken sandwich", "chicken tenders", "loaded fries", "frozen custard", "nashville hot", "nuggets", "grilled chicken"]
 label: none
 lastVerified: 2025-05-30
 draft: true

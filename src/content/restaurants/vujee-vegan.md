@@ -4,7 +4,7 @@ city: Huntsville
 cuisines: ["Vegan"]
 cover: /covers/videos/7610914412639030541.jpg
 coverFocus: center
-tags: ["burgers", "vegan", "fries", "sandwiches", "Philly cheesesteak", "lemonade", "egg rolls", "waffles"]
+tags: ["burgers", "vegan", "Black-owned", "fries", "sandwiches", "mac and cheese", "Philly cheesesteak", "lemonade", "cake", "egg rolls", "waffles", "nashville hot chicken", "chicken nuggets", "chili"]
 label: none
 bestDish: {"name": "Chili", "note": "5 stars"}
 alsoOrder: [{"name": "Cheeze burger"}, {"name": "Philly egg rolls"}, {"name": "Chick'n nuggets"}, {"name": "Buffalo chick'n sandwich"}]

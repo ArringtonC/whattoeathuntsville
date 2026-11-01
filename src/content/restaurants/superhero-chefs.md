@@ -1,11 +1,11 @@
 ---
 name: "Superhero Chefs"
 city: Huntsville
-cuisines: ["Vegan"]
+cuisines: ["Breakfast", "Vegan"]
 occasions: ["Brunch"]
 cover: /covers/videos/7205331019283615019.jpg
 coverFocus: center
-tags: ["vegan"]
+tags: ["brunch", "breakfast", "vegan", "Black-owned", "sandwiches", "waffles", "gluten-free options"]
 label: none
 lastVerified: 2023-02-28
 draft: true

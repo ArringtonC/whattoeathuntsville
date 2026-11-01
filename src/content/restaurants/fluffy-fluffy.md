@@ -1,11 +1,11 @@
 ---
 name: "Fluffy Fluffy"
 city: Huntsville
-cuisines: ["Sweet treats", "Breakfast"]
+cuisines: ["Asian", "Sweet treats", "Breakfast"]
 occasions: ["Brunch"]
 cover: /covers/videos/7565948000862883102.jpg
 coverFocus: center
-tags: ["coffee", "cheesecake", "pancakes", "matcha"]
+tags: ["brunch", "dessert", "coffee", "cheesecake", "pancakes", "matcha", "souffle pancakes", "tiramisu", "japanese"]
 label: none
 alsoOrder: [{"name": "Matcha pancake + latte combo"}]
 lastVerified: 2025-10-27

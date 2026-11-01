@@ -6,7 +6,7 @@ cuisines: ["Mexican"]
 occasions: ["Group", "Birthday"]
 cover: /covers/videos/7542959771733789982.jpg
 coverFocus: center
-tags: ["birria", "pizza", "margaritas", "fries", "carne asada"]
+tags: ["tacos", "birria", "pizza", "margaritas", "fries", "quesadillas", "carne asada", "fajitas", "birria ramen", "catering", "private dining"]
 label: none
 alsoOrder: [{"name": "Birria pizza"}, {"name": "Carne asada fries"}, {"name": "Margaritas"}]
 lastVerified: 2025-08-26

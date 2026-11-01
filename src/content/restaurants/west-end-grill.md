@@ -1,11 +1,11 @@
 ---
 name: "West End Grill"
 city: Huntsville
-cuisines: ["American"]
+cuisines: ["Wings", "American"]
 occasions: ["Group"]
 cover: /covers/videos/7638803462515363102.jpg
 coverFocus: center
-tags: ["wings", "budget-friendly", "lemon pepper wings", "lemonade", "loaded baked potato", "loaded potatoes", "jerk chicken", "potato skins"]
+tags: ["wings", "burgers", "brunch", "budget-friendly", "steak", "lemon pepper wings", "lemonade", "loaded baked potato", "loaded potatoes", "jerk chicken", "potato skins", "pot roast", "cheese curds", "peanut butter pie"]
 label: none
 alsoOrder: [{"name": "Galaxy Lemonade"}, {"name": "Loaded potato skins"}]
 lastVerified: 2026-05-12

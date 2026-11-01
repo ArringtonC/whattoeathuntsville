@@ -5,7 +5,7 @@ area: "Harvest"
 cuisines: ["Mexican"]
 cover: /covers/videos/7519952740978658591.jpg
 coverFocus: center
-tags: ["tacos", "shredded chicken"]
+tags: ["tacos", "breakfast", "quesadillas", "shredded chicken", "burritos", "tortas", "elote"]
 label: none
 bestDish: {"name": "Shredded chicken tacos"}
 lastVerified: 2025-06-25
