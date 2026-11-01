@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import { SITE } from '../lib/site';
 import Label from '../components/Label.astro';
 
 const offers = [
@@ -77,9 +78,9 @@ const interests = ['Website feature', 'Spot in The Weekly Bite', 'A Local Spotli
         <p class="dek">We reply within a few business days.</p>
       </div>
       <p id="thanks" hidden class="box" style="flex: 2 1 520px; background: #fff; font-size: 20px; font-weight: 700;">Thanks! We got your inquiry and will reply soon.</p>
-      <form id="inquiry-form" name="inquiry" method="POST" data-netlify="true" netlify-honeypot="company_site" action="/work-with-us?thanks=1#inquiry" style="flex: 2 1 520px; background: #fff; border: 1px solid var(--line); border-radius: 22px; padding: 28px; display: flex; flex-direction: column; gap: 18px;">
-        <input type="hidden" name="form-name" value="inquiry" />
-        <p hidden><label>Leave this empty <input name="company_site" /></label></p>
+      <form id="inquiry-form" method="POST" data-send data-thanks="thanks" action={SITE.formEndpoint} style="flex: 2 1 520px; background: #fff; border: 1px solid var(--line); border-radius: 22px; padding: 28px; display: flex; flex-direction: column; gap: 18px;">
+        <input type="hidden" name="_subject" value="New business inquiry" />
+        <p hidden><label>Leave this empty <input name="_honey" tabindex="-1" autocomplete="off" /></label></p>
         <div style="display: flex; flex-wrap: wrap; gap: 16px;">
           <label class="field" style="flex: 1 1 220px;">Your name<input class="input" name="name" required autocomplete="name" /></label>
           <label class="field" style="flex: 1 1 220px;">Business name<input class="input" name="business" required autocomplete="organization" /></label>
@@ -101,10 +102,4 @@ const interests = ['Website feature', 'Spot in The Weekly Bite', 'A Local Spotli
       </form>
     </div>
   </section>
-  <script>
-    if (new URLSearchParams(location.search).has('thanks')) {
-      document.getElementById('inquiry-form')?.setAttribute('hidden', '');
-      document.getElementById('thanks')?.removeAttribute('hidden');
-    }
-  </script>
 </Base>

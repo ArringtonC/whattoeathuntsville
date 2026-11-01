@@ -75,29 +75,33 @@ const preview = import.meta.env.PUBLIC_SHOW_DRAFTS === 'true';
 </footer>
 <slot name="after" />
 <script is:inline>
-  // Kit sign-up forms: send in the background so people stay on our page.
+  // Kit sign-ups (data-kit) and FormSubmit forms (data-send): send in the background so people stay on our page.
   document.addEventListener('submit', async (e) => {
     const f = e.target;
-    if (!f.hasAttribute('data-kit')) return;
+    const kit = f.hasAttribute('data-kit');
+    if (!kit && !f.hasAttribute('data-send')) return;
     e.preventDefault();
-    const btn = f.querySelector('button'); if (btn) btn.disabled = true;
+    const btn = f.querySelector('button[type="submit"], button:not([type])'); if (btn) btn.disabled = true;
     let ok = false;
     try {
       const res = await fetch(f.action, { method: 'POST', body: new FormData(f), headers: { Accept: 'application/json' } });
-      ok = res.ok && (await res.json()).status === 'success';
+      const j = await res.json();
+      ok = res.ok && (kit ? j.status === 'success' : String(j.success) === 'true');
     } catch {}
     if (btn) btn.disabled = false;
+    const thanks = f.dataset.thanks && document.getElementById(f.dataset.thanks);
+    if (ok && thanks) { f.hidden = true; thanks.hidden = false; return; }
     const p = f.querySelector('.kit-msg') || f.appendChild(Object.assign(document.createElement('p'), { className: 'kit-msg' }));
     p.setAttribute('role', 'status');
     p.style.cssText = 'margin-top: 8px; font-weight: 700;';
-    p.textContent = ok ? "You're in. Check your inbox to confirm. Not there? Look in spam and mark it \"Not spam.\"" : 'That did not go through. Check your email address and try again.';
+    p.textContent = ok ? "You're in. Check your inbox to confirm. Not there? Look in spam and mark it \"Not spam.\"" : 'That did not go through. Please check the form and try again.';
     if (ok) f.reset();
   });
 </script>
 {preview && <script is:inline>
   document.addEventListener('submit', (e) => {
     const f = e.target;
-    if ((f.method || '').toLowerCase() !== 'post' || f.hasAttribute('data-kit')) return;
+    if ((f.method || '').toLowerCase() !== 'post' || f.hasAttribute('data-kit') || f.hasAttribute('data-send')) return;
     e.preventDefault();
     const p = document.createElement('p');
     p.textContent = 'Preview: this form opens at launch.';

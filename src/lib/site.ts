@@ -9,6 +9,7 @@ export const SITE = {
   tagline: 'Local roots. Global taste.',
   newsletter: 'The Weekly Bite',
   email: 'hello@whattoeathuntsville.com',
+  formEndpoint: 'https://formsubmit.co/ajax/hello@whattoeathuntsville.com', // suggest + work-with-us forms (FormSubmit, no account)
   kitForm: 'https://app.kit.com/forms/10126403/subscriptions', // Kit form "The Weekly Bite"
 };
 

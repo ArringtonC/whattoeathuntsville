@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import { SITE } from '../lib/site';
 import { CITIES } from '../lib/site';
 ---
 <Base title="Suggest a restaurant" description="Tell us where we should eat next.">
@@ -15,9 +16,9 @@ import { CITIES } from '../lib/site';
       </div>
     </div>
     <p id="thanks" hidden class="box" style="flex: 1 1 480px; font-size: 20px; font-weight: 700;">Thanks! We got your suggestion.</p>
-    <form id="suggest-form" name="suggest" method="POST" data-netlify="true" netlify-honeypot="website_url" action="/suggest?thanks=1" class="box" style="flex: 1 1 480px; display: flex; flex-direction: column; gap: 18px;">
-      <input type="hidden" name="form-name" value="suggest" />
-      <p hidden><label>Leave this empty <input name="website_url" /></label></p>
+    <form id="suggest-form" method="POST" data-send data-thanks="thanks" action={SITE.formEndpoint} class="box" style="flex: 1 1 480px; display: flex; flex-direction: column; gap: 18px;">
+      <input type="hidden" name="_subject" value="New restaurant suggestion" />
+      <p hidden><label>Leave this empty <input name="_honey" tabindex="-1" autocomplete="off" /></label></p>
       <label class="field">Restaurant name <span style="color: var(--red); font-weight: 600;">Required</span><input class="input" name="restaurant" required /></label>
       <label class="field">Where is it?<select class="input" name="city">{CITIES.map((c) => <option>{c}</option>)}<option>Somewhere else</option></select></label>
       <label class="field">What should we order?<input class="input" name="dish" placeholder="The dish you'd tell a friend about" /></label>
@@ -31,10 +32,4 @@ import { CITIES } from '../lib/site';
       <button class="btn btn-red" type="submit" style="align-self: flex-start; min-height: 56px;">Send suggestion</button>
     </form>
   </section>
-  <script>
-    if (new URLSearchParams(location.search).has('thanks')) {
-      document.getElementById('suggest-form')?.setAttribute('hidden', '');
-      document.getElementById('thanks')?.removeAttribute('hidden');
-    }
-  </script>
 </Base>
