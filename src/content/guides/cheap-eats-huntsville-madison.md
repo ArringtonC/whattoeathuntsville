@@ -4,6 +4,7 @@ dek: "The spots we go back to when we want to eat well and spend less."
 city: Huntsville
 updated: 2026-11-01
 draft: false
+cover: /guides/cheap-eats-huntsville-madison.jpg
 entries:
   - { restaurant: viet-house, why: "Our forever favorite. Spring rolls, dumplings and pho came to under $40.", dish: "Chicken pho, made angry (spicy)" }
   - { restaurant: lawlers-barbecue, why: "Two Potato Tuesdays gets you two huge loaded potatoes for $16. One can be a whole meal.", dish: "Loaded potato with pulled chicken or pork" }

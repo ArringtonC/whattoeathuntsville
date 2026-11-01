@@ -4,6 +4,7 @@ dek: "Every wing spot we've tried, and the flavor to order at each."
 city: Huntsville
 updated: 2026-10-31
 draft: false
+cover: /guides/best-wings-huntsville-madison.jpg
 entries:
   - { restaurant: wings-and-gyros, why: "Our current go-to." }
   - { restaurant: bos-best-wings, why: "You told us to try it after our other wing videos, and you were right.", dish: "Fried wings" }

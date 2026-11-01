@@ -24,7 +24,7 @@ export const storiesFor = async (restaurantId: string) =>
   (await getCollection('stories', visible)).filter((s) => s.data.restaurants.some((ref) => ref.id === restaurantId));
 
 // Card images: a guide uses its first place's cover, a story its video's cover.
-export const guideCover = async (g: { data: { entries: { restaurant: { id: string } }[] } }) =>
-  (await allRestaurants()).find((r) => r.id === g.data.entries[0]?.restaurant.id)?.data.cover;
+export const guideCover = async (g: { data: { cover?: string; entries: { restaurant: { id: string } }[] } }) =>
+  g.data.cover ?? (await allRestaurants()).find((r) => r.id === g.data.entries[0]?.restaurant.id)?.data.cover;
 export const storyCover = async (s: { data: { video?: { id: string } } }) =>
   s.data.video ? (await getCollection('videos')).find((v) => v.id === s.data.video!.id)?.data.cover : undefined;

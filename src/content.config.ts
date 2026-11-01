@@ -59,6 +59,7 @@ const guides = defineCollection({
     dek: z.string(),
     seoTitle: z.string().optional(),
     seoDescription: z.string().optional(),
+    cover: z.string().optional(), // generic photo under /public/guides so no one restaurant looks like #1
     city: z.enum(CITIES),
     updated: z.coerce.date(),
     entries: z.array(z.object({ restaurant: reference('restaurants'), why: z.string(), dish: z.string().optional() })),

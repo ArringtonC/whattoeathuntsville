@@ -4,6 +4,7 @@ dek: "Our picks for date night, and what to order at each."
 city: Huntsville
 updated: 2026-11-01
 draft: false
+cover: /guides/date-night-huntsville-madison.jpg
 entries:
   - { restaurant: chucks-fish, why: "A perfect date night at Clift Farm, with a nice vibe and nice service. It's a little pricey, but we think it's worth it.", dish: "Hot honey pizza" }
   - { restaurant: domaine-south, why: "Such a nice spot for date night downtown, with cocktails and great service. Reservations are suggested.", dish: "Steak with duck fat fries" }

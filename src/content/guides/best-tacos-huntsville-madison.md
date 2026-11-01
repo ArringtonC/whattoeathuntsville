@@ -4,6 +4,7 @@ dek: "The taco spots we keep going back to, and what to order at each."
 city: Huntsville
 updated: 2026-11-01
 draft: false
+cover: /guides/best-tacos-huntsville-madison.jpg
 entries:
   - { restaurant: taqueria-las-adelitas, why: "One of the best tacos we've ever had. If you go for anything, get the fish taco.", dish: "Fish taco" }
   - { restaurant: taqueria-don-pancho, why: "Some of the best birria we've had around here. The tortilla comes out crispy, not soggy, and it's not too oily.", dish: "Birria tacos" }
