@@ -90,7 +90,7 @@ const preview = import.meta.env.PUBLIC_SHOW_DRAFTS === 'true';
     const p = f.querySelector('.kit-msg') || f.appendChild(Object.assign(document.createElement('p'), { className: 'kit-msg' }));
     p.setAttribute('role', 'status');
     p.style.cssText = 'margin-top: 8px; font-weight: 700;';
-    p.textContent = ok ? "You're in. Check your inbox to confirm your email." : 'That did not go through. Check your email address and try again.';
+    p.textContent = ok ? "You're in. Check your inbox to confirm. Not there? Look in spam and mark it \"Not spam.\"" : 'That did not go through. Check your email address and try again.';
     if (ok) f.reset();
   });
 </script>
