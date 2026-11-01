@@ -13,6 +13,7 @@ draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "stovehouse", "breakfast", "blt crepe", "morning food"]
+address: "3414 Governors Dr SW, Suite 520, Huntsville, AL 35805"
 ---
 
-blt crepe from oh crepe! 🥓🤤 Located in Stovehouse in
+Oh Crepe! is inside Stovehouse. We came for the BLT crepe, a savory crepe with bacon, and it was the one we wanted to share.

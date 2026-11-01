@@ -16,4 +16,8 @@ address: "200 West Side Square, Huntsville, AL 35801"
 website: "https://www.domainesouth.com/"
 ---
 
-Date night Domaine South 🖤🥂 Such a nice spot for a date night or dinner with friends. We had no complaints going here. We enjoyed some cocktails while we waited on our meals. Service was great too!! Reservations are suggested. Menus are updated seasonally! The order 📝 Salmon with Risotto 😋 Steak with Duck fat fries (fries were 🔥) 📍Downtown Huntsville
+Domaine South is such a nice spot for date night or dinner with friends. We had no complaints.
+
+We enjoyed some cocktails while we waited on our meals, and the service was great too. Reservations are suggested, and the menu changes with the seasons.
+
+We ordered the salmon with risotto and the steak with duck fat fries. Those fries were a standout.

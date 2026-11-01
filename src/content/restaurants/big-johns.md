@@ -13,6 +13,12 @@ draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "seafood", "soul food", "fried catfish", "southern food", "comfort food", "fried fish", "fish plate", "barbecue", "bbq", "casual"]
+address: "7061 Hwy 72 W, Huntsville, AL 35806"
+area: "The Open Bottle (Hwy 72 W)"
 ---
 
-Big John’s in Huntsville AL 🔥 the best fried catfish in in my opinion 🤤🐟 have somewhere else? Lmk The order 📝: Small 🍟: Loaded Buffalo & the Rooftop Fries 📍The Open Bottle (Big John’s is open Thursday to Saturday 4-9pm)
+Big John's has the best fried catfish in Huntsville, in our opinion. If you know somewhere better, tell us.
+
+We also got two small orders of fries: the loaded buffalo fries and the rooftop fries.
+
+You'll find Big John's at The Open Bottle. They're only open Thursday to Saturday, 4 to 9pm, so plan ahead.

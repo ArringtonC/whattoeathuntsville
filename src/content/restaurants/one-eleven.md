@@ -16,4 +16,4 @@ address: "111 Washington St NE, Huntsville, AL 35801"
 website: "https://www.oneelevenhsv.com/"
 ---
 
-One Eleven in 🥂🍽️ cute vibes and good food 💕
+One Eleven is downtown, and it has cute vibes and good food. It is a nice pick for a date night.

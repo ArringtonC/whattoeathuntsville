@@ -17,4 +17,8 @@ address: "201 Jefferson St N Ste I, Huntsville, AL 35801"
 website: "https://ilovemelt.com/huntsville"
 ---
 
-Melt in is always a go-to! 🫶🏽 Tater tots, sandwiches, mac & cheese egg rolls, and mimosa pitchers? Say less. Always on point with service and foods We’ve been coming here for years — if you haven’t checked it out yet, wyd?? Our order 📝 Cheese burger with bacon & fries Fried Chicken Bacon Ranch Sandwich & tater tots Wakin’ Bacon & tater tots
+Melt is always a go-to for us. We have been coming here for years, and the service and food are always on point.
+
+The tater tots, sandwiches, mac and cheese egg rolls and mimosa pitchers are what keep us coming back. This time we got a bacon cheeseburger with fries, a Fried Chicken Bacon Ranch Sandwich with tater tots, and the Wakin' Bacon with tater tots.
+
+If you haven't been yet, what are you waiting for?

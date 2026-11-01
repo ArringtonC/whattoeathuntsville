@@ -13,6 +13,10 @@ draft: false
 status: open
 searchTerms: ["nashville", "breakfast", "brunch", "morning food", "chicken", "weekend brunch"]
 website: "https://rubybrunch.com/"
+address: "1800 21st Ave S, Nashville, TN 37212"
+area: "Hillsboro Village"
 ---
 
-A nice rubyslippercafe in The order 📝: Sweet heat fried chicken & Fried & fries with sweet heat sauce— both were delish!
+The Ruby Slipper Cafe was a nice brunch stop for us in Nashville.
+
+We ordered the sweet heat fried chicken with French toast, and the fried chicken sandwich with fries and the sweet heat sauce. Both were delicious.

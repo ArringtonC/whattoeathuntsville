@@ -1,6 +1,6 @@
 ---
 name: "Los Morelenses"
-city: Huntsville
+city: Madison
 cuisines: ["Mexican"]
 cover: /covers/videos/7483288092754070830.jpg
 coverFocus: center
@@ -13,6 +13,12 @@ occasions: []
 status: open
 searchTerms: ["huntsville", "mexican", "quesadilla with a corn tortilla", "mexican food", "taco"]
 website: "https://taquerialasmorelenses.weebly.com/"
+address: "30697 Hwy 72 W, Madison, AL 35757"
+area: "Hwy 72 W / Old Railroad Bed"
 ---
 
-I admit I’ve been gatekeeping this one 😬 But it’s time to put y’all on—Las Morelenses is that good! I spent months going almost every week just for a quesadilla. My go-to? A quesadilla with a corn tortilla for the crispiness and chicken tacos with flour. And trust me, get the green and red sauce for that extra kick! 🌮🔥 Located at a white gas station off HWY 72/ Old Railroad Bed its also tagged.
+We admit we gatekept this one for a while. But Los Morelenses is that good.
+
+For months we went almost every week just for a quesadilla. The go-to order is a quesadilla with a corn tortilla, for the crispiness, and chicken tacos on flour. Get the green and red sauce for extra kick.
+
+It is at a white gas station off Hwy 72 by Old Railroad Bed, so do not drive past it.

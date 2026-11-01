@@ -13,6 +13,12 @@ draft: false
 status: open
 searchTerms: ["huntsville", "asian", "sandwiches", "quick lunch", "asian food", "fast lunch"]
 website: "https://vietcrispwich.com/"
+address: "1300 Enterprise Way, Huntsville, AL 35806"
+area: "Enterprise Way"
 ---
 
-Y’all hear that crunch? 👀😋 Make Viet Crispwich our new go to! We tried thier Shredded Chicken Bánh Mì, fried pork dumplings, Premium Spicy Chilli Broth Noodles! Everything was sooo flavorful and crispy. Def worth a try! Fun fact: they also manage Viet House
+Y'all hear that crunch? Viet Crispwich might be our new go-to.
+
+We tried the Shredded Chicken Banh Mi, the fried pork dumplings and the Premium Spicy Chili Broth Noodles. Everything was so flavorful and crispy. It's worth a try.
+
+Fun fact: the same people also manage Viet House.

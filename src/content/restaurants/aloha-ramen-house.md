@@ -12,6 +12,10 @@ draft: false
 occasions: []
 status: open
 searchTerms: ["madison", "asian", "asian food", "noodle soup"]
+address: "1591 Hughes Rd Ste C, Madison, AL 35758"
+area: "Hughes Rd"
 ---
 
-Aloha Ramen House 🍜 in Great comfort food vibe—def recommend if you’re craving flavorful broth and crispy apps! Our order 📝: Fried Gyoza Chicken Katsu Spicy Tonkotsu Ramen with Chicken Spicy Tonkotsu Ramen with Pork 📍1591 Hughes Rd suite c
+Aloha Ramen House has a great comfort food vibe. We definitely recommend it if you're craving flavorful broth and crispy apps.
+
+We ordered the fried gyoza and the chicken katsu to start. For ramen, we got the spicy tonkotsu two ways, one with chicken and one with pork.

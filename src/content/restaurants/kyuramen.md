@@ -13,6 +13,12 @@ draft: false
 status: open
 searchTerms: ["huntsville", "asian", "date night", "asian food", "noodle soup", "romantic dinner"]
 website: "https://www.kyuramen.com"
+address: "5850 University Dr NW, Suite D2, Huntsville, AL 35806"
+area: "University Dr"
 ---
 
-I’ve been craving a good bowl of ramen BAD lately… and Kyuramen delivered 🍜👀 Our order: • Kyushu Spicy Tonkotsu Ramen (extra hot 🌶️) • Yakitori Platter • Popcorn Chicken • Lemonade • Matcha Tiramisu • S’mores Tiramisu Our order is honestly a solid place to start. Definitely give them a shot. 📍5850 University Dr NW Suite D2, Huntsville, AL 35806 Kyuramen Southeast Kyuramen.official
+We've been craving a good bowl of ramen bad lately, and Kyuramen delivered.
+
+We ordered the Kyushu Spicy Tonkotsu Ramen (extra hot), the yakitori platter, popcorn chicken, lemonade, and two desserts: the matcha tiramisu and the s'mores tiramisu.
+
+Our order is honestly a solid place to start. Definitely give them a shot.

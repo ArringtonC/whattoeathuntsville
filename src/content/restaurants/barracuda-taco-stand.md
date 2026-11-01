@@ -15,6 +15,11 @@ status: open
 searchTerms: ["huntsville", "mexican", "pork taco", "mexican food", "taco", "crispy fish tacos", "pork tacos", "shrimp tacos", "broccoli tacos", "mushroom tacos", "quesadillas", "queso", "outdoor dining", "casual", "group dining"]
 address: "535 Meridian St N, Huntsville, AL 35801"
 website: "https://www.eatbarracuda.com"
+area: "Meridian St"
 ---
 
-Is BARRACUDA TACO STAND actually worth it?? 👀🌮 Pork taco = the BEST thing we had there 🔥 Juicy + those pickled onions?? yeahhh Chicken taco right behind it since it had good flavor & the fish taco crispy & light Lime margarita on the rocks = 10/10 🍹 They were out of chips so we didn’t try the queso 🙁 so we’ll be back for that and a pitcher! Open 7am -9pm Let us know what you thought if you’ve been!⬇️
+Is Barracuda Taco Stand actually worth it? The pork taco was the best thing we had. It was juicy, and those pickled onions really made it.
+
+The chicken taco was right behind it, with good flavor. The fish taco was crispy and light. The lime margarita on the rocks was a 10 out of 10.
+
+They were out of chips, so we didn't get to try the queso. We'll be back for that and a pitcher.

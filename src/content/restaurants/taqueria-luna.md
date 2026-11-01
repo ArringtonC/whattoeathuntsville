@@ -14,6 +14,10 @@ occasions: []
 status: open
 searchTerms: ["madison", "mexican", "birria tacos", "mexican food", "quesabirria", "taco"]
 website: "https://taqueria-luna.com/"
+address: "30098 Andrea Ln, Madison, AL 35756"
+area: "Food truck"
 ---
 
-Taqueria Luna in 🔥 Their birria tacos were the star of the show! 🌮✨ That crispy, cheesy goodness was everything. We also tried the birria quesadilla, steak taco, and chicken taco—but birria took the crown! 👑 Who’s craving tacos now? 😋
+The birria tacos at Taqueria Luna were the star of the show. That crispy, cheesy goodness was everything.
+
+We also tried the birria quesadilla, the steak taco and the chicken taco. They were good, but birria took the crown. If you come here, start with the birria tacos.

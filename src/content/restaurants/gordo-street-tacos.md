@@ -1,17 +1,18 @@
 ---
 name: "Gordo Street Tacos"
-city: Madison
+city: Harvest
 area: "Harvest (Hwy 53)"
 cuisines: ["Mexican"]
 occasions: ["Quick lunch"]
 cover: /covers/videos/7475059435103128863.jpg
 coverFocus: center
-tags: ["tacos", "birria", "drive-thru", "quesadillas", "street tacos", "burritos", "tortas"]
+tags: ["tacos", "drive-thru", "quesadillas", "street tacos", "burritos"]
 label: none
 lastVerified: 2025-02-24
 draft: false
 status: closed
-searchTerms: ["madison", "harvest (hwy 53)", "mexican", "quick lunch", "mexican food", "taco", "fast lunch"]
+searchTerms: ["harvest (hwy 53)", "mexican", "quick lunch", "mexican food", "taco", "fast lunch", "harvest"]
+address: "5527 AL-53, Harvest, AL 35749"
 ---
 
-Gordo Street Tacos in Harvest 🌮 Don’t even have to get out your car for these since they have a drive thru! Located off Hwy 53
+Gordo Street Tacos in Harvest has a drive-thru, so you don't even have to get out of your car to get your tacos. It sits right off Hwy 53, which makes it an easy quick lunch.

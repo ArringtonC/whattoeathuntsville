@@ -13,6 +13,10 @@ draft: false
 status: open
 searchTerms: ["huntsville", "bbq", "cheap eats", "loaded potato with pulled chicken or pork", "barbecue", "smoked meat", "loaded potato", "budget friendly", "affordable"]
 website: "https://www.lawlersbarbecue.com/"
+address: "11310 S Memorial Pkwy SW, Suite A, Huntsville, AL 35803"
+area: "South Parkway"
 ---
 
-TWO POTATO TUESDAYSSSS featuring LawLer’s BBQ LawLers Barbecue 2 loaded potatoes for $16 😋 def a huntsville staple. We usually get pulled chicken or pulled pork. What’s your rating? Are you a LawLer’s fan? 👀
+Two Potato Tuesdays at LawLer's Barbecue is a deal we look forward to: two loaded potatoes for $16.
+
+We usually get ours with pulled chicken or pulled pork. LawLer's is a Huntsville staple for a reason, and this is one of the best cheap eats in town.

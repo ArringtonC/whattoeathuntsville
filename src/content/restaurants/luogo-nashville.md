@@ -1,18 +1,23 @@
 ---
 name: "Luogo"
 city: Nashville
-area: "Downtown"
+area: "The Gulch"
 cuisines: ["Italian"]
 occasions: ["Date night"]
 cover: /covers/videos/7480319755191209246.jpg
 coverFocus: center
-tags: ["pizza", "cocktails", "pasta", "ribs", "meatballs", "gelato", "cannoli", "short rib"]
+tags: ["pizza", "cocktails", "pasta", "meatballs", "gelato", "cannoli", "short rib"]
 label: none
 lastVerified: 2025-03-10
 draft: false
 status: open
-searchTerms: ["nashville", "downtown", "italian", "date night", "romantic dinner"]
+searchTerms: ["nashville", "italian", "date night", "romantic dinner"]
 website: "https://www.luogorestaurant.com/"
+address: "211 12th Ave S, Nashville, TN 37203"
 ---
 
-Date night Luogo Restaurant ❤️ Tried this Nashville Italian spot in and it did not disappoint! Flavorful dishes, great vibes, and super nice servers—what more can you ask for? 💁🏽‍♀️ Definitely adding this to our must-visit list! 📍 What we ordered: 🍕 Grilled Margherita Pizza 🔥 Chianti Braised Short Rib 🍝 Pappardelle With Duck Ragu 🍫 Bomboloni Their sister restaurant Pelato is great too! Tag someone you’d take here! ⬇️
+Luogo was our date night pick in Nashville, and it did not disappoint. Flavorful dishes, great vibes and super nice servers. What more can you ask for?
+
+We ordered the grilled Margherita pizza, Chianti braised short rib, pappardelle with duck ragu, and bomboloni for dessert.
+
+It is on our must-visit list now. Their sister restaurant, Pelato, is great too.

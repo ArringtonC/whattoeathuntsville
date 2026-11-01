@@ -13,6 +13,12 @@ draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "soul food", "chicken", "fried chicken sandwich", "southern food", "comfort food", "chicken wings", "wing spot", "lemon pepper", "lemon pepper chicken"]
+address: "2022 Jordan Ln NW Ste B, Huntsville, AL 35816"
+area: "Jordan Ln"
 ---
 
-Mizz Jujus in Huntsville is 🔥 Flavorful and seasoned to perfection. Check their page for the daily menu & try them asap!! The order 📝: was bomb af!!! with And you gotta try their Ocean Water (homemade juice) 😋 Located on Jordan Ln.📍 (tagged)
+Mizz Juju's is a must. The food is flavorful and seasoned to perfection.
+
+The menu changes daily, so check their page to see what's on before you go. Our order was a fried chicken sandwich with hot lemon pepper wings and honey gold wings, and it was all so good.
+
+And you have to try their Ocean Water, a homemade juice. Go try them as soon as you can.

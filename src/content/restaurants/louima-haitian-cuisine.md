@@ -1,6 +1,6 @@
 ---
 name: "LOUIMA Haitian Cuisine (food truck)"
-city: Huntsville
+city: Madison
 cuisines: ["Caribbean"]
 occasions: ["Quick lunch"]
 cover: /covers/videos/7668042158724631838.jpg
@@ -12,6 +12,13 @@ lastVerified: 2026-07-29
 draft: false
 status: open
 searchTerms: ["huntsville", "caribbean", "quick lunch", "chicken", "mac n cheese", "macaroni and cheese", "fast lunch", "mobile food"]
+area: "Food truck (Old Railroad Bed Rd)"
 ---
 
-New food truck alert!📍LOUIMA Haitian Cuisine 🇭🇹 Chef Kay is fireeeee. Huntsville has a new Haitian food truck, and we’ve already been back 3 times… so I think that says enough. 🤭 What we’ve tried: 🥬 Vegetable Stew 🐷 Spicy Fried Pork 🍗 Fried Chicken Stew 🐟 Fried Snapper Fillet 🍗 Jerk Chicken (not on the menu, but ask if they have it!) Every plate comes with rice, mac & cheese, plantains, and pikliz, so you’re getting a full meal. If it’s your first time trying Haitian food, I’d start with the vegetable stew or the fried snapper fillet. Both are super flavorful and a great introduction to the cuisine. Definitely adding this one to the list of hidden gems in Huntsville. 🇭🇹❤️ 📍711 Old Railroad Bed Rd. Open after 4pm
+Huntsville has a new Haitian food truck, and Chef Kay is on fire. We have already been back three times, which says enough.
+
+So far we have tried the vegetable stew, spicy fried pork, fried chicken stew, fried snapper fillet and jerk chicken. The jerk chicken is not on the menu, so ask if they have it.
+
+Every plate comes with rice, mac and cheese, plantains and pikliz, so you get a full meal. If it is your first time trying Haitian food, start with the vegetable stew or the fried snapper fillet. Both are super flavorful.
+
+They open after 4pm. This one is going on our list of hidden gems in Huntsville.

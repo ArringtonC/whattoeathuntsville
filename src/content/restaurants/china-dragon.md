@@ -1,6 +1,6 @@
 ---
 name: "China Dragon"
-city: Huntsville
+city: Madison
 cuisines: ["Asian"]
 occasions: ["Cheap eats"]
 cover: /covers/videos/7478874923650272554.jpg
@@ -11,7 +11,13 @@ alsoOrder: [{"name": "General Tso's or sesame chicken"}, {"name": "Lo mein"}]
 lastVerified: 2025-03-07
 draft: false
 status: open
-searchTerms: ["huntsville", "asian", "cheap eats", "asian food", "budget friendly", "affordable"]
+searchTerms: ["asian", "cheap eats", "asian food", "budget friendly", "affordable", "madison"]
+address: "7190 Wall Triana Hwy, Ste A, Madison, AL 35757"
+area: "Wall Triana Hwy"
 ---
 
-Chinese takeout 🥡 from China Dragon I’ve been coming here since I was a kid. My go-to is General Tso or Sesame Chicken and Io mein. Disclaimer: I haven’t tried anything else there!!!! What’s your favorite Chinese spot in Huntsville? 👀🍜 📍Madison, AL (by the Neighborhood Walmart/Legacy Elementary) tagged
+China Dragon is our Chinese takeout spot. Michaela has been coming here since she was a kid.
+
+Our go-to order is the General Tso's or sesame chicken with lo mein. To be fair, we haven't tried anything else on the menu, so we can only speak for those.
+
+We'd love to know your favorite Chinese spot in Huntsville.

@@ -13,6 +13,10 @@ draft: false
 status: open
 searchTerms: ["athens", "chicken", "quick lunch", "fast lunch"]
 website: "https://roostersinathens.com/"
+address: "125 US-31 S, Athens, AL 35611"
+area: "US-31"
 ---
 
-Quick bite from Rooster’s in Athens 😍🐓 The sauce >> The tenders >> Fries >> Sweet tea was hitting too 👀 Drive thru was quick…A little pricey…but honestly worth it
+Rooster's in Athens was a quick bite for us, and it delivered. The sauce was the star, with the tenders right behind it, then the fries. The sweet tea was hitting too.
+
+The drive-thru was quick. It's a little pricey, but honestly worth it.

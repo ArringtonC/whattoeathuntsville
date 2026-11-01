@@ -13,6 +13,11 @@ draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "soul food", "fried catfish", "southern food", "comfort food", "fried fish", "fish plate", "chicken wings", "wing spot"]
+area: "Food truck (Pulaski Pike)"
 ---
 
-Don’t let me regret sharing this spot with y’all 😭 I almost didn’t post this because some places I do want to hold back 🫣 but PAN-Z-EFFIE deserves some business! Open Wednesday- Saturday after 4pm The fried catfish??? 1000/10. Best I’ve had in a WHILE 😭🔥 I wanted to try the ribs but he was out, so we went with the wings instead… and they were 🔥 too. No regrets we legit stopped on a whim. This one’s getting added to the “run it back” list ASAP. Anyone know about him? 👀
+We almost did not share Pan-Z-Effie's. Some spots we want to keep to ourselves. But this one deserves the business.
+
+The fried catfish was 1000/10, the best we have had in a while. We wanted the ribs, but he was out, so we got the wings. They were great too.
+
+We stopped here on a whim and have no regrets. It is open Wednesday to Saturday, after 4pm. It is on our list to come back to soon, and we still want to try those ribs.

@@ -12,6 +12,11 @@ draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "sweet treats", "dessert", "bakery", "sweets", "gluten free"]
+area: "Home bakery / farmers market"
 ---
 
-UNREAL 🤤🍪 10/10 across the board We tried a wide variety from hunnydewbakery — cinnamon sparkle, chocolate lava, chocolate strawberry, velvet dreams… and every single cookie was made fresh and SO mouthwatering 😮‍💨 They’re gluten-friendly, support her medical treatments AND she has special Valentine’s Day cookies available 💘 👉🏽 Order by Feb 9! Check out her IG and support a local baker!
+Unreal. We give Hunnydew Bakery a 10 out of 10 across the board.
+
+We tried a wide variety: cinnamon sparkle, chocolate lava, chocolate strawberry, and velvet dreams. Every single cookie was made fresh and so mouthwatering.
+
+Her cookies are gluten-friendly, and buying them helps support her medical treatments. She also makes special Valentine's Day cookies. This is a local baker worth supporting.

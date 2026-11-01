@@ -1,0 +1,1671 @@
+[
+ {
+  "slug": "a-town-wings",
+  "address": "2608 Memorial Pkwy NW, Huntsville, AL 35810",
+  "city": "Huntsville",
+  "area": "North Huntsville",
+  "locationOk": true,
+  "locationNote": "Matches Yelp/DoorDash (2608 Memorial Pkwy NW = N Memorial Pkwy).",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "Menu snippets confirm catfish/whiting/tilapia, chicken and steak philly, chicken fried rice, shrimp, tenders. 'garlic parmesan wings' search term not verified but plausible for a wing shop. No bestDish set."
+ },
+ {
+  "slug": "aloha-ramen-house",
+  "address": "1591 Hughes Rd Ste C, Madison, AL 35758",
+  "city": "Madison",
+  "area": "Hughes Rd",
+  "locationOk": false,
+  "locationNote": "File has city only; address and area missing. Official site exists: https://www.aloharamenhouse.com/",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'Aloha Ramen House 🍜 in Great comfort food vibe' - the location word after 'in' is missing.",
+   "Order list runs together with no separators (Fried Gyoza Chicken Katsu Spicy Tonkotsu...)."
+  ],
+  "cuisineNote": "Could be 'Japanese' / 'Ramen' instead of generic 'Asian'.",
+  "notes": "Menu confirms udon, fried rice (veg and pork), curry, gyoza, katsu. Family-run per listings."
+ },
+ {
+  "slug": "baby-bite-bake-shop",
+  "address": "975 Airport Rd SW, Ste L, Huntsville, AL 35802",
+  "city": "Huntsville",
+  "area": "Airport Rd",
+  "locationOk": false,
+  "locationNote": "Address incomplete (missing SW, suite, zip); area missing. Shop is permanently closed (end of 2025).",
+  "status": "closed",
+  "tagsToRemove": [
+   {
+    "tag": "cookies",
+    "reason": "Known for cake bites; 'Cookies & Cream' is a cake-bite flavor, not cookies. No menu evidence of cookies."
+   }
+  ],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Leftover TikTok text: 'Location is tagged!'"
+  ],
+  "cuisineNote": "",
+  "notes": "Status closed is correct (Yelp CLOSED, Homely Huntsville closing article)."
+ },
+ {
+  "slug": "barracuda-taco-stand",
+  "address": "535 Meridian St N, Huntsville, AL 35801",
+  "city": "Huntsville",
+  "area": "Meridian St",
+  "locationOk": false,
+  "locationNote": "Address correct; area field missing.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Hours outdated: caption says 'Open 7am-9pm'; listing now says 9am-9pm daily, breakfast 9-11am.",
+   "Leftover call-to-action: 'Let us know what you thought if you've been!⬇️'"
+  ],
+  "cuisineNote": "",
+  "notes": "Menu confirms pork, chicken, beef, fish, mushroom, broccoli, shrimp tacos; margarita garden/outdoor seating. Nachos, kids menu, catering not directly verified."
+ },
+ {
+  "slug": "beignets-and-brew",
+  "address": "12120 County Line Rd, Suite C, Madison, AL 35756",
+  "city": "Madison",
+  "area": "County Line Rd",
+  "locationOk": false,
+  "locationNote": "Address and area missing from file. Website URL in file now returns 404.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Starts with raw handle 'beignetsandbrew' instead of the name."
+  ],
+  "cuisineNote": "Could add 'Coffee'.",
+  "notes": "Menu confirms beignets, lattes, matcha, ice cream sundaes, beer & wine. Mimosas not confirmed (only 'Beer & Wine' section seen) - verify. Caption also lists the Huntsville location (2250 Rideout Rd) of the same chain; fine."
+ },
+ {
+  "slug": "big-johns",
+  "address": "7061 Hwy 72 W, Huntsville, AL 35806",
+  "city": "Huntsville",
+  "area": "The Open Bottle (Hwy 72 W)",
+  "locationOk": false,
+  "locationNote": "Address and area missing. Operates at The Open Bottle, 7061 Hwy 72 W (from menu-check/Toast URL; could not re-verify, search budget exhausted).",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'the best fried catfish in in my opinion' - doubled 'in', missing place name."
+  ],
+  "cuisineNote": "",
+  "notes": "'wings' and 'ribs' tags come from menu-check suggestions only; not re-verified."
+ },
+ {
+  "slug": "big-papa-gyro",
+  "address": "4925 University Dr NW, Huntsville, AL 35816",
+  "city": "Huntsville",
+  "area": "University Dr",
+  "locationOk": false,
+  "locationNote": "Address and area missing from file.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "GrubSouth menu confirms falafel, hummus, baklava, Greek salad, fries, catering. No bestDish set."
+ },
+ {
+  "slug": "blue-oak-bbq",
+  "address": "1000 Mid City Dr, Huntsville, AL 35806",
+  "city": "Huntsville",
+  "area": "MidCity",
+  "locationOk": false,
+  "locationNote": "Address missing. Menu-check gives 1000 Mid City Dr; Toast URL slug says '1000 university drive'. Not re-verified (site gave no address, search budget exhausted).",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Leftover platform chatter: 'Is tiktok still being weird?? Hope not because we wanna share our experience'.",
+   "Uses handle 'BlueOakBBQ' instead of name."
+  ],
+  "cuisineNote": "",
+  "notes": "Gumbo and fajitas tags are unverified (from chain menu suggestions); confirm against the Huntsville menu. Happy hour not confirmed for Huntsville."
+ },
+ {
+  "slug": "bos-best-wings",
+  "address": "3700 Blue Spring Rd NW, Unit A, Huntsville, AL 35810",
+  "city": "Huntsville",
+  "area": "Blue Spring Rd",
+  "locationOk": false,
+  "locationNote": "Address and area missing from file. Caption gives 3700 Blue Spring Rd NW Unit A; the Square food-truck site lists 14001 Blue Spring Rd - likely the truck; keep the restaurant address.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "Square site confirms whole/boneless wings, tenders, catfish, whiting, tilapia, fried green tomatoes, fries. 'Since 1998' claim not verified."
+ },
+ {
+  "slug": "caps-philly-cheesesteak",
+  "address": "11451 S Memorial Pkwy, Huntsville, AL 35803",
+  "city": "Huntsville",
+  "area": "Nails gas station",
+  "locationOk": false,
+  "locationNote": "Area ok; street address missing. Own site lists 11451 South Memorial Pkwy.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "Site confirms homemade lemonade and breakfast (Wed-Fri). Hours Mon-Fri only, closed weekends. Cajun fries not verified."
+ },
+ {
+  "slug": "chikin-jip",
+  "address": "12120 County Line Rd, Suite A, Madison, AL 35756",
+  "city": "Madison",
+  "area": "County Line Rd",
+  "locationOk": false,
+  "locationNote": "City is right, but the file has no area and no address.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "Korean, Chicken (more exact than Asian)",
+  "notes": "Listings confirm wings, boneless chicken, soy garlic, yangnyeom, bulgogi bowl and bulgogi fries. I could not confirm the tags tteokbokki, dumplings and beer. Check them on the menu."
+ },
+ {
+  "slug": "china-dragon",
+  "address": "7190 Wall Triana Hwy, Ste A, Madison, AL 35757",
+  "city": "Madison",
+  "area": "Wall Triana Hwy",
+  "locationOk": false,
+  "locationNote": "The file says Huntsville. The caption says Madison by Neighborhood Walmart/Legacy Elementary, which matches the 7190 Wall Triana Hwy location (China Dragon III).",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [
+   "huntsville"
+  ],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Typo: 'Io mein' should be 'lo mein'",
+   "Broken text at the end: the caption ends with a stray 'tagged'"
+  ],
+  "cuisineNote": "Chinese",
+  "notes": "Change the searchTerm 'huntsville' to 'madison'."
+ },
+ {
+  "slug": "chucks-fish",
+  "address": "461 John Henry Way, Bldg 500, Madison, AL 35757",
+  "city": "Madison",
+  "area": "Clift Farm",
+  "locationOk": false,
+  "locationNote": "The file says Huntsville. The restaurant is in Madison at Clift Farm.",
+  "status": "open",
+  "tagsToRemove": [
+   {
+    "tag": "chicken parmesan",
+    "reason": "I could not confirm it on the menu. Listings show parmesan-crusted grouper and chicken, not classic chicken parm."
+   }
+  ],
+  "searchTermsToRemove": [
+   "huntsville"
+  ],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "Add 'madison' and 'clift farm' to searchTerms. Small grammar slip in the caption ('We order'), but it is fine."
+ },
+ {
+  "slug": "city-barbeque",
+  "address": "11544 Memorial Pkwy SW, Huntsville, AL 35803",
+  "city": "Huntsville",
+  "area": "South Huntsville",
+  "locationOk": false,
+  "locationNote": "City is right, but the file has no area and no address.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "A word is missing: 'they invited to try' should be 'they invited us to try'"
+  ],
+  "cuisineNote": "",
+  "notes": "Hosted visit, and the disclosure is set. The caption says 'first location in Alabama'. I could not check that. The site blocked me (403)."
+ },
+ {
+  "slug": "coopers-hawk",
+  "address": "8228 Hwy 72 W, Madison, AL 35758",
+  "city": "Madison",
+  "area": "Clift Farm",
+  "locationOk": false,
+  "locationNote": "City and area are right. The address is missing.",
+  "status": "open",
+  "tagsToRemove": [
+   {
+    "tag": "chicken parmesan",
+    "reason": "The menu has only Dana's Parmesan-Crusted Chicken, not chicken parm"
+   }
+  ],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Leftover handle text: 'cliftfarmal' (an Instagram/TikTok tag) should read 'Clift Farm'"
+  ],
+  "cuisineNote": "",
+  "notes": "The official site confirms brunch (Sat-Sun 10-2) and happy hour (Mon-Fri 3-5:30)."
+ },
+ {
+  "slug": "cutes-and-cupcakes",
+  "address": "3414 Governors Dr SW, Suite 465, Huntsville, AL 35805",
+  "city": "Huntsville",
+  "area": "Stovehouse",
+  "locationOk": false,
+  "locationNote": "City and area are right. The address is missing.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Wrong restaurant name: the business is 'Cutes and Cakes', not 'Cutes and Cupcakes'. This is also wrong in the front matter name."
+  ],
+  "cuisineNote": "",
+  "notes": "The site shows custom cakes, cupcakes and charcuterie. The caption says they sell cookies and brownies, so I kept those tags."
+ },
+ {
+  "slug": "daylight-donuts-south",
+  "address": "11823 Memorial Pkwy SW, Huntsville, AL 35803",
+  "city": "Huntsville",
+  "area": "South Huntsville",
+  "locationOk": false,
+  "locationNote": "City and area are right. The address is missing.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: the caption is cut off and ends with 'in'"
+  ],
+  "cuisineNote": "",
+  "notes": "Hours are 5:30am-2pm on weekdays."
+ },
+ {
+  "slug": "domaine-south",
+  "address": "200 West Side Square, Huntsville, AL 35801",
+  "city": "Huntsville",
+  "area": "Downtown",
+  "locationOk": true,
+  "locationNote": "",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "The menu changes each season. I could not confirm burgers, tiramisu or outdoor dining on the current menu. Steak frites with duck fat fries and salmon are confirmed in listings."
+ },
+ {
+  "slug": "dragon-alley",
+  "address": "1030 Mid City Dr, Huntsville, AL 35806",
+  "city": "Huntsville",
+  "area": "MidCity",
+  "locationOk": true,
+  "locationNote": "",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "Listings mention sushi and tuna tartare, so I kept the sushi tag. One listing says karaoke is only on Fri and Sat. The caption's 'dj every night' is unconfirmed."
+ },
+ {
+  "slug": "entice-bar-and-grille",
+  "address": "8694 Madison Blvd, Madison, AL 35758",
+  "city": "Madison",
+  "area": "Madison Blvd",
+  "locationOk": false,
+  "locationNote": "Listings put it at 8694 Madison Blvd, not University Dr. The address is missing.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [
+   "university dr"
+  ],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'I think we found the at Entice' is missing a word",
+   "Says 'of University Dr', but the listed address is on Madison Blvd"
+  ],
+  "cuisineNote": "",
+  "notes": "The listing name is 'Entice Bar & Grill' or 'Entice', and it is open 3pm-2am. Listings also say it serves tacos. The caption is dated 2026-09, so I set status to open. Add 'madison blvd' to searchTerms."
+ },
+ {
+  "slug": "floyds-barbecue",
+  "address": "5988 Pulaski Pike NW, Huntsville, AL 35810",
+  "city": "Huntsville",
+  "area": "Pulaski Pike",
+  "locationOk": false,
+  "locationNote": "City is right. The file has no area or address. Add Pulaski Pike and 5988 Pulaski Pike NW.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "The listing name is spelled 'Floyd's Barbeque'. Listings say it is cash only and drive-thru only. The menu has smoked chicken, fried okra, potato salad, coleslaw and BBQ by the pound. I found no source for 'catering' or 'Black-owned'. Check both with the owner, but they do not cause wrong food matches."
+ },
+ {
+  "slug": "fluffy-fluffy",
+  "address": "2338 Whitesburg Dr, Ste B, Huntsville, AL 35801",
+  "city": "Huntsville",
+  "area": "Whitesburg Dr",
+  "locationOk": false,
+  "locationNote": "City is right. The file has no area or address.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "The caption is a dated promo: Matcha Lover Fest combo ($14.50) and a free cheesecake slice, Oct 20 to Nov 9. lastVerified is 2025-10-27, so the promo has likely ended. Readers may expect deals that no longer exist.",
+   "It uses the Instagram handle 'fluffyfluffyusa' as text instead of the restaurant name."
+  ],
+  "cuisineNote": "",
+  "notes": "This is a Japanese souffle pancake cafe. It serves pancakes, croffles, tiramisu, cheesecake, coffee and matcha. The 'bakery' search word is a loose fit but acceptable. There is no bestDish, so bestDishOk is true by default."
+ },
+ {
+  "slug": "gordo-street-tacos",
+  "address": "5527 AL-53, Harvest, AL 35749",
+  "city": "other",
+  "area": "Harvest (Hwy 53)",
+  "locationOk": false,
+  "locationNote": "The restaurant is in Harvest, not Madison. Use city 'other' and add the address. The 'madison' search word is also wrong for this city.",
+  "status": "unknown",
+  "tagsToRemove": [
+   {
+    "tag": "birria",
+    "reason": "No listing or menu snippet shows birria. The official site shows only tacos, a combo and cheese dip."
+   },
+   {
+    "tag": "tortas",
+    "reason": "No source shows tortas on the menu."
+   }
+  ],
+  "searchTermsToRemove": [
+   "madison"
+  ],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "Status conflicts. The file says closed, and MapQuest and Yelp say CLOSED. The official site (gordosstreettacostn.com) still lists Harvest at 5527 AL-53 with daily hours. Call before you publish or remove it. Zmenu lists tacos, burritos, quesadillas and tamales. The drive-thru is confirmed."
+ },
+ {
+  "slug": "handels-ice-cream",
+  "address": "7086 Hwy 72 W, Huntsville, AL 35806",
+  "city": "Huntsville",
+  "area": "Hwy 72 W",
+  "locationOk": false,
+  "locationNote": "The file has no area or address. Huntsville has two Handel's: 7086 Hwy 72 W and 1303 Four Mile Post Rd SE. The menu check used Hwy 72 W. The caption does not say which store, so confirm it.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [
+   "bakery"
+  ],
+  "bestDishOk": true,
+  "captionIssues": [
+   "The Biscoff cheesecake flavor was a limited-time item and may be gone now. The caption is close to a sponsored post ('Thanks for the invite!!')."
+  ],
+  "cuisineNote": "",
+  "notes": "The 'cheesecake' and 'cookies' tags refer to ice cream flavors and cookie sandwiches, not slices or baked cookies. They are borderline, so I kept them. Handel's is not a bakery."
+ },
+ {
+  "slug": "hattie-bs-huntsville",
+  "address": "3212 Memorial Pkwy SW, Huntsville, AL 35801",
+  "city": "Huntsville",
+  "area": "Memorial Pkwy (Stadium Commons)",
+  "locationOk": false,
+  "locationNote": "City is right. The file has no area or address.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "The 'Poppy Seed Grilled Chicken Salad' does not appear by that name on the Huntsville print menu. The menu lists a 'Southern Salad' with grilled or fried tender bites, and also promotes a 'new salad'. Treat this as minor."
+  ],
+  "cuisineNote": "",
+  "notes": "The Huntsville print menu confirms crinkle fries, pimento mac and cheese, baked beans, bacon-cheddar grits, wings, tenders, sandwiches, kids tenders, GF sides and craft beer. Every tag is valid."
+ },
+ {
+  "slug": "hunnydew-bakery",
+  "address": "",
+  "city": "Huntsville",
+  "area": "Home bakery / farmers market",
+  "locationOk": false,
+  "locationNote": "I found no storefront. A search snippet in the menu check says it sells at the Providence Farmers Market. The file has no area. I could not verify that it is in Huntsville.",
+  "status": "unknown",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "The caption has a leftover time-limited promo: 'special Valentine's Day cookies... Order by Feb 9!'. It has expired.",
+   "It says 'Check out her IG' but gives no handle or link. The bakery's handle 'hunnydewbakery' appears as plain text."
+  ],
+  "cuisineNote": "",
+  "notes": "Web search found nothing on this bakery. The 'Black-owned' and gluten-free details come only from the earlier snippet. The caption confirms cookies and 'gluten-friendly'."
+ },
+ {
+  "slug": "jets-pizza-madison",
+  "address": "1079 Balch Rd, Suite I, Madison, AL",
+  "city": "Madison",
+  "area": "Balch Rd",
+  "locationOk": false,
+  "locationNote": "City is right. The file has no area or address, but the caption and website give 1079 Balch Rd Suite I.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Leftover giveaway text: 'Drop \"Jet's Pizza\" in the comments for a chance to win one of SIX free 4 Corner Pizzas!'",
+   "Expired grand-opening promo: 'July 29 grand opening... 4 Corner Pizza for just $4.44'."
+  ],
+  "cuisineNote": "",
+  "notes": "The chain menu confirms wings, Detroit-style deep dish, cookies, brownies and salads. 'Calzones' matches the Jet's Boat, so it is acceptable. 'wing spot' is a loose fit for a pizza place but not wrong."
+ },
+ {
+  "slug": "jon-smith-subs",
+  "address": "11156 County Line Rd, Ste G, Madison, AL 35756",
+  "city": "Madison",
+  "area": "County Line Rd",
+  "locationOk": false,
+  "locationNote": "City and area are right. The file has no address.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Typo: 'sandwhich'. This is minor."
+  ],
+  "cuisineNote": "",
+  "notes": "The chain menu has Cajun chicken subs, a Cuban and a cheesesteak. The tags are fine."
+ },
+ {
+  "slug": "kyuramen",
+  "address": "5850 University Dr NW, Suite D2, Huntsville, AL 35806",
+  "city": "Huntsville",
+  "area": "University Dr",
+  "locationOk": false,
+  "locationNote": "City is right. The file has no area or address. The caption gives the full address.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Leftover account tags at the end: 'Kyuramen Southeast Kyuramen.official'.",
+   "S'mores Tiramisu is not on the current Huntsville menu, which lists only Matcha Tiramisu. It may have been seasonal."
+  ],
+  "cuisineNote": "",
+  "notes": "The Huntsville menu confirms dumplings, takoyaki, rice bowls, omurice, yakitori, popcorn chicken, tiramisu and lemonade. The Kyuramen menu has no bubble tea. Bubble tea comes from Tbaar, which shares the space, so keep 'bubble tea' only if Tbaar is inside this store."
+ },
+ {
+  "slug": "la-parrilla-clift-farm",
+  "address": "461 John Henry Way, Ste 1080, Madison, AL 35757",
+  "city": "Madison",
+  "area": "Clift Farm",
+  "locationOk": false,
+  "locationNote": "City and area are right. The file has no address.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "It uses the Instagram handle 'cliftfarmal' as text: 'in cliftfarmal'. It should say 'at Clift Farm'."
+  ],
+  "cuisineNote": "",
+  "notes": "Listings confirm tacos, birria quesadillas, fajitas, enchiladas, burritos, quesadillas, guacamole, seafood and margaritas. The caption confirms fried fish tacos. 'budget-friendly' is supported by the caption ('under $60' for two)."
+ },
+ {
+  "slug": "las-trojas-cantina",
+  "address": "14739 Hwy 231-431 N, Suite H, Hazel Green, AL 35750",
+  "city": "other",
+  "area": "Hazel Green",
+  "locationOk": false,
+  "locationNote": "The caption is about the Hazel Green location, which is a separate town. The file says city Huntsville, area 'Hazel Green and University Dr', and has no address. The chain also has Huntsville locations (Hwy 53 and University Dr), plus Madison and Athens. An alternative is to keep city Huntsville and list the Huntsville stores, but the caption visit was Hazel Green.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "No bestDish set, so bestDishOk is true by default. The 'birria ramen', 'catering' and 'private dining' tags came from the earlier check's suggestions and are not confirmed."
+ },
+ {
+  "slug": "lawlers-barbecue",
+  "address": "11310 S Memorial Pkwy SW, Suite A, Huntsville, AL 35803",
+  "city": "Huntsville",
+  "area": "South Parkway",
+  "locationOk": false,
+  "locationNote": "The file has no area and no address. LawLer's is a local chain with several Huntsville stores: 11310 S Memorial Pkwy SW, 5004A Whitesburg Dr, and 189 Winchester Rd. Use 'Multiple locations' as the area if you do not want to pick one.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "The name repeats: 'featuring LawLer's BBQ LawLers Barbecue' (leftover TikTok tag text).",
+   "I could not confirm that the 'Two Potato Tuesdays' deal ($16 for 2) still runs. The bestDish note also uses it."
+  ],
+  "cuisineNote": "",
+  "notes": ""
+ },
+ {
+  "slug": "little-hats-nashville",
+  "address": "1120 4th Ave N, Nashville, TN 37208",
+  "city": "Nashville",
+  "area": "Germantown",
+  "locationOk": false,
+  "locationNote": "The city and area are right. The address is missing. There are also locations in Hillsboro Village/Belcourt, Franklin and Gallatin.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Typo: 'Germanton' should be 'Germantown'."
+  ],
+  "cuisineNote": "",
+  "notes": "The 'soups' and 'arancini' tags are unconfirmed suggestions."
+ },
+ {
+  "slug": "ljz-backyard-bayou",
+  "address": "3155 Old Railroad Bed Rd, Harvest, AL 35749",
+  "city": "other",
+  "area": "Harvest",
+  "locationOk": false,
+  "locationNote": "The file says city Huntsville. The place is in Harvest (Yelp, Restaurantji and the earlier check agree). The address is missing.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Wrong address: the caption says '1355 Old Railroad Bed', but the listing says 3155 Old Railroad Bed Rd.",
+   "Typo: 'Harveat' should be 'Harvest'.",
+   "Broken text: 'Its and — period'.",
+   "Typos: 'jambalya' and 'cabagge'.",
+   "The 'only open Friday-Sunday' hours may be out of date. I did not re-check them."
+  ],
+  "cuisineNote": "",
+  "notes": "The 'po boys', 'boudin balls' and 'shrimp and grits' tags are unconfirmed suggestions. Catfish, gumbo and jambalaya are confirmed by the caption."
+ },
+ {
+  "slug": "loonas-cafe",
+  "address": "20 Town Center Dr NW, Ste 1109, Huntsville, AL 35806",
+  "city": "Huntsville",
+  "area": "Providence",
+  "locationOk": false,
+  "locationNote": "The city is right. The area (Providence) and the address are missing. The cafe shares a space and a Toast account with Providence Bar.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "The 'australian', 'chicken and waffles' and 'pancakes' tags are unconfirmed suggestions. Check 'australian' if you are unsure about it. The caption's 'not a paid promotion' line is a disclaimer, not promo text."
+ },
+ {
+  "slug": "los-morelenses",
+  "address": "30697 Hwy 72 W, Madison, AL 35757",
+  "city": "Madison",
+  "area": "Hwy 72 W / Old Railroad Bed",
+  "locationOk": false,
+  "locationNote": "The file says city Huntsville. The caption's spot (a gas station off Hwy 72 at Old Railroad Bed) matches 30697 Hwy 72 W, Madison 35757, on the Limestone County side. The earlier check says other locations exist on Memorial Pkwy and Drake Ave, but the caption is about the Hwy 72 store.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "The file name 'Los Morelenses' does not match the real name, 'Taqueria Las Morelenses'. The caption uses 'Las Morelenses' correctly, so the file name is the thing to fix."
+  ],
+  "cuisineNote": "",
+  "notes": "Rename to 'Taqueria Las Morelenses'. The 'birria', 'tortas', 'gorditas', 'sopes', 'breakfast tacos' and 'burritos' tags are unconfirmed suggestions."
+ },
+ {
+  "slug": "louima-haitian-cuisine",
+  "address": "",
+  "city": "Madison",
+  "area": "Food truck (Old Railroad Bed Rd)",
+  "locationOk": false,
+  "locationNote": "This is a food truck with no fixed address. The caption and search snippets put it at 711 Old Railroad Bed Rd, which snippets list as Madison, AL. The file says Huntsville. I could not confirm the city a second time because the search limit ran out.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "Caribbean is OK. 'Haitian' would be more exact if the cuisine list allows it.",
+  "notes": "No website was found. Jerk chicken is off-menu (the caption says so), so the tag is borderline but OK. The 'catering' tag is unconfirmed."
+ },
+ {
+  "slug": "luigis-italian-grill",
+  "address": "7559 US-72, Suite 112, Madison, AL 35758",
+  "city": "Madison",
+  "area": "Hwy 72",
+  "locationOk": false,
+  "locationNote": "The city is right. The area and address are missing.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "The menu confirms lobster ravioli, Grandma's Lasagna, fettuccine Alfredo, chicken parmesan and chicken marsala. The restaurant is closed Mondays."
+ },
+ {
+  "slug": "luogo-nashville",
+  "address": "211 12th Ave S, Nashville, TN 37203",
+  "city": "Nashville",
+  "area": "The Gulch",
+  "locationOk": false,
+  "locationNote": "The area says 'Downtown'. Luogo is in The Gulch. The address is missing.",
+  "status": "open",
+  "tagsToRemove": [
+   {
+    "tag": "ribs",
+    "reason": "Luogo has only a braised short rib. It has no pork ribs, and the 'short rib' tag already covers the dish."
+   }
+  ],
+  "searchTermsToRemove": [
+   "downtown"
+  ],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'Tried this Nashville Italian spot in and' (a word is missing after 'in').",
+   "Possible wrong fact: the caption says 'Chianti Braised Short Rib', but the earlier menu check found a 'Barolo braised short rib'.",
+   "The caption names another restaurant, the sister spot Pelato. It is minor, but it is a mention of another restaurant."
+  ],
+  "cuisineNote": "",
+  "notes": "The 'gelato' and 'cannoli' tags are unconfirmed suggestions."
+ },
+ {
+  "slug": "lyli-viet-thai",
+  "address": "7407 Hwy 72 W, Ste D, Madison, AL 35758",
+  "city": "Madison",
+  "area": "Hwy 72 W",
+  "locationOk": false,
+  "locationNote": "The city is right. The area and address fields are missing, but the caption has the correct address.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "'Vietnamese' and 'Thai' would be more exact than 'Asian'.",
+  "notes": "I found a website, mylyli.square.site; the file has none. The 'boba tea', 'egg rolls', 'vegan options' and 'fried rice' tags are unconfirmed suggestions. The 'banh mi' tag is supported by a listing description."
+ },
+ {
+  "slug": "melt-downtown",
+  "address": "201 Jefferson St N Ste I, Huntsville, AL 35801",
+  "city": "Huntsville",
+  "area": "Downtown",
+  "locationOk": true,
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text at start: 'Melt in is always a go-to!' (the place name after 'in' is missing)"
+  ],
+  "cuisineNote": "",
+  "locationNote": "Address confirmed by Toast, Postmates and Wanderboat.",
+  "notes": "Official menu shows fries (beer battered), fried pickles, nachos, salads, mac 'n egg rolls, vegan cheese. Listings show a side of tots. Mimosas are not on the main menu but are on the brunch menu and in reviews. No bestDish set."
+ },
+ {
+  "slug": "metro-diner",
+  "address": "975 Airport Rd SW Ste 20-22, Huntsville, AL 35802",
+  "city": "Huntsville",
+  "area": "Airport Rd (Westburg Shopping Ctr)",
+  "locationOk": false,
+  "status": "open",
+  "tagsToRemove": [
+   {
+    "tag": "shrimp and grits",
+    "reason": "Not on the current Metro Diner menu"
+   }
+  ],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "locationNote": "File has no address and no area. Add 975 Airport Rd SW, area Airport Rd.",
+  "notes": "Menu confirms Philly cheesesteak, fried chicken and waffle, meatloaf, biscuits and sausage gravy, fried chicken, fish and chips, steak tips. Wine is not on the online menu, but the caption says they had wine, so I kept it. No bestDish set."
+ },
+ {
+  "slug": "mi-delicioso-guanajuato",
+  "address": "2818 Governors Dr SW Ste C, Huntsville, AL 35805",
+  "city": "Huntsville",
+  "area": "Governors Dr",
+  "locationOk": false,
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [
+   "tamales",
+   "mole enchiladas",
+   "agua fresca"
+  ],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Leftover TikTok text '(tagged)' at the end"
+  ],
+  "cuisineNote": "",
+  "locationNote": "Address is right. Area is missing; add 'Governors Dr'.",
+  "notes": "Same spot is listed as Dolce Pan Bakery, so the bakery and pastries tags fit. Listings confirm enchiladas and desserts. Tamales, mole and agua fresca are not confirmed on any menu I found. These are unverified, not confirmed wrong; remove them only if you want strict search words. No bestDish set."
+ },
+ {
+  "slug": "mi-tierra-oaxaquena",
+  "address": "5990 Pulaski Pike NW, Huntsville, AL 35810",
+  "city": "Huntsville",
+  "area": "Pulaski Pike",
+  "locationOk": false,
+  "status": "unknown",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Leftover TikTok text '(tagged)' at the end",
+   "Typo 'if your looking' (minor)"
+  ],
+  "cuisineNote": "",
+  "locationNote": "Address is right. It is a food truck parked at the Huntsville Citgo lot. Area is missing; add 'Pulaski Pike'.",
+  "notes": "Listed as Taqueria Mi Tierra Oaxaquena on MapQuest. No recent activity confirmed, so status is unknown. No bestDish set."
+ },
+ {
+  "slug": "mias-cafe",
+  "address": "30697 Hwy 72 W Ste B, Madison, AL 35757",
+  "city": "Madison",
+  "area": "Hwy 72 W",
+  "locationOk": false,
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [
+   "huntsville"
+  ],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Caption is cut off: the whole body is only 'Mia's Cafe in'"
+  ],
+  "cuisineNote": "",
+  "locationNote": "File says Huntsville with no address. It is in Madison at Hwy 72 and County Line Rd.",
+  "notes": "Breakfast and lunch, open 7am to 2pm. Daily meat and three plates. Swap the 'huntsville' search term for 'madison'. No bestDish set."
+ },
+ {
+  "slug": "mizz-jujus",
+  "address": "2022 Jordan Ln NW Ste B, Huntsville, AL 35816",
+  "city": "Huntsville",
+  "area": "Jordan Ln",
+  "locationOk": false,
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'The order 📝: was bomb af!!! with And you gotta try...' (the dish names are missing)",
+   "Leftover TikTok text '(tagged)' at the end"
+  ],
+  "cuisineNote": "",
+  "locationNote": "File has no address and no area. Add 2022 Jordan Ln NW Ste B, area Jordan Ln.",
+  "notes": "Now listed on Yelp as 'Mizz Juju's Food & Beverage Distribution' at the same address, with October 2026 reviews. Listings show catfish, mac and cheese, LP wings and a chicken philly. I could not confirm a fried chicken sandwich, oxtails or green beans because the search limit ran out. The best dish is plausible but not confirmed."
+ },
+ {
+  "slug": "mk-wings",
+  "address": "502 Jordan Ln NW Ste A&B, Huntsville, AL 35805",
+  "city": "Huntsville",
+  "area": "Jordan Ln",
+  "locationOk": false,
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "locationNote": "Address is right but has no ZIP. Area is missing; add 'Jordan Ln'.",
+  "notes": "Menu confirms wings, catfish, tilapia, whiting, shrimp, chicken tenders and sandwiches. It is open until 2am, so the late night tag fits. I did not see 'burgers' or 'hot honey' on menus. Bacon and cheese add-ons suggest a burger or sandwich, so I left the tags. Reviews mention honey hot lemon pepper."
+ },
+ {
+  "slug": "mobay-beignet-co",
+  "address": "1981 Jeff Rd NW, Huntsville, AL 35806",
+  "city": "Huntsville",
+  "area": "Monrovia (Jeff Rd)",
+  "locationOk": false,
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'located in on Jeff Rd' (a word is missing)",
+   "'A new spot in town' is dated; it opened in 2025"
+  ],
+  "cuisineNote": "Sweet treats is fine. Could add Burgers, because it shares the space with Bay Town Burger Co.",
+  "locationNote": "File has no address. Add 1981 Jeff Rd NW.",
+  "notes": "Shares the space with Bay Town Burger Co., so the burgers and chicken fingers tags fit. Closed Sundays. No bestDish set."
+ },
+ {
+  "slug": "mozza-pizza",
+  "address": "520 Jordan Ln NW, Huntsville, AL 35805",
+  "city": "Huntsville",
+  "area": "Jordan Ln",
+  "locationOk": false,
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'They're actually opening another location adnd have one in 📍520 Jordan Ln NW' (typo, and the other location is not named)"
+  ],
+  "cuisineNote": "",
+  "locationNote": "Address has no ZIP. Area is missing; add 'Jordan Ln'. Other locations: 8404 Memorial Pkwy SW (Mozza Pizza & Rella Gyro) and Arab, AL.",
+  "notes": "The Slice menu confirms NY style pizza, a gluten-free pizza section, calzones, wings, pasta and cannoli. searchTerms has only 'huntsville'; you could add 'pizza'. No bestDish set."
+ },
+ {
+  "slug": "nicas-grill",
+  "address": "",
+  "city": "Huntsville",
+  "area": "Food truck",
+  "locationOk": false,
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'we tried which is a fusion food truck' (a word is missing)",
+   "Typo 'Whose tried them?' (minor)"
+  ],
+  "cuisineNote": "",
+  "locationNote": "Food truck with no fixed address. Area is missing; set it to 'Food truck'. It often parks at the Orion Amphitheater and the NASA Corral.",
+  "notes": "Family-owned Latin and American fusion truck. Listings confirm loaded fries and quesadillas. The Philly item is confirmed by the earlier menu check. No bestDish set."
+ },
+ {
+  "slug": "niyahs-southern-grill",
+  "address": "1392 Jordan Rd, Suite D, Huntsville, AL 35811",
+  "city": "Huntsville",
+  "area": "Jordan Rd",
+  "locationOk": false,
+  "locationNote": "Address and city are right. Area is missing; add zip 35811.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'Niyah's Southern Grill in 🔥' (stripped #huntsvillealabama hashtag)",
+   "Broken text: 'Niyah's Southern Grill + Let us know' (stripped @mention and #blackownedrestaurant + #localbusiness)"
+  ],
+  "cuisineNote": "",
+  "notes": "Yelp, DoorDash and MapQuest confirm 1392 Jordan Rd Ste D. Menu snippets confirm smashburger, ribs, brisket, chicken and dumplings, catfish, pork chop bites, queso mac. No bestDish set."
+ },
+ {
+  "slug": "north-italia",
+  "address": "401 The Bridge St NW, Suite 180, Huntsville, AL 35806",
+  "city": "Huntsville",
+  "area": "Bridge Street Town Centre",
+  "locationOk": false,
+  "locationNote": "City and area are right. Address is missing.",
+  "status": "open",
+  "tagsToRemove": [
+   {
+    "tag": "fettuccine alfredo",
+    "reason": "Menu lists Tripoline Alfredo, not fettuccine. Use 'alfredo' instead if wanted."
+   }
+  ],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "Opened Oct 28, 2026 in the old Bravo space. Weekend brunch and weekday happy hour confirmed. Hot honey not confirmed on menu. No bestDish set."
+ },
+ {
+  "slug": "oh-crepe",
+  "address": "3414 Governors Dr SW, Suite 520, Huntsville, AL 35805",
+  "city": "Huntsville",
+  "area": "Stovehouse",
+  "locationOk": false,
+  "locationNote": "City and area are right. Address is missing.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: caption ends 'Located in Stovehouse in' (stripped hashtag)"
+  ],
+  "cuisineNote": "",
+  "notes": "Japanese-style sweet and savory crepes made with rice flour (gluten-free), plus shaved ice. Menu item is called 'Stovehouse BLT'. 'Breakfast' cuisine and 'morning food' search term are weak since Stovehouse vendors open late morning, but savory crepes make it acceptable."
+ },
+ {
+  "slug": "one-eleven",
+  "address": "111 Washington St NE, Huntsville, AL 35801",
+  "city": "Huntsville",
+  "area": "Downtown",
+  "locationOk": true,
+  "locationNote": "",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'One Eleven in 🥂🍽️' (stripped hashtag)"
+  ],
+  "cuisineNote": "",
+  "notes": "Menu has cheeseburger, steak frites, filet, mussels, crab cake, rigatoni cacio e pepe and other pastas. Jazz brunch confirmed. Caption is very thin. No bestDish set."
+ },
+ {
+  "slug": "osteria-luca",
+  "address": "3414 Governors Dr SW, Suite 705, Huntsville, AL 35805",
+  "city": "Huntsville",
+  "area": "Stovehouse",
+  "locationOk": true,
+  "locationNote": "",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "Opened March 2025. Wood-fired pizzas incl. Hot Honey & Meatball, calamari, lasagna, gnocchi, big gluten-free menu, cocktails all confirmed."
+ },
+ {
+  "slug": "pan-z-effies",
+  "address": "",
+  "city": "Huntsville",
+  "area": "Food truck (Pulaski Pike)",
+  "locationOk": false,
+  "locationNote": "Area is missing. Earlier menu check places the truck on Pulaski Pike. I could not verify further (search budget ran out).",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "alsoOrder lists 'Ribs' but the caption says he was out of ribs and they got wings instead"
+  ],
+  "cuisineNote": "",
+  "notes": "Instagram handle is panzeffie; caption spells it 'PAN-Z-EFFIE' without 's. Tags burgers, hot dogs, birria nachos, late night come only from search snippets and are unverified; Bell Dog supports hot dogs. Hours conflict: Wed-Sat after 4pm vs 5pm-4am."
+ },
+ {
+  "slug": "parlor-doughnuts",
+  "address": "2500 Clinton Ave W, Huntsville, AL",
+  "city": "Huntsville",
+  "area": "Clinton Ave W",
+  "locationOk": false,
+  "locationNote": "Address and area are missing. Address comes from the earlier menu check; I could not confirm it on the official locations page.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'Taste tested Parlor Doughnuts in they were so good' (stripped hashtag)"
+  ],
+  "cuisineNote": "",
+  "notes": "Official menu confirms savory pizza-style layered doughnuts (Buffalo Chicken, Chicken Bacon Ranch, OG Pepperoni), breakfast tacos, acai bowl, sausage biscuit sandwich, coffee. 'pizza' tag means pizza doughnuts, not real pizza; keep only if that is okay."
+ },
+ {
+  "slug": "pf-changs",
+  "address": "305 The Bridge St, Suite 101, Huntsville, AL 35806",
+  "city": "Huntsville",
+  "area": "Bridge Street Town Centre",
+  "locationOk": false,
+  "locationNote": "City and area are right. Address is missing.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "Address from official locations page. Caption 'Part 2' is fine but gives no dish names; alsoOrder items cannot be checked against the caption."
+ },
+ {
+  "slug": "pico-fresh-mex",
+  "address": "1947 Blake Bottom Rd NW, Huntsville, AL 35806",
+  "city": "Huntsville",
+  "area": "Monrovia",
+  "locationOk": false,
+  "locationNote": "City and area are right. Address is missing. Address from earlier menu check; official site blocks fetches (403).",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "Birria pizza (Pizza Quesabirria), fish tacos, birria nachos, margaritas confirmed by snippets. Happy hour, bowls, kids menu not verified."
+ },
+ {
+  "slug": "pita-street-food",
+  "address": "300 Hughes Rd, Madison, AL 35758",
+  "city": "Madison",
+  "area": "Hughes Rd",
+  "locationOk": false,
+  "locationNote": "City is right. Area and address are missing.",
+  "status": "open",
+  "tagsToRemove": [
+   {
+    "tag": "lemonade",
+    "reason": "Not on the official menu"
+   }
+  ],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "Real name is PITA Mediterranean Street Food. Official menu confirms gyros, steak shawarma, falafel, hummus, baklava, fries; halal meats. Raspberry lemonade in caption/alsoOrder may be a fountain drink. There is also a Huntsville store at 11610 Memorial Pkwy."
+ },
+ {
+  "slug": "playa-bowls",
+  "address": "460 John Henry Way, Suite 390, Madison, AL 35758",
+  "city": "Madison",
+  "area": "Clift Farm",
+  "locationOk": false,
+  "locationNote": "City and area are right, but the address is missing. Add 460 John Henry Way, Suite 390. Website field points to /location/madison; the Clift Farm page is https://www.playabowls.com/location/clift-farm-madison.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Typo: 'Cliff Farms' should be 'Clift Farm'",
+   "'They have 3 locations across Huntsville/Madison' is unverified; the earlier check found two Madison spots (Clift Farm and Town Madison)",
+   "Typo: 'protien'"
+  ],
+  "cuisineNote": "",
+  "notes": "No bestDish set. Open daily 8am-8pm per listings."
+ },
+ {
+  "slug": "rds-smokehouse",
+  "address": "1811 Nick Davis Rd, Harvest, AL 35749",
+  "city": "other",
+  "area": "Harvest (Nick Davis Rd)",
+  "locationOk": false,
+  "locationNote": "Address is in Harvest, not Madison. Set city to 'other' and add the address. The caption ('off Nick Davis at the 4 way stop') matches this location. A second location is at 1109 Slaughter Rd, Madison.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "The official site has an expired SSL certificate, so I could not check catfish, nachos, ribs, or hush puppies. Those tags came from the earlier check's suggestions without confirmation. The earlier check said the loaded potato comes with pork or chicken. Brisket is on the menu, and the caption says they order it with brisket, so I kept it."
+ },
+ {
+  "slug": "roosters-athens",
+  "address": "125 US-31 S, Athens, AL 35611",
+  "city": "Athens",
+  "area": "US-31",
+  "locationOk": false,
+  "locationNote": "City is right. Area and address are missing.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "No bestDish set. Listings confirm chicken fingers, wings, toast, and fish. I could not confirm fried pickles or fried mushrooms because the order page returned 403. The fish is not named as catfish in what I saw."
+ },
+ {
+  "slug": "rosies-cantina",
+  "address": "6196 University Drive, Huntsville, AL 35806",
+  "city": "Huntsville",
+  "area": "University Drive",
+  "locationOk": true,
+  "locationNote": "Confirmed on the official site.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "The official site shows enchiladas, tacos, and a kids menu. No bestDish set."
+ },
+ {
+  "slug": "ruby-slipper-nashville",
+  "address": "1800 21st Ave S, Nashville, TN 37212",
+  "city": "Nashville",
+  "area": "Hillsboro Village",
+  "locationOk": false,
+  "locationNote": "Address and area are missing. The Nashville location is branded Ruby Sunshine (same owners and menu as Ruby Slipper). Consider naming it 'Ruby Sunshine' or 'Ruby Sunshine (Ruby Slipper)'.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'A nice rubyslippercafe in The order' is missing words (stripped hashtags or place names)",
+   "Broken text: 'Sweet heat fried chicken & Fried & fries' is missing words; alsoOrder suggests it should say French toast and a fried chicken sandwich",
+   "Name mismatch: the Nashville location is branded Ruby Sunshine, not Ruby Slipper Cafe"
+  ],
+  "cuisineNote": "",
+  "notes": "No bestDish set. lastVerified is 2023."
+ },
+ {
+  "slug": "sacs-kitchen",
+  "address": "6008 Mastin Lake Rd NW, Suite B, Huntsville, AL 35810",
+  "city": "Huntsville",
+  "area": "Mastin Lake Rd",
+  "locationOk": false,
+  "locationNote": "City is right. Area and address are missing.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "The caption and the earlier check confirm wings, catfish, mac and cheese, green beans, and a buffet. No bestDish set."
+ },
+ {
+  "slug": "sam-and-gregs",
+  "address": "116 S Side Sq, Huntsville, AL 35801",
+  "city": "Huntsville",
+  "area": "Downtown",
+  "locationOk": false,
+  "locationNote": "City and area are right. Address is missing. There is also a Madison location at 364 Hughes Rd.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'located in & 🤤 Try the & 🌶️' is missing words (stripped hashtags); it should read something like 'located in downtown Huntsville... Try the Sweet & Spicy BBQ pizza'"
+  ],
+  "cuisineNote": "Could add 'Sweet treats' for the gelato",
+  "notes": "The Sweet & Spicy BBQ pizza is on the menu (BBQ sauce, chicken, bacon, pineapple, jalapeno). Gluten-free crust is confirmed. The online order menu lists no beer, but delivery menus often leave out alcohol, so I could not confirm or rule out 'craft beer'. Dog-friendly and patio are not verified."
+ },
+ {
+  "slug": "scoop-and-slice",
+  "address": "30029 Capshaw Rd, Suite B, Harvest, AL 35749",
+  "city": "other",
+  "area": "Harvest (Capshaw Rd)",
+  "locationOk": false,
+  "locationNote": "The file says Madison, Old Railroad Bed & Capshaw. Listings put it at 30029 Capshaw Rd B, Harvest, AL 35749 (Limestone County).",
+  "status": "temporarily-closed",
+  "tagsToRemove": [
+   {
+    "tag": "pasta",
+    "reason": "No pasta on the full online menu"
+   },
+   {
+    "tag": "fettuccine alfredo",
+    "reason": "Not on the menu. The Alfredo is only a pizza sauce base."
+   }
+  ],
+  "searchTermsToRemove": [
+   "bakery"
+  ],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "The Yelp listing title (updated October 2026) says 'TEMP. CLOSED'. The official menu says 'NON LIVE LOCATION' and online orders are closed. Re-check the status before showing it as open. The menu confirms wings, coffee, milkshakes, smoothies, pastries, Philly Cheesesteak Pizza, and the Italian Club. 'bakery' overstates it; it sells some pastries but is not a bakery (optional removal)."
+ },
+ {
+  "slug": "seoul-good",
+  "address": "3414 Governors Dr SW, Suite 510, Huntsville, AL 35805",
+  "city": "Huntsville",
+  "area": "Stovehouse",
+  "locationOk": false,
+  "locationNote": "City is right. Area (Stovehouse) and address are missing.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "Could use 'Korean' if that cuisine exists; 'Asian' is acceptable",
+  "notes": "The menu confirms wings, tenders, Korean corn dogs, dukbokki (tteokbokki), kimchi, bingsu, Korean cheese corn, and pickled cucumber. No bestDish set."
+ },
+ {
+  "slug": "steam-boys",
+  "address": "8294 Hwy 72 W, Building 200, Madison, AL 35758",
+  "city": "Madison",
+  "area": "Clift Farm",
+  "locationOk": false,
+  "locationNote": "City and area are right (Hville Blast confirms 8294 Hwy 72 W #200 is the Clift Farm store). Address is missing. Steam Boys also has a separate 'Old Madison' page.",
+  "status": "open",
+  "tagsToRemove": [
+   {
+    "tag": "burgers",
+    "reason": "No burgers on the menu. The only burger item is cheeseburger dumplings, so this tag would match burger searches wrongly."
+   }
+  ],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "No bestDish set. The official site returned 403, so I could not check the Thursday $20 all-you-can-eat dumplings deal or the cheeseburger dumplings. Both are plausible, but a weekly price deal may go out of date."
+ },
+ {
+  "slug": "sunnyside-pizzeria-atlanta",
+  "address": "220 Sandy Springs Cir NE, Suite 149, Sandy Springs, GA 30328",
+  "city": "Atlanta",
+  "area": "Sandy Springs",
+  "locationOk": false,
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Calls it 'Honey Hot Pizza'; menu name is 'Hot Honey Char' pizza"
+  ],
+  "cuisineNote": "",
+  "locationNote": "File has no address or area. It is in Sandy Springs (metro Atlanta), not Atlanta proper.",
+  "notes": "Wings (hot honey lemon pepper), salads, pasta, gelato, Neapolitan pies all confirmed by listings. Suggest renaming bestDish to 'Hot Honey Char Pizza'."
+ },
+ {
+  "slug": "super-chix-madison",
+  "address": "100 Moon Shot Dr, Suite 100, Madison, AL 35758",
+  "city": "Madison",
+  "area": "Town Madison",
+  "locationOk": false,
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'Super Chix in did NOT disappoint' (location word missing after 'in')"
+  ],
+  "cuisineNote": "",
+  "locationNote": "Address missing. Area 'by Toyota Field' is accurate but 'Town Madison' is the standard label.",
+  "notes": "Official menu confirms sandwiches, Nashville Hot, grilled filets, salads, tenders, loaded fries, kids nuggets, frozen custard. No bestDish set."
+ },
+ {
+  "slug": "superhero-chefs",
+  "address": "930 Old Monrovia Rd NW, Suite 3, Huntsville, AL 35806",
+  "city": "Huntsville",
+  "area": "MidCity",
+  "locationOk": false,
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'has tasty & options!' (word missing, likely 'vegan')",
+   "Broken text: 'Visit them when they have located in' (location missing, sentence garbled)"
+  ],
+  "cuisineNote": "Mainly breakfast/brunch American with a vegan menu; 'Vegan' as a primary cuisine overstates it. Suggest Breakfast, American (vegan options).",
+  "locationNote": "Address and area missing. Next to Stars & Strikes, MidCity area.",
+  "notes": "Chef Darnell Ferguson. Open Tue-Sun 8-3. Website superherochefshsv.com not in file. No bestDish set."
+ },
+ {
+  "slug": "tacos-de-canasta-acapulco",
+  "address": "7192 Wall Triana Hwy, Suite A, Madison, AL 35757",
+  "city": "Madison",
+  "area": "Wall Triana Hwy",
+  "locationOk": true,
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "locationNote": "Address correct; area field empty (optional).",
+  "notes": "Menu confirms tacos de canasta, asada, birria tacos, nachos, quesadillas, tortas. Gorditas confirmed by caption. Chilaquiles, sopes, pambazos not seen in listings (unverified, not removed). No bestDish set though caption says GET THE GORDITAS."
+ },
+ {
+  "slug": "tamarind-island",
+  "address": "5909 University Dr NW, Huntsville, AL 35806",
+  "city": "Huntsville",
+  "area": "The Camp",
+  "locationOk": false,
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'located in at The Camp' (location word missing)"
+  ],
+  "cuisineNote": "",
+  "locationNote": "Area right (food truck parked at The Camp); address missing.",
+  "notes": "Real name is 'Tamarind Island Grille'. Large vegan menu (vegan jerk chicken, vegan fish and chips). Curry goat, seafood, fish fry not verified (site 403); kept. No bestDish set."
+ },
+ {
+  "slug": "taqueria-catedral",
+  "address": "",
+  "city": "other",
+  "area": "Harvest (Hwy 53 Chevron)",
+  "locationOk": false,
+  "status": "unknown",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [
+   "madison"
+  ],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'Nothing like good taco truck' and 'off at the Chevron' (words missing)"
+  ],
+  "cuisineNote": "",
+  "locationNote": "Caption places it in Harvest, which is its own area, not Madison. No listing found online.",
+  "notes": "No online trace of Taqueria Catedral; may be closed or renamed. Catrinas (6046 Hwy 53, Harvest) is a different truck. Consider hiding until confirmed."
+ },
+ {
+  "slug": "taqueria-don-pancho",
+  "address": "7950 Hwy 72 W, Madison, AL 35758",
+  "city": "Madison",
+  "area": "Hwy 72 W",
+  "locationOk": true,
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'Taqueria Don Pancho in 🔥🌮' (location word missing)",
+   "Broken text: 'The order 📝 😋🫶🏽 mamalona steak & chicken' (dish names missing)"
+  ],
+  "cuisineNote": "",
+  "locationNote": "Address correct.",
+  "notes": "Quesabirria, alambre, machete, burritos, tortas confirmed."
+ },
+ {
+  "slug": "taqueria-dona-vale",
+  "address": "7190 Wall Triana Hwy, Madison, AL 35757",
+  "city": "Madison",
+  "area": "Wall Triana Hwy",
+  "locationOk": false,
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [
+   "harvest"
+  ],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "locationNote": "Address missing from front matter. Mailing city is Madison; 'Harvest' area is loose (caption says Madison/Harvest). Next door to Tacos de Canasta Acapulco.",
+  "notes": "Hours 6AM-3PM daily. Shredded chicken not on online listings but shown in caption; kept. Breakfast tag is based on hours only."
+ },
+ {
+  "slug": "taqueria-las-adelitas",
+  "address": "6212 Madison Pike, Huntsville, AL 35806",
+  "city": "Huntsville",
+  "area": "Madison Pike",
+  "locationOk": false,
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'Taqueria Las Adelitas 🌮 in that fish taco was 🔥' (location word missing)"
+  ],
+  "cuisineNote": "",
+  "locationNote": "Address and area missing.",
+  "notes": "Fish tacos, birria, California burrito, ceviche confirmed. Carne asada fries not verified."
+ },
+ {
+  "slug": "taqueria-los-3-reales",
+  "address": "11563 Memorial Pkwy SW, Huntsville, AL 35803",
+  "city": "Huntsville",
+  "area": "South Huntsville",
+  "locationOk": false,
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'let's 🌮 bout' and 'We're pretty often tbh' (word missing)",
+   "Address typo: 'Memorial Parkway SW SE'"
+  ],
+  "cuisineNote": "",
+  "locationNote": "Address missing from file. South truck is #2 at 11563 Memorial Pkwy SW; a 2026 Yelp listing for #2 shows 2723 Clinton Ave W, so it may have moved. Main food bus is 1117 Jordan Ln NW.",
+  "notes": "Cash only is mixed: some listings say cash only, one says cards accepted. Lengua, al pastor, sopes, tortas, burritos confirmed; huaraches, gringas, mulitas not verified."
+ },
+ {
+  "slug": "taqueria-luna",
+  "address": "30098 Andrea Ln, Madison, AL 35756",
+  "city": "Madison",
+  "area": "Food truck",
+  "locationOk": false,
+  "locationNote": "City right, but area and address are missing. Official site gives 30098 Andrea Lane, Madison.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'Taqueria Luna in 🔥' (city name dropped after 'in')."
+  ],
+  "cuisineNote": "",
+  "notes": "Official site menu confirms birria tacos, birria quesadilla, sopes, burritos, loaded nachos, cheese empanadas, asada. All tags supported."
+ },
+ {
+  "slug": "teriyaki-express-grill",
+  "address": "6540 Wall Triana Hwy, Madison, AL",
+  "city": "Madison",
+  "area": "Capshaw & Wall Triana",
+  "locationOk": false,
+  "locationNote": "City and area right. Address field is missing; caption gives 6540 Wall Triana Hwy (food truck spot). Could not confirm with a live listing.",
+  "status": "open",
+  "tagsToRemove": [
+   {
+    "tag": "covered patio",
+    "reason": "Food truck; no source shows a covered patio. Unverified."
+   }
+  ],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Broken text: 'Teriyaki Express Grill in 🔥' (city dropped after 'in').",
+   "Missing punctuation: 'Wall Triana Fried gyoza' runs two sentences together."
+  ],
+  "cuisineNote": "",
+  "notes": "No bestDish set. Shrimp supported by listing (chicken & shrimp teriyaki). Hibachi not confirmed but plausible for a teriyaki truck. Menu site would not load."
+ },
+ {
+  "slug": "the-biscuit-express",
+  "address": "5077 Moores Mill Rd, Huntsville, AL",
+  "city": "Huntsville",
+  "area": "Moores Mill Rd",
+  "locationOk": false,
+  "locationNote": "City and area right; address field missing. Official site: 5077 Moores Mill Rd. Chain also has Meridianville and Owens Cross Roads locations.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Out of date: says 2 locations; site now lists 3 plus a food truck.",
+   "Out of date: 'Heard that they're opening a food truck soon!' - the truck is running now.",
+   "Leftover handle text 'Thebiscuitexpress' at the end.",
+   "Typo 'Moores Mills Rd' and missing space after 'Rd.'"
+  ],
+  "cuisineNote": "",
+  "notes": "No bestDish set. Official site confirms biscuits, burgers, sandwiches, specialty sodas, 4:30am open. Food truck tag is real (trailer Fri-Sat at the Grid)."
+ },
+ {
+  "slug": "the-cheesecake-factory",
+  "address": "300 The Bridge St NW, Suite 110, Huntsville, AL 35806",
+  "city": "Huntsville",
+  "area": "Bridge Street Town Centre",
+  "locationOk": false,
+  "locationNote": "City and area right; address field missing.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Leftover word 'social' at the end.",
+   "Order list runs together with no line breaks or punctuation."
+  ],
+  "cuisineNote": "",
+  "notes": "Brunch (Sat-Sun until 2pm) and happy hour (Mon-Fri 4-6pm) confirmed on location page. No bestDish set."
+ },
+ {
+  "slug": "the-moon-bakeshop",
+  "address": "201 Jefferson St, Huntsville, AL",
+  "city": "Huntsville",
+  "area": "Downtown",
+  "locationOk": false,
+  "locationNote": "City and area right; address field missing.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Caption is broken: words are missing ('located in head there for some tasty and from a featuring: a &'). Needs a rewrite."
+  ],
+  "cuisineNote": "",
+  "notes": "Menu is a PDF; only cookies and cinnamon rolls are confirmed. Croissants, cruffins, custom cakes, breakfast sandwiches, vegan options are unverified but plausible for this bakery. No bestDish set."
+ },
+ {
+  "slug": "the-spot",
+  "address": "1605 Pulaski Pike NW, Ste 3, Huntsville, AL 35816",
+  "city": "Huntsville",
+  "area": "Pulaski Pike",
+  "locationOk": false,
+  "locationNote": "City right; area and address missing.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Leftover text '📍is tagged' at the end."
+  ],
+  "cuisineNote": "",
+  "notes": "Official site confirms wings, catfish, turkey ribs, shrimp, tacos, hookah, Taco Tuesday, happy hour. No bestDish set."
+ },
+ {
+  "slug": "the-veggie",
+  "address": "7504 US-72, Suite A5, Madison, AL",
+  "city": "Madison",
+  "area": "US-72 W",
+  "locationOk": false,
+  "locationNote": "File says Huntsville; official site now gives 7504 US 72 Ste A5, Madison. Moved from Lowe Mill.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [
+   "huntsville"
+  ],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Caption is broken: only 'located in'. Needs a rewrite."
+  ],
+  "cuisineNote": "",
+  "notes": "Menu confirms Impossible burgers, buffalo shrimp po' boy, bowls, salads; catering on site. Search term 'huntsville' should become 'madison' if the city changes."
+ },
+ {
+  "slug": "tulum-cantina",
+  "address": "671 Martin Rd SW, Huntsville, AL",
+  "city": "Huntsville",
+  "area": "Martin Rd",
+  "locationOk": false,
+  "locationNote": "City right; area and address missing. Caption gives 671 Martin Rd SW.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "Full listing name is 'Tulum Cantina & Grill'. Yelp menu confirms birria tacos, fajitas, enchiladas, quesadillas, burritos, nacho bar, vegetarian options. Patio not verified. No bestDish set."
+ },
+ {
+  "slug": "viet-crispwich",
+  "address": "1300 Enterprise Way, Huntsville, AL 35806",
+  "city": "Huntsville",
+  "area": "Enterprise Way",
+  "locationOk": false,
+  "locationNote": "City right; area and address missing.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Mentions another restaurant: 'they also manage Viet House' - not verified in any listing.",
+   "Typos: 'thier', 'Chilli'."
+  ],
+  "cuisineNote": "Could add Vietnamese",
+  "notes": "Official site confirms banh mi, noodle bowls, fried rice, egg rolls, dumplings, boba, Vietnamese coffee. Lunch combo not confirmed. No bestDish set."
+ },
+ {
+  "slug": "viet-house",
+  "address": "975 Airport Rd SW, Ste B2, Huntsville, AL 35802",
+  "city": "Huntsville",
+  "area": "Airport Rd",
+  "locationOk": true,
+  "locationNote": "Address and city right; area field is empty (suggest 'Airport Rd'). Suite B2 could be added.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [
+   "made angry (spicy)"
+  ],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Spice wording mismatch: bestDish says 'made angry', caption uses 'level 1 / level 3'. Minor."
+  ],
+  "cuisineNote": "Could add Vietnamese",
+  "notes": "Search budget was exhausted; relied on menu-check (pho, dumplings, spring rolls, banh mi, clay pot rice confirmed). 'made angry (spicy)' search term is not a food word, not harmful but odd. Closed Tuesdays."
+ },
+ {
+  "slug": "vujee-vegan",
+  "address": "4701 Meridian St N, Ste K, Huntsville, AL 35811",
+  "city": "Huntsville",
+  "area": "Meridian St N",
+  "locationOk": false,
+  "locationNote": "File has city only; add address and area. Address comes from the caption and earlier menu check. I could not re-verify it live because the web search budget ran out.",
+  "status": "open",
+  "tagsToRemove": [
+   {
+    "tag": "waffles",
+    "reason": "Only waffle fries are seen. No waffles."
+   },
+   {
+    "tag": "Philly cheesesteak",
+    "reason": "Only Philly egg rolls are confirmed. No full cheesesteak seen."
+   }
+  ],
+  "searchTermsToRemove": [
+   "cheesesteak"
+  ],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Typo: 'waffles fries we so good' should be 'waffle fries were so good'.",
+   "Caption ends with hours (Tue-Sat 11-7). These may be stale; I did not verify them."
+  ],
+  "cuisineNote": "",
+  "notes": "Official site has no menu or address. 'philly' search term is fine because of Philly egg rolls. Lemonade is in the caption, so keep it."
+ },
+ {
+  "slug": "west-end-grill",
+  "address": "6610 Old Madison Pike Unit 109, Huntsville, AL 35806",
+  "city": "Huntsville",
+  "area": "Old Madison Pike",
+  "locationOk": false,
+  "locationNote": "Address and city are right (Restaurant Guru). Area field is missing.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [
+   "loaded potato"
+  ],
+  "bestDishOk": true,
+  "captionIssues": [
+   "Typo: 'Patty melt & eye bread' should be 'rye bread' (menu says marbled rye)."
+  ],
+  "cuisineNote": "American (steaks, pot roast, burgers) first; Wings is a side line.",
+  "notes": "No bestDish set. Menu has lemon pepper and Jamaican jerk wing sauces, patty melt, ribeye, pot roast, cheese curds, peanut butter pie. Potato skins are not on the listed menu, but the caption says they are a new item, so 'loaded potato' search term is weak; remove or keep at your choice. 'brunch' tag is not confirmed on the menu. 'budget-friendly' is borderline (ribeye $34+), caption says under $60 for two."
+ },
+ {
+  "slug": "willie-bs-nashville",
+  "address": "918 Buchanan St, Nashville, TN 37208",
+  "city": "Nashville",
+  "area": "North Nashville",
+  "locationOk": false,
+  "locationNote": "City is right. Address and area are missing.",
+  "status": "closed",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "Yelp lists it as CLOSED (per earlier menu check). Not re-verified live: web search budget ran out."
+ },
+ {
+  "slug": "wings-and-gyros",
+  "address": "1212 Sparkman Dr NW, Huntsville, AL 35816",
+  "city": "Huntsville",
+  "area": "Sparkman Dr / UAH",
+  "locationOk": false,
+  "locationNote": "Address and area are missing. Official site gives 1212 Sparkman Dr NW.",
+  "status": "open",
+  "tagsToRemove": [],
+  "searchTermsToRemove": [],
+  "bestDishOk": true,
+  "captionIssues": [],
+  "cuisineNote": "",
+  "notes": "Official menu confirms wings (lemon pepper), gyros, burgers, Philly steak, pizza, ice cream. Halal is not on the official site; earlier check says listings call the wings halal, so keep. ZIP 35816 is my best guess and was not verified."
+ }
+]

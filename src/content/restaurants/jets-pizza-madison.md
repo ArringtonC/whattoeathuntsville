@@ -13,6 +13,12 @@ draft: false
 status: open
 searchTerms: ["madison", "family", "chicken wings", "wing spot"]
 website: "https://www.jetspizza.com/stores/alabama/madison/1079-balch-rd-suite-i/"
+address: "1079 Balch Rd, Suite I, Madison, AL"
+area: "Balch Rd"
 ---
 
-Jets Pizza 🍕is definitely flying under the radar in Madison We stopped by ahead of their July 29 grand opening, where they’ll be offering their 4 Corner Pizza for just $4.44, and here’s what we tried: 🍕 4 Corner Deep Dish (Half Buffalo Chicken Ranch, Half All Meat) 🍕 Thin Crust (Half Cheese, Half Pepperoni & Jalapeños) 🍗 Wings (Half BBQ, Half Buffalo) 🍪 Cookie 🍫 Brownie And can we talk about the ranch? They make it in-house, and it was SO good. If you’re a ranch person, don’t skip it. 📍1079 Balch Rd, Suite I, Madison, AL Drop “Jet’s Pizza” in the comments for a chance to win one of SIX free 4 Corner Pizzas!
+Jet's Pizza is flying under the radar in Madison. We stopped by right before their grand opening.
+
+We tried the 4 Corner Deep Dish (half buffalo chicken ranch, half all meat), a thin crust (half cheese, half pepperoni and jalapeños), wings (half BBQ, half buffalo), a cookie, and a brownie.
+
+And can we talk about the ranch? They make it in-house, and it was so good. If you're a ranch person, don't skip it.

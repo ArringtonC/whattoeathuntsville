@@ -12,6 +12,7 @@ draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "south huntsville", "sweet treats", "breakfast", "dessert", "bakery", "sweets", "morning food"]
+address: "11823 Memorial Pkwy SW, Huntsville, AL 35803"
 ---
 
-Started our morning at Daylight Donuts 🍩☀️ in
+We started our morning at Daylight Donuts.

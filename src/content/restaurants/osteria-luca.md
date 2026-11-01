@@ -13,8 +13,12 @@ lastVerified: 2026-04-04
 draft: false
 status: open
 searchTerms: ["huntsville", "italian", "date night", "group", "hot honey meatball pizza", "romantic dinner"]
-address: "3414 Governors Dr SW Ste 705, Huntsville, AL 35805"
+address: "3414 Governors Dr SW, Suite 705, Huntsville, AL 35805"
 area: "Stovehouse"
 ---
 
-Osteria Luca might be one of my new favorites 👀 The order 📝 • Caesar Salad • Hot Honey Meatball Pizza (THIS was the one 🔥) • Fettuccine Alfredo Everything was super fresh + flavorful. Great place for large groups, date nights, and bdays!
+Osteria Luca might be one of our new favorites.
+
+We ordered the Caesar salad, the hot honey meatball pizza and the fettuccine alfredo. The hot honey meatball pizza was the one. Everything tasted super fresh and full of flavor.
+
+It is a great place for large groups, date nights and birthdays.

@@ -13,6 +13,10 @@ draft: false
 status: open
 searchTerms: ["huntsville", "sweet treats", "breakfast", "brunch", "dessert", "bakery", "sweets", "morning food", "weekend brunch"]
 website: "https://www.fluffyfluffy.com"
+address: "2338 Whitesburg Dr, Ste B, Huntsville, AL 35801"
+area: "Whitesburg Dr"
 ---
 
-Huntsville, y’all… fluffyfluffyusa is serving up fall coziness ☁️🍵 Weekdays = Matcha Lover Fest Combo ($14.50 for pancake + latte) Weekends = free cheesecake slice with any all-day menu item 🍰 📅 Oct 20–Nov 9 — it’s giving fluffy, sweet, and so worth the stop!
+We stopped by Fluffy Fluffy for some fall coziness. On weekdays they ran a Matcha Lover Fest combo, a matcha pancake and a latte for $14.50. On weekends you got a free cheesecake slice with any item from the all-day menu.
+
+Those deals ran Oct 20 to Nov 9, so they may be gone by the time you visit. Either way, we found it fluffy, sweet, and worth the stop.

@@ -1,6 +1,6 @@
 ---
 name: "The Veggie"
-city: Huntsville
+city: Madison
 cuisines: ["Vegan"]
 cover: /covers/videos/7262939544482319659.jpg
 coverFocus: center
@@ -10,8 +10,10 @@ lastVerified: 2023-08-03
 draft: false
 occasions: []
 status: open
-searchTerms: ["huntsville", "plant based", "plant-based"]
+searchTerms: ["plant based", "plant-based", "madison"]
 website: "https://www.eattheveggie.com/"
+address: "7504 US-72, Suite A5, Madison, AL"
+area: "US-72 W"
 ---
 
-located in
+The Veggie is a vegan spot in Huntsville. We don't have a full write-up for this one yet.

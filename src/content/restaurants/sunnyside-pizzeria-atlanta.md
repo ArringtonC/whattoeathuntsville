@@ -13,6 +13,10 @@ occasions: []
 status: open
 searchTerms: ["atlanta", "honey hot pizza"]
 website: "https://sunnysidepizzeria.com"
+address: "220 Sandy Springs Cir NE, Suite 149, Sandy Springs, GA 30328"
+area: "Sandy Springs"
 ---
 
-You must try the Honey Hot Pizza from Sunnyside Pizzeria in Atlanta 🍯🌶️🍕. I’ve been sitting on this video for a while… and I decided I will no longer gatekeep this one.
+This one is a road-trip pick. If you find yourself in Atlanta, you have to try the Honey Hot Pizza at Sunnyside Pizzeria.
+
+We sat on this one for a while, honestly. But it's too good to keep to ourselves, so we're done gatekeeping it.

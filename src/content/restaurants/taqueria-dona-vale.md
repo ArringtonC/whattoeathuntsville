@@ -1,7 +1,7 @@
 ---
 name: "Taqueria Do\u00f1a Vale"
 city: Madison
-area: "Harvest"
+area: "Wall Triana Hwy"
 cuisines: ["Mexican"]
 cover: /covers/videos/7519952740978658591.jpg
 coverFocus: center
@@ -12,7 +12,10 @@ lastVerified: 2025-06-25
 draft: false
 occasions: []
 status: open
-searchTerms: ["madison", "harvest", "mexican", "shredded chicken tacos", "mexican food", "taco"]
+searchTerms: ["madison", "mexican", "shredded chicken tacos", "mexican food", "taco"]
+address: "7190 Wall Triana Hwy, Madison, AL 35757"
 ---
 
-Shredded taco fan? Me too! Check out this under the radar taco spot we found in Madison/Harvest: Taqueria Doña Vale 🌮 Let us know if you’ve been in the comments! And if you’re a shredded taco fan or prefer diced chicken? 👀 Location is tagged but just in case: 7190 Wall Triana Hwy, Madison, AL 35757 Near Legacy Elementary
+Shredded chicken taco fan? Us too. Taqueria Doña Vale is an under-the-radar taco spot we found in Madison, out in Harvest near Legacy Elementary.
+
+The shredded chicken tacos are the reason to go. Are you team shredded or team diced chicken?

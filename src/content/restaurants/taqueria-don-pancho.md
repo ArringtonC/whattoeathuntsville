@@ -1,7 +1,7 @@
 ---
 name: "Taqueria Don Pancho"
 city: Madison
-address: "7950 Hwy 72 W, Madison, AL"
+address: "7950 Hwy 72 W, Madison, AL 35758"
 cuisines: ["Mexican"]
 cover: /covers/videos/7513339613671394590.jpg
 coverFocus: center
@@ -15,6 +15,11 @@ occasions: []
 status: open
 searchTerms: ["madison", "mexican", "birria tacos", "mexican food", "quesabirria", "taco"]
 website: "https://taqueriadonpanchoal.com"
+area: "Hwy 72 W"
 ---
 
-Taqueria Don Pancho in 🔥🌮 The reviewers online didn’t lie. This place is 🔥! The order 📝 😋🫶🏽 mamalona steak & chicken 📍7950 Hwy 72 W (plaza next to lowes with Michael’s and taco bell)
+The online reviews didn't lie about Taqueria Don Pancho. This place is great.
+
+We ordered the birria tacos, the torta mamalona, and steak and chicken tacos.
+
+It's in the plaza next to Lowe's, with Michael's and Taco Bell, so look there if you have trouble finding it.

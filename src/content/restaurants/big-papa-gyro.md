@@ -12,6 +12,10 @@ draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "mediterranean", "gyro", "greek food", "mediterranean food", "quick lunch"]
+address: "4925 University Dr NW, Huntsville, AL 35816"
+area: "University Dr"
 ---
 
-🥙 Big Papa Gyro in Huntsville, AL Definitely late to the party as theyve been around 20 years now buttt it was good, such fresh ingredients in their food. That salad was bussin'!! Fries crispy as heck! The order 📝: Big Papa Gyro 🥙 Chicken Gyro 🥙🍗 Greek Salad 🥗 4925 University Dr. NW
+We're definitely late to the party here, since Big Papa Gyro has been around for 20 years. But it was good, with really fresh ingredients.
+
+We ordered the Big Papa Gyro, a chicken gyro and a Greek salad. That salad was amazing, and the fries were crispy as heck.

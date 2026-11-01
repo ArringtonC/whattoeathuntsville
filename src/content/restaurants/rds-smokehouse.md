@@ -1,6 +1,6 @@
 ---
 name: "RD's Smokehouse Barbecue"
-city: Madison
+city: Harvest
 area: "Harvest (Nick Davis Rd)"
 cuisines: ["BBQ"]
 cover: /covers/videos/7476506581115456810.jpg
@@ -15,6 +15,11 @@ occasions: []
 status: open
 searchTerms: ["madison", "harvest (nick davis rd)", "bbq", "loaded baked potato with brisket", "barbecue", "smoked meat", "chicken wings", "wing spot", "loaded potato"]
 website: "http://4rdsbbq.com"
+address: "1811 Nick Davis Rd, Harvest, AL 35749"
 ---
 
-RD’s Smokehouse Barbecue in Harvest, AL 🔥 They’ve been around for YEARS. Love me some RD’s loaded baked potatoes!! Especially with brisket 😍 Sn: try their wings too!! 😋 Located off Nick Davis at the 4 way stop
+RD's Smokehouse Barbecue has been around for years, and we love it. It's an easy spot to find, right at the four-way stop off Nick Davis.
+
+Our favorite thing here is the loaded baked potato, especially with brisket on it. That's the one to get.
+
+Try their wings too. They're worth adding to the order.

@@ -14,6 +14,9 @@ draft: false
 status: open
 searchTerms: ["huntsville", "bridge street town centre", "american", "group", "family"]
 website: "https://locations.thecheesecakefactory.com/al/huntsville-217.html"
+address: "300 The Bridge St NW, Suite 110, Huntsville, AL 35806"
 ---
 
-Trying The Cheesecake Factory’s viral dishes 👀🍝 Keith Lee put us on to the Cajun Salmon, so we had to try it! Louisiana Chicken Pasta + extra sauce Cajun Salmon + extra sauce and cheese on the mashed potatoes social
+We came to The Cheesecake Factory to try its viral dishes. Keith Lee put us on to the Cajun Salmon, so we had to try it.
+
+We ordered the Louisiana Chicken Pasta with extra sauce, and the Cajun Salmon with extra sauce and extra cheese on the mashed potatoes.

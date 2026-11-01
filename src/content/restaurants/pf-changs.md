@@ -14,6 +14,7 @@ draft: false
 status: open
 searchTerms: ["huntsville", "bridge street town centre", "asian", "group", "asian food"]
 website: "https://www.pfchangs.com/"
+address: "305 The Bridge St, Suite 101, Huntsville, AL 35806"
 ---
 
-Part 2 to our time at PF Chang’s. Here’s 3 minutes of us tearing up 7 of their menu items 😋🍽️
+We spent some time at P.F. Chang's at Bridge Street and worked our way through seven items on the menu. Among them were the spicy chicken and the garlic noodles.

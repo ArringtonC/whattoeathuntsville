@@ -14,6 +14,13 @@ draft: false
 status: open
 searchTerms: ["huntsville", "monrovia", "mexican", "group", "mexican food", "birria tacos", "quesabirria", "taco"]
 website: "https://picofreshmex.com/"
+address: "1947 Blake Bottom Rd NW, Huntsville, AL 35806"
 ---
 
-Birria pizza, tacos, quesadillas, nachos, burritos… yeah they don’t miss 🔥 📍Pico Fresh Mex (Monrovia) We’ve been coming here almost weekly (the margarita pitchers might be part of the reason 👀) been real quiet about them cuz I don’t wanna wait in a line 😂 The flavor is always there. The birria pizza?? My favorite Fish taco 🔥 (customizable) gotta add the pickled onions! Birria Nachos 😍 load’em up!! Tacos, Quesadillas and burritos you really can’t go wrong with anything in our video! If you haven’t tried it yet… what are you doing?? Don’t wait til the weekend either 😉
+Birria pizza, tacos, quesadillas, nachos, burritos. Pico Fresh Mex in Monrovia does not miss.
+
+We come here almost every week, and the margarita pitchers might be part of the reason. We stayed quiet about it for a while because we do not want to wait in a line. The flavor is always there.
+
+The birria pizza is our favorite. The fish taco is great, and you can customize it. Add the pickled onions. Load up the birria nachos. With the tacos, quesadillas and burritos, you really cannot go wrong.
+
+If you have not tried it yet, go. And go before the weekend.

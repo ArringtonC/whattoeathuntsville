@@ -13,6 +13,10 @@ draft: false
 status: open
 searchTerms: ["huntsville", "asian", "chicken", "date night", "asian food", "romantic dinner"]
 website: "https://order.toasttab.com/online/seoulgood"
+address: "3414 Governors Dr SW, Suite 510, Huntsville, AL 35805"
+area: "Stovehouse"
 ---
 
-crunchy goodness 🍗 from Seoul Good in Huntsville, AL Our order had the perfect amount of food for our date night. The order📝 16 piece combo with - Honey Mustard Fried Chicken 🍯 - Sweet & Spicy Fried Chicken 🌶️ - Sides: Fries & Pickled Cucumbers - Korean Cheese Corn 📍Located in stovehouse
+Seoul Good serves some crunchy fried chicken, and you'll find it inside Stovehouse. Our order was the perfect amount of food for our date night.
+
+We got the 16-piece combo, split between honey mustard fried chicken and sweet and spicy fried chicken. For sides, we had fries and pickled cucumbers, plus the Korean cheese corn.

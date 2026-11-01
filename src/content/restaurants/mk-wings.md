@@ -1,7 +1,7 @@
 ---
 name: "MK Wings"
 city: Huntsville
-address: "502 Jordan Ln NW, Huntsville, AL"
+address: "502 Jordan Ln NW Ste A&B, Huntsville, AL 35805"
 cuisines: ["Wings"]
 cover: /covers/videos/7485771138958691614.jpg
 coverFocus: center
@@ -13,6 +13,9 @@ draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "hot honey + hot lemon pepper wings", "chicken wings", "wing spot", "lemon pepper", "lemon pepper chicken"]
+area: "Jordan Ln"
 ---
 
-Warning: This reel may cause cravings! 🚨 MK Wings’ Hot Honey & Hot Lemon Pepper wings + Cajun Fries = the ultimate combo. Who’s ready for a wing run? 🍗 📍502 Jordan Ln NW
+Fair warning: this one may give you cravings.
+
+At MK Wings, the hot honey and hot lemon pepper wings with a side of Cajun fries is the ultimate combo for us. Who's ready for a wing run?

@@ -14,6 +14,11 @@ draft: false
 status: open
 searchTerms: ["madison", "clift farm", "breakfast", "quick lunch", "morning food", "fast lunch"]
 website: "https://www.playabowls.com/location/madison"
+address: "460 John Henry Way, Suite 390, Madison, AL 35758"
 ---
 
-Have you tried Playa Bowls in Cliff Farms? Well.. we did for you!! 🥤 Ordered: Acai Nutella Bowl Aloha Smoothie with added chia seeds & protien Mermaid Fuel (green juice) They have 3 locations across Huntsville/Madison.
+We tried Playa Bowls in Clift Farm so you don't have to guess. It's an easy stop for something cold and fresh.
+
+We ordered the Acai Nutella Bowl, an Aloha Smoothie with added chia seeds and protein, and the Mermaid Fuel green juice.
+
+If Clift Farm isn't close to you, they have three locations across Huntsville and Madison.

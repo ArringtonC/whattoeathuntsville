@@ -14,6 +14,11 @@ occasions: []
 status: open
 searchTerms: ["huntsville", "stovehouse", "sweet treats", "dessert", "bakery", "sweets"]
 website: "https://www.cutesandcakes.com/"
+address: "3414 Governors Dr SW, Suite 465, Huntsville, AL 35805"
 ---
 
-Sweet treats 🍰 from Cutes and Cupcakes located at stovehouse The order 📝: Chocolate Overload Cupcake 🍫 Biscoff Cheesecake 😋 But they have soooo many options to try from cakes, cookies, brownies, cupcakes you name it!!
+We grabbed sweet treats from Cutes and Cupcakes at Stovehouse.
+
+Our order was the Chocolate Overload cupcake and the Biscoff cheesecake.
+
+They have so many options to try: cakes, cookies, brownies, cupcakes, you name it.

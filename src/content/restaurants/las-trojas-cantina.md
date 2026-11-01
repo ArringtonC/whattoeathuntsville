@@ -1,7 +1,7 @@
 ---
 name: "Las Trojas Cantina"
-city: Huntsville
-area: "Hazel Green and University Dr"
+city: Hazel Green
+area: "Hazel Green"
 cuisines: ["Mexican"]
 occasions: ["Group", "Birthday"]
 cover: /covers/videos/7542959771733789982.jpg
@@ -14,6 +14,11 @@ draft: false
 status: open
 searchTerms: ["huntsville", "hazel green and university dr", "mexican", "group", "birthday", "mexican food", "birria tacos", "quesabirria"]
 website: "https://lastrojas.com/"
+address: "14739 Hwy 231-431 N, Suite H, Hazel Green, AL 35750"
 ---
 
-Which Las Trojas location is your go-to? 🌮🌯🍹 I’m always down for a marg at Las Trojas iykyk. We went for a birthday dinner and they did their thing at the Hazel Green location! Check out what we ordered!
+We are always down for a margarita at Las Trojas. If you know, you know.
+
+We went to the Hazel Green location for a birthday dinner, and they did their thing. It is a fun spot for a group or a celebration.
+
+On the table this time: birria pizza, carne asada fries and margaritas.

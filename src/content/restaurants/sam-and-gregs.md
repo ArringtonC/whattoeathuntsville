@@ -14,6 +14,7 @@ occasions: []
 status: open
 searchTerms: ["huntsville", "downtown", "sweet & spicy bbq pizza"]
 website: "https://www.samandgregs.com/"
+address: "116 S Side Sq, Huntsville, AL 35801"
 ---
 
-Sam & Greg’s located in & 🤤 Try the & 🌶️you won’t regret it
+Sam & Greg's is a downtown pizza spot. Try the sweet and spicy BBQ pizza. You won't regret it.

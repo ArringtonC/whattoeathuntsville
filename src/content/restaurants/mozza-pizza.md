@@ -1,7 +1,7 @@
 ---
 name: "Mozza"
 city: Huntsville
-address: "520 Jordan Ln NW, Huntsville, AL"
+address: "520 Jordan Ln NW, Huntsville, AL 35805"
 cuisines: ["Pizza"]
 cover: /covers/videos/7537337950678306078.jpg
 coverFocus: center
@@ -13,6 +13,9 @@ occasions: []
 status: open
 searchTerms: ["huntsville"]
 website: "https://mozza-pizza.com/"
+area: "Jordan Ln"
 ---
 
-Best Pizza Spot in Huntsville? I definitely place Mozza at least top 3 for pizza in Huntsville! Good prices and pizza. Nice servers. They’re actually opening another location adnd have one in 📍520 Jordan Ln NW
+Best pizza spot in Huntsville? We definitely put Mozza in the top 3 for pizza in town.
+
+The pizza is good, the prices are good, and the servers are nice. They're also opening another location.

@@ -1,6 +1,6 @@
 ---
 name: "LJ'z Backyard Bayou"
-city: Huntsville
+city: Harvest
 cuisines: ["Soul food", "Cajun"]
 cover: /covers/videos/7498831881719254302.jpg
 coverFocus: center
@@ -12,6 +12,12 @@ occasions: []
 status: open
 searchTerms: ["huntsville", "fried fish", "fish plate"]
 website: "https://www.ljbackyardbayou.com/"
+address: "3155 Old Railroad Bed Rd, Harvest, AL 35749"
+area: "Harvest"
 ---
 
-My latest addiction 😍: LJ’z Backyard Bayou 🎊🔥 I'm so happy I finally stopped and tried LJ’z. So flavorful, everything is made to order and they serve cajun and creole food! Its and — period 🫶🏽 we love to support a local business. the orders: gumbo, jambalya, whole catfish with red beans & rice, fried fish with cabagge and dirty rice 📍1355 Old Railroad Bed in Harveat (tagged) only open Friday- Sunday (they have Sunday specials too)
+LJ'z Backyard Bayou is our latest addiction. We are so happy we finally stopped and tried it.
+
+They serve Cajun and Creole food, and everything is made to order. It is so flavorful. We ordered gumbo, jambalaya, a whole catfish with red beans and rice, and fried fish with cabbage and dirty rice.
+
+Heads up: they are only open Friday through Sunday, and they have Sunday specials too. We love supporting a local business like this one.

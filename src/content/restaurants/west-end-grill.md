@@ -11,8 +11,13 @@ alsoOrder: [{"name": "Galaxy Lemonade"}, {"name": "Loaded potato skins"}]
 lastVerified: 2026-05-12
 draft: false
 status: open
-searchTerms: ["huntsville", "american", "group", "chicken wings", "wing spot", "lemon pepper", "lemon pepper chicken", "loaded potato"]
+searchTerms: ["huntsville", "american", "group", "chicken wings", "wing spot", "lemon pepper", "lemon pepper chicken"]
 address: "6610 Old Madison Pike Unit 109, Huntsville, AL 35806"
+area: "Old Madison Pike"
 ---
 
-You been in Huntsville how long and haven’t been yet? West End Grill is a Huntsville staple, and we definitely think it’s worth a visit! What we ordered (under $60): ⭐️ Galaxy Lemonade with gin & curaçao 🔥 Loaded potato skins (new item) with the homemade ranch 🍔 Patty melt & eye bread 🍗 Jamaican jerk wings & lemon pepper wings And shoutout to Darrell for being a great server!
+West End Grill is a Huntsville staple, and if you've lived here a while and still haven't been, we think it's worth a visit.
+
+We got all of this for under $60: a Galaxy Lemonade with gin and curaçao, the loaded potato skins (a new item) with their homemade ranch, a patty melt, and two kinds of wings, Jamaican jerk and lemon pepper.
+
+Shoutout to Darrell for being a great server.

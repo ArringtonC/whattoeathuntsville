@@ -13,6 +13,12 @@ occasions: []
 status: open
 searchTerms: ["madison", "asian", "chicken", "asian food"]
 website: "https://www.chikinjipusa.com/"
+address: "12120 County Line Rd, Suite A, Madison, AL 35756"
+area: "County Line Rd"
 ---
 
-A little bit of spice 🌶️ We tried Chikin Jip in Madison and it delivered. Bulgogi fries + yangnyeom boneless chicken & fries 🤌🏽 Friendly customer service, good vibes, and fresh food all around.
+We tried Chikin Jip in Madison, and it delivered. Expect a little bit of spice.
+
+We ordered the bulgogi fries and the yangnyeom boneless chicken with fries. Both were good picks.
+
+The customer service was friendly, the vibe was good, and the food tasted fresh all around.

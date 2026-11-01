@@ -12,6 +12,12 @@ draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "bbq", "pork sandwich plate", "barbecue", "smoked meat", "mac n cheese", "macaroni and cheese"]
+address: "5988 Pulaski Pike NW, Huntsville, AL 35810"
+area: "Pulaski Pike"
 ---
 
-Floyd’s Barbecue in 🔥 Definitely giving it 5 stars. Honestly… best pork sandwich in Huntsville ⭐️ We both got pork sandwich plates — one large, one small. Sides were fries, mac & cheese, and baked beans. Also had to try a rib 😍 Everything was so good. We get why yall referred us 🙏🏽 📍 Pulaski Pike
+So many of you told us to try Floyd's Barbecue, and now we get why. We're giving it 5 stars. Honestly, this is the best pork sandwich in Huntsville.
+
+We both got pork sandwich plates, one large and one small. For sides we picked fries, mac and cheese, and baked beans. We also had to try a rib.
+
+Everything was so good. Start with the pork sandwich plate and you can't go wrong.

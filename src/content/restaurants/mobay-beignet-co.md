@@ -13,6 +13,9 @@ occasions: []
 status: open
 searchTerms: ["huntsville", "monrovia (jeff rd)", "sweet treats", "dessert", "bakery", "sweets"]
 website: "https://mobaybeignetco.com/visit-huntsville"
+address: "1981 Jeff Rd NW, Huntsville, AL 35806"
 ---
 
-A new spot in town Mo’Bay Beignet Co. located in on Jeff Rd. So happy to have a new place in Monrovia. Let us know what you think if you’ve been!
+Mo'Bay Beignet Co. is a new spot on Jeff Rd, and we're so happy to have a new place in Monrovia.
+
+If you've been, let us know what you think.

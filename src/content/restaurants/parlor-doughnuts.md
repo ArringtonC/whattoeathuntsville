@@ -13,6 +13,10 @@ occasions: []
 status: open
 searchTerms: ["huntsville", "sweet treats", "dessert", "bakery", "sweets"]
 website: "https://www.parlordoughnuts.com/"
+address: "2500 Clinton Ave W, Huntsville, AL"
+area: "Clinton Ave W"
 ---
 
-Would you try a pizza doughnut? 👀 Taste tested Parlor Doughnuts in they were so good I ordered the Buffalo Chicken, Chicken Bacon Ranch, and OG Pepperoni Doughnut 😋🍩 I ranked my favorites at the end, whats yours? 🍕🍗🥓
+Would you try a pizza doughnut? We did a taste test at Parlor Doughnuts.
+
+We ordered three: the Buffalo Chicken, the Chicken Bacon Ranch and the OG Pepperoni. They were all so good.

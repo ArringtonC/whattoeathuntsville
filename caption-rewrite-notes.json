@@ -1,0 +1,634 @@
+{
+ "a-town-wings": {
+  "dropped": [
+   "Street address: the page already shows it",
+   "Emojis"
+  ],
+  "unsure": ""
+ },
+ "aloha-ramen-house": {
+  "dropped": [
+   "Street address (1591 Hughes Rd suite c): the page shows the address",
+   "Emojis"
+  ],
+  "unsure": "The caption has a stray \"in\" with no place after it (\"Aloha Ramen House in Great comfort food vibe\"). I read it as a missing city and left it out."
+ },
+ "baby-bite-bake-shop": {
+  "dropped": [
+   "\"Location is tagged!\": TikTok location note",
+   "Emojis"
+  ],
+  "unsure": "Front matter says status: closed, but the write-up reads as if you can still go. You may want a note that the shop has closed."
+ },
+ "barracuda-taco-stand": {
+  "dropped": [
+   "\"Let us know what you thought if you've been!\": social call to action",
+   "Emojis and all-caps name"
+  ],
+  "unsure": ""
+ },
+ "beignets-and-brew": {
+  "dropped": [
+   "Full street addresses for the Madison and Huntsville locations: the page shows the address",
+   "Emojis"
+  ],
+  "unsure": ""
+ },
+ "big-johns": {
+  "dropped": [
+   "\"have somewhere else? Lmk\" softened into \"If you know somewhere better, tell us\"",
+   "Emojis"
+  ],
+  "unsure": "The caption lists the fries as the order but does not say outright that the catfish was ordered this visit. I kept the catfish praise as a general opinion."
+ },
+ "big-papa-gyro": {
+  "dropped": [
+   "Street address (4925 University Dr. NW): the page shows the address",
+   "\"bussin'\" changed to \"amazing\" for plain words",
+   "Emojis"
+  ],
+  "unsure": "The fries are in alsoOrder and the caption praises them, but they are not in the caption's order list. I kept them because the caption clearly says they had them."
+ },
+ "blue-oak-bbq": {
+  "dropped": [
+   "\"Is tiktok still being weird??\": about TikTok, not the restaurant",
+   "Emojis"
+  ],
+  "unsure": "The caption is only a teaser. It says what we ordered but gives no opinion on the food, so the write-up has no verdict."
+ },
+ "bos-best-wings": {
+  "dropped": [
+   "Street address: the page shows the address",
+   "Emojis"
+  ],
+  "unsure": ""
+ },
+ "caps-philly-cheesesteak": {
+  "dropped": [
+   "\"reddit/fb\" made general as \"online\"",
+   "Emojis"
+  ],
+  "unsure": "\"I get mine with provolone\" is first person singular. I changed it to \"we get ours\", but it may be only Michaela's order."
+ },
+ "chikin-jip": {
+  "dropped": [
+   "Emojis removed"
+  ],
+  "unsure": ""
+ },
+ "china-dragon": {
+  "dropped": [
+   "Emojis removed",
+   "Location note '📍Madison, AL (by the Neighborhood Walmart/Legacy Elementary) tagged': location tag note, page shows address",
+   "Fixed typo 'Io mein' to 'lo mein'"
+  ],
+  "unsure": "Caption places it in Madison, AL (by the Neighborhood Walmart/Legacy Elementary), but front matter says city: Huntsville. Check which is right. I assumed 'I' (since I was a kid) is Michaela."
+ },
+ "chucks-fish": {
+  "dropped": [
+   "Emojis removed",
+   "Hot honey pizza from alsoOrder not mentioned: caption does not say we ate it"
+  ],
+  "unsure": "Front matter says city: Huntsville, but the website link is the Madison location. Check which location this is."
+ },
+ "city-barbeque": {
+  "dropped": [
+   "Emojis removed",
+   "'Will ya'll be checking them out?' engagement question",
+   "Instagram handle 'citybbq' turned into plain name"
+  ],
+  "unsure": "Caption asks 'Is this new bbq place giving?' but gives no clear verdict. I kept it neutral. Hosted visit is mentioned since front matter has disclosure: hosted."
+ },
+ "coopers-hawk": {
+  "dropped": [
+   "Emojis removed",
+   "Instagram handle 'cliftfarmal' turned into 'Clift Farm'"
+  ],
+  "unsure": ""
+ },
+ "cutes-and-cupcakes": {
+  "dropped": [
+   "Emojis removed"
+  ],
+  "unsure": ""
+ },
+ "daylight-donuts-south": {
+  "dropped": [
+   "Emojis removed",
+   "Trailing 'in' with no place after it"
+  ],
+  "unsure": "Caption is cut off after 'in' and has no opinion or order details. Only a teaser. Needs a real write-up from the couple."
+ },
+ "domaine-south": {
+  "dropped": [
+   "Emojis removed",
+   "'📍Downtown Huntsville' location note: page shows area"
+  ],
+  "unsure": ""
+ },
+ "dragon-alley": {
+  "dropped": [
+   "Emojis removed"
+  ],
+  "unsure": ""
+ },
+ "entice-bar-and-grille": {
+  "dropped": [
+   "Emojis removed"
+  ],
+  "unsure": "Caption has a missing word ('I think we found the at Entice'). I read it as 'found them'."
+ },
+ "floyds-barbecue": {
+  "dropped": [
+   "\"Pulaski Pike\" location pin: the page already shows the address",
+   "emojis"
+  ],
+  "unsure": ""
+ },
+ "fluffy-fluffy": {
+  "dropped": [
+   "\"Huntsville, y'all\" opener and the @fluffyfluffyusa handle: social-media wording",
+   "emojis"
+  ],
+  "unsure": "The caption is mostly a time-limited promo (Oct 20 to Nov 9, 2025), which has ended. It gives little real opinion on the food. I kept the deal as past info; you may want to drop that paragraph or add what you actually thought of the pancakes."
+ },
+ "gordo-street-tacos": {
+  "dropped": [
+   "emojis"
+  ],
+  "unsure": "The caption is only a short teaser with no opinion on the food. Also, the front matter says this place is closed."
+ },
+ "handels-ice-cream": {
+  "dropped": [
+   "\"of course we had to try it for yall\": social-media wording",
+   "\"Thanks for the invite!!\": kept as the honest note that Handel's invited us",
+   "emojis and registered-trademark symbols"
+  ],
+  "unsure": "The caption describes the flavor but gives no clear opinion on how it tasted. It was an invited visit, so I said so. The flavor is limited-time and may be gone now."
+ },
+ "hattie-bs-huntsville": {
+  "dropped": [
+   "\"Have you tried Hattie B's yet? And what heat level are you ordering?\": audience question for TikTok comments",
+   "emojis"
+  ],
+  "unsure": ""
+ },
+ "hunnydew-bakery": {
+  "dropped": [
+   "\"Order by Feb 9!\": a dated Valentine's deadline that has passed",
+   "\"Check out her IG\": social-media call to action",
+   "all-caps \"UNREAL\" and \"SO\"",
+   "emojis"
+  ],
+  "unsure": "The medical treatment detail is personal to the baker. It is in the caption, so I kept it, but you may want to check she is fine with it on the site."
+ },
+ "jets-pizza-madison": {
+  "dropped": [
+   "July 29 grand opening $4.44 4 Corner Pizza deal: a one-day promo that has passed",
+   "\"Drop 'Jet's Pizza' in the comments\" giveaway for six free pizzas: giveaway text",
+   "street address: the page shows it",
+   "all-caps \"SO\"",
+   "emojis"
+  ],
+  "unsure": ""
+ },
+ "jon-smith-subs": {
+  "dropped": [
+   "\"JSS\" abbreviation",
+   "emojis"
+  ],
+  "unsure": "The caption is short. It does not say who ordered the sandwich, so I used \"we\"."
+ },
+ "kyuramen": {
+  "dropped": [
+   "street address: the page shows it",
+   "\"Kyuramen Southeast\" and \"Kyuramen.official\" account handles: social-media tags",
+   "all-caps \"BAD\"",
+   "emojis"
+  ],
+  "unsure": "The caption lists the order but gives no detail on how each dish tasted."
+ },
+ "la-parrilla-clift-farm": {
+  "dropped": [
+   "\"cliftfarmal\" account handle: replaced with plain \"Clift Farm\"",
+   "emojis"
+  ],
+  "unsure": ""
+ },
+ "las-trojas-cantina": {
+  "dropped": [
+   "\"Which location is your go-to?\" question: audience prompt, not about the food",
+   "\"Check out what we ordered\": points to the video"
+  ],
+  "unsure": "The caption is mostly a teaser with no real opinion on the dishes. The dish list (birria pizza, carne asada fries, margaritas) comes from front matter alsoOrder, not the caption. \"A fun spot for a group or a celebration\" leans on the occasions tags (Group, Birthday)."
+ },
+ "lawlers-barbecue": {
+  "dropped": [
+   "\"What's your rating? Are you a LawLer's fan?\": audience prompt"
+  ],
+  "unsure": "\"One of the best cheap eats in town\" leans on the Cheap eats occasion tag; the caption only says \"def a huntsville staple\". Trim that clause if you want it strictly caption-only."
+ },
+ "little-hats-nashville": {
+  "dropped": [
+   "Emojis and hype openers"
+  ],
+  "unsure": "Caption spells the area \"Germanton\"; I used Germantown to match front matter."
+ },
+ "ljz-backyard-bayou": {
+  "dropped": [
+   "Street address (page shows it)",
+   "\"(tagged)\" location-tag note",
+   "Garbled phrase \"Its and — period\""
+  ],
+  "unsure": "\"Its and — period\" looks like a word got lost (maybe \"It's Black-owned\" or \"veteran-owned\", both in tags). I left it out rather than guess. Caption says the spot is in \"Harveat\" (likely Harvest) while city is Huntsville; I did not name the town in the text."
+ },
+ "loonas-cafe": {
+  "dropped": [
+   "Emojis"
+  ],
+  "unsure": ""
+ },
+ "los-morelenses": {
+  "dropped": [
+   "\"its also tagged\": location-tag note"
+  ],
+  "unsure": "Caption calls it \"Las Morelenses\"; the page name is \"Los Morelenses\". The website slug also says \"lasmorelenses\", so check which spelling is right. Caption says \"I\" went every week; I turned it into \"we\"."
+ },
+ "louima-haitian-cuisine": {
+  "dropped": [
+   "Street address (page shows it)",
+   "\"New food truck alert\" opener and emojis"
+  ],
+  "unsure": ""
+ },
+ "luigis-italian-grill": {
+  "dropped": [
+   "Emojis"
+  ],
+  "unsure": "Caption says \"I went for my birthday with the fam\" without naming who. I wrote \"a birthday dinner with family\" instead of guessing whose birthday."
+ },
+ "luogo-nashville": {
+  "dropped": [
+   "\"Tag someone you'd take here!\": promo text",
+   "Emojis"
+  ],
+  "unsure": "Caption has a broken phrase: \"Tried this Nashville Italian spot in and it did not disappoint\". A word is missing after \"in\"; I left it out."
+ },
+ "lyli-viet-thai": {
+  "dropped": [
+   "Street address (page shows it)",
+   "Emojis"
+  ],
+  "unsure": "The caption is thin: an order list and the cigar lounge note, with no opinion on single dishes beyond \"bringing the heat\"."
+ },
+ "melt-downtown": {
+  "dropped": [
+   "emojis and 'Say less' / 'wyd??' slang: tone only, meaning kept"
+  ],
+  "unsure": "Caption says 'Melt in is always a go-to', which looks like a typo. I read 'Cheese burger with bacon' as a bacon cheeseburger."
+ },
+ "metro-diner": {
+  "dropped": [
+   "emojis"
+  ],
+  "unsure": ""
+ },
+ "mi-delicioso-guanajuato": {
+  "dropped": [
+   "'4.7 rating': no source given (likely Google), and it changes over time",
+   "'(tagged)' location tag note",
+   "emojis"
+  ],
+  "unsure": "The caption spells it 'Quesabirras y consome'; I used the front matter spelling 'quesabirrias' and 'consomé'."
+ },
+ "mi-tierra-oaxaquena": {
+  "dropped": [
+   "street address and '(tagged)' note: page shows the address",
+   "'drop it in the comments' wording: turned into a plain ask"
+  ],
+  "unsure": "Caption is mostly a teaser. It only says 'solid tacos' with no dishes or details."
+ },
+ "mias-cafe": {
+  "dropped": [],
+  "unsure": "The caption is cut off. It only says 'Mia's Cafe in'. There is no opinion or order, so I used only the front matter tags. Someone should write a real take or hide this one."
+ },
+ "mizz-jujus": {
+  "dropped": [
+   "'Located on Jordan Ln' and '(tagged)': location note, page shows address",
+   "'bomb af' and emojis: toned down to plain words"
+  ],
+  "unsure": "The caption's order list is broken ('The order: was bomb af!!! with'); the dish names are missing. I filled in the order from the front matter (bestDish fried chicken sandwich, alsoOrder hot lemon pepper and honey gold wings). Please check that is what was ordered."
+ },
+ "mk-wings": {
+  "dropped": [
+   "street address: page shows it",
+   "emojis"
+  ],
+  "unsure": "Short caption with one combo and no other details (price, wait, vibe)."
+ },
+ "mobay-beignet-co": {
+  "dropped": [],
+  "unsure": "Caption is only a teaser. It says nothing about what we ordered or how it tasted. Also 'located in on Jeff Rd' looks like a typo."
+ },
+ "mozza-pizza": {
+  "dropped": [
+   "street address: page shows it"
+  ],
+  "unsure": "No dishes named. The caption says they are opening another location but does not say where; it may be out of date (caption from Aug 2025)."
+ },
+ "nicas-grill": {
+  "dropped": [
+   "emojis"
+  ],
+  "unsure": "'Nasa Corral' is written as in the caption; I could not confirm the exact name of that spot."
+ },
+ "niyahs-southern-grill": {
+  "dropped": [
+   "Street address and suite: the page already shows the address",
+   "\"Let us know if you've been in the comments\": social call to action",
+   "Fire emoji used as praise: no real opinion beyond the order"
+  ],
+  "unsure": "The caption lists the order but gives almost no opinion on each dish, so the write-up stays factual."
+ },
+ "north-italia": {
+  "dropped": [
+   "\"New restaurant alert\" framing: kept only as \"newer to Huntsville\"",
+   "Location pin line: page shows the location"
+  ],
+  "unsure": ""
+ },
+ "oh-crepe": {
+  "dropped": [
+   "Emojis only; nothing else in the caption"
+  ],
+  "unsure": "The caption is only a teaser (\"blt crepe from oh crepe!\") with no real opinion, so the write-up is very short. Caption text ends mid-sentence (\"Located in Stovehouse in\")."
+ },
+ "one-eleven": {
+  "dropped": [
+   "Emojis only"
+  ],
+  "unsure": "The caption is only one short line with no dishes named, so the write-up is very short. \"Date night\" comes from the front matter occasions."
+ },
+ "osteria-luca": {
+  "dropped": [
+   "Emojis and all-caps \"THIS\""
+  ],
+  "unsure": ""
+ },
+ "pan-z-effies": {
+  "dropped": [
+   "\"Anyone know about him?\": audience question",
+   "Bell Dog from front matter alsoOrder: not in the caption, so left out to avoid saying we ate it"
+  ],
+  "unsure": "Front matter lists Bell Dog (loaded with peppers, onions, ground beef) as an also-order, but the caption never mentions it. The caption also says they got wings, which is not in alsoOrder."
+ },
+ "parlor-doughnuts": {
+  "dropped": [
+   "\"I ranked my favorites at the end, whats yours?\": the ranking is only in the video, so there is no ranking to report"
+  ],
+  "unsure": "The caption says we ranked favorites in the video but does not say the ranking, so the write-up cannot name a winner."
+ },
+ "pf-changs": {
+  "dropped": [
+   "\"Part 2\" and \"3 minutes of us tearing up\": video framing, not about the food"
+  ],
+  "unsure": "The caption is a teaser for part 2 of a video, with no opinions. The two dishes named come from the front matter alsoOrder, not the caption. The other five items are not named anywhere."
+ },
+ "pico-fresh-mex": {
+  "dropped": [
+   "\"you can't go wrong with anything in our video\": video reference, changed to name the dishes"
+  ],
+  "unsure": "\"Don't wait til the weekend\" likely hints at weekend lines; I kept it as \"go before the weekend\" without stating the reason."
+ },
+ "pita-street-food": {
+  "dropped": [
+   "\"after the gym\": gym note, not about the restaurant"
+  ],
+  "unsure": ""
+ },
+ "playa-bowls": {
+  "dropped": [
+   "emoji",
+   "\"Well.. we did for you!!\" phrasing softened"
+  ],
+  "unsure": "The caption lists what we ordered but gives no real opinion on any item, so the write-up stays neutral. Caption says \"Cliff Farms\"; I used \"Clift Farm\" to match the front matter."
+ },
+ "rds-smokehouse": {
+  "dropped": [
+   "emojis",
+   "all-caps \"YEARS\""
+  ],
+  "unsure": ""
+ },
+ "roosters-athens": {
+  "dropped": [
+   "emojis",
+   "\">>\" ranking arrows turned into words"
+  ],
+  "unsure": ""
+ },
+ "rosies-cantina": {
+  "dropped": [
+   "emojis",
+   "\"yall\" phrasing smoothed"
+  ],
+  "unsure": ""
+ },
+ "ruby-slipper-nashville": {
+  "dropped": [
+   "emoji"
+  ],
+  "unsure": "The caption is garbled (\"A nice rubyslippercafe in The order: Sweet heat fried chicken & Fried & fries\"), likely lost text from TikTok tags. I used the dish names from the front matter alsoOrder to fill the gaps. This place is in Nashville, not Huntsville."
+ },
+ "sacs-kitchen": {
+  "dropped": [
+   "emojis"
+  ],
+  "unsure": "The caption lists the order but says little about how the food tasted, so the write-up does not judge it."
+ },
+ "sam-and-gregs": {
+  "dropped": [
+   "emojis"
+  ],
+  "unsure": "The caption is garbled (\"located in & ... Try the & \"), likely lost TikTok tags. I filled the dish name from the front matter bestDish (Sweet & spicy BBQ pizza) and the area from front matter (Downtown). Very little real detail to work with."
+ },
+ "scoop-and-slice": {
+  "dropped": [
+   "emojis",
+   "\"Let us know if you've been\" call to action"
+  ],
+  "unsure": ""
+ },
+ "seoul-good": {
+  "dropped": [
+   "emojis"
+  ],
+  "unsure": "Kept \"inside Stovehouse\" as a helpful location detail, not a street address. Remove it if the page already says that."
+ },
+ "steam-boys": {
+  "dropped": [
+   "emoji"
+  ],
+  "unsure": "The caption is a list of picks with no notes on each dish, so I kept it as a recommended order."
+ },
+ "sunnyside-pizzeria-atlanta": {
+  "dropped": [
+   "Emojis"
+  ],
+  "unsure": "Caption is short and gives no detail beyond the Honey Hot Pizza being a must-try. The restaurant is in Atlanta, not Huntsville."
+ },
+ "super-chix-madison": {
+  "dropped": [
+   "Emojis and all-caps"
+  ],
+  "unsure": "The caption's 'yes, that's QUESO on top' shows excitement but gives no direct verdict on each item; I kept the overall 'did not disappoint' as the opinion."
+ },
+ "superhero-chefs": {
+  "dropped": [
+   "Broken location phrase 'Visit them when they have located in' (incomplete, no usable info)"
+  ],
+  "unsure": "The caption has missing words ('tasty & options', 'located in' with nothing after). It likely said 'vegan options' and named a location, but I did not guess. Caption has no real opinion on specific dishes."
+ },
+ "tacos-de-canasta-acapulco": {
+  "dropped": [
+   "Street address (page shows it)",
+   "Emojis and all-caps"
+  ],
+  "unsure": ""
+ },
+ "tamarind-island": {
+  "dropped": [
+   "Emojis (three fire emojis turned into 'big fans')"
+  ],
+  "unsure": "Caption is only a teaser: name, location, and fire emojis. No dishes or details, so the write-up is very short."
+ },
+ "taqueria-catedral": {
+  "dropped": [
+   "Emojis"
+  ],
+  "unsure": ""
+ },
+ "taqueria-don-pancho": {
+  "dropped": [
+   "Street address (page shows it)",
+   "Emojis"
+  ],
+  "unsure": "The caption's order line is mostly emojis ('The order 📝 😋🫶🏽 mamalona steak & chicken'). I filled in birria tacos and torta mamalona from the front matter bestDish and alsoOrder."
+ },
+ "taqueria-dona-vale": {
+  "dropped": [
+   "Street address (page shows it)",
+   "Location tag note",
+   "'Let us know in the comments' call to action"
+  ],
+  "unsure": "The caption does not say outright how good the tacos were; the shredded chicken tacos come from the front matter bestDish."
+ },
+ "taqueria-las-adelitas": {
+  "dropped": [
+   "Emojis"
+  ],
+  "unsure": "Caption is one line with only the fish taco opinion; 'that's the one to get' leans on bestDish in the front matter."
+ },
+ "taqueria-los-3-reales": {
+  "dropped": [
+   "Street address (page shows it)",
+   "Gym location tag note: not about the restaurant",
+   "'fiance' wording changed to 'we'",
+   "Emojis and all-caps"
+  ],
+  "unsure": "'so those are next on our list' is a light framing of 'I heard their tortas are bomb'; it does not claim we tried them."
+ },
+ "taqueria-luna": {
+  "dropped": [
+   "emojis and 'Who's craving tacos now?' engagement question: promo filler",
+   "'in [location tag]' fragment: TikTok location tag"
+  ],
+  "unsure": "The caption says 'Taqueria Luna in' with the place name missing (a TikTok location tag). It is also not clear from the caption that this is a food truck; the tags say so, so I did not mention it in the text."
+ },
+ "teriyaki-express-grill": {
+  "dropped": [
+   "street address (6540 Wall Triana Hwy): page shows the address",
+   "'Have you had the chance to stop by yet???': engagement question",
+   "emojis and 'in [location tag]' fragment"
+  ],
+  "unsure": "'New' food truck was true in May 2025; it may not be new now. I kept the corner location since it helps diners find a truck, but it is close to an address."
+ },
+ "the-biscuit-express": {
+  "dropped": [
+   "'Check out our review' line: points to the video, not useful on the page",
+   "'Thebiscuitexpress' handle: social tag"
+  ],
+  "unsure": "The caption is a teaser with no opinion and no dishes; the real review was in the video. The food truck news is from July 2025 and may be out of date (the tags already list 'food truck'). Caption spells the road 'Moores Mills Rd'; front matter says 'Moores Mill Rd', which I used."
+ },
+ "the-cheesecake-factory": {
+  "dropped": [
+   "trailing word 'social': looks like a stray tag or cut-off text",
+   "emojis"
+  ],
+  "unsure": "The caption gives no opinion on either dish, so the write-up only says what we ordered. 'Extra sauce and cheese on the mashed potatoes' could mean extra sauce on the salmon plus cheese on the potatoes; I read it as both being custom add-ons to the Cajun Salmon order."
+ },
+ "the-moon-bakeshop": {
+  "dropped": [
+   "entire caption text: it is broken ('located in head there for some tasty and from a featuring: a &'), with the location tags and item names stripped out"
+  ],
+  "unsure": "The caption is unreadable, with all tagged words missing. The two items come from the front matter (alsoOrder); there is no opinion to keep. This page needs a real caption from Michaela or Arrington."
+ },
+ "the-spot": {
+  "dropped": [
+   "'is tagged' location note: TikTok tag",
+   "emojis"
+  ],
+  "unsure": "Caption says 'one of my go-to spots'; I changed it to 'our' per the we-voice rule."
+ },
+ "the-veggie": {
+  "dropped": [
+   "entire caption 'located in': only a broken location tag"
+  ],
+  "unsure": "The caption is only 'located in' with no content at all. I wrote a placeholder with no opinion. This page needs a real caption, or the 'Our take' section should be hidden until then."
+ },
+ "tulum-cantina": {
+  "dropped": [
+   "street address (671 Martin Rd SW): page shows the address",
+   "emojis"
+  ],
+  "unsure": "'Frozen mango and lime margaritas on the rocks' is unclear: frozen and on the rocks are usually different. It may mean a frozen mango marg and a lime marg on the rocks. I kept the original wording. The caption gives no opinion on the food itself."
+ },
+ "viet-crispwich": {
+  "dropped": [
+   "emojis"
+  ],
+  "unsure": "Caption says 'Make Viet Crispwich our new go to!', which reads like a typo for 'Meet' or 'Maybe'; I wrote 'might be our new go-to'. Fixed spelling 'thier' and 'Chilli'."
+ },
+ "viet-house": {
+  "dropped": [
+   "emojis and heart symbol"
+  ],
+  "unsure": "'Under $40 for all this' refers to what is shown in the video; the caption does not list everything in the order. The front matter also lists pork dumplings, which the caption does not mention, so I left them out."
+ },
+ "vujee-vegan": {
+  "dropped": [
+   "Street address (4701 Meridian St N): the page already shows it",
+   "Emojis and star emojis: replaced with \"five-star\" in words"
+  ],
+  "unsure": "Caption says \"waffles fries we so good\"; I read it as \"waffle fries were so good\". Hours (Tue-Sat 11-7) are from the caption and may be out of date; lastVerified is 2026-02-25."
+ },
+ "west-end-grill": {
+  "dropped": [
+   "Emojis",
+   "\"You been in Huntsville how long\" hook: softened into a plain sentence"
+  ],
+  "unsure": "Caption says \"Patty melt & eye bread\". This is probably \"patty melt on rye bread\", but I left out the bread rather than guess. Server name Darrell may go out of date; remove if you prefer."
+ },
+ "willie-bs-nashville": {
+  "dropped": [
+   "Emoji"
+  ],
+  "unsure": "Front matter says status: closed and lastVerified is 2023-03-16, so this place may no longer be open. Caption is short; this is a Nashville spot, not Huntsville."
+ },
+ "wings-and-gyros": {
+  "dropped": [
+   "Emojis and extra exclamation marks"
+  ],
+  "unsure": "Caption is a short teaser: it does not say which wing flavors we ordered or anything about the gyros, so the write-up is only two sentences."
+ }
+}

@@ -17,4 +17,8 @@ area: "University Drive"
 website: "https://rosiesmexicancantina.com/locations/university-drive/"
 ---
 
-Rosie’s in Huntsville 👀🌮 I enjoyed my nachos and marg.. but is Rosie’s a hit or miss for yall? I feel like it was a decent Tex Mex spot based on service and food. I saw a whole reddit debate on it. 😂Which location do yall prefer? We went to the one on📍University Drive!
+We went to the Rosie's on University Drive. We enjoyed the nachos and the margarita.
+
+Overall, we'd call it a decent Tex-Mex spot, based on both the service and the food. People seem split on Rosie's, and we even saw a whole Reddit debate about it.
+
+Have you been? We'd love to know if it's a hit or miss for you, and which location you like best.

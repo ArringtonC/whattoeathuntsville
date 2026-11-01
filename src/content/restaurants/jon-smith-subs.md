@@ -14,6 +14,9 @@ draft: false
 status: open
 searchTerms: ["madison", "county line rd", "quick lunch", "hot cajun chicken sandwich", "fast lunch"]
 website: "https://www.jonsmithsubs.com"
+address: "11156 County Line Rd, Ste G, Madison, AL 35756"
 ---
 
-If I had to choose between subway and Jon Smith Subs I’m picking Jon Smith 🥪🔥 JSS Hot cajun chicken sandwhich was sooo good!! And they were so nice! Located on county line rd. 📍
+If we had to choose between Subway and Jon Smith Subs, we're picking Jon Smith every time.
+
+The hot Cajun chicken sandwich was so good. And the staff were so nice. It's on County Line Rd, so it's an easy stop for a quick lunch.

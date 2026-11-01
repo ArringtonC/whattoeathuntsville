@@ -11,6 +11,8 @@ lastVerified: 2023-02-28
 draft: false
 status: open
 searchTerms: ["huntsville", "brunch", "plant based", "plant-based", "weekend brunch"]
+address: "930 Old Monrovia Rd NW, Suite 3, Huntsville, AL 35806"
+area: "MidCity"
 ---
 
-Superhero Chefs has tasty & options! Visit them when they have located in
+Superhero Chefs has tasty options, and it's a spot we wanted to share. Swing by and see for yourself.

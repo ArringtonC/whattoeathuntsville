@@ -18,8 +18,8 @@ export const ADS_ENABLED = false;
 // Google AdSense account (Arrington). The script loads on every page so Google can review the site; ad slots stay off until ADS_ENABLED.
 export const ADSENSE_CLIENT = 'ca-pub-4363367067990819';
 
-export const CITIES = ['Huntsville', 'Madison', 'Decatur', 'Athens', 'Nashville', 'Atlanta'] as const;
-export const LOCAL_CITIES = ['Huntsville', 'Madison', 'Decatur', 'Athens'];
+export const CITIES = ['Huntsville', 'Madison', 'Decatur', 'Athens', 'Harvest', 'Hazel Green', 'Nashville', 'Atlanta'] as const;
+export const LOCAL_CITIES = ['Huntsville', 'Madison', 'Decatur', 'Athens', 'Harvest', 'Hazel Green'];
 export const TRAVEL_CITIES = ['Nashville', 'Atlanta'];
 
 export const CUISINES = [

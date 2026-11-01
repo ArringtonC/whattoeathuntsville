@@ -14,6 +14,7 @@ occasions: []
 status: open
 searchTerms: ["huntsville", "downtown", "sweet treats", "dessert", "bakery", "sweets"]
 website: "https://www.themoonbakeshop.com/"
+address: "201 Jefferson St, Huntsville, AL"
 ---
 
-the moon bakeshop located in head there for some tasty and from a featuring: a & 😋
+The Moon Bakeshop is a downtown Huntsville bakery we stopped by for something sweet. We picked up a cinnamon roll and chocolate chip cookies.

@@ -12,6 +12,11 @@ draft: false
 occasions: []
 status: open
 searchTerms: ["huntsville", "latin", "cheesesteak", "philly", "mobile food"]
+area: "Food truck"
 ---
 
-Food Truck: Nicas Grill & Café 🍟 At The Orion Amphitheater, we tried which is a fusion food truck with a mix of Nicaraguan & American food. The order 📝: Loaded Fries 🍟 (tasted like philly cheese fries) & a sample of the signature dish Valenciana Rice (adding to my order next time!) 📍Follow them to see where they’re parked next! They also set up at Nasa Corral. Whose tried them?
+We tried Nicas Grill & Café at the Orion Amphitheater. It's a fusion food truck with a mix of Nicaraguan and American food.
+
+We got the loaded fries, which tasted like Philly cheese fries. We also had a sample of their signature dish, the Valenciana rice, and we're adding it to our order next time.
+
+The truck moves around, so follow them to see where they're parked next. They also set up at the NASA Corral. Have you tried them?

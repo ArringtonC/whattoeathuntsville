@@ -1,6 +1,6 @@
 ---
 name: "Taqueria Catedral (food truck)"
-city: Madison
+city: Harvest
 area: "Harvest (Hwy 53 Chevron)"
 cuisines: ["Mexican"]
 occasions: ["Cheap eats"]
@@ -12,7 +12,9 @@ alsoOrder: [{"name": "Steak tacos"}, {"name": "Chicken tacos"}]
 lastVerified: 2025-03-12
 draft: false
 status: open
-searchTerms: ["madison", "harvest (hwy 53 chevron)", "mexican", "cheap eats", "mexican food", "taco", "budget friendly", "affordable", "mobile food"]
+searchTerms: ["harvest (hwy 53 chevron)", "mexican", "cheap eats", "mexican food", "taco", "budget friendly", "affordable", "mobile food", "harvest"]
 ---
 
-Taqueria Catedral in Harvest 🌮 Nothing like good taco truck! Check them out off at the Chevron of HWY 53. Their steak and chicken tacos were good!!
+Nothing beats a good taco truck, and Taqueria Catedral in Harvest is a good one.
+
+You'll find it at the Chevron off Hwy 53. We got the steak and chicken tacos, and both were good.
