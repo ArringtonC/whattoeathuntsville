@@ -1,0 +1,721 @@
+{
+ "a-town-wings": {
+  "slug": "a-town-wings",
+  "price": 1,
+  "priceSource": "search snippet (wanderlog/restaurantguru): \"$10-20 per person\"",
+  "phone": "(256) 585-3198",
+  "phoneSource": "Yelp listing for 2608 Memorial Pkwy NW (+12565853198); also buzzfile",
+  "note": "Checked: address and city match the file. $10-20 sits on the 1/2 border; 1 is plausible for a wing counter."
+ },
+ "aloha-ramen-house": {
+  "slug": "aloha-ramen-house",
+  "price": 2,
+  "priceSource": "search result summary: \"$$\" (Yahoo Local/Yelp)",
+  "phone": "(256) 945-7480",
+  "phoneSource": "search results for 1591 Hughes Rd Ste C (Yelp/restaurantji)",
+  "note": "Checked: Madison address matches the file. $$ fits a ramen house."
+ },
+ "barracuda-taco-stand": {
+  "slug": "barracuda-taco-stand",
+  "price": 0,
+  "priceSource": "not found for Huntsville location (only New Orleans/Baton Rouge Yelp $$)",
+  "phone": "(510) 426-8512",
+  "phoneSource": "huntsville.org / Yelp / hsvchamber search results for 535 Meridian St N; re-check search summary also gives (510) 426-8512",
+  "note": "I re-checked with one search. Listings for the Huntsville location all show (510) 426-8512, so I kept it. The 510 area code is odd, but it is the listed number. No Huntsville $ level found, so price stays 0."
+ },
+ "beignets-and-brew": {
+  "slug": "beignets-and-brew",
+  "price": 1,
+  "priceSource": "search snippet: \"$10-20\" per person",
+  "phone": "(256) 325-3050",
+  "phoneSource": "Yelp listing 12120 County Line Rd (+12563253050)",
+  "note": "Checked: Madison address matches. 1 is plausible for a coffee and beignet shop."
+ },
+ "big-johns": {
+  "slug": "big-johns",
+  "price": 2,
+  "priceSource": "search summary: \"$$\", $10-20 per person (Yelp/restaurantguru)",
+  "phone": "(256) 469-6099",
+  "phoneSource": "search results for Big John's @ The Open Bottle, 7061 Hwy 72 W",
+  "note": "Checked: address matches. Yelp $$ takes priority."
+ },
+ "big-papa-gyro": {
+  "slug": "big-papa-gyro",
+  "price": 2,
+  "priceSource": "Yelp \"$$\"; Restaurant Guru $10-20 per person",
+  "phone": "(256) 489-9050",
+  "phoneSource": "bigpapagyro.com contact / chamberofcommerce listing (256-489...)",
+  "note": "Checked: Yelp $$ takes priority. Phone source is for the Huntsville shop."
+ },
+ "blue-oak-bbq": {
+  "slug": "blue-oak-bbq",
+  "price": 2,
+  "priceSource": "search snippet: \"$20-30 per person\"",
+  "phone": "(256) 900-7427",
+  "phoneSource": "blueoakbbqhsv.com / Huntsville chamber listing for 1000 Mid City Dr",
+  "note": "Checked: $20-30 maps to 2. Address matches."
+ },
+ "bos-best-wings": {
+  "slug": "bos-best-wings",
+  "price": 1,
+  "priceSource": "search snippet (restaurantguru/wanderboat): \"$10-20 per person\"",
+  "phone": "(256) 715-0232",
+  "phoneSource": "search results for 3700 Blue Spring Rd NW Unit A (Yelp/Toast)",
+  "note": "Checked: address matches. $10-20 sits on the 1/2 border; 1 is plausible for a wing counter."
+ },
+ "caps-philly-cheesesteak": {
+  "slug": "caps-philly-cheesesteak",
+  "price": 0,
+  "priceSource": "no $ level or per-person range found; re-check search only gave menu prices (10-inch $14.50-16, 6-inch $7-7.50, combos $22-24 on DoorDash/Yelp)",
+  "phone": "(256) 797-0892",
+  "phoneSource": "search results for 11451 S Memorial Pkwy (Yelp/MapQuest)",
+  "note": "I re-checked with one search and found no quoted $ level. Menu prices suggest 1 or 2, but there is no real source, so price stays 0. An older Cap's at 4217 9th Ave SW is CLOSED. The phone is for the Memorial Pkwy location."
+ },
+ "chikin-jip": {
+  "slug": "chikin-jip",
+  "price": 0,
+  "priceSource": "no $ level or per-person range found; re-check search only gave menu prices (sides $8.99, family combo $69.99; allthingsmadison/ChowNow)",
+  "phone": "(256) 325-3040",
+  "phoneSource": "search results for 12120 County Line Rd Suite A (ChowNow/Tripadvisor)",
+  "note": "I re-checked with one search and found no quoted $ level, so price stays 0. Phone is for the Madison Suite A location."
+ },
+ "china-dragon": {
+  "slug": "china-dragon",
+  "price": 1,
+  "priceSource": "Re-check search summary: \"The restaurant is in the ($) price category\"; menu: General Tso's Chicken $11.05, Sesame Chicken $11.05 (menuswithprice/Yelp results)",
+  "phone": "(256) 721-1188",
+  "phoneSource": "Search summary for 7190 Wall Triana Hwy #A, Madison (Tripadvisor/Yelp/YellowPages)",
+  "note": "Changed 2 to 1. Re-check shows $, and entrees are about $11, under $15. Chinese takeout fits $. Phone matches the Madison address in the file."
+ },
+ "chucks-fish": {
+  "slug": "chucks-fish",
+  "price": 3,
+  "priceSource": "Find Me Gluten Free: Chuck's Fish Madison \"listed as $$$\"",
+  "phone": "(256) 489-4892",
+  "phoneSource": "Official site chucksfish.com/location/madison: \"256.489.4892\"",
+  "note": "Confirmed $$$. File also says 'a little on the pricey side'. Official phone kept over TikTok 4893."
+ },
+ "city-barbeque": {
+  "slug": "city-barbeque",
+  "price": 2,
+  "priceSource": "Yelp $$ (search summary); write-up says about $32 for two",
+  "phone": "(256) 210-1089",
+  "phoneSource": "Search results for 11544 Memorial Pkwy SW (Yelp/MapQuest snippets)",
+  "note": "Plausible. Address matches the file. Not re-searched."
+ },
+ "coopers-hawk": {
+  "slug": "coopers-hawk",
+  "price": 2,
+  "priceSource": "OpenTable \"$30 and under\"",
+  "phone": "(938) 225-1212",
+  "phoneSource": "chwinery.com/locations/madison-al via search snippet",
+  "note": "Plausible. 938 is the north Alabama overlay area code. Not re-searched."
+ },
+ "cutes-and-cupcakes": {
+  "slug": "cutes-and-cakes",
+  "price": 2,
+  "priceSource": "Directory listings \"Price Range: $$\" (poyst.com / local.yahoo.com re-check summary)",
+  "phone": "(256) 678-7042",
+  "phoneSource": "Re-check search: Stovehouse/MapQuest listing for 3414 Governors Dr SW Ste 465: (256) 678-7042",
+  "note": "Slug mismatch: no cutes-and-cakes.md exists. The file is cutes-and-cupcakes.md (name 'Cutes and Cupcakes'). Its address matches the listing. There is no Yelp/Google $ level. $$ is the only level the re-check found. A single cupcake visit is likely under $15, so 1 is also defensible."
+ },
+ "daylight-donuts-south": {
+  "slug": "daylight-donuts-south",
+  "price": 1,
+  "priceSource": "DoorDash/order.online listing \"$\"",
+  "phone": "(256) 656-4753",
+  "phoneSource": "Tripadvisor/Yelp listing for 11823 Memorial Pkwy SW (search snippet)",
+  "note": "Plausible for a donut shop. Address matches the file. Not re-searched."
+ },
+ "domaine-south": {
+  "slug": "domaine-south",
+  "price": 2,
+  "priceSource": "Yelp $$ (search summary)",
+  "phone": "(256) 759-9952",
+  "phoneSource": "Tripadvisor/Toast listing for 200 Westside Square Ste 60 (search snippet)",
+  "note": "Yelp $$ has priority over other $30-60 sources. File address '200 West Side Square' is the same place. Not re-searched."
+ },
+ "dragon-alley": {
+  "slug": "dragon-alley",
+  "price": 2,
+  "priceSource": "One listing $$; re-check search summary (Resy/restaurantsforkings) says \"Price Range: $ (budget-friendly)\"; plates $3-20",
+  "phone": "(256) 808-0588",
+  "phoneSource": "Re-check search summary for 1030 Mid City Dr: \"+1 256 808 0588\"",
+  "note": "Sources still conflict. Two say $, one says $$. No Yelp/Google level found. I kept 2 because shared plates plus cocktails likely cost $15-30 per person. Phone confirmed."
+ },
+ "entice-bar-and-grille": {
+  "slug": "entice-bar-and-grille",
+  "price": 2,
+  "priceSource": "Listing $$ (Yelp/zmenu snippet); write-up says under $40",
+  "phone": "(256) 870-1013",
+  "phoneSource": "Search results for 8694 Madison Blvd (Yelp/MapQuest snippets)",
+  "note": "Plausible for a sports bar. Address matches the file. Not re-searched."
+ },
+ "floyds-barbecue": {
+  "slug": "floyds-barbecue",
+  "price": 1,
+  "priceSource": "\"$10-20 per person\" (restaurantguru/wanderlog snippet); plates $5.75-7.75",
+  "phone": "(256) 859-0115",
+  "phoneSource": "allmenus.com page title \"Floyd's Barbeque menu - Huntsville AL 35810 - (256) 859-0115\"",
+  "note": "Plates are under $8, so 1 fits. ZIP 35810 matches the Pulaski Pike address. Not re-searched."
+ },
+ "fluffy-fluffy": {
+  "slug": "fluffy-fluffy",
+  "price": 2,
+  "priceSource": "Yelp listing (2338 Whitesburg Dr) shows \"$$\" per search summary; menu pancakes $12.99-$14.99",
+  "phone": "(256) 945-7628",
+  "phoneSource": "Yelp/MapQuest for 2338 Whitesburg Dr Ste B, Huntsville",
+  "note": "Re-checked: changed 0 to 2 based on Yelp $$."
+ },
+ "handels-ice-cream": {
+  "slug": "handels-ice-cream",
+  "price": 1,
+  "priceSource": "Yelp \"$\" (7086 Hwy 72 W listing)",
+  "phone": "(256) 513-0080",
+  "phoneSource": "Yellowpages / usarestaurants.info / Chamber of Commerce for 7086 Hwy 72 W",
+  "note": "Plausible; ice cream shop at $ fits."
+ },
+ "hattie-bs-huntsville": {
+  "slug": "hattie-bs-huntsville",
+  "price": 2,
+  "priceSource": "Yelp/DoorDash \"$$\"; sandwich $11, tenders plate $11.25",
+  "phone": "(256) 690-0300",
+  "phoneSource": "Search results for 3212 Memorial Pkwy SW (Tripadvisor/MapQuest/HSV Chamber)",
+  "note": "Matches file address."
+ },
+ "hunnydew-bakery": {
+  "slug": "hunnydew-bakery",
+  "price": 0,
+  "priceSource": "Not found; home micro-bakery / farmers market with no listing",
+  "phone": "",
+  "phoneSource": "Not found; no public listing",
+  "note": "No Yelp/Google listing; kept 0 and blank."
+ },
+ "jets-pizza-madison": {
+  "slug": "jets-pizza-madison",
+  "price": 2,
+  "priceSource": "\"$$\" per search summary (DoorDash/UberEats listings)",
+  "phone": "(256) 489-8992",
+  "phoneSource": "Yelp listing title \"+12564898992\" for 1079 Balch Rd",
+  "note": "Source is delivery apps, not Google/Yelp; $$ is plausible for pizza chain. Phone matches Madison Balch Rd address."
+ },
+ "jon-smith-subs": {
+  "slug": "jon-smith-subs",
+  "price": 2,
+  "priceSource": "\"$$\" per Yelp/Restaurant Guru search summary (re-checked); reviews say $10-20 per person; Classic Steak 6\" $11.40",
+  "phone": "(256) 399-0555",
+  "phoneSource": "jonsmithsubs.com Madison location page (11156 County Line Rd Ste G)",
+  "note": "Borderline 1/2 by menu prices, but $$ symbol takes priority."
+ },
+ "kyuramen": {
+  "slug": "kyuramen",
+  "price": 2,
+  "priceSource": "Yelp \"$$\"; ramen $18.99-$25.99",
+  "phone": "(256) 270-9855",
+  "phoneSource": "Search results for 5850 University Dr NW Ste D2 (Yelp/Apple Maps/kyuramen.com)"
+ },
+ "la-parrilla-clift-farm": {
+  "slug": "la-parrilla-clift-farm",
+  "price": 2,
+  "priceSource": "\"$$\" (laparrilla.com Madison / DoorDash summary); write-up says under $60 for two",
+  "phone": "(256) 695-6511",
+  "phoneSource": "laparrilla.com/locations/madison-al, 461 John Henry Way Ste 1080",
+  "note": "Matches Clift Farm Madison address."
+ },
+ "las-trojas-cantina": {
+  "slug": "las-trojas-cantina",
+  "price": 2,
+  "priceSource": "\"$$\" per search summary (Toast/ezCater/Facebook listings)",
+  "phone": "(256) 813-5060",
+  "phoneSource": "lastrojas.com/hazel-green and Yelp, 14739 Hwy 231-431 Ste H",
+  "note": "Phone matches Hazel Green location in file. $$ plausible for sit-down Mexican cantina."
+ },
+ "lawlers-barbecue": {
+  "slug": "lawlers-barbecue",
+  "price": 1,
+  "priceSource": "Yelp \"$\" per search summary (re-checked, 11310 S Memorial Pkwy SW listing); pork plate special $5.97, pound of pork $11.97",
+  "phone": "(256) 882-5404",
+  "phoneSource": "Search results for 11310 S Memorial Pkwy SW Ste A (Yelp/Tripadvisor/MapQuest)",
+  "note": "Re-check confirmed $ on Yelp."
+ },
+ "little-hats-nashville": {
+  "slug": "little-hats-nashville",
+  "price": 2,
+  "priceSource": "Yelp \"$$\" (re-check search); pasta ~$17, sandwiches ~$15",
+  "phone": "(615) 281-3332",
+  "phoneSource": "Tripadvisor / search results for 1120 4th Ave N Suite 101",
+  "note": "Re-checked: Yelp lists $$, which settles the earlier $ vs $$ split."
+ },
+ "ljz-backyard-bayou": {
+  "slug": "ljz-backyard-bayou",
+  "price": 2,
+  "priceSource": "Search snippet: \"$$\" (some sources list \"$\")",
+  "phone": "(256) 489-0759",
+  "phoneSource": "Yelp / usarestaurants.info listing, 3155 Old Railroad Bed Rd",
+  "note": "Address matches the Harvest file. $$ fits a Cajun/soul sit-down place."
+ },
+ "loonas-cafe": {
+  "slug": "loonas-cafe",
+  "price": 2,
+  "priceSource": "Yelp \"$15-30 ($$)\"",
+  "phone": "(256) 583-8888",
+  "phoneSource": "Toast / search results for 20 Town Center Dr NW Ste 1109",
+  "note": "OK. Matches the file's address."
+ },
+ "los-morelenses": {
+  "slug": "los-morelenses",
+  "price": 1,
+  "priceSource": "Restaurantguru/listing \"$10-20 per person\"; reviewers say great prices",
+  "phone": "(256) 431-9123",
+  "phoneSource": "usarestaurants.info / Yelp, 30697 US Hwy 72",
+  "note": "$10-20 is on the line between 1 and 2. 1 is plausible for a taqueria. Listed as Las Morelenses / Taqueria Las Morelenses."
+ },
+ "louima-haitian-cuisine": {
+  "slug": "louima-haitian-cuisine",
+  "price": 0,
+  "priceSource": "No price listing found (re-checked with 1 search)",
+  "phone": "",
+  "phoneSource": "Not found (re-checked with 1 search)",
+  "note": "Food truck at 711 Old Railroad Bed Rd, Madison (Chef Kay). Social handle @llouimahaitiancuisine. No phone or price listing found."
+ },
+ "luigis-italian-grill": {
+  "slug": "luigis-italian-grill",
+  "price": 2,
+  "priceSource": "Listing \"$10-$20 per person\", \"$$ - $$$\"; entrees $13-24",
+  "phone": "(256) 715-1173",
+  "phoneSource": "Yelp title \"+12567151173\"",
+  "note": "OK. $$ fits entree prices."
+ },
+ "luogo-nashville": {
+  "slug": "luogo-nashville",
+  "price": 3,
+  "priceSource": "OpenTable \"$31 to $50\"",
+  "phone": "(615) 988-8200",
+  "phoneSource": "OpenTable / search results, 211 12th Ave S",
+  "note": "OK. OpenTable $31-50 maps to $$$. Gulch Italian with cocktails, so this is plausible."
+ },
+ "lyli-viet-thai": {
+  "slug": "lyli-viet-thai",
+  "price": 2,
+  "priceSource": "Yelp \"$$\"",
+  "phone": "(256) 444-7534",
+  "phoneSource": "Yelp title \"+12564447534\"",
+  "note": "OK."
+ },
+ "melt-downtown": {
+  "slug": "melt-downtown",
+  "price": 2,
+  "priceSource": "Yelp \"$$\"; sandwiches $12-18",
+  "phone": "(256) 517-8755",
+  "phoneSource": "Search results (Yelp/ilovemelt) for 201 Jefferson St N",
+  "note": "OK. Matches the downtown address."
+ },
+ "metro-diner": {
+  "slug": "metro-diner",
+  "price": 2,
+  "priceSource": "\"$$\", \"$10-$20 per person\" (Tripadvisor/Restaurantguru snippet)",
+  "phone": "(256) 333-4974",
+  "phoneSource": "Re-checked: search results (Yelp/Yellowpages/Tripadvisor) give +1 256-333-4974 for 975 Airport Rd Suite 20-22",
+  "note": "Phone confirmed for the Huntsville location."
+ },
+ "mi-delicioso-guanajuato": {
+  "slug": "mi-delicioso-guanajuato",
+  "price": 1,
+  "priceSource": "Restaurantji \"Price Range: $\"",
+  "phone": "(256) 685-5512",
+  "phoneSource": "Restaurant's own site mideliciosoguanajuatoal.com (also Restaurantji); re-checked by search",
+  "note": "Verified. Yelp shows a second number, (256) 715-1479. I kept the official site number. A taqueria and bakery at $ is plausible."
+ },
+ "mi-tierra-oaxaquena": {
+  "slug": "mi-tierra-oaxaquena",
+  "price": 0,
+  "priceSource": "No price level found (no Yelp/Google price in results)",
+  "phone": "(256) 953-7093",
+  "phoneSource": "MapQuest listing for Taqueria Mi Tierra Oaxaquena, 5990 Pulaski Pike NW (matches file address)",
+  "note": "Verified. The address matches the file. There is no sourced price, so price stays 0."
+ },
+ "mias-cafe": {
+  "slug": "mias-cafe",
+  "price": 1,
+  "priceSource": "Search snippet: \"price range is $10–20\" (Google-style range); menu items $5.99-$14.99",
+  "phone": "(256) 233-4223",
+  "phoneSource": "allmenus.com listing \"Mia's Cafe menu - Madison AL 35757 - (256) 233-4223\"",
+  "note": "Verified. The phone matches the Madison file city. Google's $10-20 band is usually shown as $, and most menu items cost under $15, so 1 fits."
+ },
+ "mizz-jujus": {
+  "slug": "mizz-jujus",
+  "price": 2,
+  "priceSource": "Restaurantji \"Price Range: $$\"",
+  "phone": "",
+  "phoneSource": "Not confirmed. Chamberofcommerce/Restaurantji show (256) 970-5339 for Mizz Juju's Cafe, but Yelp marks that cafe CLOSED.",
+  "note": "I re-checked with one search. Yelp marks 'Mizz Juju's Cafe' as CLOSED. The current business at 2022 Jordan Ln Ste B is 'Mizz Juju's Food & Beverage Distribution', with (314) 210-0496 (a St. Louis area code). I could not confirm which number works, so I left the phone blank. Also check if the place is still open before you list it. The $$ price is from the old cafe listing."
+ },
+ "mk-wings": {
+  "slug": "mk-wings",
+  "price": 1,
+  "priceSource": "Restaurantji \"Price Range: $\"",
+  "phone": "(256) 270-7373",
+  "phoneSource": "Restaurantji / Toast listing for 502 Jordan Ln NW",
+  "note": "Verified. The address matches the file. A wings shop at $ is plausible."
+ },
+ "mobay-beignet-co": {
+  "slug": "mobay-beignet-co",
+  "price": 1,
+  "priceSource": "Restaurantji \"Price Range: $\"",
+  "phone": "(256) 270-9447",
+  "phoneSource": "Restaurantji listing for 1981 Jeff Rd NW (Mo'Bay Beignet / Bay Town Burger Co.)",
+  "note": "Verified. The address matches the file. A beignet and coffee shop at $ is plausible."
+ },
+ "mozza-pizza": {
+  "slug": "mozza-pizza",
+  "price": 2,
+  "priceSource": "Search snippet \"Price Range: $$\"; Yelp title lists phone +12564893675",
+  "phone": "(256) 489-3675",
+  "phoneSource": "Yelp listing 'Mozza Pizza Restaurant, 520 Jordan Ln' and chamberofcommerce.com",
+  "note": "Verified. The address matches the file. A pizza place at $$ is plausible."
+ },
+ "nicas-grill": {
+  "slug": "nicas-grill",
+  "price": 0,
+  "priceSource": "No price level found (foodtrucksin.com lists none)",
+  "phone": "(256) 288-8206",
+  "phoneSource": "Search results summary for Yelp 'Nica's Grill and Cafe, Madison' and the MapQuest/Nextdoor listings; re-checked by search",
+  "note": "I re-checked with one search, and it confirms (256) 288-8206 for this food truck. The listings put it in Madison, AL 35758, but the file says Huntsville. A food truck moves, so the phone is still correct. Do not link nicasgrillcafe.com, because it redirects to an unrelated domain."
+ },
+ "niyahs-southern-grill": {
+  "slug": "niyahs-southern-grill",
+  "price": 2,
+  "priceSource": "Search snippet: \"$20–30 price territory\" for main meals (mains $16-$24)",
+  "phone": "(256) 489-2200",
+  "phoneSource": "Search results (Yelp/Yahoo Local listing for 1392 Jordan Rd)",
+  "note": "Verified. The address matches the file. Mains cost $16-24, so 2 fits the $15-30 band."
+ },
+ "north-italia": {
+  "slug": "north-italia",
+  "price": 2,
+  "priceSource": "Search snippet: \"North Italia in Huntsville, AL has a price range of $$\"",
+  "phone": "(256) 812-8870",
+  "phoneSource": "northitalia.com Huntsville location page (search result)",
+  "note": "Verified. The phone comes from the official location page for Bridge Street, which matches the file. A sit-down Italian chain at $$ is plausible."
+ },
+ "oh-crepe": {
+  "slug": "oh-crepe",
+  "price": 2,
+  "priceSource": "Yelp $$ (search snippet: '$$', $10-25 per person)",
+  "phone": "(256) 678-7032",
+  "phoneSource": "Search results for Oh Crêpe!, 3414 Governors Dr Ste 520 (Tripadvisor/Stovehouse listings)",
+  "note": "OK. Matches file address (Stovehouse, Huntsville)."
+ },
+ "one-eleven": {
+  "slug": "one-eleven",
+  "price": 3,
+  "priceSource": "Yelp $$$ (yelp.com/biz/one-eleven-huntsville, per WebSearch re-check); described as 'an upscale, modern restaurant and cocktail bar'",
+  "phone": "(256) 715-5111",
+  "phoneSource": "Yelp listing + oneelevenhsv.com/contact + Toast for 111 Washington St NE, Huntsville",
+  "note": "CHANGED from 2 to 3. Re-check found Yelp lists it as $$$, which matches the upscale write-up."
+ },
+ "osteria-luca": {
+  "slug": "osteria-luca",
+  "price": 3,
+  "priceSource": "Yelp $$$ (search snippet); other sources say $$; most plates under $20, some pastas $25-30",
+  "phone": "(256) 612-5822",
+  "phoneSource": "Search results for Osteria LuCa, 3414 Governors Dr SW Suite 705 (Stovehouse/Yelp)",
+  "note": "Kept 3 because the guide says Yelp $ takes priority. Menu prices lean $$, so 2 is also defensible."
+ },
+ "pan-z-effies": {
+  "slug": "pan-z-effies",
+  "price": 2,
+  "priceSource": "Site write-up: 'We spent about $40 to $50 with a drink' ('we' = at least two people, so about $20-25 each)",
+  "phone": "",
+  "phoneSource": "Not found; only TikTok and Instagram results",
+  "note": "Food truck. Only our own write-up as source. $$ is plausible for catfish/wings plates; $$$ would not be."
+ },
+ "parlor-doughnuts": {
+  "slug": "parlor-doughnuts",
+  "price": 2,
+  "priceSource": "Yelp $$ (search snippet)",
+  "phone": "(256) 203-5291",
+  "phoneSource": "Search results (joe.coffee / Yelp) for 2500 Clinton Ave W Suite B, Huntsville",
+  "note": "OK."
+ },
+ "pf-changs": {
+  "slug": "pf-changs",
+  "price": 2,
+  "priceSource": "OpenTable '$30 and under'; Tripadvisor $17-26 per person; search snippet '$$'",
+  "phone": "(256) 327-8320",
+  "phoneSource": "locations.pfchangs.com page for 305 The Bridge St Suite 101, Huntsville",
+  "note": "OK. Official chain location page."
+ },
+ "pico-fresh-mex": {
+  "slug": "pico-fresh-mex",
+  "price": 2,
+  "priceSource": "Restaurant's own menu: burritos and bowls $15.50-17.50 (no Google/Yelp $ level found)",
+  "phone": "(256) 788-7377",
+  "phoneSource": "Search results for Pico Fresh Mex, 1947 Blake Bottom Rd (Monrovia, Huntsville)",
+  "note": "OK. Menu prices sit just over $15, so 2 fits the guide."
+ },
+ "pita-street-food": {
+  "slug": "pita-street-food",
+  "price": 2,
+  "priceSource": "DoorDash $$ (search snippet); pitas $16.50-17",
+  "phone": "(256) 325-0103",
+  "phoneSource": "Search results for 300 Hughes Rd Suite I, Madison (Yelp/Facebook listings)",
+  "note": "OK. Matches Madison address."
+ },
+ "playa-bowls": {
+  "slug": "playa-bowls",
+  "price": 2,
+  "priceSource": "Search snippet '$$' for Playa Bowls Madison AL; menu $4-16.25",
+  "phone": "(256) 429-9015",
+  "phoneSource": "WebSearch re-check: Yelp (playa-bowls-madison-3) / MapQuest for 460 John Henry Way Ste 390, Madison",
+  "note": "Phone confirmed for the Clift Farm store. Re-check found no $ level for this exact store; the $$ snippet may be the 100 Outfield Dr store. Most bowls are about $12-16, so 1 is also possible. Weak source."
+ },
+ "rds-smokehouse": {
+  "slug": "rds-smokehouse",
+  "price": 1,
+  "priceSource": "Search snippet '$' (budget-friendly); plates about $11-18",
+  "phone": "(256) 683-9990",
+  "phoneSource": "WebSearch re-check: Yellowpages, usarestaurants.info, chamberofcommerce for 1811 Nick Davis Rd, Harvest",
+  "note": "Re-check confirms (256) 683-9990 across several listings. The other number, (256) 348-4868, did not show up again."
+ },
+ "roosters-athens": {
+  "slug": "roosters-athens",
+  "price": 2,
+  "priceSource": "search summary of DoorDash/Toast listings: \"$$\"; plates $8.99-9.99",
+  "phone": "(256) 230-9001",
+  "phoneSource": "web search summary for 125 US-31 S, Athens (Yelp/MapQuest/roostersinathens.com results)",
+  "note": "Kept: listing $$ takes priority. Plates $9-10 could argue for 1. Phone matches Athens address."
+ },
+ "rosies-cantina": {
+  "slug": "rosies-cantina",
+  "price": 2,
+  "priceSource": "Tripadvisor/OpenTable: \"$$\", OpenTable \"$30 and under\"",
+  "phone": "(256) 922-1001",
+  "phoneSource": "rosiesmexicancantina.com University Drive page / OpenTable",
+  "note": "Kept. Location matches file (6196 University Dr, Huntsville)."
+ },
+ "ruby-slipper-nashville": {
+  "slug": "ruby-slipper-nashville",
+  "price": 2,
+  "priceSource": "search summary: \"$10 - $20 per person\" (Tripadvisor/Yelp results)",
+  "phone": "(629) 210-3060",
+  "phoneSource": "Yelp listing for Ruby Sunshine Nashville, 1800 21st Ave S (+16292103060)",
+  "note": "Kept. Same address as file. Place now runs as Ruby Sunshine, so file name/website may be outdated."
+ },
+ "sacs-kitchen": {
+  "slug": "sacs-kitchen",
+  "price": 1,
+  "priceSource": "search summary: \"$\" (some sources $$); average $10-20 per person",
+  "phone": "(256) 746-9030",
+  "phoneSource": "Yelp / usarestaurants.info for 6008 Mastin Lake Rd",
+  "note": "Kept. $ fits a soul-food buffet. allmenus.com lists (256) 617-6524, likely old."
+ },
+ "sam-and-gregs": {
+  "slug": "sam-and-gregs",
+  "price": 2,
+  "priceSource": "Tripadvisor/Yelp search summary: \"$$\", $10-20 per person",
+  "phone": "(256) 469-6932",
+  "phoneSource": "Yelp listing 116 S Side Sq (+12564696932)",
+  "note": "Kept. Matches downtown address in file."
+ },
+ "seoul-good": {
+  "slug": "seoul-good",
+  "price": 0,
+  "priceSource": "no Google/Yelp $ level found; re-check search found only menu prices (6pc wings $13.69, 10pc $21.88, nuggets $8.59)",
+  "phone": "(256) 678-7043",
+  "phoneSource": "web search summary for 3414 Governors Dr SW Ste 510 (Yelp/Apple Maps results)",
+  "note": "Re-checked with 1 search: still no quoted $ level, so price stays 0. Menu suggests 1-2. Phone address matches file."
+ },
+ "steam-boys": {
+  "slug": "steam-boys",
+  "price": 2,
+  "priceSource": "search summary of delivery listings: \"$$\"; entrees $11-15",
+  "phone": "(256) 513-8380",
+  "phoneSource": "steamboys.com/madison (Clift Farm, 8294 Hwy 72 W Bldg 200)",
+  "note": "Kept. Matches Madison address in file."
+ },
+ "sunnyside-pizzeria-atlanta": {
+  "slug": "sunnyside-pizzeria-atlanta",
+  "price": 2,
+  "priceSource": "\"$$\", OpenTable/Yelp summary: $15-30 per person",
+  "phone": "(404) 343-0585",
+  "phoneSource": "web search summary for 220 Sandy Springs Cir (Yelp/visitsandysprings.org results)",
+  "note": "Kept. Matches Sandy Springs address in file."
+ },
+ "super-chix-madison": {
+  "slug": "super-chix-madison",
+  "price": 2,
+  "priceSource": "search summary of delivery listings: \"$$\"; 4 tenders $11.79",
+  "phone": "(256) 325-4063",
+  "phoneSource": "Yelp listing 100 Moon Shot Dr (+12563254063)",
+  "note": "Kept. usarestaurants.info shows (256) 200-1916; Yelp number used."
+ },
+ "superhero-chefs": {
+  "slug": "superhero-chefs",
+  "price": 2,
+  "priceSource": "search summary (Toast/Yelp results): \"$$\"; sandwiches $15.99-17.59",
+  "phone": "(256) 489-4044",
+  "phoneSource": "web search summary for 930 Old Monrovia Rd NW #3 (Yelp/MapQuest/Toast results)",
+  "note": "Kept. Matches MidCity address in file."
+ },
+ "tacos-de-canasta-acapulco": {
+  "slug": "tacos-de-canasta-acapulco",
+  "price": 1,
+  "priceSource": "DoorDash listing (via search): \"Price Range: $ (Budget-friendly)\"; tacos $2.80-$3.75, orden de 4 $10",
+  "phone": "(938) 218-5459",
+  "phoneSource": "Toast listing for 7192 Wall Triana Hwy A (via search)",
+  "note": "Kept. Price fits a taco spot. One other source lists (938) 218-5515; the Toast ordering listing is the stronger source."
+ },
+ "tamarind-island": {
+  "slug": "tamarind-island",
+  "price": 2,
+  "priceSource": "Search summary: \"the price range is $$\" (source page not confirmed)",
+  "phone": "",
+  "phoneSource": "",
+  "note": "Re-checked with 1 search. Numbers still conflict: (256) 417-2976 called primary by the summary, (256) 652-4659 also listed, and (256) 652-4679 seen before. Yelp now lists it as Tamarind Island Grille at 5909 University Dr. Left phone blank. $$ fits a Caribbean sit-down spot, but the source is weak."
+ },
+ "taqueria-catedral": {
+  "slug": "taqueria-catedral",
+  "price": 0,
+  "priceSource": "",
+  "phone": "",
+  "phoneSource": "",
+  "note": "Kept blank. No reliable listing. The file has no address."
+ },
+ "taqueria-don-pancho": {
+  "slug": "taqueria-don-pancho",
+  "price": 1,
+  "priceSource": "Restaurantji: \"$\"",
+  "phone": "",
+  "phoneSource": "",
+  "note": "Re-checked with 1 search. It still shows three numbers for 7950 Hwy 72 W: (205) 666-3082, (256) 670-3249 and (256) 953-7617. The search said the 205 number appears on more sites. I could not confirm which one is current, so I set the phone to blank. Owner site taqueriadonpanchoal.com may show the real number. Price $ is fine."
+ },
+ "taqueria-dona-vale": {
+  "slug": "taqueria-dona-vale",
+  "price": 1,
+  "priceSource": "Restaurantji: \"$\"",
+  "phone": "(256) 426-8890",
+  "phoneSource": "Search summary (res-discover / Facebook listing) for 7190 Wall Triana Hwy",
+  "note": "Kept. Address matches the file. The phone source is weaker because Restaurantji showed no phone. Formerly Taqueria Vicky."
+ },
+ "taqueria-las-adelitas": {
+  "slug": "taqueria-las-adelitas",
+  "price": 1,
+  "priceSource": "Restaurantji: \"$\"",
+  "phone": "(256) 489-3100",
+  "phoneSource": "Restaurantji and search results for 6212 Madison Pike",
+  "note": "Kept. Address and city match."
+ },
+ "taqueria-los-3-reales": {
+  "slug": "taqueria-los-3-reales",
+  "price": 1,
+  "priceSource": "Restaurantji (Los 3 Reales #2): \"$\"",
+  "phone": "(256) 806-8602",
+  "phoneSource": "Restaurantji and chamberofcommerce.com for Los 3 Reales #2 on Memorial Pkwy SW",
+  "note": "Kept. The listing says 11551 Memorial Pkwy SW and the file says 11563, which is next door. A cash-only taco truck fits $."
+ },
+ "taqueria-luna": {
+  "slug": "taqueria-luna",
+  "price": 1,
+  "priceSource": "Restaurantji: \"$\" (about $16 typical meal)",
+  "phone": "(256) 874-4059",
+  "phoneSource": "Restaurantji and search results for 30098 Andrea Ln",
+  "note": "Kept. Restaurantji's $ takes priority over the $16 meal estimate, which sits on the edge."
+ },
+ "teriyaki-express-grill": {
+  "slug": "teriyaki-express-grill",
+  "price": 2,
+  "priceSource": "Yahoo Local listing (via search): \"price range of $10–20\"; write-up says about $15 for gyoza + plate",
+  "phone": "(256) 679-6983",
+  "phoneSource": "Yahoo Local listing for Teriyaki Express Grill, 6546 Wall Triana Hwy, Madison (Wall Triana and Capshaw)",
+  "note": "Re-checked with 1 search. The search now gives 6546 Wall Triana Hwy, which is next to the file's 6540 at the same corner, so the phone looks right. Price is borderline: the $10-20 range has a $15 midpoint, and Google often shows $10-20 as $. I kept 2 because of the $15 write-up."
+ },
+ "the-biscuit-express": {
+  "slug": "the-biscuit-express",
+  "price": 1,
+  "priceSource": "Restaurantji: \"$\"",
+  "phone": "(256) 852-5571",
+  "phoneSource": "Restaurantji and chamberofcommerce.com for 5077 Moores Mill Rd",
+  "note": "Kept. Address matches. A biscuit truck fits $."
+ },
+ "the-cheesecake-factory": {
+  "slug": "the-cheesecake-factory",
+  "price": 2,
+  "priceSource": "Yelp $$ (search snippet; entrees $18-30)",
+  "phone": "(256) 836-7266",
+  "phoneSource": "locations.thecheesecakefactory.com/al/huntsville-217",
+  "note": "OK. $$ fits a chain sit-down. Bridge Street Huntsville location matches the file."
+ },
+ "the-moon-bakeshop": {
+  "slug": "the-moon-bakeshop",
+  "price": 2,
+  "priceSource": "\"$10–20 per person\", listed as $$ (search snippet, restaurantguru/Yelp)",
+  "phone": "(256) 270-8435",
+  "phoneSource": "Yelp / themoonbakeshop.com contact (search snippet)",
+  "note": "OK. Plausible for a bakery/cafe."
+ },
+ "the-spot": {
+  "slug": "the-spot",
+  "price": 2,
+  "priceSource": "\"$10–20\" and \"$$\" (DoorDash/listing search snippet)",
+  "phone": "(938) 309-2284",
+  "phoneSource": "thespothsv.com \"Contact Our Store or Order by Phone\"",
+  "note": "OK. 938 is a valid north Alabama area code. Customer service line (256) 203-6983 also exists; the store/order line is the better pick."
+ },
+ "the-veggie": {
+  "slug": "the-veggie",
+  "price": 2,
+  "priceSource": "Yelp $$ (search snippet)",
+  "phone": "(256) 893-4709",
+  "phoneSource": "eattheveggie.com/contact and Yelp (WebSearch re-check)",
+  "note": "Re-checked: the official contact page lists (256) 893-4709 for 7504 US-72 W, Madison. Matches the file city."
+ },
+ "tulum-cantina": {
+  "slug": "tulum-cantina",
+  "price": 2,
+  "priceSource": "$$, \"$10-20 per person\" (Yelp/restaurantguru search snippet)",
+  "phone": "(256) 325-3022",
+  "phoneSource": "Yelp/MapQuest listing (search snippet)",
+  "note": "OK. Full name Tulum Cantina & Grill. Sit-down Mexican with margaritas, so $$ is plausible."
+ },
+ "viet-crispwich": {
+  "slug": "viet-crispwich",
+  "price": 2,
+  "priceSource": "$$ moderate (Yelp/listing search snippet; banh mi $8.61-9.97)",
+  "phone": "(256) 999-9968",
+  "phoneSource": "vietcrispwich.com / Yelp (WebSearch re-check)",
+  "note": "Phone confirmed for 1300 Enterprise Way. Price is borderline: banh mi under $10 points to $. I kept $$ because the Yelp quote says $$."
+ },
+ "viet-house": {
+  "slug": "viet-house",
+  "price": 2,
+  "priceSource": "$$, \"$10-20 per person\" (Yelp/restaurantguru search snippet)",
+  "phone": "(256) 880-4888",
+  "phoneSource": "Yelp / viethousehuntsville.com (search snippet)",
+  "note": "OK. The file has a 'budget-friendly' tag, but $10-20 per person is still $$."
+ },
+ "vujee-vegan": {
+  "slug": "vujee-vegan",
+  "price": 2,
+  "priceSource": "$$ (DoorDash/Yelp search snippet; combos $13.45-19.78)",
+  "phone": "",
+  "phoneSource": "",
+  "note": "Phone unsure. The row gave (256) 469-6099. My re-check found vujeeveganllc.com contact page listing (256) 836-5963, and directories disagree. Blanked phone; verify by calling or check the official site."
+ },
+ "west-end-grill": {
+  "slug": "west-end-grill",
+  "price": 2,
+  "priceSource": "Yelp $$, \"$10–20 per person\" (search snippet)",
+  "phone": "(256) 722-8040",
+  "phoneSource": "Yelp / westendgrillhsv.com (search snippet)",
+  "note": "OK. Plausible for a bar and grill."
+ },
+ "wings-and-gyros": {
+  "slug": "wings-and-gyros",
+  "price": 1,
+  "priceSource": "\"$\" (DoorDash/listing search snippet; gyros $12.99)",
+  "phone": "(256) 801-9027",
+  "phoneSource": "wingsandgyros.com / Yelp (search snippet)",
+  "note": "OK. $ fits a counter-service wing and gyro shop near UAH."
+ }
+}

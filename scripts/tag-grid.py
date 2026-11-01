@@ -15,8 +15,8 @@ from openpyxl.worksheet.datavalidation import DataValidation
 
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 DIR = os.path.join(ROOT, "src", "content", "restaurants")
-XLSX = os.path.join(ROOT, "restaurant-tags.xlsx")
-CHECK = os.path.join(ROOT, "menu-check.json")
+XLSX = os.path.join(ROOT, "sheets", "restaurant-tags.xlsx")
+CHECK = os.path.join(ROOT, "research", "menu-check.json")
 FIXED = ["Restaurant", "City", "Label", "Reviewed"]
 TAIL = ["Other tags", "slug"]
 # Always offered, even before any restaurant uses them.

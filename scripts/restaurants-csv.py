@@ -6,7 +6,7 @@ import csv, glob, json, os, sys
 
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 DIR = os.path.join(ROOT, "src", "content", "restaurants")
-CSV = os.path.join(ROOT, "restaurants.csv")
+CSV = os.path.join(ROOT, "sheets", "restaurants.csv")
 COLS = ["slug", "name", "city", "area", "cuisines", "label", "tags", "occasions", "best_dish", "verdict", "status", "reviewed"]
 LABELS = {"great", "good", "first-look", "none"}
 OCCASIONS = {"Date night", "Brunch", "Family", "Quick lunch", "Late night", "Group", "Cheap eats", "Birthday"}

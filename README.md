@@ -1,32 +1,50 @@
-# What to Eat Huntsville — website
+# What to Eat Huntsville: start here
 
-Restaurant discovery site built with [Astro](https://astro.build). Every page is generated from content files, so adding a restaurant means adding one file.
+This folder is the whole website, **whattoeathuntsville.com**. You only need a few folders. Everything else runs the site, and you can leave it alone.
 
-## Run it
+## The folders you'll use
+
+| Folder | What's inside | Open it when you want to… |
+| --- | --- | --- |
+| `sheets/` | Spreadsheets you can open in Numbers or Excel | Change tags or labels, check prices and phone numbers |
+| `src/content/restaurants/` | One file per restaurant (name, address, tags, and "Our take") | Read or fix one restaurant's page |
+| `src/content/guides/` | The guides (Best wings, Date night…) | Read or edit a guide |
+| `emails/` | The Weekly Bite email designs and drafts of issues | Plan the next newsletter |
+| `docs/` | The launch checklist and launch TikTok plan | See what's done and what's left |
+| `public/covers/` | The TikTok cover photos the site uses | Find a photo |
+
+## The spreadsheets (`sheets/`)
+
+- **restaurant-tags.xlsx**: one row per restaurant, a yes/no column for each tag. Set the label (great, good, first-look, none) and mark "Reviewed". When you're done, tell Claude **"import the tags"**.
+- **restaurant-prices.csv**: price level ($ to $$$$), phone number, and where each came from. Blank price means we couldn't confirm it.
+- **restaurants.csv**: a simple list of every restaurant.
+
+Always start from the newest copy in this folder. An old copy can undo newer fixes when it's imported.
+
+## Folders you can ignore
+
+| Folder | What it is |
+| --- | --- |
+| `research/` | Notes from the AI fact-checks: menu checks, location checks, original captions, transcript notes, SEO ideas |
+| `transcripts/` | Text of what we said in each TikTok (made with Whisper) |
+| `scripts/` | Small tools that move data between the sheets and the site |
+| `src/pages/`, `src/components/`, `src/layouts/`, `src/styles/` | The website's design and code |
+| `dist/`, `node_modules/` | Built files. Made automatically. Don't edit |
+
+## Where things live online
+
+- Website: https://whattoeathuntsville.com
+- Newsletter sign-ups: Kit (kit.com)
+- Domain and hello@whattoeathuntsville.com email: Cloudflare
+- Google search reports: Google Search Console
+- Ads: Google AdSense (waiting for approval)
+
+## For developers
 
 ```sh
 npm install
-npm run dev      # preview at http://localhost:4321
-npm run build    # final site goes to dist/
+npm run dev      # preview at http://localhost:4321 (shows drafts too)
+npm run deploy   # build and publish to GitHub Pages
 ```
 
-## Add content
-
-| What | Where | Notes |
-| --- | --- | --- |
-| Restaurant | `src/content/restaurants/<slug>.md` | Copy an existing file. `label` is great, good, first-look, or none. Body = your short write-up. |
-| TikTok video | `src/content/videos.json` | Link it to restaurants by slug. |
-| TikTok cover | `public/covers/<slug>.jpg`, then `cover: /covers/<slug>.jpg` | Without a cover, a tinted placeholder shows. |
-| Guide | `src/content/guides/<slug>.md` | Ordered list of restaurant slugs + why each is there. |
-| Story | `src/content/stories/<slug>.md` | Short article in Markdown. Set `sponsor:` only for paid stories. |
-
-The build fails with a clear message if a field is missing or a slug is wrong.
-
-## Before launch
-
-- **Upgrade Node.js to 22.23.4 or newer, then switch `astro` in package.json to `^7.4.4`.** Astro 6 (used now because this Mac has Node 22.23.1) has known security issues fixed only in Astro 7.
-- Replace all sample content (anything in `[brackets]`, and files named `sample-*`).
-- Set the real domain in `astro.config.mjs`.
-- Forms (newsletter, suggest, work with us) use Netlify Forms. If you host elsewhere or pick an email service, point the newsletter forms at that service.
-- Display ads are off: `ADS_ENABLED` in `src/lib/site.ts`.
-- Email templates live in `emails/` (see its README).
+Each restaurant, guide, and story is a Markdown file in `src/content/`. The build stops with a clear message if a field is missing or a restaurant slug is wrong. `draft: true` hides a page from the live site.
