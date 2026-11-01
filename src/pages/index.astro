@@ -12,15 +12,10 @@ const restaurants = await listedRestaurants();
 const local = restaurants.filter((r) => LOCAL_CITIES.includes(r.data.city));
 const newFinds = [...local].sort((a, b) => +b.data.lastVerified - +a.data.lastVerified || Number(b.data.featured) - Number(a.data.featured)).slice(0, 4);
 const greatUrls = local.filter((r) => r.data.label === 'great').map((r) => `/restaurants/${r.id}`);
-// Biggest cuisines first. Each circle gets a different restaurant's photo, cropped below the TikTok caption text.
-const used = new Set<string>();
-const cuisines = CUISINES.map((c) => ({ name: c, rs: local.filter((r) => r.data.cuisines.includes(c)) }))
-  .filter((c) => c.rs.length > 0).sort((a, b) => b.rs.length - a.rs.length).slice(0, 12)
-  .map(({ name, rs }) => {
-    const cover = rs.map((r) => r.data.cover).find((c) => c && !used.has(c)) ?? rs.find((r) => r.data.cover)?.data.cover;
-    if (cover) used.add(cover);
-    return { name, count: rs.length, cover: cover?.replace('/covers/videos/', '/covers/circles/') };
-  });
+// Biggest cuisines first. Circle photos are stock photos in public/cuisines (see SOURCES.txt there).
+const cuisines = CUISINES.map((c) => ({ name: c, count: local.filter((r) => r.data.cuisines.includes(c)).length }))
+  .filter((c) => c.count > 0).sort((a, b) => b.count - a.count).slice(0, 12)
+  .map((c) => ({ ...c, cover: `/cuisines/${slugify(c.name)}.jpg` }));
 const guides = await Promise.all((await getCollection('guides', visible)).slice(0, 3).map(async (g) => ({ ...g, cover: await guideCover(g) })));
 const outside = restaurants.filter((r) => TRAVEL_CITIES.includes(r.data.city)).slice(0, 4);
 const cravings = ['Tacos', 'Brunch', 'Burgers', 'Pizza', 'BBQ', 'Sweet treats', 'Date night', 'Cheap eats'];

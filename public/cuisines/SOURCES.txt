@@ -1,0 +1,19 @@
+Cuisine circle photos from Pexels (free to use, no attribution required, pexels.com/license).
+mexican.jpg  https://www.pexels.com/photo/9258712/
+asian.jpg  https://www.pexels.com/photo/16266742/
+sweet-treats.jpg  https://www.pexels.com/photo/7761650/
+breakfast.jpg  https://www.pexels.com/photo/730922/
+american.jpg  https://www.pexels.com/photo/27988502/
+soul-food.jpg  https://www.pexels.com/photo/32083398/
+wings.jpg  https://www.pexels.com/photo/5946434/
+bbq.jpg  https://www.pexels.com/photo/37030068/
+pizza.jpg  https://www.pexels.com/photo/36178132/
+chicken.jpg  https://www.pexels.com/photo/14686443/
+sandwiches.jpg  https://www.pexels.com/photo/6416558/
+italian.jpg  https://www.pexels.com/photo/12667658/
+seafood.jpg  https://www.pexels.com/photo/6426095/
+mediterranean.jpg  https://www.pexels.com/photo/31249644/
+cajun.jpg  https://www.pexels.com/photo/3650124/
+caribbean.jpg  https://www.pexels.com/photo/36895285/
+latin.jpg  https://www.pexels.com/photo/5837196/
+vegan.jpg  https://www.pexels.com/photo/5514818/

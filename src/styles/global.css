@@ -141,4 +141,10 @@ textarea.input { padding: 12px 14px; min-height: 120px; resize: vertical; }
 .circles a:hover .circle { transform: scale(1.04); }
 .circles b { font-size: 16px; font-weight: 700; }
 .circles small { font-size: 13px; color: var(--soft-text); margin-top: -6px; }
-@media (max-width: 560px) { .circles { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px 12px; } .circles b { font-size: 14px; } }
+/* Phones: one row that swipes sideways instead of a long list */
+@media (max-width: 560px) {
+  .circles { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 14px; margin-inline: calc(-1 * var(--gutter, 20px)); padding: 0 var(--gutter, 20px) 8px; scrollbar-width: none; }
+  .circles::-webkit-scrollbar { display: none; }
+  .circles a { flex: 0 0 100px; scroll-snap-align: start; }
+  .circles b { font-size: 14px; }
+}
