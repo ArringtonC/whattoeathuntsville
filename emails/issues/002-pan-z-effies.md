@@ -1,6 +1,6 @@
 # The Weekly Bite · Issue 002 · DRAFT
 
-- **Send date:** Thursday 2026-11-13
+- **Send date:** Thursday 2026-11-12
 - **Subject:** What to Eat This Week: The catfish we almost didn't share
 - **Preview text:** 1000/10 fried catfish. Open Wednesday to Saturday after 4pm.
 - **Template:** `../weekly-bite.html`

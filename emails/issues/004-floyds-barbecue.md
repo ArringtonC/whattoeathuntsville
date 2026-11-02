@@ -1,6 +1,6 @@
 # The Weekly Bite · Issue 004 · DRAFT
 
-- **Send date:** Thursday 2026-11-27
+- **Send date:** Thursday 2026-11-26 (Thanksgiving: consider sending Wednesday 11-25)
 - **Subject:** What to Eat This Week: The best pork sandwich in Huntsville
 - **Preview text:** Five stars from both of us.
 - **Template:** `../weekly-bite.html`

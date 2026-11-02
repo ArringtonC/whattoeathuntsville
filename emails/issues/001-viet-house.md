@@ -1,6 +1,6 @@
 # The Weekly Bite · Issue 001 · DRAFT
 
-- **Send date:** Thursday 2026-11-06
+- **Send date:** Thursday 2026-11-05
 - **Subject:** What to Eat This Week: Our forever favorite pho
 - **Preview text:** The pho spot we end up at almost every week.
 - **Template:** `../weekly-bite.html`

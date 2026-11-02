@@ -1,6 +1,6 @@
 # The Weekly Bite · Issue 003 · DRAFT
 
-- **Send date:** Thursday 2026-11-20
+- **Send date:** Thursday 2026-11-19
 - **Subject:** What to Eat This Week: The quesadilla we drove across town for
 - **Preview text:** We went almost every week for months for one dish.
 - **Template:** `../weekly-bite.html`
