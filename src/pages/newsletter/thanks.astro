@@ -1,0 +1,33 @@
+---
+// Where Kit sends people after they click "Confirm" in the sign-up email.
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Cover from '../../components/Cover.astro';
+import { guideCover, visible } from '../../lib/data';
+import { SITE } from '../../lib/site';
+
+const guides = await Promise.all((await getCollection('guides', visible)).slice(0, 3).map(async (g) => ({ ...g, cover: await guideCover(g) })));
+---
+<Base title="You're in" description="Thanks for subscribing to The Weekly Bite." noindex>
+  <section class="band-cream">
+    <div class="narrow section" style="display: flex; flex-direction: column; gap: 16px;">
+      <p class="kicker">{SITE.newsletter}</p>
+      <h1 class="h1">You're in. Thank you!</h1>
+      <p class="dek">Every Thursday morning we'll send you one Huntsville spot worth knowing about: why it's good, what to order, and how to get there.</p>
+      <p>Emails come from <strong>{SITE.email}</strong>. Add us to your contacts so we land in your inbox, not spam.</p>
+    </div>
+  </section>
+
+  <section class="wrap section">
+    <h2 class="h2" style="margin-bottom: 20px;">Hungry now? Start here</h2>
+    <div class="grid" style="grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));">
+      {guides.map((g) => (
+        <a class="card" href={`/guides/${g.id}`}>
+          <Cover id={g.id} src={g.cover} alt="" ratio="3 / 2" play={false} />
+          <span class="name" style="font-size: 22px;">{g.data.title}</span>
+        </a>
+      ))}
+    </div>
+    <p style="margin-top: 28px;"><a class="link-strong" href="/restaurants">Explore all restaurants</a> &nbsp;·&nbsp; <a class="link-strong" href={SITE.tiktok}>Watch us on TikTok</a></p>
+  </section>
+</Base>
