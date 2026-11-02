@@ -1,6 +1,6 @@
 # The Weekly Bite · Issue 005 · DRAFT
 
-- **Send date:** Thursday 2026-12-04
+- **Send date:** Thursday 2026-12-03
 - **Subject:** What to Eat This Week: Birria tacos in Madison
 - **Preview text:** Crispy, cheesy, and the star of the show.
 - **Template:** `../weekly-bite.html`
