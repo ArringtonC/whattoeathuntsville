@@ -7,7 +7,7 @@ import RestaurantCard from '../../components/RestaurantCard.astro';
 import SignupBand from '../../components/SignupBand.astro';
 import AdSlot from '../../components/AdSlot.astro';
 import { allRestaurants, listedRestaurants, videosFor, guidesFor, storiesFor } from '../../lib/data';
-import { fmtDate, mapsUrl, metaLine, priceText, slugify } from '../../lib/site';
+import { fmtDate, mapsUrl, metaLine, priceText, slugify, TRAVEL_CITIES } from '../../lib/site';
 
 export async function getStaticPaths() {
   return (await allRestaurants()).map((r) => ({ params: { slug: r.id }, props: { r } }));
@@ -38,7 +38,7 @@ const disclosure = { independent: 'We paid for our meal. This is not a sponsored
   <script type="application/ld+json" slot="head" set:html={JSON.stringify(schemaOrg)} />
   <article class="wrap" style="padding-top: 20px;">
     <nav aria-label="Breadcrumb" style="font-size: 14px; color: var(--soft-text); display: flex; gap: 8px; flex-wrap: wrap;">
-      <a href="/restaurants" style="color: inherit;">Find Food</a><span>/</span><a href={`/restaurants/city/${slugify(d.city)}`} style="color: inherit;">{d.city}</a><span>/</span><a href={`/restaurants/cuisine/${slugify(d.cuisines[0])}`} style="color: inherit;">{d.cuisines[0]}</a>
+      <a href="/restaurants" style="color: inherit;">Find Food</a><span>/</span><a href={TRAVEL_CITIES.includes(d.city) ? `/travel/${slugify(d.city)}` : `/restaurants/city/${slugify(d.city)}`} style="color: inherit;">{d.city}</a><span>/</span><a href={`/restaurants/cuisine/${slugify(d.cuisines[0])}`} style="color: inherit;">{d.cuisines[0]}</a>
     </nav>
 
     {d.draft && import.meta.env.DEV && <p class="note" style="margin-top: 16px; background: #FFF3CD;"><strong>Draft, only visible in the local preview.</strong> Check the address and that it's open, set Great/Good/First Look, write the verdict, then set <code>draft: false</code>.</p>}
