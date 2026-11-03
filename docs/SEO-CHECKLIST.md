@@ -25,7 +25,7 @@ Tick each item when it is live on whattoeathuntsville.com. To use it in Notion: 
 
 - [x] Site confirmed (domain property)
 - [x] Sitemap sent
-- [ ] Request indexing for the homepage (URL inspection → paste the address → Request indexing)
+- [x] Request indexing for the homepage (URL inspection → paste the address → Request indexing)
 - [ ] Request indexing for whattoeathuntsville.com/what-to-eat-in-huntsville
 - [ ] In a week, check Pages → "Why pages aren't indexed"
 
