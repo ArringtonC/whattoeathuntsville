@@ -10,7 +10,7 @@ This folder is the whole website, **whattoeathuntsville.com**. You only need a f
 | `src/content/restaurants/` | One file per restaurant (name, address, tags, and "Our take") | Read or fix one restaurant's page |
 | `src/content/guides/` | The guides (Best wings, Date night…) | Read or edit a guide |
 | `emails/` | The Weekly Bite email designs and drafts of issues | Plan the next newsletter |
-| `docs/` | The launch checklist and launch TikTok plan | See what's done and what's left |
+| `docs/` | The launch checklist, the SEO checklist (`SEO-CHECKLIST.md`) and the launch TikTok plan | See what's done and what's left |
 | `public/covers/` | The TikTok cover photos the site uses | Find a photo |
 
 ## The spreadsheets (`sheets/`)

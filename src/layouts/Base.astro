@@ -3,8 +3,8 @@ import '../styles/global.css';
 import { ADSENSE_CLIENT, SITE } from '../lib/site';
 
 interface Props { title?: string; description?: string; image?: string; noindex?: boolean }
-const { title, description = 'Honest restaurant picks in Huntsville, Madison, and beyond. What to order and where to go.', image, noindex = false } = Astro.props;
-const fullTitle = title ? `${title} · ${SITE.name}` : `${SITE.name} · What to eat this week`;
+const { title, description = 'What to eat in Huntsville, AL: honest restaurant picks from two locals, with what to order at each spot in Huntsville, Madison and nearby.', image, noindex = false } = Astro.props;
+const fullTitle = title ? `${title} · ${SITE.name}` : 'What to Eat in Huntsville, AL · Local Food Picks';
 const path = Astro.url.pathname;
 const nav = [
   ['/restaurants', 'Find Food'],

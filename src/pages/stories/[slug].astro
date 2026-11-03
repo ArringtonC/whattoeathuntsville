@@ -31,7 +31,7 @@ const kinds = { 'new-opening': 'New opening', 'our-experience': 'Our experience'
     </p>
 
     <a href={video?.data.tiktokUrl ?? '#'} rel="noopener" aria-label="Watch the TikTok for this story" style="display: block; margin-top: 28px;">
-      <Cover id={s.id} src={video?.data.cover ?? main?.data.cover} alt="" ratio="16 / 10" radius="22px" />
+      <Cover id={s.id} src={video?.data.cover ?? main?.data.cover} alt={s.data.title} ratio="16 / 10" radius="22px" />
     </a>
 
     {main && (

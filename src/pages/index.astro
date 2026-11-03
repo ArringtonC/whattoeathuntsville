@@ -25,8 +25,8 @@ const cravings = ['Tacos', 'Brunch', 'Burgers', 'Pizza', 'BBQ', 'Sweet treats', 
     <div class="wrap section" style="display: flex; flex-wrap: wrap; gap: 48px; align-items: center;">
       <div style="flex: 1 1 520px; min-width: 0; display: flex; flex-direction: column; gap: 22px;">
         <p class="kicker">{SITE.tagline}</p>
-        <h1 class="h1">What are you <span class="serif" style="font-style: italic; font-weight: 500; color: var(--red);">craving?</span></h1>
-        <p class="dek" style="max-width: 520px;">Honest picks from two local food lovers. We tell you what's good, what's great, and exactly what to order.</p>
+        <h1 class="h1">What to eat in <span class="serif" style="font-style: italic; font-weight: 500; color: var(--red);">Huntsville</span></h1>
+        <p class="dek" style="max-width: 520px;">What are you craving? Honest picks from two local food lovers. We tell you what's good, what's great, and exactly what to order.</p>
         <form class="search" role="search" action="/restaurants">
           <label class="q"><span class="sr-only">Search food or restaurants</span>
             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#6B6259" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
@@ -35,6 +35,7 @@ const cravings = ['Tacos', 'Brunch', 'Burgers', 'Pizza', 'BBQ', 'Sweet treats', 
           <label><span class="sr-only">Location</span><select name="city"><option value="">Anywhere</option>{LOCAL_CITIES.map((c) => <option selected={c === 'Huntsville'}>{c}</option>)}</select></label>
           <button class="btn btn-red" type="submit" style="min-height: 52px;">Find food</button>
         </form>
+        <a class="link-strong" href="/what-to-eat-in-huntsville/" style="align-self: flex-start;">New here? Start with our guide to what to eat in Huntsville</a>
         <div style="display: flex; flex-wrap: wrap; gap: 8px;">
           {cravings.map((c) => <a class="chip" href={`/restaurants?q=${encodeURIComponent(c)}`}>{c}</a>)}
         </div>
@@ -64,7 +65,7 @@ const cravings = ['Tacos', 'Brunch', 'Burgers', 'Pizza', 'BBQ', 'Sweet treats', 
       <div class="circles">
         {cuisines.map((c) => (
           <a href={`/restaurants/cuisine/${slugify(c.name)}`}>
-            <span class="circle" style={`background: ${toneFor(c.name)};`}>{c.cover && <img src={c.cover} alt="" loading="lazy" />}</span>
+            <span class="circle" style={`background: ${toneFor(c.name)};`}>{c.cover && <img src={c.cover} alt={`${c.name} food`} loading="lazy" />}</span>
             <b>{c.name}</b>
             <small>{c.count} {c.count === 1 ? 'spot' : 'spots'}</small>
           </a>
@@ -94,7 +95,7 @@ const cravings = ['Tacos', 'Brunch', 'Burgers', 'Pizza', 'BBQ', 'Sweet treats', 
       <div class="grid" style="grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));">
         {guides.map((g) => (
           <a class="card" href={`/guides/${g.id}`} style="color: #fff;">
-            <Cover id={g.id} src={g.cover} alt="" ratio="3 / 2" play={false} />
+            <Cover id={g.id} src={g.cover} alt={g.data.title} ratio="3 / 2" play={false} />
             <span class="kicker" style="color: #F2A7A9;">Guide · {g.data.entries.length} places</span>
             <span class="name" style="font-size: 26px;">{g.data.title}</span>
             <span class="serif" style="color: #D8D0C6; font-size: 17px;">{g.data.dek}</span>

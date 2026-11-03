@@ -1,0 +1,70 @@
+---
+// The main "what to eat in Huntsville" page: every open local spot, grouped by type of food, built from the restaurant files.
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import { listedRestaurants, visible } from '../lib/data';
+import { CUISINES, LOCAL_CITIES, PRICE_KEY, SITE, priceText, slugify } from '../lib/site';
+
+const local = (await listedRestaurants()).filter((r) => r.data.status === 'open' && LOCAL_CITIES.includes(r.data.city));
+const groups = CUISINES.map((c) => ({ name: c, rs: local.filter((r) => r.data.cuisines[0] === c) }))
+  .filter((g) => g.rs.length >= 2)
+  .sort((a, b) => b.rs.length - a.rs.length);
+const count = groups.reduce((n, g) => n + g.rs.length, 0);
+const guides = await getCollection('guides', visible);
+const guide = (id: string) => guides.find((g) => g.id === id);
+const year = new Date().getFullYear();
+
+const faq = [
+  ['Where should I eat in Huntsville for the first time?', `Start with ${guide('our-favorites-of-2025')?.data.title ?? 'our favorites'}: the spots we kept going back to. Each one says exactly what to order.`, '/guides/our-favorites-of-2025/'],
+  ['Where can I eat well for less in Huntsville?', 'Our cheap eats guide covers weekly deals and everyday spots, like pho for two under $40 and 50-cent wing Wednesdays.', '/guides/cheap-eats-huntsville-madison/'],
+  ['Where should we go for date night?', 'Our date night guide lists the dinner spots we have tried in Huntsville and Madison, from downtown cocktails to Clift Farm.', '/guides/date-night-huntsville-madison/'],
+  ['Where are the best tacos in Huntsville?', 'We have tried tacos at food trucks, gas station counters and sit-down spots. Our taco guide lists the ones we would go back to.', '/guides/best-tacos-huntsville-madison/'],
+  ['What do the $ signs mean?', `Price for two: ${PRICE_KEY.map((r, i) => `${'$'.repeat(i + 1)} ${r}`).join(', ')}.`, '/restaurants/'],
+  ['Are these paid reviews?', 'No. We pay for our own meals unless a page says the visit was hosted or sponsored.', '/disclosures/'],
+] as const;
+
+const schema = {
+  '@context': 'https://schema.org', '@type': 'FAQPage',
+  mainEntity: faq.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a } })),
+};
+---
+<Base title={`What to Eat in Huntsville, AL: Our ${year} Guide`} description={`What to eat in Huntsville, AL in ${year}: ${count} local spots we have tried, grouped by food, with what to order at each. From Michaela and Arrington of ${SITE.name}.`}>
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(schema)} />
+  <article class="narrow section">
+    <p class="kicker" style="margin-bottom: 12px;">Guide · {count} places · Updated {year}</p>
+    <h1 class="h1" style="margin-bottom: 16px;">What to eat in Huntsville: our {year} guide</h1>
+    <div class="prose">
+      <p>We're Michaela and Arrington, and we eat our way around Huntsville, Madison and the towns nearby for our TikTok. This page is everything we have tried and would tell a friend about, grouped by the kind of food you're craving. Tap any place for what to order, prices and directions.</p>
+    </div>
+
+    <nav aria-label="Jump to a type of food" style="display: flex; flex-wrap: wrap; gap: 8px; margin: 24px 0 8px;">
+      {groups.map((g) => <a class="chip" href={`#${slugify(g.name)}`}>{g.name}</a>)}
+    </nav>
+
+    {groups.map((g) => (
+      <section id={slugify(g.name)} style="padding-top: 32px;">
+        <h2 class="h2" style="margin-bottom: 4px;">{g.name}</h2>
+        <p style="color: var(--muted); margin-bottom: 12px;"><a href={`/restaurants/cuisine/${slugify(g.name)}`}>All {g.name.toLowerCase()} spots</a></p>
+        <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 14px;">
+          {g.rs.map((r) => (
+            <li style="border-top: 1px solid var(--line); padding-top: 12px;">
+              <a href={`/restaurants/${r.id}`} style="font-weight: 800; font-size: 19px;">{r.data.name}</a>
+              <span style="color: var(--soft-text); font-size: 14px; font-weight: 600;"> · {r.data.area && r.data.area !== r.data.city ? `${r.data.area}, ` : ''}{r.data.city}{r.data.price ? ` · ${priceText(r.data.price)}` : ''}</span>
+              {r.data.bestDish && <div style="margin-top: 4px;"><strong>Order:</strong> {r.data.bestDish.name}</div>}
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+
+    <section style="padding-top: 48px;">
+      <h2 class="h2" style="margin-bottom: 12px;">Questions people ask</h2>
+      {faq.map(([q, a, href]) => (
+        <div style="border-top: 1px solid var(--line); padding: 14px 0;">
+          <h3 style="font-size: 18px; font-weight: 800; margin-bottom: 6px;">{q}</h3>
+          <p>{a} <a href={href}>See more</a></p>
+        </div>
+      ))}
+    </section>
+  </article>
+</Base>

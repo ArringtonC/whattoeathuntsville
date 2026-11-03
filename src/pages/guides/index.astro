@@ -19,7 +19,7 @@ const kinds = { 'new-opening': 'New opening', 'our-experience': 'Our experience'
     <div class="grid" style="grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));">
       {guides.map((g) => (
         <a class="card" href={`/guides/${g.id}`}>
-          <Cover id={g.id} src={g.cover} alt="" ratio="3 / 2" play={false} />
+          <Cover id={g.id} src={g.cover} alt={g.data.title} ratio="3 / 2" play={false} />
           <span class="kicker">Guide · {g.data.entries.length} places · {g.data.city}</span>
           <span class="name" style="font-size: 26px;">{g.data.title}</span>
           <span class="order">{g.data.dek}</span>
@@ -32,7 +32,7 @@ const kinds = { 'new-opening': 'New opening', 'our-experience': 'Our experience'
     <div class="grid" style="grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));">
       {stories.map((s) => (
         <a class="card" href={`/stories/${s.id}`}>
-          <Cover id={s.id} src={s.cover} alt="" ratio="3 / 2" />
+          <Cover id={s.id} src={s.cover} alt={s.data.title} ratio="3 / 2" />
           <span class="kicker">{kinds[s.data.kind]}{s.data.sponsor && ' · Sponsored'}</span>
           <span class="name" style="font-size: 24px;">{s.data.title}</span>
           <span class="meta">{fmtDate(s.data.published)}</span>

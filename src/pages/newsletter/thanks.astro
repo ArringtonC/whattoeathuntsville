@@ -23,7 +23,7 @@ const guides = await Promise.all((await getCollection('guides', visible)).slice(
     <div class="grid" style="grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));">
       {guides.map((g) => (
         <a class="card" href={`/guides/${g.id}`}>
-          <Cover id={g.id} src={g.cover} alt="" ratio="3 / 2" play={false} />
+          <Cover id={g.id} src={g.cover} alt={g.data.title} ratio="3 / 2" play={false} />
           <span class="name" style="font-size: 22px;">{g.data.title}</span>
         </a>
       ))}
