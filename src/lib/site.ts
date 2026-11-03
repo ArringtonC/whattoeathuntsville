@@ -5,6 +5,7 @@ export const SITE = {
   tiktok: 'https://www.tiktok.com/@whattoeathuntsville',
   instagram: 'https://www.instagram.com/whattoeathuntsville',
   facebook: 'https://www.facebook.com/Whattoeathuntsville',
+  youtube: 'https://www.youtube.com/@WhattoEatHuntsville',
   threads: 'https://www.threads.net/@whattoeathuntsville',
   tagline: 'Local roots. Global taste.',
   newsletter: 'The Weekly Bite',
