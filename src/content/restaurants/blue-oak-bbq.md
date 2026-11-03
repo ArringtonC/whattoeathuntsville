@@ -19,6 +19,7 @@ seoTitle: "Blue Oak BBQ: BBQ and Wings in Huntsville"
 seoDescription: "BBQ in MidCity with daily specials, margaritas and beer-battered tots. We got the Winter Burger, mild buffalo wings and baked beans, and want to go back."
 price: 2
 phone: "(256) 900-7427"
+disclosure: "hosted"
 ---
 
 We stopped by Blue Oak BBQ in MidCity. It was Michaela's first time eating here, but we already love their margaritas, so of course we ordered a couple. On top of the regular menu, they have daily specials, and the place is really accommodating, especially for large groups.

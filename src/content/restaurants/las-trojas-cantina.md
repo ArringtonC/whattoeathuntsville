@@ -19,6 +19,7 @@ seoTitle: "Las Trojas Cantina: Birria in Hazel Green"
 seoDescription: "Birria tacos, birria pizza, carne asada fries and the big Bama margarita at Las Trojas Cantina in Hazel Green. Great for birthdays and large groups."
 price: 2
 phone: "(256) 813-5060"
+disclosure: "hosted"
 ---
 
 We are always down for a margarita at Las Trojas. If you know, you know.

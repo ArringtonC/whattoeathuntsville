@@ -33,6 +33,7 @@ const adAfter = new Set(guideAdSlots(entries.length));
             <span class="meta" style="font-size: 14px; font-weight: 600; color: var(--soft-text);">{metaLine(e.r.data.cuisines[0], e.r.data.area && e.r.data.area !== e.r.data.city ? `${e.r.data.area}, ${e.r.data.city}` : e.r.data.city, priceText(e.r.data.price))}</span>
             <p class="serif" style="font-size: 19px; line-height: 1.5; color: var(--body);">{e.why}</p>
             {e.dish && <p><strong>Order:</strong> {e.dish}</p>}
+            {e.r.data.disclosure === 'hosted' && <p style="font-size: 14px; color: var(--muted);">Hosted visit: the restaurant gave us our meal for free.</p>}
             <a href={mapsUrl(e.r.data)} rel="noopener" style="font-weight: 700;">Directions</a>
           </div>
         </section>

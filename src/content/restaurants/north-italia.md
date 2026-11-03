@@ -19,6 +19,7 @@ seoTitle: "North Italia: Pizza & Pasta at Bridge Street"
 seoDescription: "Buttery truffle garlic bread, fresh margherita pizza, creamy tripoline alfredo and tiramisu. What to order at North Italia, Bridge Street Town Centre."
 price: 2
 phone: "(256) 812-8870"
+disclosure: "hosted"
 ---
 
 North Italia is newer to Huntsville, at Bridge Street Town Centre, and we got to try it before it officially opened. We tried a little bit of everything, and it works for almost any occasion.

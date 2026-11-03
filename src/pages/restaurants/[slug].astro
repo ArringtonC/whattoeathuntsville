@@ -32,7 +32,7 @@ const similar = (await listedRestaurants()).filter((x) => x.id !== r.id && x.dat
 const labelLine = { great: "A standout we'd send a friend to.", good: 'We liked it. Worth a visit.', 'first-look': 'New. First impressions, not rated yet.', none: '' }[d.label];
 const directions = mapsUrl(d);
 const status = { open: ['Open', 'var(--green)'], 'temporarily-closed': ['Temporarily closed', 'var(--red)'], closed: ['Closed', 'var(--red)'] }[d.status];
-const disclosure = { independent: 'We paid for our meal. This is not a sponsored post.', hosted: 'This visit was hosted. Our opinion is our own.', sponsored: 'Sponsored. This feature was paid for.' }[d.disclosure];
+const disclosure = { independent: 'We paid for our meal. This is not a sponsored post.', hosted: 'Hosted visit: the restaurant gave us our meal for free. Our opinion is our own.', sponsored: 'Sponsored. This feature was paid for.' }[d.disclosure];
 ---
 <Base title={d.seoTitle ?? `${d.name}: ${d.cuisines[0]} in ${d.city}`} description={d.seoDescription ?? d.verdict ?? `${d.name}: what to order, where it is, and our take.`} image={d.cover} noindex={thin}>
   <script type="application/ld+json" slot="head" set:html={JSON.stringify(schemaOrg)} />
@@ -43,6 +43,8 @@ const disclosure = { independent: 'We paid for our meal. This is not a sponsored
 
     {d.draft && import.meta.env.DEV && <p class="note" style="margin-top: 16px; background: #FFF3CD;"><strong>Draft, only visible in the local preview.</strong> Check the address and that it's open, set Great/Good/First Look, write the verdict, then set <code>draft: false</code>.</p>}
     {d.status === 'closed' && <p class="note" style="margin-top: 16px;"><strong>This restaurant has closed.</strong> We keep the page so old links still work. Last checked {fmtDate(d.lastVerified)}.</p>}
+
+    {d.disclosure !== 'independent' && <p class="note" style="margin-top: 16px;"><strong>{d.disclosure === 'hosted' ? 'Hosted:' : 'Sponsored:'}</strong> {d.disclosure === 'hosted' ? 'the restaurant gave us our meal for free. Our opinion is our own.' : 'this feature was paid for.'} <a href="/disclosures">How this works</a></p>}
 
     <header style="display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 20px; margin: 20px 0 28px;">
       <div style="flex: 1 1 520px; display: flex; flex-direction: column; gap: 12px;">

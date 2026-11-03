@@ -19,6 +19,7 @@ seoTitle: "Parlor Doughnuts: Pizza Doughnuts, Huntsville"
 seoDescription: "Three savory pizza doughnuts: Buffalo Chicken, Chicken Bacon Ranch and OG Pepperoni. We gave them 10 out of 10. Parlor Doughnuts, Clinton Ave, Huntsville."
 price: 2
 phone: "(256) 203-5291"
+disclosure: "hosted"
 ---
 
 Would you try a pizza doughnut? These savory doughnuts at Parlor Doughnuts had been calling our name for a long time, so we finally did a taste test.

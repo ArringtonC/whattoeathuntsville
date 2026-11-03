@@ -18,6 +18,7 @@ seoTitle: "The Veggie: Vegan Restaurant in Madison, AL"
 seoDescription: "A Black-owned vegan spot in Madison on US-72 with salads, vegan burgers, po boys and bowls. We don't have a full review of The Veggie yet."
 price: 2
 phone: "(256) 893-4709"
+disclosure: "hosted"
 ---
 
 The Veggie is a vegan spot in Madison. We don't have a full write-up for this one yet.

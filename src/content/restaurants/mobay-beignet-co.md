@@ -18,6 +18,7 @@ seoTitle: "Mo'Bay Beignet Co.: Beignets in Huntsville"
 seoDescription: "Fresh beignets with syrups, a crispy club chicken sandwich, burgers and coffee. A new Monrovia spot on Jeff Rd in Huntsville with room to sit and work."
 price: 1
 phone: "(256) 270-9447"
+disclosure: "hosted"
 ---
 
 Mo'Bay Beignet Co. is a new spot on Jeff Rd, and we're so happy to have a new place in Monrovia. We rarely get food options on this side of town.

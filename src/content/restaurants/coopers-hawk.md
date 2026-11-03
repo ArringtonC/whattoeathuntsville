@@ -18,6 +18,7 @@ seoTitle: "Cooper's Hawk: Date Night Dinner in Madison"
 seoDescription: "Worth the hype at Clift Farm: prime rib sandwich, surf and turf, chicken potstickers and a 10/10 s'mores budino. What to order at Cooper's Hawk in Madison."
 price: 2
 phone: "(938) 225-1212"
+disclosure: "hosted"
 ---
 
 Is Cooper's Hawk worth the hype? We tried the newest spot at Clift Farm, and we think it is. Huntsville has needed a spot like this for a while.
