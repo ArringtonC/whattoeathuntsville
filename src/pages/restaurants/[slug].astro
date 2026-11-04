@@ -6,7 +6,7 @@ import Label from '../../components/Label.astro';
 import RestaurantCard from '../../components/RestaurantCard.astro';
 import SignupBand from '../../components/SignupBand.astro';
 import AdSlot from '../../components/AdSlot.astro';
-import { allRestaurants, listedRestaurants, videosFor, guidesFor, storiesFor } from '../../lib/data';
+import { allRestaurants, listedRestaurants, videosFor, guidesFor } from '../../lib/data';
 import { fmtDate, mapsUrl, metaLine, priceText, slugify, TRAVEL_CITIES } from '../../lib/site';
 
 export async function getStaticPaths() {
@@ -27,7 +27,6 @@ const thin = !d.bestDish && (r.body ?? '').split(/\s+/).filter(Boolean).length <
 const videos = await videosFor(r.id);
 const mainVideo = videos[0];
 const guides = await guidesFor(r.id);
-const stories = await storiesFor(r.id);
 const similar = (await listedRestaurants()).filter((x) => x.id !== r.id && x.data.cuisines.some((c) => d.cuisines.includes(c))).slice(0, 4);
 const labelLine = { great: "A standout we'd send a friend to.", good: 'We liked it. Worth a visit.', 'first-look': 'New. First impressions, not rated yet.', none: '' }[d.label];
 const directions = mapsUrl(d);
@@ -101,10 +100,9 @@ const disclosure = { independent: 'We paid for our meal. This is not a sponsored
             </div>
           </section>
         )}
-        {(guides.length > 0 || stories.length > 0) && (
+        {guides.length > 0 && (
           <section>
             <h2 style="font-size: 24px; font-weight: 800;">Read more</h2>
-            {stories.map((s) => <a href={`/stories/${s.id}`} style="display: block; padding: 14px 0; border-bottom: 1px solid var(--line); text-decoration: none;"><span class="kicker" style="font-size: 11px;">Story</span><span style="display: block; font-size: 20px; font-weight: 800;">{s.data.title}</span></a>)}
             {guides.map((g) => <a href={`/guides/${g.id}`} style="display: block; padding: 14px 0; border-bottom: 1px solid var(--line); text-decoration: none;"><span class="kicker" style="font-size: 11px;">In this guide</span><span style="display: block; font-size: 20px; font-weight: 800;">{g.data.title}</span></a>)}
           </section>
         )}

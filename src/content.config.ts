@@ -68,21 +68,5 @@ const guides = defineCollection({
   }),
 });
 
-const stories = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/stories' }),
-  schema: z.object({
-    title: z.string(),
-    dek: z.string(),
-    kind: z.enum(['new-opening', 'our-experience', 'food-news', 'travel']),
-    published: z.coerce.date(),
-    updated: z.coerce.date().optional(),
-    readMinutes: z.number().int().default(3),
-    restaurants: z.array(reference('restaurants')).default([]),
-    video: reference('videos').optional(),
-    disclosure: z.string().default('We paid for our meal.'),
-    sponsor: z.string().optional(), // business name when the story is paid for
-    draft: z.boolean().default(false),
-  }),
-});
 
-export const collections = { restaurants, videos, guides, stories };
+export const collections = { restaurants, videos, guides };
