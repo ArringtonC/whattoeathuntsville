@@ -1,0 +1,68 @@
+---
+// "What should we eat next?": places within 50 miles we have NOT tried (src/data/to-try.json, built by scripts/to-try.py).
+// Searching a place we already reviewed links to its page; a place on neither list gets an email suggestion button.
+import Base from '../layouts/Base.astro';
+import toTry from '../data/to-try.json';
+import { allRestaurants } from '../lib/data';
+import { SITE } from '../lib/site';
+
+const tried = (await allRestaurants()).map((r) => ({ n: r.data.name, u: `/restaurants/${r.id}/` }));
+const list = toTry.map((r) => ({ n: r.name, c: r.cuisine, city: r.city }));
+const cuisines = Object.entries(list.reduce<Record<string, number>>((m, r) => (r.c && (m[r.c] = (m[r.c] ?? 0) + 1), m), {}))
+  .sort((a, b) => b[1] - a[1]).slice(0, 8).map(([c]) => c);
+---
+<Base title="What Should We Eat Next?" description={`${list.length} Huntsville-area restaurants we haven't tried yet. Search, vote, or suggest a spot we're missing.`}>
+  <section class="narrow section">
+    <p class="kicker">You pick</p>
+    <h1 class="h1">What should we eat next?</h1>
+    <p class="dek" style="margin: 10px 0 24px;">These are places within 50 miles of Huntsville that we haven't tried yet. Search for a spot, or tell us what we're missing.</p>
+
+    <label><span class="sr-only">Search for a restaurant</span>
+      <input id="q" class="input" type="search" placeholder="Search for a restaurant or food…" autocomplete="off" style="border-radius: 999px; font-size: 17px; padding: 14px 20px;" />
+    </label>
+    <div id="chips" style="display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0;">
+      <button class="chip" data-c="" aria-pressed="true">All</button>
+      {cuisines.map((c) => <button class="chip" data-c={c} aria-pressed="false">{c}</button>)}
+    </div>
+    <p id="count" style="color: var(--soft-text); font-size: 14px; font-weight: 600; margin-bottom: 6px;"></p>
+    <div id="tried"></div>
+    <ul id="list" style="list-style: none; padding: 0; margin: 0;"></ul>
+    <button id="more" class="btn" type="button" style="display: block; margin: 18px auto 0;">Load more</button>
+    <div id="empty" hidden class="box" style="text-align: center; margin-top: 12px;"></div>
+    <p style="text-align: center; margin-top: 24px;"><a id="missing" class="link-strong" href={`mailto:${SITE.email}`}>Don't see your spot? Suggest a missing restaurant</a></p>
+    <p style="font-size: 13px; color: var(--soft-text); margin-top: 24px;">Restaurant list from <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap</a>. Big chains are left out.</p>
+  </section>
+
+  <script is:inline define:vars={{ list, tried, email: SITE.email }}>
+    const $ = (id) => document.getElementById(id);
+    const norm = (s) => s.toLowerCase().replace(/[^a-z0-9]/g, '');
+    const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+    const mail = (name) => `mailto:${email}?subject=${encodeURIComponent('Restaurant suggestion: ' + name)}&body=${encodeURIComponent('You should try ' + name + ' because...')}`;
+    let cuisine = '', shown = 20;
+    function draw() {
+      const q = $('q').value.trim(), nq = norm(q);
+      const rows = list.filter((r) => (!cuisine || r.c === cuisine) && (!nq || norm(r.n + r.c + r.city).includes(nq)));
+      const hit = nq.length > 2 ? tried.find((t) => norm(t.n).includes(nq) || nq.includes(norm(t.n))) : null;
+      $('tried').innerHTML = hit ? `<p class="box" style="margin-bottom: 12px;"><strong>We've already tried ${esc(hit.n)}!</strong> <a href="${hit.u}">See our take</a></p>` : '';
+      $('count').textContent = `${rows.length} ${rows.length === 1 ? 'place' : 'places'} we haven't tried`;
+      $('list').innerHTML = rows.slice(0, shown).map((r) => `<li style="padding: 14px 0; border-top: 1px solid var(--line);"><strong style="font-size: 18px;">${esc(r.n)}</strong><span style="display: block; color: var(--soft-text); font-size: 14px; font-weight: 600;">${esc([r.c, r.city].filter(Boolean).join(' · ') || 'Huntsville area')}</span></li>`).join('');
+      $('more').hidden = rows.length <= shown;
+      $('empty').hidden = rows.length > 0 || !!hit;
+      if (!rows.length && !hit) $('empty').innerHTML = `<p style="font-size: 20px; font-weight: 800;">We haven't heard of "${esc(q)}" yet.</p><p style="margin: 6px 0 14px;">Want us to try it? Send it our way.</p><a class="btn btn-red" href="${mail(q)}">Email us this suggestion</a>`;
+      $('missing').href = mail(q || 'a restaurant');
+    }
+    $('q').addEventListener('input', () => { shown = 20; draw(); });
+    $('more').addEventListener('click', () => { shown += 20; draw(); });
+    $('chips').addEventListener('click', (e) => {
+      const b = e.target.closest('button'); if (!b) return;
+      cuisine = b.dataset.c; shown = 20;
+      document.querySelectorAll('#chips button').forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
+      draw();
+    });
+    draw();
+  </script>
+</Base>
+
+<style>
+  #chips button[aria-pressed='true'] { background: var(--ink); color: #fff; border-color: var(--ink); }
+</style>
