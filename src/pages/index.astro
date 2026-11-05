@@ -59,6 +59,20 @@ const cravings = ['Tacos', 'Brunch', 'Burgers', 'Pizza', 'BBQ', 'Sweet treats', 
     <div class="grid">{newFinds.map((r) => <RestaurantCard r={r} />)}</div>
   </section>
 
+  <section class="band-cream">
+    <div class="wrap" style="padding-top: 40px; padding-bottom: 40px; display: flex; flex-wrap: wrap; gap: 20px 40px; align-items: center; justify-content: space-between;">
+      <div style="flex: 1 1 420px; display: flex; flex-direction: column; gap: 8px;">
+        <p class="kicker">For restaurants &amp; brands</p>
+        <h2 class="h2">Work with What to Eat Huntsville</h2>
+        <p style="color: var(--muted);">Almost 1 million TikTok views a year from Huntsville food lovers. Sponsored visits, newsletter features, and photo and video work.</p>
+      </div>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+        <a class="btn btn-red" href="/work-with-us/">Work with us</a>
+        <a class="btn" href={`mailto:${SITE.email}`}>{SITE.email}</a>
+      </div>
+    </div>
+  </section>
+
   {cuisines.length > 0 && (
     <section class="wrap section">
       <h2 style="font-size: 30px; font-weight: 800; margin-bottom: 20px;">Browse by cuisine</h2>
