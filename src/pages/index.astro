@@ -36,6 +36,7 @@ const cravings = ['Tacos', 'Brunch', 'Burgers', 'Pizza', 'BBQ', 'Sweet treats', 
           <button class="btn btn-red" type="submit" style="min-height: 52px;">Find food</button>
         </form>
         <a class="link-strong" href="/what-to-eat-in-huntsville/" style="align-self: flex-start;">New here? Start with our guide to what to eat in Huntsville</a>
+        <a class="link-strong" href="/eat-next/" style="align-self: flex-start;">Tell us what we should eat next</a>
         <div style="display: flex; flex-wrap: wrap; gap: 8px;">
           {cravings.map((c) => <a class="chip" href={`/restaurants?q=${encodeURIComponent(c)}`}>{c}</a>)}
         </div>
@@ -62,6 +63,17 @@ const cravings = ['Tacos', 'Brunch', 'Burgers', 'Pizza', 'BBQ', 'Sweet treats', 
   <section class="band-cream">
     <div class="wrap" style="padding-top: 40px; padding-bottom: 40px; display: flex; flex-wrap: wrap; gap: 20px 40px; align-items: center; justify-content: space-between;">
       <div style="flex: 1 1 420px; display: flex; flex-direction: column; gap: 8px;">
+        <p class="kicker">You pick</p>
+        <h2 class="h2">What should we eat next?</h2>
+        <p style="color: var(--muted);">Hundreds of Huntsville-area spots we haven't tried yet. Find one you love and tell us to go.</p>
+      </div>
+      <a class="btn btn-red" href="/eat-next/">See the list</a>
+    </div>
+  </section>
+
+  <section class="band-cream">
+    <div class="wrap" style="padding-top: 40px; padding-bottom: 40px; display: flex; flex-wrap: wrap; gap: 20px 40px; align-items: center; justify-content: space-between;">
+      <div style="flex: 1 1 420px; display: flex; flex-direction: column; gap: 8px;">
         <p class="kicker">For restaurants &amp; brands</p>
         <h2 class="h2">Work with What to Eat Huntsville</h2>
         <p style="color: var(--muted);">Almost 1 million TikTok views a year from Huntsville food lovers. Sponsored visits, newsletter features, and photo and video work.</p>
@@ -70,17 +82,6 @@ const cravings = ['Tacos', 'Brunch', 'Burgers', 'Pizza', 'BBQ', 'Sweet treats', 
         <a class="btn btn-red" href="/work-with-us/">Work with us</a>
         <a class="btn" href={`mailto:${SITE.email}`}>{SITE.email}</a>
       </div>
-    </div>
-  </section>
-
-  <section class="band-cream">
-    <div class="wrap" style="padding-top: 40px; padding-bottom: 40px; display: flex; flex-wrap: wrap; gap: 20px 40px; align-items: center; justify-content: space-between;">
-      <div style="flex: 1 1 420px; display: flex; flex-direction: column; gap: 8px;">
-        <p class="kicker">You pick</p>
-        <h2 class="h2">What should we eat next?</h2>
-        <p style="color: var(--muted);">Hundreds of Huntsville-area spots we haven't tried yet. Find one you love and tell us to go.</p>
-      </div>
-      <a class="btn btn-red" href="/eat-next/">See the list</a>
     </div>
   </section>
 
