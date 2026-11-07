@@ -1,0 +1,3009 @@
+{
+ "site": "What to Eat Huntsville",
+ "updated": "2026-11-07",
+ "restaurants": [
+  {
+   "name": "North Italia",
+   "url": "https://whattoeathuntsville.com/restaurants/north-italia/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Bridge Street Town Centre",
+   "address": "401 The Bridge St NW, Suite 180, Huntsville, AL 35806",
+   "cuisines": [
+    "Italian",
+    "Pizza"
+   ],
+   "tags": [
+    "pizza",
+    "brunch",
+    "cocktails",
+    "happy hour",
+    "hot honey",
+    "pasta",
+    "tiramisu",
+    "meatballs",
+    "truffle garlic bread",
+    "kids menu"
+   ],
+   "occasions": [
+    "Date night",
+    "Group"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Truffle Garlic Bread",
+    "Margherita Pizza",
+    "Tripoline Alfredo",
+    "Tiramisu"
+   ],
+   "summary": "Buttery truffle garlic bread, fresh margherita pizza, creamy tripoline alfredo and tiramisu. What to order at North Italia, Bridge Street Town Centre.",
+   "website": "https://www.northitalia.com/locations/huntsville/",
+   "lastVisited": "2026-10-25"
+  },
+  {
+   "name": "The Cheesecake Factory",
+   "url": "https://whattoeathuntsville.com/restaurants/the-cheesecake-factory/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Bridge Street Town Centre",
+   "address": "300 The Bridge St NW, Suite 110, Huntsville, AL 35806",
+   "cuisines": [
+    "American"
+   ],
+   "tags": [
+    "brunch",
+    "dessert",
+    "happy hour",
+    "steak",
+    "pasta",
+    "cheesecake",
+    "Cajun",
+    "salmon",
+    "flatbread pizza"
+   ],
+   "occasions": [
+    "Group",
+    "Family"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Louisiana Chicken Pasta (extra sauce)",
+    "Cajun Salmon"
+   ],
+   "summary": "We tried the viral Louisiana Chicken Pasta and Cajun Salmon with extra sauce, plus a mango margarita. What to order at The Cheesecake Factory, Huntsville.",
+   "website": "https://locations.thecheesecakefactory.com/al/huntsville-217.html",
+   "lastVisited": "2026-10-08"
+  },
+  {
+   "name": "Entice Bar & Grille",
+   "url": "https://whattoeathuntsville.com/restaurants/entice-bar-and-grille/",
+   "status": "open",
+   "city": "Madison",
+   "area": "Madison Blvd",
+   "address": "8694 Madison Blvd, Madison, AL 35758",
+   "cuisines": [
+    "Wings",
+    "American"
+   ],
+   "tags": [
+    "wings",
+    "cocktails",
+    "late night",
+    "happy hour",
+    "budget-friendly",
+    "sports bar"
+   ],
+   "occasions": [
+    "Group",
+    "Late night"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "bestDish": "Wings",
+   "alsoOrder": [],
+   "summary": "Our pick for best wings in Madison: 50-cent wings on Wednesdays (10 minimum), hot lemon pepper, and happy hour until 8pm. All under $40 at Entice.",
+   "website": "https://www.facebook.com/p/Entice-Bar-Grill-61564983720132/",
+   "lastVisited": "2026-09-28"
+  },
+  {
+   "name": "Tacos de Canasta Acapulco",
+   "url": "https://whattoeathuntsville.com/restaurants/tacos-de-canasta-acapulco/",
+   "status": "open",
+   "city": "Madison",
+   "area": "Wall Triana Hwy",
+   "address": "7192 Wall Triana Hwy, Suite A, Madison, AL 35757",
+   "cuisines": [
+    "Mexican"
+   ],
+   "tags": [
+    "tacos",
+    "birria",
+    "steak",
+    "nachos",
+    "quesadillas",
+    "gorditas",
+    "tacos de canasta",
+    "chilaquiles",
+    "sopes",
+    "pambazos"
+   ],
+   "occasions": [
+    "Cheap eats",
+    "Quick lunch"
+   ],
+   "price": "$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Chicken gorditas",
+    "Steak tacos"
+   ],
+   "summary": "The chicken gorditas are the star: crispy tortilla and flavorful chicken. Plus steak tacos and nachos at this cheap, quick-lunch Mexican spot in Madison.",
+   "website": "https://www.tacosdecanastaacapulco.com/",
+   "lastVisited": "2026-09-18"
+  },
+  {
+   "name": "Viet Crispwich",
+   "url": "https://whattoeathuntsville.com/restaurants/viet-crispwich/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Enterprise Way",
+   "address": "1300 Enterprise Way, Huntsville, AL 35806",
+   "cuisines": [
+    "Asian",
+    "Sandwiches"
+   ],
+   "tags": [
+    "dumplings",
+    "noodles",
+    "Vietnamese",
+    "shredded chicken",
+    "banh mi",
+    "boba",
+    "vietnamese coffee",
+    "rice bowls",
+    "egg rolls",
+    "fried rice",
+    "lunch combo"
+   ],
+   "occasions": [
+    "Quick lunch"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Shredded Chicken Bánh Mì",
+    "Fried pork dumplings",
+    "Premium Spicy Chili Broth Noodles"
+   ],
+   "summary": "Crispy shredded chicken banh mi, fried pork dumplings and loaded spicy chili broth noodles. What to order at Viet Crispwich in Huntsville.",
+   "website": "https://vietcrispwich.com/",
+   "lastVisited": "2026-09-03"
+  },
+  {
+   "name": "Handel's Ice Cream",
+   "url": "https://whattoeathuntsville.com/restaurants/handels-ice-cream/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Hwy 72 W",
+   "address": "7086 Hwy 72 W, Huntsville, AL 35806",
+   "cuisines": [
+    "Sweet treats"
+   ],
+   "tags": [
+    "dessert",
+    "cookies",
+    "cheesecake",
+    "ice cream",
+    "milkshakes",
+    "sundaes"
+   ],
+   "occasions": [
+    "Family"
+   ],
+   "price": "$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Cheesecake with Biscoff Cookies (limited time)"
+   ],
+   "summary": "Handel's limited-time Cheesecake with Biscoff Cookies ice cream: cheesecake base, cookie butter swirl and crunchy cookie pieces. Try it in Huntsville.",
+   "website": "https://handelsicecream.com",
+   "lastVisited": "2026-08-19"
+  },
+  {
+   "name": "Loona's Cafe",
+   "url": "https://whattoeathuntsville.com/restaurants/loonas-cafe/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Providence",
+   "address": "20 Town Center Dr NW, Ste 1109, Huntsville, AL 35806",
+   "cuisines": [
+    "Breakfast"
+   ],
+   "tags": [
+    "brunch",
+    "breakfast",
+    "coffee",
+    "cocktails",
+    "salmon",
+    "grits",
+    "burritos",
+    "Nashville hot chicken",
+    "avocado toast",
+    "mimosas",
+    "chicken and waffles",
+    "australian",
+    "pancakes"
+   ],
+   "occasions": [
+    "Brunch"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Nashville Hot Chicken Bennie",
+    "Breakfast Burrito",
+    "Salmon & Grits",
+    "Avocado Toast",
+    "Hugo spritz and mimosas"
+   ],
+   "summary": "Brunch at Loona's Cafe in Providence, Huntsville: Nashville Hot Chicken Bennie, salmon and grits, breakfast burrito, avocado toast and mimosas.",
+   "website": "https://eatatloonas.com/",
+   "lastVisited": "2026-08-11"
+  },
+  {
+   "name": "LOUIMA Haitian Cuisine (food truck)",
+   "url": "https://whattoeathuntsville.com/restaurants/louima-haitian-cuisine/",
+   "status": "open",
+   "city": "Madison",
+   "area": "Food truck (Old Railroad Bed Rd)",
+   "cuisines": [
+    "Caribbean"
+   ],
+   "tags": [
+    "fried chicken",
+    "food truck",
+    "mac and cheese",
+    "jerk chicken",
+    "Haitian",
+    "fried snapper",
+    "fried pork",
+    "plantains",
+    "pikliz",
+    "catering"
+   ],
+   "occasions": [
+    "Quick lunch"
+   ],
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Vegetable Stew",
+    "Spicy fried pork"
+   ],
+   "summary": "Fried snapper, vegetable stew, jerk chicken and pikliz from Chef Kay's Haitian food truck in Madison. Five stars from us. Opens after 4pm.",
+   "lastVisited": "2026-07-29"
+  },
+  {
+   "name": "LawLer's Barbecue",
+   "url": "https://whattoeathuntsville.com/restaurants/lawlers-barbecue/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "South Parkway",
+   "address": "11310 S Memorial Pkwy SW, Suite A, Huntsville, AL 35803",
+   "cuisines": [
+    "BBQ"
+   ],
+   "tags": [
+    "mac and cheese",
+    "ribs",
+    "loaded baked potato",
+    "loaded potatoes",
+    "pulled pork",
+    "pulled chicken",
+    "white sauce",
+    "family packs",
+    "catering"
+   ],
+   "occasions": [
+    "Cheap eats"
+   ],
+   "price": "$",
+   "ourLabel": "none",
+   "bestDish": "Loaded potato with pulled chicken or pork",
+   "alsoOrder": [],
+   "summary": "Two Potato Tuesdays at LawLer's Barbecue: two huge loaded potatoes with pulled chicken or pork for $16. One of the best cheap eats in Huntsville.",
+   "website": "https://www.lawlersbarbecue.com/",
+   "lastVisited": "2026-07-14"
+  },
+  {
+   "name": "Jet's Pizza",
+   "url": "https://whattoeathuntsville.com/restaurants/jets-pizza-madison/",
+   "status": "open",
+   "city": "Madison",
+   "area": "Balch Rd",
+   "address": "1079 Balch Rd, Suite I, Madison, AL",
+   "cuisines": [
+    "Pizza"
+   ],
+   "tags": [
+    "wings",
+    "pizza",
+    "cookies",
+    "salads",
+    "deep dish pizza",
+    "detroit-style pizza",
+    "gluten-free options",
+    "calzones",
+    "brownies",
+    "delivery"
+   ],
+   "occasions": [
+    "Family"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "4 Corner Deep Dish"
+   ],
+   "summary": "Jet's Pizza on Balch Rd in Madison: 4 Corner Deep Dish, crispy thin crust, buffalo and BBQ wings, and house-made ranch you should not skip. Our take.",
+   "website": "https://www.jetspizza.com/stores/alabama/madison/1079-balch-rd-suite-i/",
+   "lastVisited": "2026-07-12"
+  },
+  {
+   "name": "La Parrilla Mexican Restaurant",
+   "url": "https://whattoeathuntsville.com/restaurants/la-parrilla-clift-farm/",
+   "status": "open",
+   "city": "Madison",
+   "area": "Clift Farm",
+   "address": "461 John Henry Way, Ste 1080, Madison, AL 35757",
+   "cuisines": [
+    "Mexican"
+   ],
+   "tags": [
+    "tacos",
+    "birria",
+    "margaritas",
+    "budget-friendly",
+    "fish tacos",
+    "quesadillas",
+    "guacamole",
+    "fajitas",
+    "burritos",
+    "enchiladas"
+   ],
+   "occasions": [
+    "Group"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "House margaritas",
+    "Tableside guacamole"
+   ],
+   "summary": "Mexican food at Clift Farm in Madison for under $60: house margaritas, tableside guacamole, fried fish tacos and the famous Sopa de Pollo. Our honest take.",
+   "lastVisited": "2026-07-02"
+  },
+  {
+   "name": "The Spot",
+   "url": "https://whattoeathuntsville.com/restaurants/the-spot/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Pulaski Pike",
+   "address": "1605 Pulaski Pike NW, Ste 3, Huntsville, AL 35816",
+   "cuisines": [
+    "Soul food",
+    "Wings"
+   ],
+   "tags": [
+    "wings",
+    "catfish",
+    "Black-owned",
+    "late night",
+    "happy hour",
+    "drink specials",
+    "hookah",
+    "taco tuesday",
+    "turkey ribs",
+    "shrimp"
+   ],
+   "occasions": [
+    "Late night",
+    "Group"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Catfish",
+    "Wings"
+   ],
+   "summary": "Our go-to for a night out: good catfish, wings, $2 drink specials and hookah at affordable prices. What to order at The Spot on Pulaski Pike in Huntsville.",
+   "website": "https://thespothsv.com/",
+   "lastVisited": "2026-06-04"
+  },
+  {
+   "name": "Kyuramen",
+   "url": "https://whattoeathuntsville.com/restaurants/kyuramen/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "University Dr",
+   "address": "5850 University Dr NW, Suite D2, Huntsville, AL 35806",
+   "cuisines": [
+    "Asian"
+   ],
+   "tags": [
+    "ramen",
+    "dumplings",
+    "lemonade",
+    "yakitori",
+    "popcorn chicken",
+    "tiramisu",
+    "matcha",
+    "japanese",
+    "takoyaki",
+    "rice bowls",
+    "omurice",
+    "bubble tea"
+   ],
+   "occasions": [
+    "Date night"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Kyushu Spicy Tonkotsu Ramen (extra hot)",
+    "Yakitori Platter",
+    "Popcorn Chicken",
+    "Matcha Tiramisu",
+    "S'mores Tiramisu"
+   ],
+   "summary": "What to order at Kyuramen in Huntsville: extra hot Kyushu Spicy Tonkotsu Ramen, the yakitori platter, popcorn chicken, and matcha and s'mores tiramisu.",
+   "website": "https://www.kyuramen.com",
+   "lastVisited": "2026-05-22"
+  },
+  {
+   "name": "West End Grill",
+   "url": "https://whattoeathuntsville.com/restaurants/west-end-grill/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Old Madison Pike",
+   "address": "6610 Old Madison Pike Unit 109, Huntsville, AL 35806",
+   "cuisines": [
+    "Wings",
+    "American"
+   ],
+   "tags": [
+    "wings",
+    "burgers",
+    "brunch",
+    "budget-friendly",
+    "steak",
+    "lemon pepper wings",
+    "pot roast",
+    "cheese curds",
+    "peanut butter pie"
+   ],
+   "occasions": [
+    "Group"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Galaxy Lemonade",
+    "Loaded potato skins"
+   ],
+   "summary": "A Huntsville staple and cheap date: lemon pepper and Jamaican jerk wings, a juicy patty melt and homemade ranch, all under $60. What to order here.",
+   "lastVisited": "2026-05-12"
+  },
+  {
+   "name": "Pico Fresh Mex",
+   "url": "https://whattoeathuntsville.com/restaurants/pico-fresh-mex/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Monrovia",
+   "address": "1947 Blake Bottom Rd NW, Huntsville, AL 35806",
+   "cuisines": [
+    "Mexican"
+   ],
+   "tags": [
+    "tacos",
+    "birria",
+    "pizza",
+    "margaritas",
+    "happy hour",
+    "fish tacos",
+    "nachos",
+    "quesadillas",
+    "burritos",
+    "bowls",
+    "kids menu",
+    "fast casual"
+   ],
+   "occasions": [
+    "Group"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Birria pizza",
+    "Tacos",
+    "Quesadillas",
+    "Margarita pitchers"
+   ],
+   "summary": "Birria pizza is our favorite, plus fish tacos with pickled onions, nachos, quesadillas and margarita pitchers. Our weekly Mexican spot in Monrovia.",
+   "website": "https://picofreshmex.com/",
+   "lastVisited": "2026-04-29"
+  },
+  {
+   "name": "Scoop & Slice Cafe",
+   "url": "https://whattoeathuntsville.com/restaurants/scoop-and-slice/",
+   "status": "temporarily-closed",
+   "city": "Harvest",
+   "area": "Harvest (Capshaw Rd)",
+   "address": "30029 Capshaw Rd, Suite B, Harvest, AL 35749",
+   "cuisines": [
+    "Sweet treats",
+    "Pizza",
+    "Sandwiches"
+   ],
+   "tags": [
+    "wings",
+    "pizza",
+    "coffee",
+    "fries",
+    "sandwiches",
+    "Philly cheesesteak",
+    "ice cream",
+    "milkshakes",
+    "smoothies",
+    "pastries"
+   ],
+   "occasions": [
+    "Late night",
+    "Family"
+   ],
+   "ourLabel": "none",
+   "bestDish": "Philly Cheesesteak Pizza",
+   "alsoOrder": [
+    "Italian club, loaded"
+   ],
+   "summary": "Temporarily closed. Our regular Harvest spot for Philly cheesesteak pizza with Alfredo, a loaded Italian club, fresh seasoned fries and ice cream samples.",
+   "website": "https://scoopslicecafe.com/",
+   "lastVisited": "2026-04-21"
+  },
+  {
+   "name": "Pan-Z-Effie's",
+   "url": "https://whattoeathuntsville.com/restaurants/pan-z-effies/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Food truck (Pulaski Pike)",
+   "cuisines": [
+    "BBQ",
+    "Soul food"
+   ],
+   "tags": [
+    "wings",
+    "burgers",
+    "catfish",
+    "BBQ",
+    "food truck",
+    "Black-owned",
+    "late night",
+    "ribs",
+    "hot dogs",
+    "birria nachos"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "bestDish": "Fried catfish",
+   "alsoOrder": [
+    "Ribs",
+    "Bell Dog"
+   ],
+   "summary": "Fried catfish we rate 1000/10, plus ribs, wings and mac and cheese from this Huntsville soul food and BBQ truck on Pulaski Pike. Open Wed to Sat after 4pm.",
+   "lastVisited": "2026-04-09"
+  },
+  {
+   "name": "Parlor Doughnuts",
+   "url": "https://whattoeathuntsville.com/restaurants/parlor-doughnuts/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Clinton Ave W",
+   "address": "2500 Clinton Ave W, Huntsville, AL",
+   "cuisines": [
+    "Breakfast",
+    "Sweet treats"
+   ],
+   "tags": [
+    "pizza",
+    "breakfast",
+    "coffee",
+    "donuts",
+    "breakfast tacos",
+    "acai bowl",
+    "biscuits"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Buffalo Chicken pizza doughnut",
+    "Chicken Bacon Ranch pizza doughnut",
+    "OG Pepperoni pizza doughnut"
+   ],
+   "summary": "Three savory pizza doughnuts: Buffalo Chicken, Chicken Bacon Ranch and OG Pepperoni. We gave them 10 out of 10. Parlor Doughnuts, Clinton Ave, Huntsville.",
+   "website": "https://www.parlordoughnuts.com/",
+   "lastVisited": "2026-04-07"
+  },
+  {
+   "name": "Rooster's",
+   "url": "https://whattoeathuntsville.com/restaurants/roosters-athens/",
+   "status": "open",
+   "city": "Athens",
+   "area": "US-31",
+   "address": "125 US-31 S, Athens, AL 35611",
+   "cuisines": [
+    "Chicken"
+   ],
+   "tags": [
+    "wings",
+    "catfish",
+    "drive-thru",
+    "fries",
+    "chicken tenders",
+    "fried pickles",
+    "fried mushrooms",
+    "texas toast"
+   ],
+   "occasions": [
+    "Quick lunch"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Tenders",
+    "Fries",
+    "Sweet tea"
+   ],
+   "summary": "A quick drive-thru stop in Athens: the sauce was the star, then the tenders, fries and sweet tea. A little pricey, but honestly worth it.",
+   "website": "https://roostersinathens.com/",
+   "lastVisited": "2026-04-05"
+  },
+  {
+   "name": "Osteria Luca",
+   "url": "https://whattoeathuntsville.com/restaurants/osteria-luca/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Stovehouse",
+   "address": "3414 Governors Dr SW, Suite 705, Huntsville, AL 35805",
+   "cuisines": [
+    "Italian",
+    "Pizza"
+   ],
+   "tags": [
+    "pizza",
+    "cocktails",
+    "hot honey",
+    "salads",
+    "pasta",
+    "fettuccine alfredo",
+    "meatballs",
+    "lasagna",
+    "gnocchi",
+    "calamari",
+    "wood-fired",
+    "gluten-free options"
+   ],
+   "occasions": [
+    "Date night",
+    "Group"
+   ],
+   "price": "$$$",
+   "ourLabel": "none",
+   "bestDish": "Hot Honey Meatball Pizza",
+   "alsoOrder": [
+    "Caesar Salad",
+    "Fettuccine Alfredo"
+   ],
+   "summary": "The hot honey meatball pizza was the one, plus a crispy Caesar salad and chicken mushroom fettuccine alfredo. Italian near Stovehouse in Huntsville.",
+   "lastVisited": "2026-04-04"
+  },
+  {
+   "name": "Barracuda Taco Stand",
+   "url": "https://whattoeathuntsville.com/restaurants/barracuda-taco-stand/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Meridian St",
+   "address": "535 Meridian St N, Huntsville, AL 35801",
+   "cuisines": [
+    "Mexican"
+   ],
+   "tags": [
+    "tacos",
+    "breakfast",
+    "margaritas",
+    "patio",
+    "fish tacos",
+    "nachos",
+    "breakfast tacos",
+    "queso",
+    "kids menu",
+    "catering",
+    "vegetarian options"
+   ],
+   "occasions": [],
+   "ourLabel": "none",
+   "bestDish": "Pork taco",
+   "alsoOrder": [
+    "Chicken taco",
+    "Fish taco",
+    "Lime margarita"
+   ],
+   "summary": "Made-to-order tacos on Meridian St: a juicy pork taco with pickled onions was our favorite, plus chicken and crispy fish tacos and a 10/10 lime margarita.",
+   "website": "https://www.eatbarracuda.com",
+   "lastVisited": "2026-04-02"
+  },
+  {
+   "name": "Dragon Alley",
+   "url": "https://whattoeathuntsville.com/restaurants/dragon-alley/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "MidCity",
+   "address": "1030 Mid City Dr, Huntsville, AL 35806",
+   "cuisines": [
+    "Asian"
+   ],
+   "tags": [
+    "sushi",
+    "cocktails",
+    "patio",
+    "dumplings",
+    "noodles",
+    "udon",
+    "bao",
+    "karaoke",
+    "fried rice",
+    "pad thai",
+    "roasted duck",
+    "dj"
+   ],
+   "occasions": [
+    "Group",
+    "Late night"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "bestDish": "Yaki udon",
+   "alsoOrder": [
+    "Drinks"
+   ],
+   "summary": "Yaki udon we'd go back for, soft duck bao and earthy cocktails, plus karaoke and a nightly DJ. Our honest review of Dragon Alley in MidCity, Huntsville.",
+   "lastVisited": "2026-03-24"
+  },
+  {
+   "name": "Viet House",
+   "url": "https://whattoeathuntsville.com/restaurants/viet-house/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Airport Rd",
+   "address": "975 Airport Rd SW, Ste B2, Huntsville, AL 35802",
+   "cuisines": [
+    "Asian"
+   ],
+   "tags": [
+    "pho",
+    "dessert",
+    "budget-friendly",
+    "dumplings",
+    "Vietnamese",
+    "spring rolls",
+    "banh mi",
+    "clay pot rice",
+    "boba",
+    "vermicelli",
+    "broken rice",
+    "gluten-free options"
+   ],
+   "occasions": [
+    "Cheap eats"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "bestDish": "Chicken pho, made angry (spicy)",
+   "alsoOrder": [
+    "Fried spring rolls",
+    "Pork dumplings"
+   ],
+   "summary": "Our forever-favorite pho spot: spicy chicken pho, fried spring rolls and pork dumplings, all under $40. What to order at Viet House in Huntsville.",
+   "lastVisited": "2026-03-18"
+  },
+  {
+   "name": "Hattie B's Hot Chicken",
+   "url": "https://whattoeathuntsville.com/restaurants/hattie-bs-huntsville/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Memorial Pkwy (Stadium Commons)",
+   "address": "3212 Memorial Pkwy SW, Huntsville, AL 35801",
+   "cuisines": [
+    "Chicken"
+   ],
+   "tags": [
+    "wings",
+    "fries",
+    "mac and cheese",
+    "salads",
+    "baked beans",
+    "chicken sandwich",
+    "chicken tenders",
+    "Nashville hot chicken",
+    "grits",
+    "beer",
+    "gluten-free options",
+    "kids menu"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Medium hot wings",
+    "Medium hot chicken tenders",
+    "Dirty Bird Fries",
+    "Poppy Seed Grilled Chicken"
+   ],
+   "summary": "Nashville hot chicken in Huntsville: medium hot tenders and wings, Dirty Bird Fries and the Poppy Seed Grilled Chicken Salad. Tastes like the original.",
+   "website": "https://www.hattieb.com",
+   "lastVisited": "2026-03-14"
+  },
+  {
+   "name": "Metro Diner",
+   "url": "https://whattoeathuntsville.com/restaurants/metro-diner/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Airport Rd (Westburg Shopping Ctr)",
+   "address": "975 Airport Rd SW Ste 20-22, Huntsville, AL 35802",
+   "cuisines": [
+    "Breakfast",
+    "American"
+   ],
+   "tags": [
+    "fried chicken",
+    "breakfast",
+    "budget-friendly",
+    "fries",
+    "steak",
+    "Philly cheesesteak",
+    "green beans",
+    "loaded fries",
+    "wine",
+    "chicken and waffles",
+    "meatloaf",
+    "biscuits and gravy"
+   ],
+   "occasions": [
+    "Brunch",
+    "Family"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [],
+   "summary": "Loaded fries, crispy fish and chips and steak tips with mashed potatoes, all under $50. Breakfast is served at dinner too at Metro Diner in Huntsville.",
+   "website": "https://metrodiner.com",
+   "lastVisited": "2026-03-06"
+  },
+  {
+   "name": "Steam Boys",
+   "url": "https://whattoeathuntsville.com/restaurants/steam-boys/",
+   "status": "open",
+   "city": "Madison",
+   "area": "Clift Farm",
+   "address": "8294 Hwy 72 W, Building 200, Madison, AL 35758",
+   "cuisines": [
+    "Asian"
+   ],
+   "tags": [
+    "dumplings",
+    "bao",
+    "bao buns",
+    "popcorn chicken",
+    "boba",
+    "boba tea",
+    "noodle soup",
+    "gua bao",
+    "rice bowls",
+    "chinese"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Popcorn chicken",
+    "Gua bao",
+    "Pan-seared beef bao",
+    "Pan-seared cheeseburger dumplings",
+    "Passion fruit boba tea"
+   ],
+   "summary": "One of our favorites in Madison: beef bao, cheeseburger dumplings, popcorn chicken and passion fruit boba. All-you-can-eat dumplings Thursdays for $20.",
+   "website": "https://www.steamboys.com/madison",
+   "lastVisited": "2026-03-02"
+  },
+  {
+   "name": "Vujee Vegan",
+   "url": "https://whattoeathuntsville.com/restaurants/vujee-vegan/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Meridian St N",
+   "address": "4701 Meridian St N, Ste K, Huntsville, AL 35811",
+   "cuisines": [
+    "Vegan"
+   ],
+   "tags": [
+    "burgers",
+    "vegan",
+    "Black-owned",
+    "fries",
+    "sandwiches",
+    "mac and cheese",
+    "lemonade",
+    "cake",
+    "egg rolls",
+    "nashville hot chicken",
+    "chicken nuggets",
+    "chili"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "bestDish": "Chili",
+   "alsoOrder": [
+    "Cheeze burger",
+    "Philly egg rolls",
+    "Chick'n nuggets",
+    "Buffalo chick'n sandwich"
+   ],
+   "summary": "Black-owned vegan spot with five-star chili, a buffalo chick'n sandwich, Philly egg rolls and waffle fries. What to order at Vujee Vegan in Huntsville.",
+   "website": "https://www.vujeeveganllc.com",
+   "lastVisited": "2026-02-25"
+  },
+  {
+   "name": "City Barbeque",
+   "url": "https://whattoeathuntsville.com/restaurants/city-barbeque/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "South Huntsville",
+   "address": "11544 Memorial Pkwy SW, Huntsville, AL 35803",
+   "cuisines": [
+    "BBQ"
+   ],
+   "tags": [
+    "wings",
+    "mac and cheese",
+    "baked beans",
+    "green beans",
+    "ribs",
+    "brisket",
+    "pulled pork",
+    "banana pudding",
+    "cornbread",
+    "catering"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [],
+   "summary": "Smoky wings, mac and cheese with a real cheese pull, and meaty green beans, about $32 for two. What to order at City Barbeque in South Huntsville.",
+   "website": "https://www.citybbq.com/location/memorial-parkway",
+   "lastVisited": "2026-02-19"
+  },
+  {
+   "name": "Cooper's Hawk",
+   "url": "https://whattoeathuntsville.com/restaurants/coopers-hawk/",
+   "status": "open",
+   "city": "Madison",
+   "area": "Clift Farm",
+   "address": "8228 Hwy 72 W, Madison, AL 35758",
+   "cuisines": [
+    "American"
+   ],
+   "tags": [
+    "brunch",
+    "happy hour",
+    "steak",
+    "salmon",
+    "seafood",
+    "wine",
+    "gluten-free options"
+   ],
+   "occasions": [
+    "Date night",
+    "Group",
+    "Birthday"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [],
+   "summary": "Worth the hype at Clift Farm: prime rib sandwich, surf and turf, chicken potstickers and a 10/10 s'mores budino. What to order at Cooper's Hawk in Madison.",
+   "website": "https://chwinery.com/",
+   "lastVisited": "2026-02-13"
+  },
+  {
+   "name": "Hunnydew Bakery",
+   "url": "https://whattoeathuntsville.com/restaurants/hunnydew-bakery/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Home bakery / farmers market",
+   "cuisines": [
+    "Sweet treats"
+   ],
+   "tags": [
+    "Black-owned",
+    "cookies",
+    "gluten-free options",
+    "farmers market"
+   ],
+   "occasions": [],
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Cinnamon sparkle cookie",
+    "Chocolate lava cookie",
+    "Chocolate strawberry cookie",
+    "Velvet dreams cookie"
+   ],
+   "summary": "We gave Hunnydew Bakery a 10 out of 10. Cinnamon sparkle, chocolate lava and velvet dreams cookies from a Black-owned, gluten-friendly Huntsville baker.",
+   "lastVisited": "2026-02-08"
+  },
+  {
+   "name": "Blue Oak BBQ",
+   "url": "https://whattoeathuntsville.com/restaurants/blue-oak-bbq/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "MidCity",
+   "address": "1000 Mid City Dr, Huntsville, AL 35806",
+   "cuisines": [
+    "BBQ"
+   ],
+   "tags": [
+    "wings",
+    "burgers",
+    "happy hour",
+    "sandwiches",
+    "mac and cheese",
+    "barbecue",
+    "brisket",
+    "gumbo",
+    "fajitas"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Winter Burger (daily special)",
+    "Mild buffalo wings"
+   ],
+   "summary": "BBQ in MidCity with daily specials, margaritas and beer-battered tots. We got the Winter Burger, mild buffalo wings and baked beans, and want to go back.",
+   "website": "https://blueoakbbqhsv.com/",
+   "lastVisited": "2026-02-03"
+  },
+  {
+   "name": "Jon Smith Subs",
+   "url": "https://whattoeathuntsville.com/restaurants/jon-smith-subs/",
+   "status": "open",
+   "city": "Madison",
+   "area": "County Line Rd",
+   "address": "11156 County Line Rd, Ste G, Madison, AL 35756",
+   "cuisines": [
+    "Sandwiches"
+   ],
+   "tags": [
+    "fries",
+    "sandwiches",
+    "chicken sandwich",
+    "Cajun",
+    "subs",
+    "cuban sandwich",
+    "cheesesteak",
+    "catering"
+   ],
+   "occasions": [
+    "Quick lunch"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "bestDish": "Hot cajun chicken sandwich",
+   "alsoOrder": [],
+   "summary": "Get the hot Cajun chicken sandwich at Jon Smith Subs in Madison: cheesy, fresh and hot. Weekday $10 sandwich, chips and drink deal on County Line Rd.",
+   "website": "https://www.jonsmithsubs.com",
+   "lastVisited": "2026-01-20"
+  },
+  {
+   "name": "Sunnyside Pizzeria",
+   "url": "https://whattoeathuntsville.com/restaurants/sunnyside-pizzeria-atlanta/",
+   "status": "open",
+   "city": "Atlanta",
+   "area": "Sandy Springs",
+   "address": "220 Sandy Springs Cir NE, Suite 149, Sandy Springs, GA 30328",
+   "cuisines": [
+    "Pizza"
+   ],
+   "tags": [
+    "wings",
+    "pizza",
+    "salads",
+    "pasta",
+    "neapolitan pizza",
+    "wood-fired",
+    "gelato"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "bestDish": "Honey Hot Pizza",
+   "alsoOrder": [],
+   "summary": "A road-trip pick near Atlanta: the Honey Hot Pizza with pepperoni is fresh, cheesy and sweet-hot. Alfredo pasta, spritz drinks and gelato in Sandy Springs.",
+   "website": "https://sunnysidepizzeria.com",
+   "lastVisited": "2026-01-12"
+  },
+  {
+   "name": "Chikin Jip",
+   "url": "https://whattoeathuntsville.com/restaurants/chikin-jip/",
+   "status": "open",
+   "city": "Madison",
+   "area": "County Line Rd",
+   "address": "12120 County Line Rd, Suite A, Madison, AL 35756",
+   "cuisines": [
+    "Asian",
+    "Chicken"
+   ],
+   "tags": [
+    "wings",
+    "fries",
+    "dumplings",
+    "bulgogi",
+    "Korean fried chicken",
+    "tteokbokki",
+    "soy garlic chicken",
+    "beer",
+    "rice bowls"
+   ],
+   "occasions": [],
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Bulgogi fries",
+    "Yangnyeom boneless chicken & fries"
+   ],
+   "summary": "Spicy yangnyeom boneless chicken with fries and bulgogi fries. Fresh food and friendly service. What to order at Chikin Jip in Madison, AL.",
+   "website": "https://www.chikinjipusa.com/",
+   "lastVisited": "2026-01-06"
+  },
+  {
+   "name": "Chuck's Fish",
+   "url": "https://whattoeathuntsville.com/restaurants/chucks-fish/",
+   "status": "open",
+   "city": "Madison",
+   "area": "Clift Farm",
+   "address": "461 John Henry Way, Bldg 500, Madison, AL 35757",
+   "cuisines": [
+    "Seafood"
+   ],
+   "tags": [
+    "pizza",
+    "sushi",
+    "cocktails",
+    "patio",
+    "steak",
+    "hot honey",
+    "seafood",
+    "gumbo",
+    "crab cakes",
+    "gluten-free options"
+   ],
+   "occasions": [
+    "Date night"
+   ],
+   "price": "$$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Hot honey pizza",
+    "Parmesan-crusted grouper",
+    "Sushi"
+   ],
+   "summary": "Date night at Clift Farm: five-star hot honey pizza, salmon sushi and parmesan-crusted grouper. Pricey but worth it. Chuck's Fish in Madison.",
+   "website": "https://www.chucksfish.com/madison/",
+   "lastVisited": "2025-12-15"
+  },
+  {
+   "name": "One Eleven",
+   "url": "https://whattoeathuntsville.com/restaurants/one-eleven/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Downtown",
+   "address": "111 Washington St NE, Huntsville, AL 35801",
+   "cuisines": [
+    "American"
+   ],
+   "tags": [
+    "burgers",
+    "brunch",
+    "cocktails",
+    "steak",
+    "pasta",
+    "seafood"
+   ],
+   "occasions": [
+    "Date night"
+   ],
+   "price": "$$$",
+   "ourLabel": "none",
+   "alsoOrder": [],
+   "summary": "Shareable cocktails, a fresh wedge salad, fish, mussels, pasta and steak, plus a photo booth. Our take on One Eleven for date night in downtown Huntsville.",
+   "website": "https://www.oneelevenhsv.com/",
+   "lastVisited": "2025-12-05"
+  },
+  {
+   "name": "Wings & Gyros",
+   "url": "https://whattoeathuntsville.com/restaurants/wings-and-gyros/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Sparkman Dr / UAH",
+   "address": "1212 Sparkman Dr NW, Huntsville, AL 35816",
+   "cuisines": [
+    "Wings",
+    "Mediterranean"
+   ],
+   "tags": [
+    "wings",
+    "pizza",
+    "burgers",
+    "lemon pepper wings",
+    "Philly cheesesteak",
+    "gyros",
+    "halal",
+    "ice cream"
+   ],
+   "occasions": [],
+   "price": "$",
+   "ourLabel": "none",
+   "bestDish": "Wings",
+   "alsoOrder": [],
+   "summary": "Some of the best wings in Huntsville: hot lemon pepper and hot honey wings, fresh fries and really good ice cream. Our take on Wings & Gyros near UAH.",
+   "website": "https://wingsandgyros.com/",
+   "lastVisited": "2025-11-30"
+  },
+  {
+   "name": "Taqueria Las Adelitas",
+   "url": "https://whattoeathuntsville.com/restaurants/taqueria-las-adelitas/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Madison Pike",
+   "address": "6212 Madison Pike, Huntsville, AL 35806",
+   "cuisines": [
+    "Mexican"
+   ],
+   "tags": [
+    "tacos",
+    "birria",
+    "fish tacos",
+    "california burrito",
+    "carne asada fries",
+    "tortas",
+    "gorditas",
+    "ceviche"
+   ],
+   "occasions": [],
+   "price": "$",
+   "ourLabel": "none",
+   "bestDish": "Fish taco",
+   "alsoOrder": [],
+   "summary": "Get the fish taco: one of the best tacos we've ever had. We also liked the chips and salsa. What to order at Taqueria Las Adelitas in Huntsville.",
+   "lastVisited": "2025-11-21"
+  },
+  {
+   "name": "Daylight Donuts",
+   "url": "https://whattoeathuntsville.com/restaurants/daylight-donuts-south/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "South Huntsville",
+   "address": "11823 Memorial Pkwy SW, Huntsville, AL 35803",
+   "cuisines": [
+    "Sweet treats",
+    "Breakfast"
+   ],
+   "tags": [
+    "breakfast",
+    "coffee",
+    "donuts"
+   ],
+   "occasions": [],
+   "price": "$",
+   "ourLabel": "none",
+   "alsoOrder": [],
+   "summary": "Chocolate glazed donuts, cinnamon rolls and donut holes, plus breakfast sandwiches and pigs in a blanket. What to order at Daylight Donuts, Huntsville.",
+   "lastVisited": "2025-11-13"
+  },
+  {
+   "name": "Fluffy Fluffy",
+   "url": "https://whattoeathuntsville.com/restaurants/fluffy-fluffy/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Whitesburg Dr",
+   "address": "2338 Whitesburg Dr, Ste B, Huntsville, AL 35801",
+   "cuisines": [
+    "Sweet treats",
+    "Breakfast",
+    "Asian"
+   ],
+   "tags": [
+    "brunch",
+    "dessert",
+    "coffee",
+    "cheesecake",
+    "pancakes",
+    "matcha",
+    "souffle pancakes",
+    "tiramisu",
+    "japanese"
+   ],
+   "occasions": [
+    "Brunch"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Matcha pancake + latte combo"
+   ],
+   "summary": "Fluffy matcha souffle pancakes, lattes and cheesecake on Whitesburg Dr. Sweet, cozy and worth the stop. What to order at Fluffy Fluffy in Huntsville.",
+   "website": "https://www.fluffyfluffy.com",
+   "lastVisited": "2025-10-27"
+  },
+  {
+   "name": "P.F. Chang's",
+   "url": "https://whattoeathuntsville.com/restaurants/pf-changs/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Bridge Street Town Centre",
+   "address": "305 The Bridge St, Suite 101, Huntsville, AL 35806",
+   "cuisines": [
+    "Asian"
+   ],
+   "tags": [
+    "cocktails",
+    "happy hour",
+    "dumplings",
+    "noodles",
+    "chinese",
+    "lettuce wraps",
+    "gluten-free options"
+   ],
+   "occasions": [
+    "Group"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Spicy chicken",
+    "Garlic noodles"
+   ],
+   "summary": "We worked through seven dishes at P.F. Chang's at Bridge Street Town Centre in Huntsville. Order the spicy chicken and garlic noodles. Good for groups.",
+   "website": "https://www.pfchangs.com/",
+   "lastVisited": "2025-10-25"
+  },
+  {
+   "name": "Playa Bowls",
+   "url": "https://whattoeathuntsville.com/restaurants/playa-bowls/",
+   "status": "open",
+   "city": "Madison",
+   "area": "Clift Farm",
+   "address": "460 John Henry Way, Suite 390, Madison, AL 35758",
+   "cuisines": [
+    "Sweet treats",
+    "Breakfast"
+   ],
+   "tags": [
+    "smoothies",
+    "acai bowls",
+    "pitaya bowls",
+    "coconut bowls",
+    "juice",
+    "chain"
+   ],
+   "occasions": [
+    "Quick lunch"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Acai Nutella Bowl",
+    "Aloha Smoothie",
+    "Mermaid Fuel juice"
+   ],
+   "summary": "Our pick for something cold: the Aloha Smoothie with protein and chia, plus the Acai Nutella Bowl. What to order at Playa Bowls, Clift Farm, Madison.",
+   "website": "https://www.playabowls.com/location/madison",
+   "lastVisited": "2025-09-18"
+  },
+  {
+   "name": "Field Day",
+   "url": "https://whattoeathuntsville.com/restaurants/field-day/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "University Dr",
+   "address": "6123 University Dr NW, Unit 110, Huntsville, AL 35806",
+   "cuisines": [
+    "American"
+   ],
+   "tags": [
+    "pizza",
+    "wings",
+    "cocktails",
+    "fish bowls",
+    "mini golf",
+    "axe throwing",
+    "duckpin bowling",
+    "golf simulators",
+    "karaoke",
+    "sports bar",
+    "patio",
+    "games",
+    "kid-friendly"
+   ],
+   "occasions": [
+    "Group",
+    "Birthday",
+    "Late night"
+   ],
+   "ourLabel": "none",
+   "bestDish": "Pizza",
+   "alsoOrder": [
+    "Appetizer platter (onion rings, chips and salsa, mozzarella bites)",
+    "Wings",
+    "A fish bowl to share"
+   ],
+   "summary": "Mini golf, axe throwing, bowling and a big patio for game days, plus pizza, wings and fish bowl drinks. Our take on Field Day on University Dr in Huntsville.",
+   "lastVisited": "2025-09-10"
+  },
+  {
+   "name": "Las Trojas Cantina",
+   "url": "https://whattoeathuntsville.com/restaurants/las-trojas-cantina/",
+   "status": "open",
+   "city": "Hazel Green",
+   "area": "Hazel Green",
+   "address": "14739 Hwy 231-431 N, Suite H, Hazel Green, AL 35750",
+   "cuisines": [
+    "Mexican"
+   ],
+   "tags": [
+    "tacos",
+    "birria",
+    "pizza",
+    "margaritas",
+    "fries",
+    "quesadillas",
+    "carne asada",
+    "fajitas",
+    "birria ramen",
+    "catering",
+    "private dining"
+   ],
+   "occasions": [
+    "Group",
+    "Birthday"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Birria pizza",
+    "Carne asada fries",
+    "Margaritas"
+   ],
+   "summary": "Birria tacos, birria pizza, carne asada fries and the big Bama margarita at Las Trojas Cantina in Hazel Green. Great for birthdays and large groups.",
+   "website": "https://lastrojas.com/",
+   "lastVisited": "2025-08-26"
+  },
+  {
+   "name": "Mozza",
+   "url": "https://whattoeathuntsville.com/restaurants/mozza-pizza/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Jordan Ln",
+   "address": "520 Jordan Ln NW, Huntsville, AL 35805",
+   "cuisines": [
+    "Pizza"
+   ],
+   "tags": [
+    "wings",
+    "pizza",
+    "pasta",
+    "new york style pizza",
+    "gluten-free options",
+    "calzones",
+    "cannoli"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [],
+   "summary": "Pepperoni and sausage pizza, pasta and calzones, fast and fresh out of the oven. Mozza on Jordan Ln is in our top 3 for pizza in Huntsville.",
+   "website": "https://mozza-pizza.com/",
+   "lastVisited": "2025-08-11"
+  },
+  {
+   "name": "Mi Tierra Oaxaqueña",
+   "url": "https://whattoeathuntsville.com/restaurants/mi-tierra-oaxaquena/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Pulaski Pike",
+   "address": "5990 Pulaski Pike NW, Huntsville, AL 35810",
+   "cuisines": [
+    "Mexican"
+   ],
+   "tags": [
+    "tacos",
+    "food truck",
+    "oaxacan"
+   ],
+   "occasions": [],
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Tacos"
+   ],
+   "summary": "Chicken and steak tacos on corn and flour tortillas got a great rating from us. What to order at Mi Tierra Oaxaqueña on Pulaski Pike in Huntsville.",
+   "lastVisited": "2025-07-25"
+  },
+  {
+   "name": "The Biscuit Express",
+   "url": "https://whattoeathuntsville.com/restaurants/the-biscuit-express/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Moores Mill Rd",
+   "address": "5077 Moores Mill Rd, Huntsville, AL",
+   "cuisines": [
+    "Breakfast"
+   ],
+   "tags": [
+    "burgers",
+    "breakfast",
+    "food truck",
+    "sandwiches",
+    "biscuits",
+    "specialty sodas",
+    "lunch",
+    "early morning"
+   ],
+   "occasions": [
+    "Brunch"
+   ],
+   "price": "$",
+   "ourLabel": "none",
+   "alsoOrder": [],
+   "summary": "A bacon, egg and cheese biscuit with crisp bacon and a chicken biscuit that reminded us of Jack's. What to order at The Biscuit Express on Moores Mill Rd.",
+   "website": "https://thebiscuitexpress.com/",
+   "lastVisited": "2025-07-08"
+  },
+  {
+   "name": "Mo'Bay Beignet Co.",
+   "url": "https://whattoeathuntsville.com/restaurants/mobay-beignet-co/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Monrovia (Jeff Rd)",
+   "address": "1981 Jeff Rd NW, Huntsville, AL 35806",
+   "cuisines": [
+    "Sweet treats"
+   ],
+   "tags": [
+    "burgers",
+    "coffee",
+    "beignets",
+    "chicken fingers",
+    "frappes",
+    "cold brew"
+   ],
+   "occasions": [],
+   "price": "$",
+   "ourLabel": "none",
+   "alsoOrder": [],
+   "summary": "Fresh beignets with syrups, a crispy club chicken sandwich, burgers and coffee. A new Monrovia spot on Jeff Rd in Huntsville with room to sit and work.",
+   "website": "https://mobaybeignetco.com/visit-huntsville",
+   "lastVisited": "2025-07-03"
+  },
+  {
+   "name": "Taqueria Doña Vale",
+   "url": "https://whattoeathuntsville.com/restaurants/taqueria-dona-vale/",
+   "status": "open",
+   "city": "Madison",
+   "area": "Wall Triana Hwy",
+   "address": "7190 Wall Triana Hwy, Madison, AL 35757",
+   "cuisines": [
+    "Mexican"
+   ],
+   "tags": [
+    "tacos",
+    "breakfast",
+    "quesadillas",
+    "shredded chicken",
+    "burritos",
+    "tortas",
+    "elote"
+   ],
+   "occasions": [],
+   "price": "$",
+   "ourLabel": "none",
+   "bestDish": "Shredded chicken tacos",
+   "alsoOrder": [],
+   "summary": "Shredded chicken tacos, steak tacos on fresh homemade tortillas and a thick chicken sope, inside a gas station. What to order at Taqueria Doña Vale.",
+   "lastVisited": "2025-06-25"
+  },
+  {
+   "name": "Taqueria Don Pancho",
+   "url": "https://whattoeathuntsville.com/restaurants/taqueria-don-pancho/",
+   "status": "open",
+   "city": "Madison",
+   "area": "Hwy 72 W",
+   "address": "7950 Hwy 72 W, Madison, AL 35758",
+   "cuisines": [
+    "Mexican"
+   ],
+   "tags": [
+    "tacos",
+    "birria",
+    "steak",
+    "tortas",
+    "quesabirria",
+    "burritos",
+    "machete",
+    "alambre"
+   ],
+   "occasions": [],
+   "price": "$",
+   "ourLabel": "none",
+   "bestDish": "Birria tacos",
+   "alsoOrder": [
+    "Torta mamalona",
+    "Steak & chicken tacos"
+   ],
+   "summary": "Crispy, not-soggy birria tacos, a torta mamalona big enough for two, and steak and chicken tacos. What to order at Taqueria Don Pancho in Madison, AL.",
+   "website": "https://taqueriadonpanchoal.com",
+   "lastVisited": "2025-06-07"
+  },
+  {
+   "name": "Floyd's Barbecue",
+   "url": "https://whattoeathuntsville.com/restaurants/floyds-barbecue/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Pulaski Pike",
+   "address": "5988 Pulaski Pike NW, Huntsville, AL 35810",
+   "cuisines": [
+    "BBQ"
+   ],
+   "tags": [
+    "Black-owned",
+    "fries",
+    "sandwiches",
+    "mac and cheese",
+    "baked beans",
+    "ribs",
+    "pulled pork",
+    "smoked chicken",
+    "fried okra",
+    "potato salad",
+    "coleslaw",
+    "catering",
+    "bbq by the pound"
+   ],
+   "occasions": [],
+   "price": "$",
+   "ourLabel": "none",
+   "bestDish": "Pork sandwich plate",
+   "alsoOrder": [],
+   "summary": "Five stars and the best pork sandwich in Huntsville. Get the pork sandwich plate with baked beans and a juicy rib. What to order at Floyd's Barbecue.",
+   "lastVisited": "2025-05-30"
+  },
+  {
+   "name": "Super Chix",
+   "url": "https://whattoeathuntsville.com/restaurants/super-chix-madison/",
+   "status": "open",
+   "city": "Madison",
+   "area": "Town Madison",
+   "address": "100 Moon Shot Dr, Suite 100, Madison, AL 35758",
+   "cuisines": [
+    "Chicken"
+   ],
+   "tags": [
+    "fries",
+    "sandwiches",
+    "salads",
+    "chicken sandwich",
+    "chicken tenders",
+    "loaded fries",
+    "frozen custard",
+    "nashville hot",
+    "nuggets",
+    "grilled chicken"
+   ],
+   "occasions": [
+    "Family"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [],
+   "summary": "Big portions by Toyota Field: crispy chicken tenders, a buffalo chicken sandwich, and loaded fries with bacon and queso. Our take on Super Chix in Madison.",
+   "website": "https://www.superchix.com",
+   "lastVisited": "2025-05-30"
+  },
+  {
+   "name": "Teriyaki Express Grill (food truck)",
+   "url": "https://whattoeathuntsville.com/restaurants/teriyaki-express-grill/",
+   "status": "open",
+   "city": "Madison",
+   "area": "Capshaw & Wall Triana",
+   "address": "6540 Wall Triana Hwy, Madison, AL",
+   "cuisines": [
+    "Asian"
+   ],
+   "tags": [
+    "food truck",
+    "dumplings",
+    "teriyaki",
+    "hibachi",
+    "shrimp"
+   ],
+   "occasions": [
+    "Quick lunch"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Fried gyoza",
+    "Chicken teriyaki with rice"
+   ],
+   "summary": "A Madison food truck at Capshaw and Wall Triana: fried gyoza and a chicken teriyaki plate for about $15. What to order at Teriyaki Express Grill.",
+   "lastVisited": "2025-05-20"
+  },
+  {
+   "name": "Niyah's Southern Grill",
+   "url": "https://whattoeathuntsville.com/restaurants/niyahs-southern-grill/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Jordan Rd",
+   "address": "1392 Jordan Rd, Suite D, Huntsville, AL 35811",
+   "cuisines": [
+    "Soul food"
+   ],
+   "tags": [
+    "wings",
+    "catfish",
+    "Black-owned",
+    "fries",
+    "mac and cheese",
+    "baked beans",
+    "ribs",
+    "pork chops",
+    "white sauce",
+    "soul food",
+    "smashburger",
+    "brisket",
+    "chicken and dumplings"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Fried catfish",
+    "Porkchop bites",
+    "Hot wings",
+    "Baked beans",
+    "Queso mac",
+    "Homemade white sauce"
+   ],
+   "summary": "Crispy, well-seasoned fried catfish was our favorite, plus porkchop bites, hot wings, queso mac and homemade white sauce at this Huntsville soul food spot.",
+   "lastVisited": "2025-05-06"
+  },
+  {
+   "name": "Nicas Grill & Café (food truck)",
+   "url": "https://whattoeathuntsville.com/restaurants/nicas-grill/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Food truck",
+   "cuisines": [
+    "Latin"
+   ],
+   "tags": [
+    "food truck",
+    "fries",
+    "Philly cheesesteak",
+    "quesadillas",
+    "loaded fries",
+    "nicaraguan",
+    "latin fusion",
+    "family-owned"
+   ],
+   "occasions": [],
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Loaded fries"
+   ],
+   "summary": "Nicaraguan-American fusion food truck. The loaded fries taste like Philly cheese fries, and the Valenciana rice is next. Find it at Orion and NASA Corral.",
+   "lastVisited": "2025-05-02"
+  },
+  {
+   "name": "LJ'z Backyard Bayou",
+   "url": "https://whattoeathuntsville.com/restaurants/ljz-backyard-bayou/",
+   "status": "open",
+   "city": "Harvest",
+   "area": "Harvest",
+   "address": "3155 Old Railroad Bed Rd, Harvest, AL 35749",
+   "cuisines": [
+    "Soul food",
+    "Cajun"
+   ],
+   "tags": [
+    "catfish",
+    "Black-owned",
+    "Cajun",
+    "Creole",
+    "po boys",
+    "gumbo",
+    "jambalaya",
+    "boudin balls",
+    "shrimp and grits",
+    "veteran-owned"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [],
+   "summary": "Cajun and Creole food in Harvest, AL: jambalaya, shellfish-free gumbo, fried catfish and Sunday beignets. Open Friday to Sunday only. Black-owned.",
+   "website": "https://www.ljbackyardbayou.com/",
+   "lastVisited": "2025-04-29"
+  },
+  {
+   "name": "Melt",
+   "url": "https://whattoeathuntsville.com/restaurants/melt-downtown/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Downtown",
+   "address": "201 Jefferson St N Ste I, Huntsville, AL 35801",
+   "cuisines": [
+    "American"
+   ],
+   "tags": [
+    "burgers",
+    "fried chicken",
+    "brunch",
+    "fries",
+    "sandwiches",
+    "mac and cheese",
+    "salads",
+    "nachos",
+    "egg rolls",
+    "tater tots",
+    "grilled cheese",
+    "mimosas",
+    "full bar",
+    "fried pickles",
+    "vegan options"
+   ],
+   "occasions": [
+    "Brunch",
+    "Group"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Tater tots",
+    "Mac & cheese egg rolls",
+    "Mimosa pitchers"
+   ],
+   "summary": "Tater tots, mac and cheese egg rolls, fried chicken sandwiches and mimosa pitchers. Our go-to for years at Melt in downtown Huntsville.",
+   "website": "https://ilovemelt.com/huntsville",
+   "lastVisited": "2025-04-26"
+  },
+  {
+   "name": "Rosie's",
+   "url": "https://whattoeathuntsville.com/restaurants/rosies-cantina/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "University Drive",
+   "address": "6196 University Drive, Huntsville, AL 35806",
+   "cuisines": [
+    "Mexican"
+   ],
+   "tags": [
+    "tacos",
+    "margaritas",
+    "happy hour",
+    "nachos",
+    "fajitas",
+    "queso",
+    "enchiladas",
+    "kids menu"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Nachos",
+    "Margarita"
+   ],
+   "summary": "A decent Tex-Mex spot on University Drive: Rotel dip, steak nachos, a beef taco and a margarita. Our honest take on Rosie's in Huntsville.",
+   "website": "https://rosiesmexicancantina.com/locations/university-drive/",
+   "lastVisited": "2025-04-23"
+  },
+  {
+   "name": "Mi Delicioso Guanajuato",
+   "url": "https://whattoeathuntsville.com/restaurants/mi-delicioso-guanajuato/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Governors Dr",
+   "address": "2818 Governors Dr SW Ste C, Huntsville, AL 35805",
+   "cuisines": [
+    "Mexican"
+   ],
+   "tags": [
+    "tacos",
+    "birria",
+    "dessert",
+    "quesabirria",
+    "consomé",
+    "flautas",
+    "bakery",
+    "pastries",
+    "enchiladas",
+    "cheese dip"
+   ],
+   "occasions": [],
+   "price": "$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Quesabirrias y consomé",
+    "Chicken taco",
+    "Flautas con pollo"
+   ],
+   "summary": "Quesabirrias with consomé, chicken tacos and flautas con pollo, all hot and fresh. What to order at Mi Delicioso Guanajuato on Governors Dr in Huntsville.",
+   "website": "https://mideliciosoguanajuatoal.com/",
+   "lastVisited": "2025-04-22"
+  },
+  {
+   "name": "Aloha Ramen House",
+   "url": "https://whattoeathuntsville.com/restaurants/aloha-ramen-house/",
+   "status": "open",
+   "city": "Madison",
+   "area": "Hughes Rd",
+   "address": "1591 Hughes Rd Ste C, Madison, AL 35758",
+   "cuisines": [
+    "Asian"
+   ],
+   "tags": [
+    "ramen",
+    "dumplings",
+    "katsu",
+    "udon",
+    "curry",
+    "fried rice",
+    "vegetarian options",
+    "family-owned"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Fried gyoza",
+    "Chicken katsu",
+    "Spicy tonkotsu ramen with chicken"
+   ],
+   "summary": "Comfort food in Madison: fried gyoza, crispy chicken katsu and spicy tonkotsu ramen with chicken or pork, plus a yuzu white peach drink. What to order.",
+   "lastVisited": "2025-04-16"
+  },
+  {
+   "name": "Beignets & Brew",
+   "url": "https://whattoeathuntsville.com/restaurants/beignets-and-brew/",
+   "status": "open",
+   "city": "Madison",
+   "area": "County Line Rd",
+   "address": "12120 County Line Rd, Suite C, Madison, AL 35756",
+   "cuisines": [
+    "Sweet treats"
+   ],
+   "tags": [
+    "breakfast",
+    "coffee",
+    "drive-thru",
+    "beignets",
+    "mimosas",
+    "matcha",
+    "ice cream",
+    "tea"
+   ],
+   "occasions": [],
+   "price": "$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Caramel latte",
+    "Beignets with chocolate sauce"
+   ],
+   "summary": "A caramel latte and beignets with chocolate sauce at Beignets & Brew on County Line Rd in Madison. It is just up the street, so we might go too often.",
+   "website": "https://www.beignetsandbrew.com/find/al/madison/12120-county-line-rd",
+   "lastVisited": "2025-04-15"
+  },
+  {
+   "name": "Lyli Viet-Thai Cuisine (Phomous)",
+   "url": "https://whattoeathuntsville.com/restaurants/lyli-viet-thai/",
+   "status": "open",
+   "city": "Madison",
+   "area": "Hwy 72 W",
+   "address": "7407 Hwy 72 W, Ste D, Madison, AL 35758",
+   "cuisines": [
+    "Asian"
+   ],
+   "tags": [
+    "pho",
+    "dumplings",
+    "Vietnamese",
+    "spring rolls",
+    "lemongrass chicken",
+    "Thai",
+    "banh mi",
+    "vermicelli",
+    "boba tea",
+    "egg rolls",
+    "vegan options",
+    "fried rice"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Chicken gyoza",
+    "Spring rolls",
+    "Chicken pho",
+    "Lemongrass chicken (spicy)"
+   ],
+   "summary": "Chicken gyoza, chicken pho with add-ins and really spicy lemongrass chicken. What to order at Lyli Viet-Thai Cuisine, also called Phomous, in Madison.",
+   "lastVisited": "2025-04-10"
+  },
+  {
+   "name": "Tulum Cantina",
+   "url": "https://whattoeathuntsville.com/restaurants/tulum-cantina/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Martin Rd",
+   "address": "671 Martin Rd SW, Huntsville, AL",
+   "cuisines": [
+    "Mexican"
+   ],
+   "tags": [
+    "tacos",
+    "birria",
+    "margaritas",
+    "patio",
+    "nachos",
+    "quesadillas",
+    "burritos",
+    "fajitas",
+    "enchiladas",
+    "vegetarian options"
+   ],
+   "occasions": [
+    "Group"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Birria quesadilla",
+    "Birria tacos",
+    "Margaritas"
+   ],
+   "summary": "A rare sit-down spot for birria in Huntsville: birria tacos, a birria quesadilla and refreshing mango and lime margaritas. What to order at Tulum Cantina.",
+   "lastVisited": "2025-04-10"
+  },
+  {
+   "name": "Bo's Best Wings",
+   "url": "https://whattoeathuntsville.com/restaurants/bos-best-wings/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Blue Spring Rd",
+   "address": "3700 Blue Spring Rd NW, Unit A, Huntsville, AL 35810",
+   "cuisines": [
+    "Wings"
+   ],
+   "tags": [
+    "wings",
+    "catfish",
+    "food truck",
+    "fries",
+    "lemon pepper wings",
+    "hot honey",
+    "chicken tenders",
+    "fried green tomatoes",
+    "tilapia",
+    "whiting",
+    "boneless wings"
+   ],
+   "occasions": [],
+   "price": "$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Fried wings"
+   ],
+   "summary": "Serving flavor since 1998: we got fried wings, hot lemon pepper and hot honey wings, and fried catfish with fries. Everything was so good. Our take.",
+   "website": "https://bo-s-best-wings-number-2-llc.square.site/",
+   "lastVisited": "2025-04-04"
+  },
+  {
+   "name": "Pita Street Food",
+   "url": "https://whattoeathuntsville.com/restaurants/pita-street-food/",
+   "status": "open",
+   "city": "Madison",
+   "area": "Hughes Rd",
+   "address": "300 Hughes Rd, Madison, AL 35758",
+   "cuisines": [
+    "Mediterranean"
+   ],
+   "tags": [
+    "fries",
+    "steak",
+    "gyros",
+    "pita",
+    "falafel",
+    "hummus",
+    "shawarma",
+    "baklava",
+    "halal",
+    "vegetarian options"
+   ],
+   "occasions": [
+    "Quick lunch"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Grilled chicken gyro combo with fries",
+    "Steak fries",
+    "Raspberry lemonade"
+   ],
+   "summary": "One of our favorite grab-and-go spots in Madison. Get the grilled chicken gyro combo with fries, steak fries and raspberry lemonade at Pita Street Food.",
+   "website": "https://pitastreetfood.com/",
+   "lastVisited": "2025-04-03"
+  },
+  {
+   "name": "Taqueria Los 3 Reales (food truck)",
+   "url": "https://whattoeathuntsville.com/restaurants/taqueria-los-3-reales/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "South Huntsville",
+   "address": "11563 Memorial Pkwy SW, Huntsville, AL 35803",
+   "cuisines": [
+    "Mexican"
+   ],
+   "tags": [
+    "tacos",
+    "food truck",
+    "cash only",
+    "steak",
+    "tortas",
+    "sopes",
+    "lengua",
+    "al pastor",
+    "huaraches",
+    "gringas",
+    "mulitas",
+    "burritos"
+   ],
+   "occasions": [
+    "Cheap eats"
+   ],
+   "price": "$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Steak tacos",
+    "Chicken tacos",
+    "Sopes"
+   ],
+   "summary": "Our regular South Huntsville taco truck: steak tacos, chicken tacos and sopes, with tortas next on our list. Cash only. What to order at Los 3 Reales.",
+   "website": "http://www.ordertaquerialos3reales.com/",
+   "lastVisited": "2025-03-28"
+  },
+  {
+   "name": "Taqueria Luna",
+   "url": "https://whattoeathuntsville.com/restaurants/taqueria-luna/",
+   "status": "open",
+   "city": "Madison",
+   "area": "Food truck",
+   "address": "30098 Andrea Ln, Madison, AL 35756",
+   "cuisines": [
+    "Mexican"
+   ],
+   "tags": [
+    "tacos",
+    "birria",
+    "food truck",
+    "steak",
+    "nachos",
+    "quesadillas",
+    "burritos",
+    "sopes",
+    "empanadas",
+    "women-owned"
+   ],
+   "occasions": [],
+   "price": "$",
+   "ourLabel": "none",
+   "bestDish": "Birria tacos",
+   "alsoOrder": [
+    "Birria quesadilla",
+    "Steak taco",
+    "Chicken taco"
+   ],
+   "summary": "Crispy, cheesy birria tacos were the star of the show, plus a birria quesadilla, steak and chicken tacos. What to order at Taqueria Luna in Madison, AL.",
+   "website": "https://taqueria-luna.com/",
+   "lastVisited": "2025-03-27"
+  },
+  {
+   "name": "A-Town Wings",
+   "url": "https://whattoeathuntsville.com/restaurants/a-town-wings/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "North Huntsville",
+   "address": "2608 Memorial Pkwy NW, Huntsville, AL 35810",
+   "cuisines": [
+    "Wings"
+   ],
+   "tags": [
+    "wings",
+    "catfish",
+    "lemon pepper wings",
+    "hot honey",
+    "Philly cheesesteak",
+    "chicken tenders",
+    "fried fish",
+    "fried rice",
+    "shrimp"
+   ],
+   "occasions": [],
+   "price": "$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Honey gold wings",
+    "Hot honey wings",
+    "Hot lemon pepper wings"
+   ],
+   "summary": "Tiny but mighty wings in North Huntsville. We get honey gold, hot honey and hot lemon pepper, and you might need extra. What to order at A-Town Wings.",
+   "website": "https://atownwings.com",
+   "lastVisited": "2025-03-26"
+  },
+  {
+   "name": "MK Wings",
+   "url": "https://whattoeathuntsville.com/restaurants/mk-wings/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Jordan Ln",
+   "address": "502 Jordan Ln NW Ste A&B, Huntsville, AL 35805",
+   "cuisines": [
+    "Wings"
+   ],
+   "tags": [
+    "wings",
+    "burgers",
+    "catfish",
+    "late night",
+    "fries",
+    "lemon pepper wings",
+    "hot honey",
+    "Cajun",
+    "chicken tenders",
+    "loaded fries",
+    "shrimp"
+   ],
+   "occasions": [],
+   "price": "$",
+   "ourLabel": "none",
+   "bestDish": "Hot honey + hot lemon pepper wings",
+   "alsoOrder": [],
+   "summary": "Hot honey and hot lemon pepper wings with a side of Cajun fries is our ultimate combo. What to order at MK Wings on Jordan Ln in Huntsville.",
+   "lastVisited": "2025-03-25"
+  },
+  {
+   "name": "Seoul Good",
+   "url": "https://whattoeathuntsville.com/restaurants/seoul-good/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Stovehouse",
+   "address": "3414 Governors Dr SW, Suite 510, Huntsville, AL 35805",
+   "cuisines": [
+    "Chicken",
+    "Asian"
+   ],
+   "tags": [
+    "wings",
+    "fried chicken",
+    "fries",
+    "chicken tenders",
+    "Korean",
+    "bingsu",
+    "korean corn dogs",
+    "tteokbokki",
+    "kimchi"
+   ],
+   "occasions": [
+    "Date night"
+   ],
+   "ourLabel": "none",
+   "alsoOrder": [
+    "16-piece combo: honey mustard and sweet & spicy fried chicken"
+   ],
+   "summary": "Crunchy Korean fried chicken inside Stovehouse: a 16-piece honey mustard and sweet and spicy combo with fries and cheese corn. A good date night pick.",
+   "website": "https://order.toasttab.com/online/seoulgood",
+   "lastVisited": "2025-03-21"
+  },
+  {
+   "name": "Cutes and Cupcakes",
+   "url": "https://whattoeathuntsville.com/restaurants/cutes-and-cupcakes/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Stovehouse",
+   "address": "3414 Governors Dr SW, Suite 465, Huntsville, AL 35805",
+   "cuisines": [
+    "Sweet treats"
+   ],
+   "tags": [
+    "dessert",
+    "cookies",
+    "cheesecake",
+    "cake",
+    "cupcakes",
+    "charcuterie",
+    "custom cakes"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Chocolate Overload Cupcake",
+    "Biscoff Cheesecake"
+   ],
+   "summary": "Chocolate Overload cupcake and Biscoff cheesecake at Stovehouse. Cakes, cookies, brownies and more. What to order at Cutes and Cupcakes in Huntsville.",
+   "website": "https://www.cutesandcakes.com/",
+   "lastVisited": "2025-03-20"
+  },
+  {
+   "name": "Los Morelenses",
+   "url": "https://whattoeathuntsville.com/restaurants/los-morelenses/",
+   "status": "open",
+   "city": "Madison",
+   "area": "Hwy 72 W / Old Railroad Bed",
+   "address": "30697 Hwy 72 W, Madison, AL 35757",
+   "cuisines": [
+    "Mexican"
+   ],
+   "tags": [
+    "tacos",
+    "birria",
+    "quesadillas",
+    "tortas",
+    "gorditas",
+    "sopes",
+    "breakfast tacos",
+    "burritos"
+   ],
+   "occasions": [],
+   "price": "$",
+   "ourLabel": "none",
+   "bestDish": "Quesadilla with a corn tortilla",
+   "alsoOrder": [],
+   "summary": "A gas station taqueria off Hwy 72 in Madison worth stopping for: a crispy quesadilla on a corn tortilla, chicken tacos on flour, and green and red sauce.",
+   "website": "https://taquerialasmorelenses.weebly.com/",
+   "lastVisited": "2025-03-18"
+  },
+  {
+   "name": "Sac's Kitchen",
+   "url": "https://whattoeathuntsville.com/restaurants/sacs-kitchen/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Mastin Lake Rd",
+   "address": "6008 Mastin Lake Rd NW, Suite B, Huntsville, AL 35810",
+   "cuisines": [
+    "Soul food"
+   ],
+   "tags": [
+    "wings",
+    "catfish",
+    "Black-owned",
+    "fries",
+    "mac and cheese",
+    "green beans",
+    "buffet",
+    "soul food",
+    "southern food",
+    "meat and two",
+    "banana pudding",
+    "cobbler",
+    "catering",
+    "lemon pepper chicken"
+   ],
+   "occasions": [],
+   "price": "$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Hot wings & fries"
+   ],
+   "summary": "Soul food on Mastin Lake Rd: hot wings and fries, fried catfish with mac and cheese, green beans and cornbread, plus a buffet. Our take on Sac's Kitchen.",
+   "website": "https://sacskitchen.com/",
+   "lastVisited": "2025-03-12"
+  },
+  {
+   "name": "Taqueria Catedral (food truck)",
+   "url": "https://whattoeathuntsville.com/restaurants/taqueria-catedral/",
+   "status": "open",
+   "city": "Harvest",
+   "area": "Harvest (Hwy 53 Chevron)",
+   "cuisines": [
+    "Mexican"
+   ],
+   "tags": [
+    "tacos",
+    "food truck",
+    "steak"
+   ],
+   "occasions": [
+    "Cheap eats"
+   ],
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Steak tacos",
+    "Chicken tacos"
+   ],
+   "summary": "A good taco truck at the Chevron off Hwy 53 in Harvest. We got the steak and chicken tacos, and both were good. What to order at Taqueria Catedral.",
+   "lastVisited": "2025-03-12"
+  },
+  {
+   "name": "Luogo",
+   "url": "https://whattoeathuntsville.com/restaurants/luogo-nashville/",
+   "status": "open",
+   "city": "Nashville",
+   "area": "The Gulch",
+   "address": "211 12th Ave S, Nashville, TN 37203",
+   "cuisines": [
+    "Italian"
+   ],
+   "tags": [
+    "pizza",
+    "cocktails",
+    "pasta",
+    "meatballs",
+    "gelato",
+    "cannoli",
+    "short rib"
+   ],
+   "occasions": [
+    "Date night"
+   ],
+   "price": "$$$",
+   "ourLabel": "none",
+   "alsoOrder": [],
+   "summary": "Grilled Margherita pizza, braised short rib, duck ragu pappardelle and bomboloni. Our date night pick at Luogo in The Gulch, Nashville.",
+   "website": "https://www.luogorestaurant.com/",
+   "lastVisited": "2025-03-10"
+  },
+  {
+   "name": "Mizz Juju's",
+   "url": "https://whattoeathuntsville.com/restaurants/mizz-jujus/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Jordan Ln",
+   "address": "2022 Jordan Ln NW Ste B, Huntsville, AL 35816",
+   "cuisines": [
+    "Soul food",
+    "Chicken"
+   ],
+   "tags": [
+    "wings",
+    "catfish",
+    "fried chicken",
+    "Black-owned",
+    "sandwiches",
+    "mac and cheese",
+    "lemon pepper wings",
+    "chicken sandwich",
+    "green beans",
+    "soul food",
+    "oxtails",
+    "fish"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "bestDish": "Fried chicken sandwich",
+   "alsoOrder": [
+    "Hot lemon pepper wings",
+    "Honey gold wings"
+   ],
+   "summary": "Fried chicken sandwich, hot lemon pepper wings, honey gold wings and Ocean Water juice. The menu changes daily at Mizz Juju's on Jordan Ln in Huntsville.",
+   "lastVisited": "2025-03-09"
+  },
+  {
+   "name": "China Dragon",
+   "url": "https://whattoeathuntsville.com/restaurants/china-dragon/",
+   "status": "open",
+   "city": "Madison",
+   "area": "Wall Triana Hwy",
+   "address": "7190 Wall Triana Hwy, Ste A, Madison, AL 35757",
+   "cuisines": [
+    "Asian"
+   ],
+   "tags": [
+    "lo mein",
+    "General Tso's",
+    "sesame chicken",
+    "Chinese",
+    "fried rice",
+    "egg foo young",
+    "lunch specials",
+    "honey chicken",
+    "chow mein"
+   ],
+   "occasions": [
+    "Cheap eats"
+   ],
+   "price": "$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "General Tso's or sesame chicken",
+    "Lo mein"
+   ],
+   "summary": "Our go-to Chinese takeout since Michaela was a kid: General Tso's or sesame chicken with lo mein. Cheap eats at China Dragon in Madison, AL.",
+   "lastVisited": "2025-03-07"
+  },
+  {
+   "name": "Domaine South",
+   "url": "https://whattoeathuntsville.com/restaurants/domaine-south/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Downtown",
+   "address": "200 West Side Square, Huntsville, AL 35801",
+   "cuisines": [
+    "American"
+   ],
+   "tags": [
+    "burgers",
+    "dessert",
+    "cocktails",
+    "fries",
+    "sandwiches",
+    "steak",
+    "salads",
+    "salmon",
+    "wine",
+    "charcuterie",
+    "cheese boards"
+   ],
+   "occasions": [
+    "Date night"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [],
+   "summary": "Date night downtown: salmon with risotto, steak with standout duck fat fries, and cocktails. Reservations suggested. What to order at Domaine South.",
+   "website": "https://www.domainesouth.com/",
+   "lastVisited": "2025-03-05"
+  },
+  {
+   "name": "Big Papa Gyro",
+   "url": "https://whattoeathuntsville.com/restaurants/big-papa-gyro/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "University Dr",
+   "address": "4925 University Dr NW, Huntsville, AL 35816",
+   "cuisines": [
+    "Mediterranean"
+   ],
+   "tags": [
+    "fries",
+    "salads",
+    "gyros",
+    "falafel",
+    "hummus",
+    "baklava",
+    "greek",
+    "vegetarian options",
+    "catering"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Salad",
+    "Fries"
+   ],
+   "summary": "Around for 20 years on University Dr: the Big Papa Gyro, a chicken gyro, an amazing Greek salad and crispy fries, all with fresh ingredients. Our take.",
+   "lastVisited": "2025-03-03"
+  },
+  {
+   "name": "Big John's",
+   "url": "https://whattoeathuntsville.com/restaurants/big-johns/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "The Open Bottle (Hwy 72 W)",
+   "address": "7061 Hwy 72 W, Huntsville, AL 35806",
+   "cuisines": [
+    "BBQ",
+    "Seafood",
+    "Soul food"
+   ],
+   "tags": [
+    "wings",
+    "catfish",
+    "BBQ",
+    "food truck",
+    "Black-owned",
+    "fries",
+    "ribs",
+    "loaded fries"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "bestDish": "Fried catfish",
+   "alsoOrder": [
+    "Loaded buffalo fries",
+    "Rooftop fries"
+   ],
+   "summary": "In our opinion, the best fried catfish in Huntsville, plus loaded buffalo and rooftop fries. At The Open Bottle, open Thursday to Saturday, 4 to 9pm only.",
+   "lastVisited": "2025-03-01"
+  },
+  {
+   "name": "Luigi's Italian Grill",
+   "url": "https://whattoeathuntsville.com/restaurants/luigis-italian-grill/",
+   "status": "open",
+   "city": "Madison",
+   "area": "Hwy 72",
+   "address": "7559 US-72, Suite 112, Madison, AL 35758",
+   "cuisines": [
+    "Italian"
+   ],
+   "tags": [
+    "salads",
+    "pasta",
+    "fettuccine alfredo",
+    "chicken parmesan",
+    "ravioli",
+    "lasagna",
+    "seafood",
+    "garlic bread",
+    "chicken marsala"
+   ],
+   "occasions": [
+    "Family",
+    "Birthday"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [],
+   "summary": "Lobster ravioli, chicken alfredo and grandma's lasagna that taste homemade. Our birthday dinner pick at Luigi's Italian Grill in Madison. Five stars.",
+   "website": "https://www.luigisitaliangrillmadison.com/",
+   "lastVisited": "2025-02-28"
+  },
+  {
+   "name": "RD's Smokehouse Barbecue",
+   "url": "https://whattoeathuntsville.com/restaurants/rds-smokehouse/",
+   "status": "open",
+   "city": "Harvest",
+   "area": "Harvest (Nick Davis Rd)",
+   "address": "1811 Nick Davis Rd, Harvest, AL 35749",
+   "cuisines": [
+    "BBQ"
+   ],
+   "tags": [
+    "wings",
+    "catfish",
+    "BBQ",
+    "nachos",
+    "ribs",
+    "loaded baked potato",
+    "brisket",
+    "smoked meats",
+    "pulled pork",
+    "hush puppies"
+   ],
+   "occasions": [],
+   "price": "$",
+   "ourLabel": "none",
+   "bestDish": "Loaded baked potato with brisket",
+   "alsoOrder": [
+    "Wings"
+   ],
+   "summary": "A longtime favorite at the four-way stop off Nick Davis Rd. Get the loaded baked potato with brisket and try the wings at RD's Smokehouse in Harvest, AL.",
+   "website": "http://4rdsbbq.com",
+   "lastVisited": "2025-02-28"
+  },
+  {
+   "name": "Cap's Philly Cheesesteak",
+   "url": "https://whattoeathuntsville.com/restaurants/caps-philly-cheesesteak/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Nails gas station",
+   "address": "11451 S Memorial Pkwy, Huntsville, AL 35803",
+   "cuisines": [
+    "Sandwiches"
+   ],
+   "tags": [
+    "breakfast",
+    "Black-owned",
+    "Philly cheesesteak",
+    "lemonade",
+    "cajun fries"
+   ],
+   "occasions": [
+    "Quick lunch"
+   ],
+   "ourLabel": "none",
+   "bestDish": "Philly cheesesteak",
+   "alsoOrder": [],
+   "summary": "A real taste of Philly inside the Nails gas station on South Memorial Pkwy. They make their own cheese whiz, and we get our cheesesteak with provolone.",
+   "website": "https://capsphillycheesest.wixsite.com/welcome",
+   "lastVisited": "2025-02-26"
+  },
+  {
+   "name": "Little Hats Italian Market",
+   "url": "https://whattoeathuntsville.com/restaurants/little-hats-nashville/",
+   "status": "open",
+   "city": "Nashville",
+   "area": "Germantown",
+   "address": "1120 4th Ave N, Nashville, TN 37208",
+   "cuisines": [
+    "Italian",
+    "Sandwiches"
+   ],
+   "tags": [
+    "pasta",
+    "chicken parmesan",
+    "meatballs",
+    "ravioli",
+    "subs",
+    "gluten-free options",
+    "muffuletta",
+    "deli",
+    "arancini",
+    "italian market",
+    "soups"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Fried ravioli",
+    "Chicken parmigiana"
+   ],
+   "summary": "Craving Italian in Nashville? Little Hats Italian Market in Germantown: fried ravioli, chicken parmigiana sub and meatball sub, with gluten-free buns too.",
+   "website": "https://www.littlehatsmarket.com/",
+   "lastVisited": "2025-02-25"
+  },
+  {
+   "name": "Tamarind Island",
+   "url": "https://whattoeathuntsville.com/restaurants/tamarind-island/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "The Camp",
+   "address": "5909 University Dr NW, Huntsville, AL 35806",
+   "cuisines": [
+    "Caribbean"
+   ],
+   "tags": [
+    "caribbean",
+    "jerk chicken",
+    "curry goat",
+    "vegan options",
+    "seafood",
+    "fish fry"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [],
+   "summary": "A Caribbean spot at The Camp in Huntsville with jerk chicken, curry goat, seafood, fish fry and vegan options. Find Tamarind Island on University Drive.",
+   "website": "https://tamarindislandgrill.toast.site/",
+   "lastVisited": "2025-02-23"
+  },
+  {
+   "name": "The Veggie",
+   "url": "https://whattoeathuntsville.com/restaurants/the-veggie/",
+   "status": "open",
+   "city": "Madison",
+   "area": "US-72 W",
+   "address": "7504 US-72, Suite A5, Madison, AL",
+   "cuisines": [
+    "Vegan"
+   ],
+   "tags": [
+    "vegan",
+    "Black-owned",
+    "salads",
+    "vegan burgers",
+    "po boys",
+    "bowls",
+    "catering"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [],
+   "summary": "A Black-owned vegan spot in Madison on US-72 with salads, vegan burgers, po boys and bowls. We don't have a full review of The Veggie yet.",
+   "website": "https://www.eattheveggie.com/",
+   "lastVisited": "2023-08-03"
+  },
+  {
+   "name": "Mia's Cafe",
+   "url": "https://whattoeathuntsville.com/restaurants/mias-cafe/",
+   "status": "open",
+   "city": "Madison",
+   "area": "Hwy 72 W",
+   "address": "30697 Hwy 72 W Ste B, Madison, AL 35757",
+   "cuisines": [
+    "Soul food",
+    "American"
+   ],
+   "tags": [
+    "breakfast",
+    "sandwiches",
+    "salads",
+    "meat and three",
+    "southern",
+    "soups"
+   ],
+   "occasions": [],
+   "price": "$",
+   "ourLabel": "none",
+   "alsoOrder": [],
+   "summary": "Breakfast, sandwiches, salads, soups and a Southern-style meat and three at Mia's Cafe on Hwy 72 W in Madison. Our full take on this one is still to come.",
+   "lastVisited": "2023-07-29"
+  },
+  {
+   "name": "The Moon Bakeshop",
+   "url": "https://whattoeathuntsville.com/restaurants/the-moon-bakeshop/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Downtown",
+   "address": "201 Jefferson St, Huntsville, AL",
+   "cuisines": [
+    "Sweet treats"
+   ],
+   "tags": [
+    "coffee",
+    "cookies",
+    "cinnamon rolls",
+    "croissants",
+    "cruffins",
+    "custom cakes",
+    "breakfast sandwiches",
+    "vegan options"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Cinnamon roll",
+    "Chocolate chip cookies"
+   ],
+   "summary": "A downtown Huntsville bakery on Jefferson St for something sweet. We picked up a cinnamon roll and chocolate chip cookies at The Moon Bakeshop.",
+   "website": "https://www.themoonbakeshop.com/",
+   "lastVisited": "2023-03-22"
+  },
+  {
+   "name": "The Ruby Slipper Cafe",
+   "url": "https://whattoeathuntsville.com/restaurants/ruby-slipper-nashville/",
+   "status": "open",
+   "city": "Nashville",
+   "area": "Hillsboro Village",
+   "address": "1800 21st Ave S, Nashville, TN 37212",
+   "cuisines": [
+    "Breakfast"
+   ],
+   "tags": [
+    "fried chicken",
+    "brunch",
+    "breakfast",
+    "fries",
+    "sandwiches",
+    "chicken sandwich",
+    "French toast",
+    "mimosas",
+    "eggs benedict",
+    "shrimp and grits",
+    "vegetarian options"
+   ],
+   "occasions": [
+    "Brunch"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [
+    "Sweet heat fried chicken & French toast",
+    "Fried chicken sandwich with sweet heat sauce"
+   ],
+   "summary": "A nice brunch stop in Nashville: sweet heat fried chicken and French toast, plus a fried chicken sandwich with fries. What to order at Ruby Slipper.",
+   "website": "https://rubybrunch.com/",
+   "lastVisited": "2023-03-12"
+  },
+  {
+   "name": "Superhero Chefs",
+   "url": "https://whattoeathuntsville.com/restaurants/superhero-chefs/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "MidCity",
+   "address": "930 Old Monrovia Rd NW, Suite 3, Huntsville, AL 35806",
+   "cuisines": [
+    "Vegan",
+    "Breakfast"
+   ],
+   "tags": [
+    "brunch",
+    "breakfast",
+    "vegan",
+    "Black-owned",
+    "sandwiches",
+    "waffles",
+    "gluten-free options"
+   ],
+   "occasions": [
+    "Brunch"
+   ],
+   "price": "$$",
+   "ourLabel": "none",
+   "alsoOrder": [],
+   "summary": "A Black-owned vegan breakfast and brunch spot in MidCity Huntsville with waffles, sandwiches and gluten-free options. Our take: it has tasty options.",
+   "lastVisited": "2023-02-28"
+  },
+  {
+   "name": "Sam & Greg's Pizzeria",
+   "url": "https://whattoeathuntsville.com/restaurants/sam-and-gregs/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Downtown",
+   "address": "116 S Side Sq, Huntsville, AL 35801",
+   "cuisines": [
+    "Pizza"
+   ],
+   "tags": [
+    "pizza",
+    "patio",
+    "gelato",
+    "craft beer",
+    "dog-friendly",
+    "gluten-free options"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "bestDish": "Sweet & spicy BBQ pizza",
+   "alsoOrder": [],
+   "summary": "A downtown Huntsville pizza spot on the square. Our pick is the sweet and spicy BBQ pizza, and you won't regret it. What to order at Sam & Greg's Pizzeria.",
+   "website": "https://www.samandgregs.com/",
+   "lastVisited": "2023-02-14"
+  },
+  {
+   "name": "Oh Crepe!",
+   "url": "https://whattoeathuntsville.com/restaurants/oh-crepe/",
+   "status": "open",
+   "city": "Huntsville",
+   "area": "Stovehouse",
+   "address": "3414 Governors Dr SW, Suite 520, Huntsville, AL 35805",
+   "cuisines": [
+    "Sweet treats",
+    "Breakfast"
+   ],
+   "tags": [
+    "dessert",
+    "crepes",
+    "gluten-free",
+    "shaved ice",
+    "japanese",
+    "savory crepes",
+    "stovehouse"
+   ],
+   "occasions": [],
+   "price": "$$",
+   "ourLabel": "none",
+   "bestDish": "BLT crepe",
+   "alsoOrder": [],
+   "summary": "Crepes inside Stovehouse in Huntsville. We tried the BLT crepe, a savory crepe with bacon. Dessert crepes, gluten-free options and shaved ice are here too.",
+   "lastVisited": "2023-02-04"
+  }
+ ]
+}

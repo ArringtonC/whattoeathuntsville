@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://whattoeathuntsville.com/sitemap.xml
