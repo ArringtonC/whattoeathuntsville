@@ -59,6 +59,7 @@ const cuisines = Object.entries(list.reduce<Record<string, number>>((m, r) => (r
       document.querySelectorAll('#chips button').forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
       draw();
     });
+    $('q').value = new URLSearchParams(location.search).get('q') ?? '';
     draw();
   </script>
 </Base>
