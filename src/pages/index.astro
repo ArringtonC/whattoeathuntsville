@@ -1,14 +1,20 @@
 ---
+import { existsSync } from 'node:fs';
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import RestaurantCard from '../components/RestaurantCard.astro';
 import Cover from '../components/Cover.astro';
 import LabelKey from '../components/LabelKey.astro';
 import SignupBand from '../components/SignupBand.astro';
-import { guideCover, listedRestaurants, visible } from '../lib/data';
+import { allRestaurants, guideCover, listedRestaurants, visible } from '../lib/data';
 import { CUISINES, LOCAL_CITIES, SITE, TRAVEL_CITIES, slugify, toneFor } from '../lib/site';
 
 const restaurants = await listedRestaurants();
+// Clients & partnerships strip: every hosted or sponsored partner. Shows public/partners/<slug>.png when it exists, else the name.
+const partners = [
+  ...(await allRestaurants()).filter((r) => r.data.disclosure !== 'independent').map((r) => ({ slug: r.id, name: r.data.name, href: `/restaurants/${r.id}/` })),
+  ...['Flourish Consulting', 'Nautical Bowls', 'Sashimi Asian Bistro'].map((name) => ({ slug: slugify(name), name, href: undefined })),
+].sort((a, b) => a.name.localeCompare(b.name)).map((p) => ({ ...p, logo: existsSync(`public/partners/${p.slug}.png`) ? `/partners/${p.slug}.png` : undefined }));
 const local = restaurants.filter((r) => LOCAL_CITIES.includes(r.data.city));
 const newFinds = [...local].sort((a, b) => +b.data.lastVerified - +a.data.lastVerified || Number(b.data.featured) - Number(a.data.featured)).slice(0, 4);
 const greatUrls = local.filter((r) => r.data.label === 'great').map((r) => `/restaurants/${r.id}`);
@@ -82,6 +88,15 @@ const cravings = ['Tacos', 'Brunch', 'Burgers', 'Pizza', 'BBQ', 'Sweet treats', 
         <a class="btn btn-red" href="/work-with-us/">Work with us</a>
         <a class="btn" href={`mailto:${SITE.email}`}>{SITE.email}</a>
       </div>
+    </div>
+    <div class="wrap" style="padding-bottom: 44px;">
+      <div style="display: flex; justify-content: space-between; align-items: baseline; gap: 16px; flex-wrap: wrap; border-top: 1px solid var(--line); padding-top: 24px;">
+        <h3 style="font-size: 15px; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase;">Clients &amp; partnerships</h3>
+        <a href="/disclosures#hosted" style="font-size: 14px; font-weight: 700;">How we label these</a>
+      </div>
+      <ul class="partners">
+        {partners.map((p) => <li>{p.href ? <a href={p.href}>{p.logo ? <img src={p.logo} alt={p.name} loading="lazy" /> : p.name}</a> : p.logo ? <img src={p.logo} alt={p.name} loading="lazy" /> : <span>{p.name}</span>}</li>)}
+      </ul>
     </div>
   </section>
 
