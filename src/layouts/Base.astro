@@ -9,7 +9,7 @@ const path = Astro.url.pathname;
 const nav = [
   ['/restaurants', 'Find Food'],
   ['/guides', 'Guides'],
-  ['/eat-next', 'Eat Next'],
+  ['/eat-next', 'Pick Our Next Spot'],
   ['/travel', 'Outside Huntsville'],
   ['/about', 'About'],
   ['/work-with-us', 'Work With Us'],
@@ -71,7 +71,7 @@ const preview = import.meta.env.PUBLIC_SHOW_DRAFTS === 'true';
         <span class="serif" style="color: var(--soft-text); font-size: 17px;">Honest restaurant picks in North Alabama and beyond. We pay for our own meals unless a post says otherwise.</span>
       </div>
       <nav aria-label="Footer">
-        <div><strong>Explore</strong><a href="/restaurants">Find Food</a><a href="/guides">Guides</a><a href="/travel">Outside Huntsville</a></div>
+        <div><strong>Explore</strong><a href="/restaurants">Find Food</a><a href="/guides">Guides</a><a href="/eat-next">Pick Our Next Spot</a><a href="/travel">Outside Huntsville</a></div>
         <div><strong>About</strong><a href="/about">Our story</a><a href="/about#standards">Editorial standards</a><a href="/work-with-us">Work with us</a></div>
         <div><strong>Follow</strong><a href={SITE.tiktok}>TikTok</a><a href={SITE.instagram}>Instagram</a><a href={SITE.youtube}>YouTube</a><a href={SITE.facebook}>Facebook</a><a href="/newsletter">{SITE.newsletter}</a><a href="/suggest">Suggest a spot</a><a href={`mailto:${SITE.email}`}>Email us</a></div>
       </nav>

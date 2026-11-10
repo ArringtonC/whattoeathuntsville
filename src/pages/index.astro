@@ -36,7 +36,7 @@ const cravings = ['Tacos', 'Brunch', 'Burgers', 'Pizza', 'BBQ', 'Sweet treats', 
           <button class="btn btn-red" type="submit" style="min-height: 52px;">Find food</button>
         </form>
         <a class="link-strong" href="/what-to-eat-in-huntsville/" style="align-self: flex-start;">New here? Start with our guide to what to eat in Huntsville</a>
-        <a class="link-strong" href="/eat-next/" style="align-self: flex-start;">Tell us what we should eat next</a>
+        <a class="btn" href="/eat-next/" style="align-self: flex-start; border-color: var(--red); color: var(--red);">Pick our next spot: tell us where to eat</a>
         <div style="display: flex; flex-wrap: wrap; gap: 8px;">
           {cravings.map((c) => <a class="chip" href={`/restaurants?q=${encodeURIComponent(c)}`}>{c}</a>)}
         </div>
@@ -67,7 +67,7 @@ const cravings = ['Tacos', 'Brunch', 'Burgers', 'Pizza', 'BBQ', 'Sweet treats', 
         <h2 class="h2">What should we eat next?</h2>
         <p style="color: var(--muted);">Hundreds of Huntsville-area spots we haven't tried yet. Find one you love and tell us to go.</p>
       </div>
-      <a class="btn btn-red" href="/eat-next/">See the list</a>
+      <a class="btn btn-red" href="/eat-next/">Pick our next spot</a>
     </div>
   </section>
 
