@@ -1,4 +1,4 @@
 Partner logos for the "Clients & partnerships" strip on the home page.
-Save each logo here as <slug>.png (transparent background, dark logo works best), for example north-italia.png.
-The slug is the restaurant's file name in src/content/restaurants/, or for partners with no page: flourish-consulting, nautical-bowls, sashimi-asian-bistro.
-Until a logo file exists, the site shows the name as text.
+A partner shows in the strip only when its logo is here as <slug>.png (solid dark logo, transparent background).
+The slug is the restaurant's file name in src/content/restaurants/, or nautical-bowls, sashimi-asian-bistro, flourish-consulting.
+Logos were taken from each brand's own website on 2026-11-09.

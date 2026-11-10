@@ -150,7 +150,8 @@ textarea.input { padding: 12px 14px; min-height: 120px; resize: vertical; }
 }
 
 /* Clients & partnerships strip on the home page */
-.partners { list-style: none; padding: 0; margin: 20px 0 0; display: flex; flex-wrap: wrap; align-items: center; gap: 14px 32px; }
+.partners { list-style: none; padding: 0; margin: 24px 0 0; display: flex; flex-wrap: wrap; align-items: center; gap: 24px 40px; }
 .partners a, .partners span { font-weight: 800; font-size: 19px; letter-spacing: -0.01em; color: var(--ink); text-decoration: none; white-space: nowrap; }
 .partners a:hover { color: var(--red); }
-.partners img { height: 44px; width: auto; max-width: 150px; object-fit: contain; filter: grayscale(1); display: block; }
+.partners img { height: 48px; width: auto; max-width: 170px; object-fit: contain; display: block; }
+@media (max-width: 560px) { .partners { gap: 18px 24px; justify-content: center; } .partners img { height: 36px; max-width: 120px; } }
