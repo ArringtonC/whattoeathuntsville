@@ -1,5 +1,10 @@
 ---
 import Base from '../layouts/Base.astro';
+import { allRestaurants } from '../lib/data';
+
+const hosted = (await allRestaurants()).filter((r) => r.data.disclosure !== 'independent').sort((a, b) => a.data.name.localeCompare(b.data.name));
+// Hosted partners that have no restaurant page on the site (yet).
+const noPage = ['Flourish Consulting', 'Nautical Bowls', 'Sashimi Asian Bistro'];
 ---
 <Base title="Disclosures" description="How we label paid, hosted, and sponsored content.">
   <article class="narrow section prose">
@@ -8,6 +13,13 @@ import Base from '../layouts/Base.astro';
     <p>Paid content is always labeled <strong>Sponsored</strong>: website cards, guides, emails, and TikTok videos. A business can pay to be featured, but it cannot pay for a Good or Great label, a spot in a guide, or a higher place in search results.</p>
     <p>Display ads, when we run them, are labeled <strong>Advertisement</strong> and come from an ad network. We do not choose them one by one.</p>
     <p>Some links may be affiliate links. If you book or buy through one, we may earn a small fee at no cost to you. Pages with affiliate links say so.</p>
+    <h2 id="hosted">Hosted and sponsored visits</h2>
+    <p>These businesses hosted us, which means they gave us our meal or service for free. Our opinions are still our own. Each page below carries a "Hosted" note.</p>
+    <ul>
+      {hosted.map((r) => <li><a href={`/restaurants/${r.id}/`}>{r.data.name}</a></li>)}
+      {noPage.map((n) => <li>{n}</li>)}
+    </ul>
+    <p>Every other place on this site, we paid for ourselves.</p>
     <p>Questions? Read our <a href="/about#standards">editorial standards</a>.</p>
   </article>
 </Base>

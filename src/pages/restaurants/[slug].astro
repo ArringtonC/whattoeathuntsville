@@ -43,7 +43,7 @@ const disclosure = { independent: 'We paid for our meal. This is not a sponsored
     {d.draft && import.meta.env.DEV && <p class="note" style="margin-top: 16px; background: #FFF3CD;"><strong>Draft, only visible in the local preview.</strong> Check the address and that it's open, set Great/Good/First Look, write the verdict, then set <code>draft: false</code>.</p>}
     {d.status === 'closed' && <p class="note" style="margin-top: 16px;"><strong>This restaurant has closed.</strong> We keep the page so old links still work. Last checked {fmtDate(d.lastVerified)}.</p>}
 
-    {d.disclosure !== 'independent' && <p class="note" style="margin-top: 16px;"><strong>{d.disclosure === 'hosted' ? 'Hosted:' : 'Sponsored:'}</strong> {d.disclosure === 'hosted' ? 'the restaurant gave us our meal for free. Our opinion is our own.' : 'this feature was paid for.'} <a href="/disclosures">How this works</a></p>}
+    {d.disclosure !== 'independent' && <p class="note" style="margin-top: 16px;"><strong>{d.disclosure === 'hosted' ? 'Hosted:' : 'Sponsored:'}</strong> {d.disclosure === 'hosted' ? 'the restaurant gave us our meal for free. Our opinion is our own.' : 'this feature was paid for.'} <a href="/disclosures#hosted">See all hosted visits</a></p>}
 
     <header style="display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 20px; margin: 20px 0 28px;">
       <div style="flex: 1 1 520px; display: flex; flex-direction: column; gap: 12px;">
