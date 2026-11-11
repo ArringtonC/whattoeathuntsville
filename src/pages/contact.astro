@@ -1,0 +1,17 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE } from '../lib/site';
+---
+<Base title="Contact" description="Get in touch with What to Eat Huntsville — corrections, restaurant suggestions, and business inquiries.">
+  <article class="narrow section prose">
+    <h1 class="h1">Contact</h1>
+    <p>Questions, corrections, or a spot we should try? We read everything.</p>
+    <h2>Email us</h2>
+    <p><a href={`mailto:${SITE.email}`}>{SITE.email}</a></p>
+    <p>Use email for corrections (a place closed, moved, or changed), questions about a review, or a request to delete information you sent us.</p>
+    <h2>Suggest a restaurant</h2>
+    <p>For restaurant suggestions, use our <a href="/suggest">suggest a spot</a> form — tell us the place, what to order, and why you love it.</p>
+    <h2>Business inquiries</h2>
+    <p>For sponsored visits, newsletter features, and photo and video work, see <a href="/work-with-us">Work with us</a>, or email us at the address above.</p>
+  </article>
+</Base>
