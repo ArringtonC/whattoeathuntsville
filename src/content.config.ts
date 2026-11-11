@@ -25,6 +25,9 @@ const restaurants = defineCollection({
     bestDish: dish.optional(),
     alsoOrder: z.array(dish).default([]),
     skip: z.string().optional(),
+    cost: z.string().optional(), // what we spent, in our words
+    vibe: z.string().optional(), // what the place is like: service, wait, seating, parking
+    tip: z.string().optional(), // one tip for a first visit
     cover: z.string().optional(), // path under /public, e.g. /covers/north-italia.jpg
     coverFocus: z.enum(['top', 'center', 'bottom']).default('center'),
     website: z.url().optional(),

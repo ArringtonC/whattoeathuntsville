@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /to-try.json
 
 Sitemap: https://whattoeathuntsville.com/sitemap.xml
