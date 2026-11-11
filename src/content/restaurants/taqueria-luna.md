@@ -20,6 +20,7 @@ seoTitle: "Taqueria Luna: Birria Tacos in Madison, AL"
 seoDescription: "Crispy, cheesy birria tacos were the star of the show, plus a birria quesadilla, steak and chicken tacos. What to order at Taqueria Luna in Madison, AL."
 price: 1
 phone: "(256) 874-4059"
+goodToKnow: "You can order online for pickup, curbside pickup or delivery. It is closed on Sunday and Monday."
 ---
 
 The birria tacos at Taqueria Luna were the star of the show. That crispy, cheesy goodness was everything.

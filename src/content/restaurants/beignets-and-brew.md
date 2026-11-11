@@ -19,6 +19,7 @@ seoTitle: "Beignets & Brew: Beignets in Madison"
 seoDescription: "A caramel latte and beignets with chocolate sauce at Beignets & Brew on County Line Rd in Madison. It is just up the street, so we might go too often."
 price: 1
 phone: "(256) 325-3050"
+goodToKnow: "The shop is on County Line Road in Madison, in the former Grounded Coffee space. You can order ahead online."
 ---
 
 We grabbed a caramel latte and an order of beignets with chocolate sauce.

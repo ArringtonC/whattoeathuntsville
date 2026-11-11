@@ -18,6 +18,8 @@ area: "Stovehouse"
 seoTitle: "Seoul Good: Korean Fried Chicken, Huntsville"
 seoDescription: "Crunchy Korean fried chicken inside Stovehouse: a 16-piece honey mustard and sweet and spicy combo with fries and cheese corn. A good date night pick."
 phone: "(256) 678-7043"
+menuPrices: "The restaurant's own menu, dated June 2024, lists wings at $9.95 for 6 pieces with one side, $16.50 for 10 and $25.95 for 16 with two sides. Tenders are $6.95 for 3 pieces or $10.95 for 5. A half chicken is $12.95, and bingsu is $6.50."
+goodToKnow: "Seoul Good is a Korean fried chicken spot inside Stovehouse, the food hall on Governors Drive. You can order ahead online."
 ---
 
 Seoul Good serves some crunchy fried chicken, and you'll find it inside Stovehouse. Our order was the perfect amount of food for our date night.

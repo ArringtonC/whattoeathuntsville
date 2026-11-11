@@ -20,6 +20,7 @@ seoTitle: "Taqueria Los 3 Reales: Taco Truck, Huntsville"
 seoDescription: "Our regular South Huntsville taco truck: steak tacos, chicken tacos and sopes, with tortas next on our list. Cash only. What to order at Los 3 Reales."
 price: 1
 phone: "(256) 806-8602"
+goodToKnow: "This is a food truck off Memorial Parkway in South Huntsville, near the Southpark Boulevard intersection."
 ---
 
 Let's talk about this food truck in South Huntsville. We love Taqueria Los 3 Reales, and we're there pretty often, to be honest.

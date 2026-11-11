@@ -18,6 +18,7 @@ seoTitle: "Luigi's Italian Grill: Madison Italian Food"
 seoDescription: "Lobster ravioli, chicken alfredo and grandma's lasagna that taste homemade. Our birthday dinner pick at Luigi's Italian Grill in Madison. Five stars."
 price: 2
 phone: "(256) 715-1173"
+menuPrices: "On the restaurant's online ordering page, pasta costs about $12 to $17, and chicken and seafood entrees cost about $18 to $25. The lunch menu, served 11 AM to 3 PM, costs about $9 to $13."
 ---
 
 Luigi's Italian Grill in Madison is the most slept-on Italian restaurant around. We went for a birthday dinner with family and were shocked by the quality and flavor.

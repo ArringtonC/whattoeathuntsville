@@ -20,6 +20,8 @@ seoDescription: "Three savory pizza doughnuts: Buffalo Chicken, Chicken Bacon Ra
 price: 2
 phone: "(256) 203-5291"
 disclosure: "hosted"
+menuPrices: "On delivery apps, a layered doughnut costs $4.95 and an assorted dozen costs $44.25. Specialty coffee drinks cost about $7.50. Delivery app prices are often higher than in-store prices."
+goodToKnow: "The shop is at Campus No. 805 on Clinton Avenue West. It sells layered doughnuts and coffee."
 ---
 
 Would you try a pizza doughnut? These savory doughnuts at Parlor Doughnuts had been calling our name for a long time, so we finally did a taste test.

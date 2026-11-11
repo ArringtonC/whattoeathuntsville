@@ -20,6 +20,8 @@ seoTitle: "RD's Smokehouse: BBQ & Brisket in Harvest"
 seoDescription: "A longtime favorite at the four-way stop off Nick Davis Rd. Get the loaded baked potato with brisket and try the wings at RD's Smokehouse in Harvest, AL."
 price: 1
 phone: "(256) 683-9990"
+menuPrices: "On delivery apps, a pork sandwich costs $6.35 and a pulled pork plate costs $11.54. A rib plate costs $14.09 and a catfish plate costs $17.90. Delivery app prices are often higher than in-store prices."
+goodToKnow: "You order at the counter. The restaurant offers takeout, delivery and catering, and it has a parking lot."
 ---
 
 RD's Smokehouse Barbecue has been around for years, and we love it. It's an easy spot to find, right at the four-way stop off Nick Davis.

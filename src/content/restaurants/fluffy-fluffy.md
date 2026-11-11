@@ -19,6 +19,7 @@ seoTitle: "Fluffy Fluffy: Souffle Pancakes in Huntsville"
 seoDescription: "Fluffy matcha souffle pancakes, lattes and cheesecake on Whitesburg Dr. Sweet, cozy and worth the stop. What to order at Fluffy Fluffy in Huntsville."
 price: 2
 phone: "(256) 945-7628"
+goodToKnow: "Fluffy Fluffy is part of a chain. The menu lists souffle pancakes, croffles, cheesecakes and chicken bowls. You can order ahead online."
 ---
 
 We stopped by Fluffy Fluffy for some fall coziness. On weekdays they ran a Matcha Lover Fest combo, a matcha pancake and a latte for $14.50. On weekends you got a free cheesecake slice with any item from the all-day menu.

@@ -18,6 +18,7 @@ seoTitle: "Luogo: Italian Date Night in Nashville"
 seoDescription: "Grilled Margherita pizza, braised short rib, duck ragu pappardelle and bomboloni. Our date night pick at Luogo in The Gulch, Nashville."
 price: 3
 phone: "(615) 988-8200"
+goodToKnow: "Luogo is an Italian restaurant in The Gulch. It takes reservations for inside and for the patio, and walk-ins are welcome. Valet parking in its garage costs $15. The entrance is on 12th Avenue South, between Demonbreun Street and Laurel Street."
 ---
 
 Luogo was our date night pick in Nashville, and it did not disappoint. Flavorful dishes, great vibes and super nice servers. What more can you ask for?

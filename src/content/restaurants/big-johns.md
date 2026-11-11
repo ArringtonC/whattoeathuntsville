@@ -19,6 +19,7 @@ seoTitle: "Big John's: Fried Catfish in Huntsville"
 seoDescription: "In our opinion, the best fried catfish in Huntsville, plus loaded buffalo and rooftop fries. At The Open Bottle, open Thursday to Saturday, 4 to 9pm only."
 price: 2
 phone: "(256) 469-6099"
+goodToKnow: "Big John's serves barbecue at The Open Bottle, a bottle shop and bar on Highway 72 West with outdoor seating. It also runs a food truck and catering, and takes online orders."
 ---
 
 Big John's has the best fried catfish in Huntsville, in our opinion. If you know somewhere better, tell us.

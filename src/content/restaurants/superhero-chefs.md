@@ -17,6 +17,7 @@ seoTitle: "Superhero Chefs: Vegan Brunch in Huntsville"
 seoDescription: "A Black-owned vegan breakfast and brunch spot in MidCity Huntsville with waffles, sandwiches and gluten-free options. Our take: it has tasty options."
 price: 2
 phone: "(256) 489-4044"
+goodToKnow: "The restaurant is on Old Monrovia Road, next to Stars and Strikes. It recommends booking ahead, and you can reserve online. You can also order online. It is closed on Monday."
 ---
 
 Superhero Chefs has tasty options.

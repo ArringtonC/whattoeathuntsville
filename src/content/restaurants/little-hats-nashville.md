@@ -19,6 +19,8 @@ seoTitle: "Little Hats Italian Market: Subs in Nashville"
 seoDescription: "Craving Italian in Nashville? Little Hats Italian Market in Germantown: fried ravioli, chicken parmigiana sub and meatball sub, with gluten-free buns too."
 price: 2
 phone: "(615) 281-3332"
+menuPrices: "On delivery apps, sandwiches cost about $11.50 to $21.50 and pastas cost about $19.50 to $22. Delivery app prices are often higher than in-store prices."
+goodToKnow: "Little Hats is an Italian market and deli in Germantown. You order at the deli counter. It sells sandwiches, house-made pastas, salads, desserts and imported Italian goods. You can place pickup orders online."
 ---
 
 If you are craving Italian in Nashville, go to Little Hats Italian Market in Germantown. It was so, so good.

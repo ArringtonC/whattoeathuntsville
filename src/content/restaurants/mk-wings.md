@@ -18,6 +18,7 @@ seoTitle: "MK Wings: Lemon Pepper Wings in Huntsville"
 seoDescription: "Hot honey and hot lemon pepper wings with a side of Cajun fries is our ultimate combo. What to order at MK Wings on Jordan Ln in Huntsville."
 price: 1
 phone: "(256) 270-7373"
+menuPrices: "On delivery apps, wings cost $7.99 for 4 pieces, $15.79 for 10 pieces and $28.79 for 20 pieces. Delivery app prices are often higher than in-store prices."
 ---
 
 Fair warning: this one may give you cravings.

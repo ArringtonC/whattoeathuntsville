@@ -19,6 +19,7 @@ seoTitle: "Cutes and Cupcakes: Desserts in Huntsville"
 seoDescription: "Chocolate Overload cupcake and Biscoff cheesecake at Stovehouse. Cakes, cookies, brownies and more. What to order at Cutes and Cupcakes in Huntsville."
 price: 2
 phone: "(256) 678-7042"
+goodToKnow: "The bakery is inside Stovehouse, the food hall on Governors Drive. It sells cupcakes, cakes and cookies. Stovehouse has parking lots on its east, west and north sides, and shared seating around the campus."
 ---
 
 We grabbed sweet treats from Cutes and Cupcakes at Stovehouse.

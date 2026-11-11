@@ -19,6 +19,7 @@ seoTitle: "Mi Delicioso Guanajuato: Birria in Huntsville"
 seoDescription: "Quesabirrias with consomé, chicken tacos and flautas con pollo, all hot and fresh. What to order at Mi Delicioso Guanajuato on Governors Dr in Huntsville."
 price: 1
 phone: "(256) 685-5512"
+goodToKnow: "You can order online for pickup or delivery."
 ---
 
 Mi Delicioso Guanajuato was a good one. The food was tasty, the service was great, and everything came out hot and fresh.

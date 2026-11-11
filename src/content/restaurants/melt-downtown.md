@@ -19,6 +19,8 @@ seoTitle: "Melt: Burgers & Brunch in Downtown Huntsville"
 seoDescription: "Tater tots, mac and cheese egg rolls, fried chicken sandwiches and mimosa pitchers. Our go-to for years at Melt in downtown Huntsville."
 price: 2
 phone: "(256) 517-8755"
+menuPrices: "On the restaurant's own menu, sandwiches cost $8 to $15 and salads cost $13 to $14. Appetizers cost $10 to $12."
+goodToKnow: "Melt is at The Avenue on Jefferson Street downtown, at the corner with Holmes Avenue. It has table service and a large patio. You can also order carryout or curbside. Parking is on the street."
 ---
 
 Melt is always a go-to for us. We have been coming here for years, and the service and food are always on point.

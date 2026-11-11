@@ -18,6 +18,7 @@ seoTitle: "China Dragon: Chinese Takeout in Madison"
 seoDescription: "Our go-to Chinese takeout since Michaela was a kid: General Tso's or sesame chicken with lo mein. Cheap eats at China Dragon in Madison, AL."
 price: 1
 phone: "(256) 721-1188"
+menuPrices: "On delivery apps, General Tso's chicken and sesame chicken cost $11.45. Chicken lo mein costs $6.95, and crab rangoon (8 pieces) costs $6.45. Delivery app prices are often higher than in-store prices."
 ---
 
 China Dragon is our Chinese takeout spot. Michaela has been coming here since she was a kid.

@@ -20,6 +20,8 @@ seoDescription: "We worked through seven dishes at P.F. Chang's at Bridge Street
 price: 2
 phone: "(256) 327-8320"
 disclosure: "hosted"
+menuPrices: "On delivery apps, the chicken lettuce wraps cost $17.19, fried rice costs $17.19, Chang's Spicy Chicken costs $22.49 and Mongolian Beef costs $29.59. Delivery app prices are often higher than in-store prices."
+goodToKnow: "The restaurant is at Bridge Street Town Centre. It offers dine-in, reservations, patio dining, takeout and delivery. Self-parking is near the restaurant."
 ---
 
 We spent some time at P.F. Chang's at Bridge Street and worked our way through seven items on the menu. Among them were the spicy chicken and the garlic noodles.

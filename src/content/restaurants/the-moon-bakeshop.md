@@ -19,6 +19,7 @@ seoTitle: "The Moon Bakeshop: Downtown Huntsville Bakery"
 seoDescription: "A downtown Huntsville bakery on Jefferson St for something sweet. We picked up a cinnamon roll and chocolate chip cookies at The Moon Bakeshop."
 price: 2
 phone: "(256) 270-8435"
+goodToKnow: "The Moon Bakeshop is on Jefferson Street North in downtown Huntsville. The pastries change daily. You can order ahead online. It is closed on Sunday and Monday."
 ---
 
 The Moon Bakeshop is a downtown Huntsville bakery we stopped by for something sweet. We picked up a cinnamon roll and chocolate chip cookies.

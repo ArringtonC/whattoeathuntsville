@@ -25,6 +25,8 @@ const restaurants = defineCollection({
     bestDish: dish.optional(),
     alsoOrder: z.array(dish).default([]),
     skip: z.string().optional(),
+    menuPrices: z.string().optional(), // public menu prices we looked up (research/public-facts.json), not what we spent
+    goodToKnow: z.string().optional(), // public facts: where it is, how you order, parking
     cost: z.string().optional(), // what we spent, in our words
     vibe: z.string().optional(), // what the place is like: service, wait, seating, parking
     tip: z.string().optional(), // one tip for a first visit

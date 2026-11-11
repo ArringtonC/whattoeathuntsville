@@ -1,0 +1,960 @@
+{
+ "facts": [
+  {
+   "slug": "a-town-wings",
+   "cost": "",
+   "vibe": "A Town Wings is at 2608 Memorial Pkwy NW in North Huntsville. A local guide says the brand comes from Atlanta and this is its only Alabama location.",
+   "sources": [
+    "https://hvilleblast.com/5-restaurants-for-chicken-wings-in-huntsville",
+    "https://www.mapquest.com/us/alabama/a-town-wings-387969115"
+   ],
+   "status": "unknown",
+   "statusNote": "The only readable source is a local guide last updated April 2, 2024. Search results disagree: a MapQuest listing shows Closed and a Birdeye listing shows it open. The MapQuest page returned no content when opened. No official site or 2026 source found. Call before listing it as open."
+  },
+  {
+   "slug": "baby-bite-bake-shop",
+   "cost": "Baby Bites cost $1.50 each or $18 a dozen on the shop's own flavors page. Cake cups are $4 each, cheese coins are $9 a bag, and mini cookies are $5 a dozen.",
+   "vibe": "The shop is at 975 Airport Rd SW. A 2023 local article says it is in a red brick shopping center and has blue chairs outside. Any flavor can be ordered by the dozen with 24 hours notice.",
+   "sources": [
+    "http://babybitebakeshop.com/flavors",
+    "https://hvilleblast.com/5-things-to-know-about-baby-bite-bake-shop-the-tiny-cake-bakery-in-huntsville"
+   ],
+   "status": "open",
+   "statusNote": "The official site is live with prices and no closure notice. No dated 2026 source was found. The building and seating details come from an article last updated February 10, 2023."
+  },
+  {
+   "slug": "beignets-and-brew",
+   "cost": "The store's Toast ordering listing shows traditional beignets (4) at $7.95 and specialty beignets (3) at $8.95.",
+   "vibe": "The shop is at 12120 County Line Rd in Madison. A local article says it is in the former Grounded Coffee space. Online ordering runs through Toast.",
+   "sources": [
+    "https://hvilleblast.com/here-are-5-new-businesses-here-huntsville-area",
+    "https://beignetsandbrew.com/find",
+    "https://www.toasttab.com/local/order/bnb-madison"
+   ],
+   "status": "open",
+   "statusNote": "Reported open in an article last updated February 17, 2025. No 2026 source opened. The Toast page returned HTTP 403, so the two prices come from search result text for that page. I removed the Chicken and Beignets and cold brew prices because I could not tie them to the Madison store. The chain's own locations page showed no store list. Check prices before publishing."
+  },
+  {
+   "slug": "big-johns",
+   "cost": "",
+   "vibe": "Big John's serves barbecue at The Open Bottle, 7061 Hwy 72 W. Listings describe The Open Bottle as a liquor store and bar with outdoor seating. Big John's own site lists The Open Bottle hours as 4 to 9 PM, Thursday to Saturday. It also runs a food truck and catering, and takes online orders through Toast.",
+   "sources": [
+    "https://www.bigjohnsbbqandco.com/",
+    "https://startpage.mapquest.com/us/alabama/big-johns-huntsville-423635340",
+    "https://wanderlog.com/place/details/4496849/the-open-bottle-madison-al"
+   ],
+   "status": "open",
+   "statusNote": "The official site shows Wednesday to Saturday in one place and Thursday to Saturday in another. MapQuest shows Thursday to Saturday. The official site does not print the street address. The address comes from MapQuest and Wanderlog. No prices are shown in text on the official site."
+  },
+  {
+   "slug": "big-papa-gyro",
+   "cost": "On delivery apps, gyros and pita wraps cost about $11.69 and a gyro plate costs about $20.27. Starters and sides run about $5 to $8. The restaurant's own site does not show prices.",
+   "vibe": "Big Papa Gyro is at 4925 University Drive, Suite 120. The official site lists dine in or take out, with online ordering through Toast. It is open Monday to Friday 10 AM to 9 PM and Saturday 11 AM to 9 PM, and closed Sunday.",
+   "sources": [
+    "https://bigpapagyro.com",
+    "https://www.ubereats.com/store/big-papa-gyro/6zFsVXxESSu6vVJj7dG2jQ"
+   ],
+   "status": "open",
+   "statusNote": "The official site is live with current hours. Prices are from Uber Eats and are likely higher than in-store prices."
+  },
+  {
+   "slug": "bos-best-wings",
+   "cost": "",
+   "vibe": "Bo's Best Wings is at 3700 Blue Spring Rd NW, Unit A. A local guide says it sells wings, shrimp and fish.",
+   "sources": [
+    "https://hvilleblast.com/5-restaurants-for-chicken-wings-in-huntsville"
+   ],
+   "status": "unknown",
+   "statusNote": "The only reliable source is a local guide last updated April 2, 2024. A web search found no official site, menu, or 2026 source. Other search results were auto-generated pages with a different address, so I did not use them."
+  },
+  {
+   "slug": "caps-philly-cheesesteak",
+   "cost": "Homemade lemonade is $4 on the official site. The site does not show cheesesteak prices in text.",
+   "vibe": "Cap's is at 11451 S Memorial Pkwy in South Huntsville. A travel listing says it is inside Nail's Convenience store, and reviewers call it a gas station. Reviewers say there is no seating and people eat in their cars. The official site has an online order link, and it is closed Saturday and Sunday.",
+   "sources": [
+    "https://capsphillycheesest.wixsite.com/welcome",
+    "https://wanderlog.com/place/details/12516481"
+   ],
+   "status": "open",
+   "statusNote": "Customer reviews run through June 12, 2026 and the official site shows no closure notice. Weekday hours differ between the official site and the listing, so I left them out. Location and seating details come from a listing and customer reviews, not the official site."
+  },
+  {
+   "slug": "china-dragon",
+   "cost": "On delivery apps, General Tso's Chicken and Sesame Chicken are listed at $11.45. Chicken Lo Mein costs $6.95 and Crab Rangoon (8 pieces) costs $6.45 on delivery apps.",
+   "vibe": "",
+   "sources": [
+    "https://www.ubereats.com/store/china-dragon-iii/8VBYAW-9SXiJZNS1BcAIzw"
+   ],
+   "status": "open",
+   "statusNote": "The Uber Eats listing is active at 7190 Wall Triana Hwy, Suite A, under the name China Dragon III. I removed the words combination platter because the page did not label the $11.45 items that way. No official website was found, so no ordering, seating or parking facts could be confirmed."
+  },
+  {
+   "slug": "cutes-and-cupcakes",
+   "cost": "",
+   "vibe": "The bakery is a tenant at Stovehouse, at 3414 Governors Dr SW, Suite 465. Its own site and the Stovehouse site name it Cutes and Cakes. The Stovehouse page lists cupcakes, cakes and cookies. Stovehouse has parking on its east, west and north sides, with the north lot as overflow, and seating around the campus.",
+   "sources": [
+    "https://cutesandcakes.com/",
+    "https://www.stovehouse.com/tenant/cutes-and-cakes/",
+    "https://www.stovehouse.com/faq/"
+   ],
+   "status": "open",
+   "statusNote": "The business name on its own site and on the Stovehouse tenant page is Cutes and Cakes, not Cutes and Cupcakes. No prices or hours are on either site. No dated 2026 source was found."
+  },
+  {
+   "slug": "domaine-south",
+   "cost": "",
+   "vibe": "Domaine South is at 200 West Side Square in downtown Huntsville. Its site says it overlooks Big Spring Park. Reservations are recommended and can be made online or by phone. There is a wine bar inside, and lunch can be ordered online through Toast.",
+   "sources": [
+    "https://www.domainesouth.com/",
+    "https://www.domainesouth.com/visit"
+   ],
+   "status": "open",
+   "statusNote": "The official site shows no prices in text. Official hours: Mon to Thu 11am to 9pm, Fri and Sat 11am to 10pm, Sun 3pm to 8pm. Parking and patio are not mentioned on the site."
+  },
+  {
+   "slug": "fluffy-fluffy",
+   "cost": "",
+   "vibe": "Fluffy Fluffy is at 2338 Whitesburg Dr, Suite B, and is listed as the Huntsville location on the chain's official site. The chain menu lists souffle pancakes, croffles, cheesecakes and chicken bowls. Online ordering is offered through Toast.",
+   "sources": [
+    "https://www.fluffyfluffy.com/locations/huntsville",
+    "https://www.fluffyfluffy.com/menu"
+   ],
+   "status": "open",
+   "statusNote": "The official site lists the Huntsville location with a phone number and a Toast order link, and no closure notice. The menu page shows no prices. The hours shown on the location page start at 3 AM and look wrong, so I left them out."
+  },
+  {
+   "slug": "gordo-street-tacos",
+   "cost": "",
+   "vibe": "",
+   "sources": [
+    "https://gordosstreettacostn.com/"
+   ],
+   "status": "unknown",
+   "statusNote": "Not confirmed open or closed. The official site still lists 5527 AL-53, Harvest with phone (256) 380-3217, but shows hours only for the Ardmore, TN location. My searches found no listing or news for the Harvest address, and I could not confirm the draft's claim that Yelp and MapQuest mark it closed. Call before listing it as open."
+  },
+  {
+   "slug": "little-hats-nashville",
+   "cost": "On delivery apps, sandwiches cost about $11.50 to $21.50 and pastas cost about $19.50 to $22. The official site lists no prices.",
+   "vibe": "Little Hats is an Italian market and deli at 1120 4th Ave N in Germantown. It sells sandwiches, house-made pastas, salads, desserts and imported Italian goods from a deli counter. Pickup orders can be placed online. The official hours are Mon to Sat 11am to 8pm and Sun 11am to 5pm.",
+   "sources": [
+    "https://www.littlehatsmarket.com/",
+    "https://www.ubereats.com/store/little-hats-italian-market-germantown/uUQ30zq9UMCYgyE80LTOVg"
+   ],
+   "status": "open",
+   "statusNote": "Prices are from the featured items on Uber Eats and are likely higher than in-store prices. I changed the sandwich range because a meatball sandwich is listed at $11.50. Seating and parking are not on the official site."
+  },
+  {
+   "slug": "los-morelenses",
+   "cost": "",
+   "vibe": "Listings name it Taqueria Las Morelenses, at 30697 Hwy 72 W in Madison. A travel listing says it is in an old gas station with limited indoor seating, and that parking can be hard. Reviewers say takeout is offered.",
+   "sources": [
+    "https://www.restaurantji.com/al/madison/taqueria-las-morelenses-/",
+    "https://wanderlog.com/place/details/10128478/taqueria-las-morelenses"
+   ],
+   "status": "open",
+   "statusNote": "No official website was found. Two third-party listings (one updated Nov 3, 2026) show hours of Mon to Sat 6:30am to 4pm and Sun 8am to 3pm. Listings spell the name Las Morelenses, not Los Morelenses. The gas station detail comes from one listing only."
+  },
+  {
+   "slug": "luigis-italian-grill",
+   "cost": "On the restaurant's Slice ordering page, pasta is about $12 to $17 and chicken and seafood entrees are about $18 to $25 after the page's 10% online discount. The lunch menu (11 AM to 3 PM) is about $9 to $13.",
+   "vibe": "",
+   "sources": [
+    "https://slicelife.com/restaurants/al/madison/35758/luigi-s-italian-grill-madison/menu"
+   ],
+   "status": "open",
+   "statusNote": "Slice ordering page is live and shows a next opening time. No official website found. Prices shown are the discounted online prices. No source confirmed seating, parking or how you order."
+  },
+  {
+   "slug": "luogo-nashville",
+   "cost": "",
+   "vibe": "Luogo is an Italian restaurant at 211 12th Ave S in The Gulch. It takes reservations for inside and for the patio, and its site says walk-ins are welcome. The site lists valet parking in its garage for $15, with the entrance on 12th Avenue South between Demonbreun Street and Laurel Street.",
+   "sources": [
+    "https://www.luogorestaurant.com/",
+    "https://www.luogorestaurant.com/menus/",
+    "https://www.luogorestaurant.com/location/luogo-restaurant/"
+   ],
+   "status": "open",
+   "statusNote": "Official site is live with dinner hours and a Thanksgiving prix fixe at $95 per person. The dinner menu on the site shows no prices, so cost is left empty. Bar seating, street parking and paid lots could not be confirmed and were removed."
+  },
+  {
+   "slug": "melt-downtown",
+   "cost": "On the restaurant's own menu page, sandwiches cost $8 to $15 and salads cost $13 to $14. Appetizers cost $10 to $12, with fried pickles and the Mac 'N Egg Roll at $10 each.",
+   "vibe": "Melt is at The Avenue on Jefferson Street in downtown Huntsville, at the junction with Holmes Avenue. Its website lists dine-in, carryout and curbside, and the Huntsville visitors bureau describes table service and a large patio. AAA lists parking as street only.",
+   "sources": [
+    "https://ilovemelt.com/huntsville",
+    "https://www.ubereats.com/store/melt-huntsville/hHia-PmqS9SLNhoKRE5bGg",
+    "https://www.huntsville.org/blog/list/post/melt-with-me-in-downtown-huntsville/",
+    "https://ww1.aaa.com/tripcanvas/restaurant/melt-AA46420",
+    "https://huntsvillebusinessjournal.com/news/2019/01/15/the-avenue-will-be-melt-ing-in-the-spring/"
+   ],
+   "status": "open",
+   "statusNote": "Official Huntsville page lists hours and an online ordering link, and the Uber Eats listing is active. Draft delivery app prices were replaced with the lower prices on the official menu. The full bar claim came only from a 2019 pre-opening article and was removed."
+  },
+  {
+   "slug": "mi-delicioso-guanajuato",
+   "cost": "The restaurant's online ordering page lists tacos at $6.62 and cheese dip with chips at $10.23. The page showed only three items.",
+   "vibe": "Mi Delicioso Guanajuato is a Mexican restaurant at 2818 Governors Dr SW, Suite C. Its website offers online ordering for pickup and delivery. The website lists no hours for Wednesday.",
+   "sources": [
+    "https://mideliciosoguanajuatoal.com/",
+    "https://mideliciosoguanajuatoal.com/mi-delicioso-guanajuato/"
+   ],
+   "status": "open",
+   "statusNote": "Official site is live with hours and an ordering page. The ordering page does not say how many tacos are in one order. The claim about being midway between Lowe Mill and Stovehouse was not in any source and was removed."
+  },
+  {
+   "slug": "mias-cafe",
+   "cost": "",
+   "vibe": "",
+   "sources": [
+    "https://www.ubereats.com/store/mias-cafe/dlRpWb6QVA2L02lFd6hkRg"
+   ],
+   "status": "unknown",
+   "statusNote": "Uber Eats lists hours of 7:00 AM to 1:40 PM but says the cafe is unavailable on Uber Eats at this time. Search listings give the address as 30694 Hwy 72 W, Unit B, not 30697. No dated 2026 source confirms it is open, and no dated price source was found."
+  },
+  {
+   "slug": "mizz-jujus",
+   "cost": "",
+   "vibe": "",
+   "sources": [
+    "https://thebamabuzz.com/5-unforgettable-soul-food-restaurants-in-huntsville-including-betty-maes",
+    "https://hvilleblast.com/guide-to-meat-and-threes-in-huntsville"
+   ],
+   "status": "unknown",
+   "statusNote": "The newest sources found are a Bama Buzz article last updated March 2021 and a Hville Blast guide last updated February 2022. The 2021 article said orders were to go only and placed by text. Nothing recent confirms it is still open."
+  },
+  {
+   "slug": "mk-wings",
+   "cost": "On delivery apps, split wings cost $7.99 for 4 pieces, $15.79 for 10 pieces and $28.79 for 20 pieces. A sandwich and 5 wings combo costs $20.19 on delivery apps.",
+   "vibe": "",
+   "sources": [
+    "https://www.ubereats.com/store/mk-wings/RqCCDNIEVHGdIAt7-Vwmyw",
+    "https://hvilleblast.com/your-ultimate-guide-to-the-best-wings-in-huntsville-7-spots-to-know"
+   ],
+   "status": "open",
+   "statusNote": "Uber Eats listing for 502 Jordan Ln NW is active with hours. No official website or in-store menu found, so prices are delivery app prices. No source confirmed seating, parking or how you order."
+  },
+  {
+   "slug": "nicas-grill",
+   "cost": "",
+   "vibe": "Nica's is a food truck. A Hville Blast food truck guide, last updated April 2025, lists it at The Orion Amphitheater and names loaded fries and quesadillas on the menu.",
+   "sources": [
+    "https://hvilleblast.com/rolling-bites-our-food-truck-recommendations-in-huntsville",
+    "https://nicasgrillcafe.com/"
+   ],
+   "status": "unknown",
+   "statusNote": "No source newer than April 2025 was found. The website named in that guide (nicasgrillcafe.com) now redirects to an unrelated site. No current schedule or menu was found. Check the truck's Facebook page."
+  },
+  {
+   "slug": "oh-crepe",
+   "cost": "",
+   "vibe": "Oh Crepe is a vendor at Stovehouse, Suite 520, 3414 Governors Drive. Its Stovehouse page says it sells sweet and savory Japanese-style crepes in a paper cone, and that the campus has shared seating in covered outdoor areas and climate-controlled indoor areas. Stovehouse lists parking lots on the east, north and west sides.",
+   "sources": [
+    "https://www.stovehouse.com/directory",
+    "https://www.stovehouse.com/tenant/oh-crepe/",
+    "https://www.stovehouse.com/faq/",
+    "https://hvilleblast.com/3-spots-for-a-mouthwatering-crepe-in-huntsville"
+   ],
+   "status": "open",
+   "statusNote": "Listed in the current Stovehouse directory with its own tenant page. No dated 2026 source was found. No price source was found."
+  },
+  {
+   "slug": "parlor-doughnuts",
+   "cost": "On delivery apps, a layered doughnut costs $4.95 and an assorted dozen costs $44.25. Specialty coffee drinks cost about $7.50 on delivery apps.",
+   "vibe": "The shop is at 2500 Clinton Ave W, Suite B, at Campus No. 805. It sells layered doughnuts and coffee.",
+   "sources": [
+    "https://www.ubereats.com/store/parlor-doughnuts-huntsville/9PnHy9rBXfOGWjJBzslbEg",
+    "https://hvilleblast.com/parlor-doughnuts-opens-august-20-heres-how-to-try-it",
+    "https://www.parlordoughnuts.com/locations"
+   ],
+   "status": "open",
+   "statusNote": "Based on a live Uber Eats listing with current hours. The official locations page did not show its location list when opened, so the prices are delivery app prices, not in-store prices. Suite B and Campus No. 805 come from a 2022 Hville Blast article."
+  },
+  {
+   "slug": "pf-changs",
+   "cost": "On delivery apps, Chang's Chicken Lettuce Wraps cost $17.19, fried rice costs $17.19, Chang's Spicy Chicken costs $22.49 and Mongolian Beef costs $29.59. The official location page lists happy hour at $6 for beer and wine, $9 for cocktails and $12 for appetizers, Monday to Friday from 3 to 6 PM.",
+   "vibe": "The restaurant is at Bridge Street Town Centre, 305 The Bridge St, Suite 101. The official page lists dine-in, reservations, patio dining, takeout, delivery and catering. It says self-parking is near the restaurant.",
+   "sources": [
+    "https://locations.pfchangs.com/us/al/huntsville/305-the-bridge-st-suite-101/9804-huntsville.html",
+    "https://www.ubereats.com/store/pf-changs-huntsville/DO1fDnQhTH-06AHmn43Mtg"
+   ],
+   "status": "open",
+   "statusNote": "Dish prices are delivery app prices. Happy hour days were corrected from Tuesday to Friday to Monday to Friday. The official page says happy hour is only at participating locations."
+  },
+  {
+   "slug": "pita-street-food",
+   "cost": "On delivery apps, a gyro or pita wrap meal costs about $16.50 to $17.50. Platters cost about $20 to $21.50 and a fountain drink costs $3 on delivery apps.",
+   "vibe": "The restaurant is at 300 Hughes Rd, Suite I, in Madison. It is part of the PITA Mediterranean Street Food chain. A halal directory lists it as fast casual with to-go orders, delivery and parking.",
+   "sources": [
+    "https://www.pitastreetfood.com/locations",
+    "https://order.pitastreetfood.com/",
+    "https://www.ubereats.com/store/pita-mediterranean-street-food-madison/un3ol65bTB28fXzkAVUBhw",
+    "https://www.zabihah.com/restaurants/cbe7e2f2-7767-11ef-95ae-6045bdeb9f57/pita-mediterranean-madison-al"
+   ],
+   "status": "open",
+   "statusNote": "Listed on the chain's official locations page. The official ordering page did not load the Madison menu, so prices are delivery app prices."
+  },
+  {
+   "slug": "rds-smokehouse",
+   "cost": "On delivery apps, a pork sandwich costs $6.35 and a pulled pork plate costs $11.54. A rib plate costs $14.09 and a catfish plate costs $17.90 on delivery apps.",
+   "vibe": "The restaurant is at 1811 Nick Davis Rd in Harvest. A MapQuest listing shows takeout, delivery, catering and parking, and a review on that listing says you order at the counter.",
+   "sources": [
+    "https://www.ubereats.com/store/rds-smokehouse-barbecue/HZDhdvP8X_i-v64Zavf9UA",
+    "https://startpage.mapquest.com/us/alabama/rds-smokehouse-barbecue-371277150"
+   ],
+   "status": "open",
+   "statusNote": "Based on a live Uber Eats listing and a MapQuest listing with hours. No official menu with prices was found, so prices are delivery app prices."
+  },
+  {
+   "slug": "roosters-athens",
+   "cost": "",
+   "vibe": "",
+   "sources": [],
+   "status": "unknown",
+   "statusNote": "Only search results for directory listings were found. No page was opened that confirms it. The listings disagree on the address: 125 US Highway 31 N or S, with phone (256) 230-9001. No official page, menu, price or current status source was found."
+  },
+  {
+   "slug": "ruby-slipper-nashville",
+   "cost": "",
+   "vibe": "The restaurant is at 1800 21st Avenue South in Hillsboro Village. A Nashville Guru article describes a 5,300 square foot space with indoor seating, an exterior patio and a bar. It reports free two-hour parking behind the restaurant and on select side streets.",
+   "sources": [
+    "https://nashvilleguru.com/107962/ruby-sunshine-nashville",
+    "https://rubybrunch.com/menu/",
+    "https://rubybrunch.com/locations/"
+   ],
+   "status": "unknown",
+   "statusNote": "Changed from open to unknown. No source I opened confirms it is open in November 2026. Sources name this address Ruby Sunshine, the sister brand of Ruby Slipper. The company location list did not load, the official menu page shows no prices, and the Toast ordering page blocked access. The Nashville Guru article dates from around the 2020 opening, so seating and parking details may be out of date."
+  },
+  {
+   "slug": "sacs-kitchen",
+   "cost": "Entrees with bread and two sides cost $15 to $21 on the restaurant's own menu, and daily specials are $18. Sandwiches are about $10 to $16, sides and dessert slices are $7, and drinks are $3.",
+   "vibe": "The restaurant is at 6008 Mastin Lake Road, Suite B. It takes online orders through Toast and also takes call-in orders, which must be paid by card. EatOkra lists hours of Tuesday to Saturday, 11am to 7pm, closed Sunday and Monday.",
+   "sources": [
+    "https://sacskitchen.com/menu",
+    "https://www.eatokra.com/businesses/sac-s-kitchen"
+   ],
+   "status": "open",
+   "statusNote": "The official menu page is live. Hours come from a third-party listing, not the restaurant's site. Seating and parking were not confirmed by any source opened."
+  },
+  {
+   "slug": "sam-and-gregs",
+   "cost": "On the restaurant's own menu, cheese pizzas cost $6.45 for a personal size up to $15.95 for a 16 inch, and specialty pizzas cost $9.25 to $25.45. Most sandwiches are $7.95 to $8.95, and gelato is $2.75 for a kids size up to $5.50 for a large.",
+   "vibe": "The restaurant's site lists dine in, carry out, delivery and online ordering. It mentions dog-friendly patios across its two locations. Listed hours are Monday to Thursday 11am to 9pm, Friday and Saturday 11am to 10pm, and Sunday 11am to 8pm.",
+   "sources": [
+    "https://www.samandgregs.com",
+    "https://www.samandgregs.com/menu",
+    "https://www.samandgregs.com/directions",
+    "https://www.huntsville.org/listing/sam-%2526-gregs-pizzeria-gelateria/4179/"
+   ],
+   "status": "open",
+   "statusNote": "The site covers both the Huntsville and Madison locations and does not say which hours, services or patios apply to which. The directions page and the huntsville.org listing returned no address text, so the downtown address and parking were not confirmed. The menu page shows no date."
+  },
+  {
+   "slug": "seoul-good",
+   "cost": "The menu on the restaurant's own site, dated June 2024, lists wings at $9.95 for 6 pieces with one side, and $16.50 for 10 or $25.95 for 16 with two sides. Tenders are $6.95 for 3 pieces or $10.95 for 5, a half chicken is $12.95, sides are $1.50 to $4.50, and bingsu is $6.50.",
+   "vibe": "It is a Korean fried chicken spot at Stovehouse, 3414 Governors Drive SW, Suite 510. Its site links to online ordering through Toast.",
+   "sources": [
+    "http://seoulgoodchicken.com/",
+    "https://img1.wsimg.com/blobby/go/11af882f-50d5-46fb-ab0d-077d01af4f63/SeoulGoodMenu06052024.pdf",
+    "https://stovehouse.com/tenant/seoul-good-chicken/",
+    "https://wanderlog.com/place/details/11511413/seoul-good-korean-fried-chicken"
+   ],
+   "status": "open",
+   "statusNote": "The Stovehouse directory still lists it and its own site is live. I read the menu PDF directly and the prices match, but it is dated June 2024, so prices may have changed. The Toast ordering page blocked access. I removed the seating claim because the Wanderlog text was vague. Seating and parking were not confirmed."
+  },
+  {
+   "slug": "superhero-chefs",
+   "cost": "",
+   "vibe": "The restaurant is at 930 Old Monrovia Road NW, Suite 3, next to Stars and Strikes. Its site offers online reservations and recommends booking ahead, and it also offers online ordering through Toast and private party bookings. It is closed on Monday.",
+   "sources": [
+    "https://www.superherochefshsv.com/",
+    "https://superherochefshsv.com/huntsville-suite-3-superhero-chefs-food-menu",
+    "https://wanderlog.com/place/details/3990211/superhero-chefs"
+   ],
+   "status": "open",
+   "statusNote": "The official menu page shows items with no prices. The site shows two different hour schedules (8am or 9am opening, 3pm or 4pm closing), so hours are left out. Seating and parking were not confirmed."
+  },
+  {
+   "slug": "tamarind-island",
+   "cost": "",
+   "vibe": "It is at The Camp in the MidCity District, 5909 University Drive. The visitors bureau describes The Camp as a venue with live music, markets and food trucks. A Spinach listing describes Tamarind Island Grille as mainly takeout in a food truck style, with outdoor and covered seating at The Camp.",
+   "sources": [
+    "https://spinach.guide/venues/tamarind-island-grille-153557/",
+    "https://www.tvliving.com/2023/05/24/experience-taste-islands-with-tamarind-grille",
+    "https://www.huntsville.org/rocket-city/districts-neighborhoods/midcity-district/"
+   ],
+   "status": "unknown",
+   "statusNote": "Changed from open to unknown. The only current evidence is one third-party listing with data refreshed 10 Nov 2026, and it shows no live open status. The newest article is from May 2023. No official site or menu with prices was found. I removed the hours because they rest on that one listing. Parking was not confirmed."
+  },
+  {
+   "slug": "taqueria-catedral",
+   "cost": "",
+   "vibe": "",
+   "sources": [
+    "https://hvilleblast.com/tacos-in-huntsville-53-spots-for-tacos-right-now/"
+   ],
+   "status": "unknown",
+   "statusNote": "No web source found for a truck with this name in Harvest or on Highway 53. The local taco guide I opened has no entry for it. It may only have a social media page."
+  },
+  {
+   "slug": "taqueria-los-3-reales",
+   "cost": "",
+   "vibe": "This is a food truck off Memorial Parkway in South Huntsville, near the Southpark Boulevard intersection. A local taco guide lists it as Los 3 Reales #2, with hours of Monday to Saturday, 10:30 AM to 8 PM.",
+   "sources": [
+    "https://hvilleblast.com/tacos-in-huntsville-53-spots-for-tacos-right-now/"
+   ],
+   "status": "open",
+   "statusNote": "Listed as operating in a local taco guide last updated March 4, 2026. No official page or later source was found, so the open status is eight months old. No price source found. Seating and parking not confirmed."
+  },
+  {
+   "slug": "taqueria-luna",
+   "cost": "",
+   "vibe": "Taqueria Luna is at 30098 Andrea Lane in Madison. Its online ordering page offers pickup, curbside pickup and delivery. The ordering page lists hours of Tuesday to Thursday 11 AM to 7 PM and Friday to Saturday 11 AM to 8 PM, closed Sunday and Monday.",
+   "sources": [
+    "https://food.orders.co/taquerialuna",
+    "https://startpage.mapquest.com/us/alabama/taqueria-luna-543016624"
+   ],
+   "status": "open",
+   "statusNote": "The ordering page is live with hours, but it shows no date. It showed no menu prices when fetched. MapQuest lists a 10:45 AM opening instead of 11 AM. No source confirms it is a food truck. Seating and parking not confirmed."
+  },
+  {
+   "slug": "the-moon-bakeshop",
+   "cost": "",
+   "vibe": "The Moon Bakeshop is at 201 Jefferson Street North, Suite B, in downtown Huntsville. Its website links to online ordering through a Square store. A 2022 local article describes indoor seating and an outdoor seating area. Hours on its website are Tuesday to Friday 7:30 AM to 4 PM and Saturday 8 AM to 3 PM.",
+   "sources": [
+    "https://www.themoonbakeshop.com",
+    "https://www.themoonbakeshop.com/menu",
+    "https://moon-bakeshop-online-store.square.site",
+    "https://hvilleblast.com/cruffins-community-get-to-know-the-moon-bakeshop"
+   ],
+   "status": "open",
+   "statusNote": "Official site is live with hours. The menus are PDFs and the Square store did not load, so no prices were read. The website says pastries change daily. Seating facts are from September 2022. Parking was not confirmed."
+  },
+  {
+   "slug": "the-veggie",
+   "cost": "Handhelds with fries cost $15.95 to $16.95 on the restaurant's menu page. Baskets and bowls cost $13.95 to $18.95, and kids items cost $3.95 to $5.95.",
+   "vibe": "The Veggie is in Suite A5 at 7504 US-72 West in Madison. The visitors bureau describes it as a sit-down vegan restaurant, and it also takes online orders through Toast. Hours on its website are Wednesday to Friday 11 AM to 7 PM, Saturday 9 AM to 5 PM and Sunday 11 AM to 4 PM, closed Monday and Tuesday.",
+   "sources": [
+    "https://www.eattheveggie.com/menu",
+    "https://www.eattheveggie.com/",
+    "https://www.huntsville.org/blog/list/post/huntsvilles-must-try-vegan-vegetarian-eats/",
+    "https://vegman.org/united-states/madison/vegan/the-veggie"
+   ],
+   "status": "open",
+   "statusNote": "Official site lists upcoming holiday closures on 11/26, 11/27 and 12/25 to 01/02. Each menu price appears twice on the page, and both values match. A third-party listing shows different, older hours. Parking not confirmed."
+  },
+  {
+   "slug": "tulum-cantina",
+   "cost": "",
+   "vibe": "Tulum Cantina + Grill is at 671 Martin Road SW in Huntsville, in the former Big Shakes Hot Chicken + Fish space. A 2023 local article says the menu has lunch specials, a kids menu and a vegetarian menu.",
+   "sources": [
+    "https://hvilleblast.com/tulum-cantina-grill-is-now-open-in-huntsville"
+   ],
+   "status": "unknown",
+   "statusNote": "No source from 2026 confirms it is open. The only article opened was last updated March 24, 2023. No official site, hours or price source was found."
+  },
+  {
+   "slug": "willie-bs-nashville",
+   "cost": "",
+   "vibe": "Willie B's is at 918 Buchanan Street in North Nashville, in a former post office building. A 2021 Nashville Scene article describes a long marble bar, large booths, an indoor and outdoor deck and free parking by the door.",
+   "sources": [
+    "https://www.nashvillescene.com/food_drink/bites/first-bite-willie-b-s-is-a-welcome-addition-to-the-buc/article_6fa71af6-0c86-5867-ac5d-55d374dc2cf7.html",
+    "https://wanderlog.com/place/details/1428414/willie-bs-kitchen--lounge",
+    "https://www.novacircle.com/spots/north-america/united-states/tennessee/nashville/nashville-tn/gems-kitchen-lounge-bafee5"
+   ],
+   "status": "unknown",
+   "statusNote": "The official site thewilliebs.com did not load. The newest dated evidence is a February 2023 review. One directory lists Gems Kitchen & Lounge at the same address with no mention of Willie B's, which may mean a rename, but no reliable source confirms it. The vibe facts are from 2021 and may be out of date."
+  }
+ ],
+ "researchedOnly": [
+  {
+   "slug": "a-town-wings",
+   "cost": "",
+   "vibe": "A Town Wings is at 2608 Memorial Pkwy NW in North Huntsville. A local guide says the brand comes from Atlanta and this is its only Alabama location.",
+   "sources": [
+    "https://hvilleblast.com/5-restaurants-for-chicken-wings-in-huntsville",
+    "https://page-service.doordash.com/store/a-town-wings-24191926"
+   ],
+   "status": "unknown",
+   "statusNote": "Newest source I could open is a local guide last updated April 2024. No official site or 2026 source found. The DoorDash page I opened was for an Augusta, GA store, so I used no prices from it."
+  },
+  {
+   "slug": "baby-bite-bake-shop",
+   "cost": "Baby Bites cost $1.50 each or $18 a dozen on the shop's own flavors page. Cake cups are $4 each, cheese coins are $9 a bag, and mini cookies are $5 a dozen.",
+   "vibe": "The shop is in a red brick shopping center at 975 Airport Rd SW. It has outdoor seating with small blue chairs. Any flavor can be ordered by the dozen with 24 hours notice.",
+   "sources": [
+    "http://babybitebakeshop.com/",
+    "http://babybitebakeshop.com/flavors",
+    "https://hvilleblast.com/5-things-to-know-about-baby-bite-bake-shop-the-tiny-cake-bakery-in-huntsville",
+    "https://www.joinlolo.com/merchants/baby-bite-bake-shop-huntsville-al-35802"
+   ],
+   "status": "open",
+   "statusNote": "Official site is live with prices and no closure notice. I found no dated 2026 source, and the seating detail is from a 2023 article."
+  },
+  {
+   "slug": "beignets-and-brew",
+   "cost": "The store's Toast ordering listing shows traditional beignets (4) at $7.95 and specialty beignets (3) at $8.95. Chicken and Beignets is $13.95 and cold brew starts at $4.95.",
+   "vibe": "The shop is at 12120 County Line Rd, Suite C, in Madison, in the former Grounded Coffee space. It is part of the Beignets & Brew chain. Online ordering runs through Toast.",
+   "sources": [
+    "https://hvilleblast.com/here-are-5-new-businesses-here-huntsville-area",
+    "https://beignetsandbrew.com",
+    "https://beignetsandbrew.com/menu",
+    "https://beignetsandbrew.com/find"
+   ],
+   "status": "open",
+   "statusNote": "Reported open in an article updated February 2025; no 2026 source opened. Prices come from search result text for toasttab.com/local/order/bnb-madison. That page blocked direct access (HTTP 403), so check prices before publishing."
+  },
+  {
+   "slug": "big-johns",
+   "cost": "",
+   "vibe": "Big John's serves barbecue at The Open Bottle, 7061 Hwy 72 W, a liquor store and bar with an outdoor patio. Its own site lists The Open Bottle hours as evenings, 4 to 9 PM, late in the week through Saturday. It also runs a food truck, catering, and online ordering through Toast.",
+   "sources": [
+    "https://www.bigjohnsbbqandco.com/",
+    "https://startpage.mapquest.com/us/alabama/big-johns-huntsville-423635340",
+    "https://wanderlog.com/place/details/4496849/the-open-bottle-madison-al"
+   ],
+   "status": "open",
+   "statusNote": "Official site lists The Open Bottle location with hours, but shows Wed-Sat in one place and Thu-Sat in another. The menu is an image only, so no prices could be read."
+  },
+  {
+   "slug": "big-papa-gyro",
+   "cost": "On delivery apps, gyros and pita wraps cost about $11.69 and gyro plates about $20.27. Sides and starters run about $5 to $8. The restaurant's own menu page does not show prices.",
+   "vibe": "Big Papa Gyro is at 4925 University Drive, Suite 120. The official site lists dine in or take out, with online ordering through Toast. It is open Monday to Friday 10 AM to 9 PM and Saturday 11 AM to 9 PM, and closed Sunday.",
+   "sources": [
+    "https://bigpapagyro.com",
+    "https://bigpapagyro.com/menu",
+    "https://www.ubereats.com/store/big-papa-gyro/6zFsVXxESSu6vVJj7dG2jQ"
+   ],
+   "status": "open",
+   "statusNote": "Official site is live with current hours. The official Toast ordering page blocked access, so prices are from Uber Eats."
+  },
+  {
+   "slug": "bos-best-wings",
+   "cost": "",
+   "vibe": "Bo's Best Wings is at 3700 Blue Spring Rd NW, Unit A. A local guide says it sells wings, shrimp and fish.",
+   "sources": [
+    "https://hvilleblast.com/5-restaurants-for-chicken-wings-in-huntsville"
+   ],
+   "status": "unknown",
+   "statusNote": "Only reliable source is a local guide last updated April 2024. No official site, menu, or 2026 source found."
+  },
+  {
+   "slug": "caps-philly-cheesesteak",
+   "cost": "Homemade lemonade is $4 on the official site. The site does not show cheesesteak prices in text.",
+   "vibe": "Cap's is inside Nail's Convenience store at a gas station at 11451 S Memorial Pkwy in South Huntsville. Reviewers say there is no indoor seating and people eat in their cars. The official site has an online order link, and it is closed Saturday and Sunday.",
+   "sources": [
+    "https://capsphillycheesest.wixsite.com/welcome",
+    "https://wanderlog.com/place/details/12516481",
+    "https://startpage.mapquest.com/us/alabama/caps-philly-cheesesteak-646111772"
+   ],
+   "status": "open",
+   "statusNote": "Customer reviews run through June 2026 and the official site shows no closure notice. Weekday hours differ between sources, so I left them out. Location and seating details come from customer reviews."
+  },
+  {
+   "slug": "china-dragon",
+   "cost": "On delivery apps, combination platters such as General Tso's Chicken and Sesame Chicken cost $11.45. Chicken Lo Mein costs $6.95 and Crab Rangoon (8 pieces) costs $6.45 on delivery apps.",
+   "vibe": "",
+   "sources": [
+    "https://www.ubereats.com/store/china-dragon-iii/8VBYAW-9SXiJZNS1BcAIzw"
+   ],
+   "status": "open",
+   "statusNote": "The Uber Eats listing is active at 7190 Wall Triana Hwy, Suite A, under the name China Dragon III. No official restaurant website was found."
+  },
+  {
+   "slug": "cutes-and-cupcakes",
+   "cost": "",
+   "vibe": "The bakery is a tenant at Stovehouse, at 3414 Governors Dr SW, Suite 465. Its own site and the Stovehouse site name it Cutes and Cakes. It sells cupcakes, cakes and cookies and takes custom orders. Stovehouse has parking lots at its east and west entrances, an overflow north lot, and seating around the campus.",
+   "sources": [
+    "https://cutesandcakes.com/",
+    "https://www.stovehouse.com/",
+    "https://www.stovehouse.com/tenant/cutes-and-cakes/",
+    "https://www.stovehouse.com/faq/",
+    "https://hvilleblast.com/your-ultimate-guide-to-bakeries-pastries-in-huntsville-beyond"
+   ],
+   "status": "open",
+   "statusNote": "The business name on its own site and on the Stovehouse tenant page is Cutes and Cakes, not Cutes and Cupcakes. Hours differ between listings and are not on the official site."
+  },
+  {
+   "slug": "domaine-south",
+   "cost": "",
+   "vibe": "Domaine South is on West Side Square in downtown Huntsville, in a building that overlooks Big Spring Park. Reservations are recommended and can be made online or by phone. There is a wine bar inside, and lunch can be ordered online for pickup.",
+   "sources": [
+    "https://www.domainesouth.com/",
+    "https://www.domainesouth.com/menu",
+    "https://www.domainesouth.com/visit"
+   ],
+   "status": "open",
+   "statusNote": "The official menu is posted as images only, so prices could not be read. Official hours: Mon to Thu 11am to 9pm, Fri and Sat 11am to 10pm, Sun 3pm to 8pm."
+  },
+  {
+   "slug": "fluffy-fluffy",
+   "cost": "",
+   "vibe": "Fluffy Fluffy is at 2338 Whitesburg Dr, Suite B, and is listed as the Huntsville location on the chain's official site. The chain serves souffle pancakes, croffles, cheesecakes and chicken bowls. Online ordering is offered through Toast.",
+   "sources": [
+    "https://www.fluffyfluffy.com/",
+    "https://www.fluffyfluffy.com/locations/huntsville",
+    "https://www.fluffyfluffy.com/menu"
+   ],
+   "status": "open",
+   "statusNote": "The official site lists the Huntsville location with a phone number and an ordering link. The Toast ordering page with Huntsville prices blocked access, so prices are not confirmed."
+  },
+  {
+   "slug": "gordo-street-tacos",
+   "cost": "",
+   "vibe": "",
+   "sources": [
+    "https://gordosstreettacostn.com/",
+    "https://stallworthrealestate.com/blog/whats-new-to-eat-in-harvest-a-highway-53-guide-for-people-who-already-live-here"
+   ],
+   "status": "unknown",
+   "statusNote": "Likely closed, but not confirmed. Search results show Yelp (updated May 2026) and MapQuest marking the Harvest location as closed, and those pages could not be opened. The official site still lists 5527 AL-53 with phone (256) 380-3217 but shows hours only for the Ardmore, TN location. Call before listing it as open."
+  },
+  {
+   "slug": "little-hats-nashville",
+   "cost": "On delivery apps, sandwiches cost about $19 to $21.50 and pastas cost about $19.50 to $22. The official menu page lists items without prices.",
+   "vibe": "Little Hats is an Italian market and deli at 1120 4th Ave N in Germantown. It sells sandwiches, house-made pastas, salads, desserts and imported Italian goods. Pickup orders can be placed online, and the official hours are Mon to Sat 11am to 8pm and Sun 11am to 5pm.",
+   "sources": [
+    "https://www.littlehatsmarket.com/",
+    "https://www.littlehatsmarket.com/menu",
+    "https://www.ubereats.com/store/little-hats-italian-market-germantown/uUQ30zq9UMCYgyE80LTOVg"
+   ],
+   "status": "open",
+   "statusNote": "The official pickup ordering page needs JavaScript and could not be read, so the prices are from Uber Eats and are likely higher than in-store prices."
+  },
+  {
+   "slug": "los-morelenses",
+   "cost": "",
+   "vibe": "Listings name it Taqueria Las Morelenses, at 30697 Hwy 72 W in Madison. A travel listing says it is in a former gas station with limited indoor seating, and that parking can be tight. Takeout is offered.",
+   "sources": [
+    "https://www.restaurantji.com/al/madison/taqueria-las-morelenses-/",
+    "https://wanderlog.com/place/details/10128478/taqueria-las-morelenses"
+   ],
+   "status": "open",
+   "statusNote": "No official website was found. Third-party listings (one updated Nov 3, 2026) show hours of Mon to Sat 6:30am to 4pm and Sun 8am to 3pm. Listings spell the name Las Morelenses, not Los Morelenses."
+  },
+  {
+   "slug": "luigis-italian-grill",
+   "cost": "On the restaurant's Slice ordering page, pasta is about $12 to $17 and chicken and seafood entrees are about $18 to $25 after the page's 10% online discount. The lunch menu (11 AM to 3 PM) is about $9 to $13.",
+   "vibe": "",
+   "sources": [
+    "https://slicelife.com/restaurants/al/madison/35758/luigi-s-italian-grill-madison/menu"
+   ],
+   "status": "open",
+   "statusNote": "Slice ordering page is live and shows a next opening time. No official website found. Prices shown are the discounted online prices."
+  },
+  {
+   "slug": "luogo-nashville",
+   "cost": "",
+   "vibe": "Luogo is an Italian restaurant at 211 12th Ave S in The Gulch. It takes reservations and has indoor seating, bar seating and an outdoor patio. Valet parking is available, with street parking and paid lots nearby.",
+   "sources": [
+    "https://www.luogorestaurant.com/",
+    "https://www.luogorestaurant.com/menus/",
+    "https://williamsonsource.com/acclaimed-nyc-restaurateur-to-open-italian-restaurant-in-nashville-s-gulch-neighborhood/",
+    "https://ww2.aaa.com/tripcanvas/restaurant/luogo-AA46665"
+   ],
+   "status": "open",
+   "statusNote": "Official site is live and lists a Thanksgiving prix fixe at $95 per person. The dinner menu on the site shows no prices, so cost is left empty."
+  },
+  {
+   "slug": "melt-downtown",
+   "cost": "On delivery apps, sandwiches are about $10 to $17 and salads are about $17 to $18. Fried pickles and mac and cheese egg rolls are $12 each on delivery apps.",
+   "vibe": "Melt is in The Avenue development on Jefferson Street in downtown Huntsville, at the corner of Holmes Avenue. It has table service, a full bar and a large patio. AAA lists parking as street only.",
+   "sources": [
+    "https://www.ubereats.com/store/melt-huntsville/hHia-PmqS9SLNhoKRE5bGg",
+    "https://www.huntsville.org/blog/list/post/melt-with-me-in-downtown-huntsville/",
+    "https://ww1.aaa.com/tripcanvas/restaurant/melt-AA46420",
+    "https://huntsvillebusinessjournal.com/news/2019/01/15/the-avenue-will-be-melt-ing-in-the-spring/"
+   ],
+   "status": "open",
+   "statusNote": "Uber Eats listing is active with current hours. No official menu with prices found, so prices are delivery app prices."
+  },
+  {
+   "slug": "mi-delicioso-guanajuato",
+   "cost": "",
+   "vibe": "Mi Delicioso Guanajuato is a Mexican restaurant at 2818 Governors Dr SW, Suite C, roughly midway between Lowe Mill and Stovehouse. Its website offers online ordering. The website lists no hours for Wednesday.",
+   "sources": [
+    "https://mideliciosoguanajuatoal.com/",
+    "https://hvilleblast.com/tacos-in-huntsville-53-spots-for-tacos-right-now",
+    "https://www.huntsville.org/blog/list/post/pan-dulce-hispanic-sweet-bread-in-huntsville-al/"
+   ],
+   "status": "open",
+   "statusNote": "Official site is live with hours. The menu page with prices could not be opened, so cost is left empty."
+  },
+  {
+   "slug": "mias-cafe",
+   "cost": "",
+   "vibe": "",
+   "sources": [
+    "https://places.singleplatform.com/mias-cafe-0/menu",
+    "https://www.ubereats.com/store/mias-cafe/dlRpWb6QVA2L02lFd6hkRg"
+   ],
+   "status": "unknown",
+   "statusNote": "Uber Eats lists hours of 7:00 AM to 1:40 PM but showed the store as closed on the app when checked. Listings give the address as 30694 Hwy 72 W, not 30697. The only menu with prices (SinglePlatform, breakfast and sandwiches about $6 to $9) has no date, so it was not used."
+  },
+  {
+   "slug": "mizz-jujus",
+   "cost": "",
+   "vibe": "",
+   "sources": [
+    "https://thebamabuzz.com/5-unforgettable-soul-food-restaurants-in-huntsville-including-betty-maes"
+   ],
+   "status": "unknown",
+   "statusNote": "The only source that opened is a Bama Buzz article last updated March 2021. It said orders were to go only and placed by text. Nothing recent confirms it is still open."
+  },
+  {
+   "slug": "mk-wings",
+   "cost": "On delivery apps, split wings cost $7.99 for 4 pieces, $15.79 for 10 pieces and $28.79 for 20 pieces. Sandwich and wing combos are about $20 on delivery apps.",
+   "vibe": "",
+   "sources": [
+    "https://www.ubereats.com/store/mk-wings/RqCCDNIEVHGdIAt7-Vwmyw",
+    "https://hvilleblast.com/your-ultimate-guide-to-the-best-wings-in-huntsville-7-spots-to-know"
+   ],
+   "status": "open",
+   "statusNote": "Uber Eats listing for 502 Jordan Ln NW is active for pickup and delivery. No official website or in-store menu found, so prices are delivery app prices."
+  },
+  {
+   "slug": "nicas-grill",
+   "cost": "",
+   "vibe": "Nica's is a food truck. A Hville Blast food truck guide, last updated April 2025, lists it at The Orion Amphitheater and names loaded fries and quesadillas on the menu.",
+   "sources": [
+    "https://hvilleblast.com/rolling-bites-our-food-truck-recommendations-in-huntsville"
+   ],
+   "status": "unknown",
+   "statusNote": "No source newer than April 2025 was found. The website named in that guide (nicasgrillcafe.com) now redirects to an unrelated site. No current schedule or menu was found. Check the truck's Facebook page."
+  },
+  {
+   "slug": "oh-crepe",
+   "cost": "",
+   "vibe": "Oh Crepe is a vendor at Stovehouse, Suite 520, 3414 Governors Drive. The Stovehouse directory says it sells sweet and savory crepes in a paper cone. Stovehouse says it has seating for hundreds around the campus and parking lots on the east, north and west sides.",
+   "sources": [
+    "https://www.stovehouse.com/directory",
+    "https://www.stovehouse.com/tenant/oh-crepe/",
+    "https://www.stovehouse.com/faq/",
+    "https://hvilleblast.com/3-spots-for-a-mouthwatering-crepe-in-huntsville"
+   ],
+   "status": "open",
+   "statusNote": "Listed in the current Stovehouse directory. No dated 2026 source was found, and its own site (ohcrepeal.com) did not load. No price source was found."
+  },
+  {
+   "slug": "parlor-doughnuts",
+   "cost": "On delivery apps, a layered doughnut costs $4.95 and an assorted dozen costs $44.25. Specialty coffee drinks cost about $7.50 on delivery apps.",
+   "vibe": "The shop is at 2500 Clinton Ave W, Suite B, at Campus No. 805. It sells layered doughnuts and coffee.",
+   "sources": [
+    "https://www.ubereats.com/store/parlor-doughnuts-huntsville/9PnHy9rBXfOGWjJBzslbEg",
+    "https://hvilleblast.com/parlor-doughnuts-opens-august-20-heres-how-to-try-it",
+    "https://www.parlordoughnuts.com/locations"
+   ],
+   "status": "open",
+   "statusNote": "Based on a live Uber Eats listing with current hours. The official ordering page did not load, so the prices are delivery app prices, not in-store prices."
+  },
+  {
+   "slug": "pf-changs",
+   "cost": "On delivery apps, lettuce wraps cost $17.19, fried rice costs $17.19, Chang's Spicy Chicken costs $22.49 and Mongolian Beef costs $29.59. The official location page lists happy hour at $6 for beer and wine, $9 for cocktails and $12 for appetizers, Tuesday to Friday from 3 to 6 PM.",
+   "vibe": "The restaurant is at Bridge Street Town Centre, 305 The Bridge St, Suite 101. The official page lists dine-in, reservations, patio dining, takeout, delivery and catering. It says self-parking is near the restaurant.",
+   "sources": [
+    "https://locations.pfchangs.com/us/al/huntsville/305-the-bridge-st-suite-101/9804-huntsville.html",
+    "https://www.ubereats.com/store/pf-changs-huntsville/DO1fDnQhTH-06AHmn43Mtg",
+    "https://www.pfchangs.com/menu"
+   ],
+   "status": "open",
+   "statusNote": "The official ordering page did not load, so the dish prices are delivery app prices."
+  },
+  {
+   "slug": "pita-street-food",
+   "cost": "On delivery apps, a gyro or pita wrap meal costs about $16.50 to $17.50. Platters cost about $20 to $21.50 and a fountain drink costs $3 on delivery apps.",
+   "vibe": "The restaurant is at 300 Hughes Rd, Suite I, in Madison. It is part of the PITA Mediterranean Street Food chain. A halal directory lists it as fast casual with to-go orders, delivery and parking.",
+   "sources": [
+    "https://www.pitastreetfood.com/locations",
+    "https://pitastreetfood.com/menu/",
+    "https://www.ubereats.com/store/pita-mediterranean-street-food-madison/un3ol65bTB28fXzkAVUBhw",
+    "https://www.zabihah.com/restaurants/cbe7e2f2-7767-11ef-95ae-6045bdeb9f57/pita-mediterranean-madison-al"
+   ],
+   "status": "open",
+   "statusNote": "Listed on the chain's official locations page. The official menu page shows no prices and the official ordering page did not load the Madison menu, so prices are delivery app prices."
+  },
+  {
+   "slug": "rds-smokehouse",
+   "cost": "On delivery apps, a pork sandwich costs $6.35 and a pulled pork plate costs $11.54. A rib plate costs $14.09 and a catfish plate costs $17.90 on delivery apps.",
+   "vibe": "The restaurant is at 1811 Nick Davis Rd in Harvest. A MapQuest listing shows takeout, delivery, catering and parking, and its reviews say you order at the counter.",
+   "sources": [
+    "https://www.ubereats.com/store/rds-smokehouse-barbecue/HZDhdvP8X_i-v64Zavf9UA",
+    "https://startpage.mapquest.com/us/alabama/rds-smokehouse-barbecue-371277150",
+    "https://hvilleblast.com/15-of-the-most-delicious-barbecue-spots-in-huntsville"
+   ],
+   "status": "open",
+   "statusNote": "Based on a live Uber Eats listing and a MapQuest listing with hours. Its own site (4rdsbbq.com) has an expired certificate and did not load, so prices are delivery app prices."
+  },
+  {
+   "slug": "roosters-athens",
+   "cost": "",
+   "vibe": "",
+   "sources": [
+    "https://city-data.com/local/Restaurants/Athens-AL-3.html",
+    "https://roosterswings.com"
+   ],
+   "status": "unknown",
+   "statusNote": "Only an undated directory listing was found. It gives the address as 125 US Highway 31 N, not S, with phone (256) 230-9001. The website it names (roosterswings.com) is an Ohio, Kentucky and West Virginia chain that shows no Athens, Alabama location. No menu, price or current status source was found."
+  },
+  {
+   "slug": "ruby-slipper-nashville",
+   "cost": "",
+   "vibe": "The restaurant is at 1800 21st Avenue South in Hillsboro Village. Nashville Guru describes a 5,300 square foot space with indoor seating, an exterior patio and a bar. It reports free two-hour parking behind the restaurant and on select side streets.",
+   "sources": [
+    "https://nashvilleguru.com/107962/ruby-sunshine-nashville",
+    "https://rubybrunch.com/menu/",
+    "https://rubybrunch.com/locations/"
+   ],
+   "status": "open",
+   "statusNote": "Sources list this address as Ruby Sunshine, the sister brand of Ruby Slipper from the same company. The company site lists Nashville as a current region, but its location list did not load, so the exact name, hours and prices are not confirmed. The official menu page shows items with no prices."
+  },
+  {
+   "slug": "sacs-kitchen",
+   "cost": "Entrees with bread and two sides cost about $15 to $21 on the restaurant's own menu, and daily specials are $18. Sandwiches are about $10 to $16, sides and dessert slices are $7, and drinks are $3.",
+   "vibe": "The restaurant is at 6008 Mastin Lake Road, Suite B. It takes online orders through its own Toast ordering page. EatOkra lists hours of Tuesday to Saturday, 11am to 7pm, closed Sunday and Monday.",
+   "sources": [
+    "https://sacskitchen.com",
+    "https://sacskitchen.com/menu",
+    "https://www.eatokra.com/businesses/sac-s-kitchen",
+    "https://places.singleplatform.com/sacs-kitchen/menu"
+   ],
+   "status": "open",
+   "statusNote": "The official site and menu are live. Seating and parking were not confirmed by any source opened. A third-party menu listing shows lower, older prices."
+  },
+  {
+   "slug": "sam-and-gregs",
+   "cost": "On the restaurant's own menu, cheese pizzas cost $6.45 for a personal size up to $15.95 for a 16 inch, and specialty pizzas cost $9.25 to $25.45. Sandwiches are about $8 to $9, and gelato is $2.75 for a kids size up to $5.50 for a large.",
+   "vibe": "The restaurant's site lists dine in, carry out, delivery and online pick-up ordering. It lists outdoor patios that allow dogs. Listed hours are Monday to Thursday 11am to 9pm, Friday and Saturday 11am to 10pm, and Sunday 11am to 8pm.",
+   "sources": [
+    "https://www.samandgregs.com",
+    "https://www.samandgregs.com/menu",
+    "https://www.samandgregs.com/directions",
+    "https://www.huntsville.org/listing/sam-%2526-gregs-pizzeria-gelateria/4179/"
+   ],
+   "status": "open",
+   "statusNote": "The site covers both the Huntsville and Madison locations and does not say which details apply to which. Downtown parking was not confirmed."
+  },
+  {
+   "slug": "seoul-good",
+   "cost": "The menu on the restaurant's own site, dated June 2024, lists wings at $9.95 for 6 pieces, $16.50 for 10 and $25.95 for 16, with sides included. Tenders are $6.95 for 3 pieces or $10.95 for 5, a half chicken is $12.95, sides are $1.50 to $4.50, and bingsu is $6.50.",
+   "vibe": "It is a Korean fried chicken spot at Stovehouse, 3414 Governors Drive SW, Suite 510. Online orders go through the restaurant's Toast page. A Wanderlog listing says indoor seating is limited and outdoor seating is available.",
+   "sources": [
+    "http://seoulgoodchicken.com/",
+    "https://img1.wsimg.com/blobby/go/11af882f-50d5-46fb-ab0d-077d01af4f63/SeoulGoodMenu06052024.pdf",
+    "https://stovehouse.com/tenant/seoul-good-chicken/",
+    "https://www.stovehouse.com",
+    "https://wanderlog.com/place/details/11511413/seoul-good-korean-fried-chicken"
+   ],
+   "status": "open",
+   "statusNote": "The Stovehouse directory still lists it and its own site is live. The only menu with prices is dated June 2024, so prices may have changed. The Toast ordering page blocked access, so I could not check current prices. Parking was not confirmed."
+  },
+  {
+   "slug": "superhero-chefs",
+   "cost": "",
+   "vibe": "The restaurant is at 930 Old Monrovia Road NW, Suite 3, next to Stars and Strikes. Its site offers online reservations and recommends booking ahead, and it also offers online ordering and private party space. It is closed on Monday.",
+   "sources": [
+    "https://www.superherochefshsv.com/",
+    "https://superherochefshsv.com/huntsville-suite-3-superhero-chefs-food-menu",
+    "https://wanderlog.com/place/details/3990211/superhero-chefs",
+    "https://www.huntsville.org/blog/list/post/geeky-eats-of-huntsville/"
+   ],
+   "status": "open",
+   "statusNote": "The official menu page shows items with no prices, and the Toast ordering page blocked access. The site shows two different hour schedules (8am or 9am opening, 3pm or 4pm closing). Seating and parking were not confirmed."
+  },
+  {
+   "slug": "tamarind-island",
+   "cost": "",
+   "vibe": "It is at The Camp, an outdoor venue at the entrance of MidCity, 5909 University Drive. A Spinach listing describes it as mainly takeout in a food truck style with outdoor seating at The Camp. That listing shows hours of Tuesday to Thursday 11am to 7pm, Friday 11am to 4pm and Sunday 11am to 5pm.",
+   "sources": [
+    "https://spinach.guide/venues/tamarind-island-grille-153557/",
+    "https://www.tvliving.com/2023/05/24/experience-taste-islands-with-tamarind-grille",
+    "https://www.huntsville.org/rocket-city/districts-neighborhoods/midcity-district/"
+   ],
+   "status": "open",
+   "statusNote": "Open status rests on one third-party listing refreshed 10 Nov 2026. No official site or menu with prices was found. Other listings show different hours. Parking was not confirmed."
+  },
+  {
+   "slug": "taqueria-catedral",
+   "cost": "",
+   "vibe": "",
+   "sources": [
+    "https://hvilleblast.com/tacos-in-huntsville-53-spots-for-tacos-right-now/"
+   ],
+   "status": "unknown",
+   "statusNote": "No web source found for a truck with this name in Harvest or at a Highway 53 Chevron. Searches only returned other businesses (Catrinas, Taqueria La Union 2). It may only have a social media page."
+  },
+  {
+   "slug": "taqueria-los-3-reales",
+   "cost": "",
+   "vibe": "This is a food truck off Memorial Parkway in South Huntsville, near the Southpark Boulevard intersection. A local taco guide lists its hours as Monday to Saturday, 10:30 AM to 8 PM.",
+   "sources": [
+    "https://hvilleblast.com/tacos-in-huntsville-53-spots-for-tacos-right-now"
+   ],
+   "status": "open",
+   "statusNote": "Listed as operating in a local taco guide last updated March 4, 2026. No official page or later source found. No price source found."
+  },
+  {
+   "slug": "taqueria-luna",
+   "cost": "",
+   "vibe": "Taqueria Luna is at 30098 Andrea Lane in Madison. Its online ordering page offers pickup, curbside pickup and delivery. The ordering page lists hours of Tuesday to Thursday 11 AM to 7 PM and Friday to Saturday 11 AM to 8 PM, closed Sunday and Monday.",
+   "sources": [
+    "https://food.orders.co/taquerialuna",
+    "https://startpage.mapquest.com/us/alabama/taqueria-luna-543016624"
+   ],
+   "status": "open",
+   "statusNote": "The ordering page is live with current hours, but it shows no date. The ordering page showed no menu prices when fetched. Seating and parking not confirmed."
+  },
+  {
+   "slug": "the-moon-bakeshop",
+   "cost": "",
+   "vibe": "The Moon Bakeshop is at 201 Jefferson Street North, Suite B, in downtown Huntsville. You can pre-order online through its Square store. It has indoor seating and an outdoor seating area, per a 2022 local article. Hours on its website are Tuesday to Friday 7:30 AM to 4 PM and Saturday 8 AM to 3 PM.",
+   "sources": [
+    "https://www.themoonbakeshop.com",
+    "https://www.themoonbakeshop.com/menu",
+    "https://moon-bakeshop-online-store.square.site",
+    "https://hvilleblast.com/cruffins-community-get-to-know-the-moon-bakeshop",
+    "https://downtownhuntsville.squarespace.com/news-moon-bakeshop-feature"
+   ],
+   "status": "open",
+   "statusNote": "Official site is live with hours. The menu is a PDF and the Square store did not load, so no prices were read. The website says pastries change daily."
+  },
+  {
+   "slug": "the-veggie",
+   "cost": "Handhelds with fries cost $15.95 to $16.95 on the restaurant's menu page. Baskets and bowls cost $13.95 to $18.95, and kids items cost $3.95 to $5.95.",
+   "vibe": "The Veggie is in Suite A5 at 7504 US-72 West in Madison. It is a sit-down vegan restaurant, and it also takes online orders through Toast. Hours on its website are Wednesday to Friday 11 AM to 7 PM, Saturday 9 AM to 5 PM and Sunday 11 AM to 4 PM, closed Monday and Tuesday.",
+   "sources": [
+    "https://www.eattheveggie.com/menu",
+    "https://www.eattheveggie.com/",
+    "https://www.huntsville.org/blog/list/post/huntsvilles-must-try-vegan-vegetarian-eats/",
+    "https://hvilleblast.com/vegans-vegetarians-here-are-7-delicious-plant-based-menus-in-huntsville",
+    "https://vegman.org/united-states/madison/vegan/the-veggie"
+   ],
+   "status": "open",
+   "statusNote": "Official site lists upcoming holiday closures on 11/26, 11/27 and 12/25 to 01/02. The menu page shows two prices per item in the page text, so check one item before publishing. Parking not confirmed."
+  },
+  {
+   "slug": "tulum-cantina",
+   "cost": "",
+   "vibe": "Tulum Cantina + Grill is at 671 Martin Road SW in Huntsville, in the former Big Shakes Hot Chicken + Fish space. A 2023 local article says the menu has lunch specials, a kids menu and a vegetarian menu.",
+   "sources": [
+    "https://hvilleblast.com/tulum-cantina-grill-is-now-open-in-huntsville",
+    "https://www.mapquest.com/us/alabama/tulum-cantina-grill-528604485"
+   ],
+   "status": "unknown",
+   "statusNote": "No source from 2026 confirms it is open. The only article opened is from March 2023, and the MapQuest listing page came back empty. The restaurant has only a Facebook page, which was not opened. No price source found."
+  },
+  {
+   "slug": "willie-bs-nashville",
+   "cost": "",
+   "vibe": "Willie B's is at 918 Buchanan Street in North Nashville, in a former post office building. A 2021 Nashville Scene article describes a long bar, large booths, a deck and free parking by the door.",
+   "sources": [
+    "https://www.nashvillescene.com/food_drink/bites/first-bite-willie-b-s-is-a-welcome-addition-to-the-buc/article_6fa71af6-0c86-5867-ac5d-55d374dc2cf7.html",
+    "https://nashvilleguru.com/businesses/willie-bs-kitchen-lounge",
+    "https://wanderlog.com/place/details/1428414/willie-bs-kitchen--lounge",
+    "https://overlookmaps.com/places/willie-bs-kitchen-and-lounge-nashville-6319653126555495",
+    "https://www.novacircle.com/spots/north-america/united-states/tennessee/nashville/nashville-tn/gems-kitchen-lounge-bafee5",
+    "https://nashville.citycast.fm/neighborhood-guides/buchanan-street-nashville"
+   ],
+   "status": "unknown",
+   "statusNote": "The official site thewilliebs.com did not load on three tries. The newest dated evidence is a February 2023 review. Two directory listings show the name Gems Kitchen & Lounge at the same address, which may mean a rename, but no reliable source confirms it. The vibe facts are from 2021 and may be out of date."
+  }
+ ]
+}

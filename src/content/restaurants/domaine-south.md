@@ -18,6 +18,7 @@ seoTitle: "Domaine South: Downtown Huntsville Dinner"
 seoDescription: "Date night downtown: salmon with risotto, steak with standout duck fat fries, and cocktails. Reservations suggested. What to order at Domaine South."
 price: 2
 phone: "(256) 759-9952"
+goodToKnow: "Domaine South is on the downtown square and overlooks Big Spring Park. Reservations are recommended, and you can book online or by phone. There is a wine bar inside, and you can order lunch online."
 ---
 
 Domaine South is such a nice spot for date night or dinner with friends. We had no complaints.

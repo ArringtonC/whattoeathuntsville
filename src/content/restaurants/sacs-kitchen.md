@@ -19,6 +19,8 @@ seoTitle: "Sac's Kitchen: Soul Food in Huntsville"
 seoDescription: "Soul food on Mastin Lake Rd: hot wings and fries, fried catfish with mac and cheese, green beans and cornbread, plus a buffet. Our take on Sac's Kitchen."
 price: 1
 phone: "(256) 746-9030"
+menuPrices: "On the restaurant's own menu, entrees with bread and two sides cost $15 to $21, and daily specials are $18. Sandwiches cost about $10 to $16. Sides and dessert slices are $7, and drinks are $3."
+goodToKnow: "You can order online or call in your order. Call-in orders must be paid by card. It is closed on Sunday and Monday."
 ---
 
 Ain't nothing like some soul food. We tried Sac's Kitchen this weekend.

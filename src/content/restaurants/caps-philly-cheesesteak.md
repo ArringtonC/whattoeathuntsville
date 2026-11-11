@@ -18,6 +18,7 @@ address: "11451 S Memorial Pkwy, Huntsville, AL 35803"
 seoTitle: "Cap's Philly Cheesesteak in Huntsville"
 seoDescription: "A real taste of Philly inside the Nails gas station on South Memorial Pkwy. They make their own cheese whiz, and we get our cheesesteak with provolone."
 phone: "(256) 797-0892"
+goodToKnow: "Cap's is inside Nail's Convenience store on South Memorial Parkway. There is no seating, so plan to take your food to go. You can order ahead online. It is closed on Saturday and Sunday."
 ---
 
 Cap's Philly Cheesesteak is a real taste of Philly, inside the Nails gas station. They make their own cheese whiz, and they're actually from Philly.

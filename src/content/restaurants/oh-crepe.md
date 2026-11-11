@@ -18,6 +18,7 @@ seoTitle: "Oh Crepe!: Savory Crepes at Stovehouse"
 seoDescription: "Crepes inside Stovehouse in Huntsville. We tried the BLT crepe, a savory crepe with bacon. Dessert crepes, gluten-free options and shaved ice are here too."
 price: 2
 phone: "(256) 678-7032"
+goodToKnow: "Oh Crepe! is a vendor inside Stovehouse, the food hall on Governors Drive. It sells sweet and savory Japanese-style crepes served in a paper cone. Stovehouse has shared seating in covered outdoor areas and indoor areas, and parking lots on its east, north and west sides."
 ---
 
 Oh Crepe! is inside Stovehouse. We tried the BLT crepe, a savory crepe with bacon.

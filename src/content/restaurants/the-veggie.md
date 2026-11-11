@@ -19,6 +19,8 @@ seoDescription: "A Black-owned vegan spot in Madison on US-72 with salads, vegan
 price: 2
 phone: "(256) 893-4709"
 disclosure: "hosted"
+menuPrices: "On the restaurant's own menu, handhelds with fries cost $15.95 to $16.95. Baskets and bowls cost $13.95 to $18.95, and kids items cost $3.95 to $5.95."
+goodToKnow: "The Veggie is a sit-down vegan restaurant on US-72 West in Madison. You can also order online. It is closed on Monday and Tuesday."
 ---
 
 The Veggie is a vegan spot in Madison. We don't have a full write-up for this one yet.
